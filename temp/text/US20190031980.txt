@@ -1,0 +1,672 @@
+US 2019/0031980 A1
+
+CLEANING COMPOSITION
+
+[0001] The present invention relates to a liquid cleaning
+composition having a wide spectrum of activity against
+harmful organisms and microorganisms, including viruses.
+More particularly but not exclusively, it relates to such a
+composition for cleansing hard surfaces, including wares,
+medical implements, medical devices and surgical and den-
+tal instruments, and for cleansing soﬁ surfaces, such as
+furnishing, carpeting and textiles,
+
+[0002] There is increasing concern about the incidence of
+serious infections that are picked up in hospitals and other
+medical environments, both by patients and by stafE It is
+believed that a signiﬁcant vector for such infections is
+imperfectly disinfected surfaces harbouring bacteria and/or
+viruses that are or have become resistant to existing surface
+cleaning agents and conventional topical disinfectants
+
+[0003] Bacteria such as MRSA (methicillin-resistant
+Staphylococcus aureus) and C. diff (Clostridium diﬁcile)
+have become notorious for surviving routine cleaning
+regimes and lingering to infect further victims. In 2006,
+almost 6500 deaths in the UK were reported as being due to
+C. diff infection, an increase of around 69% on 2005. Since
+such bacteria and their spores are resistant to most antibi-
+otics once they have entered the body, it is important that
+bacterial/sporal contamination of an area (or of a medical
+device, implement, etc) from an infected patient be eradi-
+cated before cross-infection can occur.
+
+[0004] Mycobacteria, such as the bacterium causing tuber-
+culosis, are also becoming a serious concem once more,
+Tuberculosis infection rates in the UK rose by about 11% in
+2007, Again, resistant strains are suspected
+
+[0005] Viral infections, such as inﬂuenza (most notori-
+ously “bird ﬂu”, avian inﬂuenza virus strain HSNl) and
+SARS (severe acute respiratory syndrome) are also believed
+to be at least in part linked to residual viral contamination of
+surfaces which have been incompletely cleaned and disin-
+fected.
+
+[0006] A further issue that frequently needs to be
+addressed is the removal from surfaces of mould, yeast or
+fungal contamination and other microﬂora/microfaunai
+
+[0007] Additionally, while some progress has been made
+towards dealing with contamination by active bacteria,
+fungi, and the like, active spore cells are usually signiﬁ-
+cantly tougher and more resistant to existing cleansing and
+disinfection methods and media, It would be particularly
+beneﬁcial if a composition suitable for removal of bacteria,
+viruses and/or fungal contamination could also be made
+effective against spores, since spores may well be respon-
+sible for long-term re-infection, even aﬁer other microor-
+ganisms, including vegetative bacterial forms, have been
+scoured away.
+
+[0008] While it is possible for media for cleansing hard
+surfaces, medical devices, surgical instruments and the like
+to be more aggressive than those used on a patient’s person,
+one must still ensure that the cleansing medium does not
+damage the surface, device, etc, being cleaned. This has in
+the past prevented the use of compositions that might
+otherwise have been hygienically effective. Aerospace mate-
+rials, such as aluminium alloys, require particular care to
+avoid corrosion. Media for cleaning and disinfecting soft
+surfaces (erg. upholstery, carpeting, bedding and clothing)
+must also avoid damaging the material being cleaned;
+bleaching of textiles or carpets can be an issue, for example.
+
+Jan. 3], 2019
+
+[0009] One further issue that must nowadays be consid-
+ered is the long-tenn effect of cleaning compositions on the
+environment. Commonly used sequestering agents such as
+EDTA (ethylene diamine tetra-acetic acid) and NTA (nitrilo-
+triacetic acid) are effective against dissolved calcium ions
+and other such species that might inhibit cleansing effects.
+However, they tend to pass unhindered through conventional
+sewage treatment and are not readily biodegradable. Resi-
+dues from wash waters may contaminate watercourses or the
+like, and there is concern about their long-tenn environmen-
+tal effects. It would therefore be beneﬁcial if a cleaning
+composition were highly effective in the short term, but
+subsequently broke down readily in the environment,
+[0010] It is hence an object of the present invention to
+provide a cleaning composition for hard surfaces, medical
+devices and instruments, surgical implements or the like
+which has bactericidal, virucidal, fungicidal and sporicidal
+properties, while obviating the above disadvantages of exist-
+ing compositions. It is ﬁrrther an object of the present
+invention to provide such a composition that may be used on
+soft surfaces, such as textiles, carpeting or the like.
+
+[0011] According to a ﬁrst aspect of the present invention,
+there is provided an aqueous surface cleaning and disinfect-
+ing composition comprising a long-chain alkyl polyamine
+compound, a long-chain quaternary ammonium salt, and a
+metal carbonate salt, wherein the composition has a pH in
+use of at least 11.
+
+[0012] Preferably, said long-chain alkyl polyamine com-
+pound comprises a long-chain alkyl triamine compound.
+[0013] Advantageously, said long-chain alkyl polyamine
+compound comprises a compound having the general for-
+mula R17N((CHZ)mNHZ)(CHZLNHZ, where R1 is a linear
+or branched alkyl chain comprising at least eight carbon
+atoms, and each of m and n equals 2, 3 or 4,
+
+[0014] The long-chain alkyl polyamine compound may
+have the general formula R17N((CH2),,,NHZ)Z, i.e, m
+equals 11,
+
+[0015] Optionally, each of m and n equals three.
+
+[0016] The R1 moiety may comprise a linear or branched
+alkyl chain having between ten and sixteen carbon atoms,
+optionally twelve.
+
+[0017] Prefera 31y, said long-chain quaternary ammonium
+salt comprises a quaternary ammonium compound having
+two long alkyl c ains each comprising at least eight carbon
+atoms.
+[0018] Advantageously, said long-chain quaternary
+ammonium salt comprises a compound having the general
+formula R2R3R415N+X‘, where each of R2 and R3 is a linear
+or branched alkyl chain comprising at least eight carbon
+atoms, and each of R4 and R5 is either a methyl or an ethyl
+group.
+[0019] R2 and R3 may be identical alkyl chains.
+
+[0020] Each 0 R2 and R3 may comprise between ten and
+sixteen carbon atoms, optionally twelve.
+
+[0021] RA and RS may be identical alkyl groups, optionally
+methyl groups
+[0022] Prefera 31y, the composition comprises an alkali
+metal carbonate,
+[0023] Advantageously, the composition comprises potas-
+sium carbonate and/or sodium carbonate.
+
+[0024] Prefera 31y, the composition further comprises a
+sequestering agent,
+
+[0025] Advantageously, said sequestering agent comprises
+an N-carboxylato-substituted amino acid salt.
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0031980 A1
+
+TANGESTANI-NEJAD et al.
+
+ 
+
+US 20190031980Al
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+
+(71)
+(72)
+
+(73)
+
+(21)
+(22)
+
+(63)
+
+(30)
+
+Mar. 13, 2008
+
+CLEANING COD/[POSITION
+
+Applicant: AMITY LIMITED, Barnsley (GB)
+
+Inventors: Mokhles TANGESTANI-NEJAD,
+Barnsley (GB); Ram SINGH, Bamsley
+(GB)
+
+Assignee: AMITY LIMITED, Barnsley (GB)
+
+Appl. No.: 16/151,787
+
+Filed: Oct. 4, 2018
+
+Related U.S. Application Data
+
+Continuation of application No. 14/ 159,806, ﬁled on
+Jan, 21, 2014, now abandoned, which is a continu-
+ation of application No, 12/922,205, ﬁled on Oct, 26,
+2010, now abandoned, ﬁled as application No, PCT/
+GB2009/000682 on Mar: 13, 2009,
+
+Foreign Application Priority Data
+(GB) ................................... 08046641
+
+Publication Classiﬁcation
+
+(51) Int. Cl.
+
+CIID 3/48 (2006.01)
+(52) U.S.Cl.
+
+CPC . c111) 3/43 (2013.01); CIID 1/72 (201301)
+(57) ABSTRACT
+
+A cleaning and disinfecting composition comprises a long-
+chain alkyl polyamine, such as dodecyl dipropylene tri-
+amine; a long-chain quaternary ammonium salt, such as
+N,N-didecy1-N,N-dimethylammonium chloride; and a metal
+carbonate salt, such as potassium carbonate, all in aqueous
+solution. A sequestering agent, a long»chain alkyl poly-
+ethoxylate, an alkanolamine and an anti-corrosive agent may
+also be present. The composition has a pH of at least 11
+when diluted to an in-use concentration, and may be used to
+clean and disinfect hard surfaces, such as medical, dental
+and surgical implements. walls, ﬂoors, sinks and hard fur-
+nishing surfaces, or soft surfaces such as bedding, uphol-
+stery or clothing. The composition is effective as a virucide,
+a sporicide, a bacteriocide, a fungicide, and against yeasts
+and moulds, without harming the substrate cleansed.
+US 2019/0031980 A1
+
+[0026] The sequestering agent may comprise a bis-N-
+carboxylato-substituted amino acid salt.
+
+[0027] Said amino acid may comprise a dicarboxylic acid,
+[0028] Said amino acid may comprise glutamic acid.
+[0029] Preferably, the composition also comprises a long-
+chain alkyl polyethoxylate compound.
+
+[0030] Advantageously, the composition comprises a
+long-chain alkyl polyglycol ethen
+
+[0031] Said long-chain alkyl polyethoxylate compound
+may comprise a linear or branched alkyl chain having
+between ten and twenty carbon atoms.
+
+[0032] Said long-chain alkyl polyethoxylate compound
+may comprise a linear or branched alkyl chain having
+sixteen to eighteen carbon atoms:
+
+[0033] Preferably, the composition
+alkanolamine.
+
+[0034] Advantageously, said alkanolamine comprises an
+ethanolamine, optionally monoethanolamine.
+
+[0035] Preferably, the composition comprises an anti-
+corrosive agent.
+
+[0036] Advantageously, said anti-corrosive agent com-
+prises benzotriazole.
+
+[0037] Preferably, the ratio of the long-chain alkyl
+polyamine compound to the long-chain quaternary ammo-
+nium salt is between 2:1 and 1:2 parts by weight:
+
+[0038] Advantageously, the ratio of said polyamine to said
+quaternary salt is at least 1:1 by weight.
+
+[0039] The ratio of said polyamine to said quaternary salt
+may be 1.521 by weight or less.
+
+[0040] Preferably, the ratio of the long-chain alkyl
+polyamine compound to the metal carbonate salt is between
+4:1 and 1.5:] parts by weight:
+
+[0041] Advantageously, the ratio of said polyamine to said
+carbonate salt is at least 2:1 by weight.
+
+[0042] The ratio of said polyamine to said carbonate salt
+may be 3:1 by weight or less.
+
+[0043] Preferably, the ratio of the long-chain quaternary
+ammonium salt to the metal carbonate salt is between 3:1
+and 1:1 parts by weight,
+
+[0044] Advantageously, the ratio of said quaternary salt to
+said carbonate salt is at least 1.5:1 by weight.
+
+[0045] The ratio of said quaternary salt to said carbonate
+salt may be 2:1 by weight or less.
+
+[0046] The composition may comprise a laundry treat-
+ment composition, for example adapted to be administered
+to textile materials during a rinse cycle.
+
+[0047] The composition may then also comprise an optical
+brightener.
+
+[0048] The composition may then comprise a fabric con-
+ditioner composition:
+
+[0049] According to a second aspect of the present inven-
+tion, there is provided a method of cleaning and disinfecting
+a substrate, comprising the steps of providing a cleaning
+composition as described in the ﬁrst aspect above and
+applying it to the substrate:
+
+[0050] Preferably, said substrate comprises a hard surface,
+[0051] Advantageously, said substrate comprises a hard
+furnishing surface, such as a bedstead, a cabinet, a basin, a
+toilet, an operating table or the like.
+
+[0052] Said substrate may comprise a ceiling, wall or ﬂoor
+surface.
+
+[0053] Alternatively, said substrate comprises a medical
+device, a medical instrument, a surgical implement, a dental
+tool or the like.
+
+comprises an
+
+Jan. 31, 2019
+
+[0054] Said substrate may comprise a soft material.
+[0055] Said soft material may comprise a furnishing mate-
+rial, such as curtaining, carpeting, bedding, upholstery or the
+like.
+
+[0056] Said soft material may comprise clothing.
+
+[0057] The method may comprise a laundering method, in
+which case the composition may be applied in a rinsing/
+conditioning step.
+
+[0058] An embodiment of the present invention will now
+be more particularly described by way of example.
+
+[0059] A ﬁrst cleansing composition concentrate was
+made up, containing the following components per 100
+kilograms (% w/w):
+
+Water 54.075 kg
+Dodecyl dipropylene triamine 12.0 kg
+Tetrasodium N,Nrbis(carboxylatomediyl)rLrglutamate 7.2 kg
+N.Nrdldecyer,Nrdimethylammonium chloride 8.7 kg
+cm/c”3 fatty alcohol polyglycol enter 5.0 kg
+Potassium carbonate 5.0 kg
+Monoethanolamine 8.0 kg
+Benzotiiazole 0.025 kg
+
+[0060] The composition appeared as a clear colourless
+liquid with a pH of 12.6.
+
+[0061] Dodecyl dipropylene triamine is a biocidally active
+material. Tetrasodium N,N—bis(carboxylatomethyl)—L-gluta-
+mate is a sequestering agent used to soften water by com-
+plexing calcium ions. It is believed to be readily biodegrad-
+able, possibly due to its glutamate skeleton, unlike
+conventional sequestering agents such as EDTA (ethylene
+diamine tetra-acetic acid). N,N-didecyl-N,N-dimethylam-
+monium chloride is a quaternary ammonium salt (or “quat”)
+with detergent and disinfectant properties. Fatty acid
+polyglycol ethers are used as wetting agents and dispersants.
+Monoethanolamine is used as a buffering agent and also has
+wetting properties. Benzotriazole is a preservative which
+also has some anti-corrosive properties:
+
+[0062] The above concentrate is used diluted with water to
+10% of the above concentrations, at which point it has a pH
+of around 11.7, or even diluted a hundredfold to 1% w/w, at
+which point it has a pH of around 11.2.
+
+[0063] At these working concentrations, the above com-
+position is found not to be hazardous to human health. Tests
+have also shown that the composition is biodegradable in the
+short to medium term. Conventional compositions (which
+usually contain sequestering agents such as EDTA or NTA)
+may require speciﬁc labelling, as well as speciﬁc precau-
+tions to avoid them being washed into watercourses or the
+like: However, the above composition is found not to be
+persistent in the environment and it is believed that no such
+labelling will be required. (Good housekeeping principles
+would still discourage discharge into watercourses, but any
+unplanned releases would be unlikely to cause signiﬁcant
+problems).
+
+[0064] Testing on cleansing hard surfaces (including
+medical and surgical devices and instruments) and soft
+surfaces (including textiles and soft furnishing materials)
+contaminated with bacteria, viruses, fungi and even spores
+has shown a wide spectrum of eﬂicacy.
+
+[0065] Testing has been carried out against each of the
+following EN (European Norm) standardised tests for clean-
+ing and disinfection:
+US 2019/0031980 A1
+
+EN1275 (applicable for fungi and yeasts);
+EN1650 (applicable for fungi and yeasts);
+EN1276 (applicable for bacteria, tungi, yeast and spores);
+EN13727 (applicable for bacteria in the presence of blood);
+EN13697 (applicable for bacteria and ﬁingi - this test is carried out
+on actual samples of surfaces to be cleaned, rather
+than in the test-tube);
+EN14347 (applicable for spores - this is a particularly severe test
+as the spores are aged for four weeks before
+application of the test disinfecting medium, and are
+hence much tougher than those encountered in real
+life conditions);
+EN14348 (applicable for TB, a mycobactenum);
+EN14476 (applicable against viruses , test must include polio virus,
+the hardest RNA virus to destroy outside the body, and adeno
+virus, the hardest DNA virus to destroy outside the body); and
+EN13704 (applicable for spores).
+[0066] All these tests were passed with ease. Speciﬁcally:
+EN1275: passed in 1 minute.
+EN1650: passed in 1 minute.
+EN1276: passed in 1 minute.
+EN13727: passed in 1 minute.
+EN13697: bacteria: passed in 5 minutes
+fungi/yeast: passed in 15 minutes.
+EN14347: passed in 1 minute, even with fully aged spores.
+EN14348: passed in 1 minute, test requirement is 60 minutes.
+EN14476: passed with a log 5 (100,000 fold) reduction in 5 minutes;
+
+test requirement is a log 4 (10,000 fold) reduction in
+60 minutes.
+EN13704: passed in 2 minutes; test requirement is 60 minutes.
+
+[0067] The individual components of the composition
+have been found not to have sporicidal eﬁects, but the
+combination of the long-chain triamine and the quaternary
+ammonium salt, at the pH ranges used, appears to be
+suﬂicient to penetrate the tough outer layer of spores and kill
+them. Existing cleansing media have only had signiﬁcant
+effect once spores have become vegetative bacteria, poten-
+tially leaving unharmed spores as a long-term reservoir of
+contamination
+
+[0068] The composition is also effective against so-called
+“naked” viruses, which are particularly resistant to existing
+disinfecting media. Examples of such viruses are polio,
+adeno, norovirus and canine parvovirus.
+
+[0069] The dodecyl dipropylene triamine biocide used in
+the above composition has no effect on its own when tested
+against the polio virus. In the standard test, the above
+composition passes within ﬁve minutes, against a require-
+ment allowing sixty minutes, indicating high effectiveness
+under realistic conditions of user
+
+[0070] A further beneﬁt of the above composition over
+existing cleansing and disinfecting media is that it is not
+inactivated by organic soiling. Most or all existing media are
+substantially inactivated by the presence of blood, making it
+diﬁicult to clean surgical instruments effectively, for
+example. Both quaternary ammonium salts and alkyl tri-
+amines suffer from this problem, when used on their own.
+Under the standard test EN13727:2003 “Chemical disinfec-
+tants and antiseptics. Qualitative suspension test for the
+evaluation ofbacteriocidal activity of chemical disinfectants
+for instruments used in the medical area”, the above com-
+position is still fully effective in the presence of blood,
+achieving a pass score in only one minute.
+
+[0071] Each of the above standard EN tests (except for
+EN14476) has been performed in both “clean” and “dirty”
+
+Jan. 31, 2019
+
+conditions. “Dirty” conditions are simulated by the addition
+of a 10% albumen loading. Nevertheless, the above com-
+position passed the tests easily, even in “dirty” conditions.
+
+[0072] It is important that a widely-usable cleanser and
+disinfectant should not attack the surfaces to which it is
+applied, including surfaces of medical devices and instru-
+ments, such as endoscopes and ﬂexible endoscopes, surgical
+instruments and dental instruments This has previously
+limited the use of cleansing media having particularly high
+(or low) pH values. However, when the above composition
+is tested under ASTM G 31-7222004 “Standard Practice for
+Laboratory Immersion Corrosion Testing of Metals”, it is
+found to be effectively non-corrosive. Even though a small
+level of benzotriazole anti-corrosive is present, in the com-
+position, and monoethanolamine is known to have some
+anti-corrosive effect, this is a surprisingly signiﬁcant eﬂfect.
+The above composition is hence not considered corrosive to
+metals under current EU directives, even though the con-
+centrate reaches a pH of around 126 and even at 1% w/w
+dilution, it has a pH of 112.
+
+[0073] It is also important that a cleanser/disinfectant for
+use on soﬁ surfaces, such as upholstery, curtains, carpeting,
+bedding, clothing and the like, should not harm the surfaces
+to be cleaned. (For example, bleach can be an elfective
+disinfectant, but will attack many ﬁbres in textiles or car-
+peting, and bleach out dyestuffs). No such problems have
+been experienced with compositions embodying the present
+invention.
+
+[0074] Compositions of the present invention also appear
+to be effective against contamination in laundry applica-
+tions. The standard reconunendation from the UK Depart-
+ment of Health and the World Health Organisation is that
+hospital clothing, bedding and the like should be washed at
+a temperature of 80° C. or greater, to ensure complete
+cleaning and disinfection. These temperatures, effectively a
+“boil wash”, are likely to damage the textiles involved,
+shortening their lifetimes and making them uncomfomible in
+wear. The additional energy costs of washing at over 80“ C.
+are also very signiﬁcant, particularly as modern detergents
+can often clean (but not disinfect) at 30° C. to 40° C.
+
+[0075] However, the above composition has been tested in
+the following wash cycle: wash with detergent convention-
+ally at 30° C.-40° C.; rinse with water; rinse with a diluted
+form of the above composition; rinse again with water. This
+has given the same effectiveness in cleaning and disinfection
+as an 80° C. wash with detergent and water rinse alone.
+There would hence be major savings in both energy costs
+and the lifetime of the textiles being cleaned. Since the
+above composition is effectively biodegradable, the envi-
+ronmental concerns that might attend the use of existing
+cleansing/disinfecting media should not arise.
+
+[0076] It hence appears that the cleansing and disinfecting
+composition of the present invention has unexpectedly broad
+and rapid effectiveness against all pathogens of particular
+current interest, Without the drawbacks and side effects that
+might have been predicted.
+
+1. An aqueous surface cleaning and disinfecting compo-
+sition comprising a long-chain alkyl polyamine compound,
+a long-chain quaternary ammonium salt, and a metal car-
+bonate salt, wherein the composition has a pH in use of at
+least 11 and bactericidal, virucidal, fungicidal and sporicidal
+eﬁicacy.
+US 2019/0031980 A1
+
+2. T ie aqueous surface c eaning anc disinfecting compo-
+sition as claimed in claim 1, wherein said long-chain alkyl
+polyamine compound comprises a long-chain alkyl triamine
+compound.
+
+3. Tie aqueous surface c eaning anc disinfecting compo-
+sition as claimed in claim 2, wherein said long-chain alkyl
+polyamine compound com arises a compound having the
+genera formula R17N((CHz)mNH2)(CH2)nNH2, where R1
+is selected from linear and branched a1 <yl chains comprising
+at least eig 1 carbon atoms, and each 0 m and n is an integer
+between 2 and 4 inclusive.
+
+4. Tie aqueous surface c eaning anc disinfecting compo-
+sition as c aimed in claim 3, wherein the long-chain alkyl
+polyamine compound has the general formula R17N((CHZ)
+NHZ)2, waere m equals n.
+
+5. T 1e aqueous surface c eaning anc disinfecting compo-
+sition as c aimed in claim 4, wherein m equals three,
+
+6. T e ac ueous surface c eaning anc disinfecting compo-
+sition as c aimed in claim 3, wherein long chain R1 moiety
+is selectec from linear and branched alkyl chain having
+between ten and sixteen carbon atoms.
+
+7. T e ac ueous surface c eaning anc disinfecting compo-
+sition as c aimed in claim 1, wherein said long-chain qua-
+ternary ammonium salt comprises a quaternary ammonium
+compound having two long-chain alkyl groups, each com-
+prising at east eight carbon atoms.
+
+8. T e ac ueous surface c eaning anc disinfecting compo-
+sition as c aimed in claim 1, wherein said long»chain qua-
+ternary ammonium salt comprises a compound having the
+genera formula R2R3R4R5N*X’, where each of R2 and R3
+is selected rom linear and branched alkyl chains comprising
+at least eig tcarbon atoms, and each of R4 and R5 is selected
+from a met yl and an ethyl group,
+
+9. T e ac ueous surface cleaning and disinfecting compo-
+sition as claimed in claim 8, wherein R2 and R3 are identical
+alkyl chains.
+
+10, (canceled)
+
+11‘ The aqueous surface cleaning and disinfecting com-
+position as claimed in claim 1, wherein said meml carbonate
+salt comprises potassium carbonate.
+
+12, The aqueous surface cleaning and disinfecting com-
+position as claimed in claim 1, further comprising a seques-
+tering agent.
+
+13,-15. (canceled)
+
+16. The aqueous surface cleaning and disinfecting com-
+position as claimed in claim 1, also comprising a long-chain
+alkyl polyethoxylate compound.
+
+77:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jan. 31, 2019
+
+17,-l9i (canceled)
+
+20. "he acueous surface cleaning and disinfecting com-
+position as c aimed in claim 1, wherein ratio of the long-
+chain a kyl polyamine compound to the long-chain quater-
+nary ammonium salt is between 2:] and 1:2 parts by weight.
+
+21. "he a ueous surface cleaning and disinfecting com-
+position as c aimed in claim 1, wherein ratio of the long-
+chain a kyl polyamine compound to the metal carbonate salt
+is between 4:1 and 1521 parts by weight,
+
+22. "he aqueous surface cleaning and disinfecting com-
+position as c aimed in claim 1, wherein ratio of the long-
+chain quaternary ammonium salt to the metal carbonate salt
+is between 3:1 and 1:1 parts by weight,
+
+23,-32. (canceled)
+
+33. "he acueous surface cleaning and disinfecting com-
+position as c aimed in claim 1, wherein ratio of the long-
+chain a kyl polyamine compound to the long-chain quater-
+nary ammonium salt is between 2:1 and 1:2 parts by weight;
+ratio 0 the ong-chain alkyl polyamine compound to the
+metal carbonate salt is between 4:1 and 1.5:] parts by
+weight; and ratio of the long-chain quaternary ammonium
+salt to the metal carbonate salt is between 3:1 and 1:1 parts
+by weight.
+
+34. "he a ueous surface cleaning and disinfecting com-
+position as c aimed in claim 1, wherein the composition is
+not inactivated by organic soiling, including the presence of
+blood,
+
+35. "he aqueous surface cleaning and disinfecting com-
+position as claimed in claim 1, wherein the composition with
+a pH in use of at least 11 penetrates an outer layer of spores
+and kil s the spores.
+
+36. An aqueous surface cleaning and disinfecting com-
+position comprising a long-chain alkyl polyamine com-
+pound having the general formula R‘7N((CH2)3NHZ)Z,
+long ciain Rl moiety being selected from linear and
+branched alkyl chains having between ten and sixteen car-
+bon atoms; a long-chain quaternary ammonium salt having
+the general formula (R2)2(CH3)2N*X', where R2 is selected
+from linear and branched alkyl chains comprising at least
+eight carbon atoms; and potassium carbonate, wherein the
+composition has a pH in use of at least 11 and has bacteri-
+cidal, Virucidal, fungicidal and sporicidal eﬁicacyi
+
+37. The aqueous surface cleaning and disinfecting com-
+position as claimed in claim 36, wherein the long chain R1
+moiety has twelve carbon atoms and R2 has ten carbon
+atoms

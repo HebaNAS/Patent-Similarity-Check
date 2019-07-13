@@ -1,0 +1,1432 @@
+US 2019/0029968 A1
+
+lacosamide within 4 hour and not less than about 75% of
+lacosamide within 12 hours when tested according to USP
+type 1 dissolution apparatus at 100 rpm and 37° C, tem-
+perature in 900 ml of 0,1N HCl,
+
+[0022] In further embodiment, the modiﬁed release for-
+
+mulation comprising lacosamide and modiﬁed release poly-
+mer, said modiﬁed release formulation administered as a
+
+single dose provides an invivo plasma proﬁle selected from:
+[0023] (i) Mean Tm,C of about 5 or more hours, or
+[0024] (ii) Mean C"WC of less than about 4600 ng/ml, or
+[0025] (iii) Mean AUCO,72 of more than about 78500
+nglhr/ml
+
+BRIEF DESCRIPTION OF THE DRAWING
+
+[0026] FIG, 01 is a graph depicts the dissolution proﬁle in
+0.1N HCl of the formulations as described in Example 03,
+
+[0027] FIG, 02 is a graph depicts the mean plasma con-
+centration-time proﬁles of lacosamide following a single
+dose of the formulation (QD) in Example 3 versus 100 mg
+of the connnercially available immediate release tablet (V I-
+MPAT®).
+
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+[0028] The invention provides a modiﬁed release formu-
+lation ofantiepileptic drug preferably lacosamide and modi-
+ﬁed release polymer,
+
+[0029] The antiepileptic dnrg includes sodium channel
+blockers, calcium current inhibitors, gamma-aminobutyric
+acid (GABA) enhancers, glutamate blockers, carbonic anhy-
+drase inhibitors and any other drug which has similar action,
+
+[0030] The antiepileptic drug can be selected from the
+group consisting of lacosamide; acetamlamide; carbam-
+azepine; clobazam; clonazepam; ethosuximide; gabapentin;
+lamotrigine; levetiracetam; oxcarbazepine; phenobarbital
+(phenobarbitone); phenytoin; pregabalin; primidone; ruﬁna-
+mide; sodium valproate; tiagabine; topiramate; valproic
+acid; vigabatrin; zonisamide; valpromide; divalproex
+sodium; gabapentin; felbamate; fosphenytoin; and combi-
+nation thereof. Other drugs which have anti epileptic or
+antimigraine activity are also within the scope of the inven-
+tion. The preferred antiepileptic drug is lacosamide,
+
+[0031] As used herein the term “lacosamide” refers to
+N2-acetyl-N-benzyl-D-homoserinamide including its R and
+S enantiomers and racemic mixtures or pharmaceutically
+acceptable salts, esters, prodrugs or metabolites, The R
+enantiomer of N2-acetyl-N-benzyl-D-homoserinamide is
+the preferred enantiomer and the marketed immediate
+release preparation Vimpat® contains the R enantiomer The
+modiﬁed release formulation preferably contains between
+10-1000 mg of lacosamide. It has been known that pharma-
+cokinetics of lacosamide is dose proportional at the thera-
+peutic range.
+
+[0032] The term “formulation” or “composition” as used
+herein refers to the drug in combination with pharmaceuti-
+cally acceptable excipients, This includes orally adminis-
+trable formulations as well as formulations administrable by
+other means.
+
+[0033] “Modiﬁed release formulation” as used herein
+means a pharmaceutical formulation which releases the drug
+substance at a slower rate than from an immediate release
+formulation,
+
+Jan. 3], 2019
+
+[0034] The term modiﬁed release formulation can be used
+interchangeably with prolonged release formulation, pro-
+grammed release formulation, timed release formulation,
+extended release formulation, site speciﬁc release formula-
+tion, sustained release formulation, controlled release for-
+mulation, slow release formulation, delayed release formu-
+lation, osmotic dosage form, bioadhesive formulation, orally
+disintegrating modiﬁed release formulation and other such
+dosage forms.
+
+[0035] "he modiﬁed release formulation is preferably
+administered once a day (QD),
+
+[0036] “Pharmaceutically acceptable" is meant a carrier
+comprisec of a material that is not biologically or otherwise
+undesirab e,
+[0037] ‘he term “therapeutic effective concentration” is
+used throughout the speciﬁcation to describe concentration
+of lacosamide which is therapeutically effective in treatment
+and prophylaxis of diseases where lacosamide is effective
+[0038] "he term “relative bioavailability” herein denotes
+AUC for a speciﬁc orally administered composition
+expressed as a percentage of AUC for an orally administered
+dosage form of the active ingredient at the same dosage rate,
+[0039] "he terms “AUCOJZ” herein mean the area under
+the curve relating blood plasma concentration to time after
+administration from 0 to 72 hours, as determined using the
+linear trapezoidal rule, and are expressed in units of (ng‘h/
+ml),
+[0040] "he term “AUCOW” herein means the area under
+the curve relating blood plasma concentration to time from
+time 0 hours to inﬁnity, and is expressed in units of (ng‘h/
+ml),
+[0041] The term “AUCLM” herein means area under the
+blood plasma concentration to time curve from time zero to
+time tau over a dosing interval at steady state, where tau is
+the length of the dosing interval, and is expressed in units of
+(ng‘h/ml).
+[0042] The term “CMX” herein means the maximum
+observed lood plasma concentration or the maximum blood
+plasma concentration calculated or estimated from a con-
+centration to time curve, and is expressed in units of ng/ml,
+[0043] The term “Cmin” herein means the minimum
+observed lood plasma concentration or the maximum blood
+plasma concentration calculated or estimated from a con-
+centration to time curve, and is expressed in units of ng/ml,
+[0044] "he term “Cavg” as used herein, means the plasma
+concentration of the drug within the dosing interval, and is
+calculatec as AUC/dosing interval, and is expressed in units
+of ng/ml.
+
+[0045] The term “TMX” herein means the time after
+administration at which Cm” occurs, and is expressed in
+units of hours (h),
+
+[0046] The term “single dose" means that the human
+patient has received a single dose of the drug formulation
+and the drug plasma concentration has not achieved steady
+state.
+[0047] The term “steady state” means that the blood
+plasma concentration curve for a given drug does not
+substantially ﬂuctuate after repeated doses to dose of the
+formulation.
+
+[0048] The term “Degree of Fluctuation”
+(Cm—cmycw
+
+[0049] ‘he term “bioequivalence” means the absence of a
+signiﬁcant difference in the rate and extent to which the
+active ingredient or active moiety in pharmaceutical equiva-
+
+ 
+
+is expressed as
+US 2019/0029968 A1
+
+lents or pharmaceutical alternatives becomes available at the
+site of drug action when administered at the same molar dose
+under similar conditions in an appropriately designed study,
+[0050] The modiﬁed release formulation includes tablets,
+coated tablets, layered tablets, granules, powders, micropar-
+ticles, capsules which may be hard gelatin or soft gelatin,
+caplets, sachets, pellets, spheroids, mini-tablets, beads,
+microcapsules and pills,
+
+[0051] One embodiment discloses the modiﬁed release
+dosage form of lacosamide comprising lacosamide and
+modiﬁed release polymer,
+
+[0052] Other embodiment discloses the modiﬁed release
+formulation of lacosamide and modiﬁed release polymer
+which provides therapeutically effective concentration of
+lacosamide for a period of at least 8 hrs preferably 24 hrs or
+more.
+
+[0053] Another embodiment discloses the modiﬁed
+release formulation which releases the active ingredient
+lacosamidewver a period of at least 4 hrs, preferably at
+least 8 hrs and more preferably of at least 12 hrs,
+
+[0054] In further embodiment, the modiﬁed release for-
+mulation comprising lacosamide and modiﬁed release poly-
+mer, said modiﬁed release formulation administered as a
+single-dose Jrovides an invivo plasma proﬁle selected from:
+
+[0055] (i) Mean Tm” of about 5 or more hours, or
+[0056] (ii) Mean Cm, of less than about 4600 ng/ml, or
+
+[0057] (iii) Mean AUCO,72 of more than about 78500
+ng-hr/ml
+
+[0058] .acosamide is administered as a single dose in
+the dose range of 50 to 800 mg, preferab y 100 to 600
+mg anc more preferably in the dose of 200 mg.
+
+[0059] Further it is contemplated that at given plasma
+level of lacosamide per speciﬁed dose will be directly
+proportiona to other doses of lacosamide, Such proportional
+dose and plasma levels are contemplated to me within the
+scope of the claimed invention,
+
+[0060] The modiﬁed release polymer may be selected
+from hydrophilic polymer, hydrophobic polymer or wax.
+The hydrop ilic polymer may be selected from the group
+consisting of cellulose derivatives such as met 1y] cellulose,
+hydroxypro yl methylcellulose (hypromellose), hydroxy-
+ethyl cellu ose, hydroxypropyl cellulose, ydroxyethyl
+methylcellu ose, carboxymethylcellulose and sodium car-
+boxymethylcellulose; vinyl pyrrolidone polymers such as
+polyvinylpyrrolidone and copolymers of viny pyrrolidone
+and vinyl acetate; alkylene oxide such as polyethylene
+oxide; polysaccharides such as chitosan; ge lan; xanthan
+gum; gums of plant, animal, mineral or synthetic origin; and
+alginic acid derivatives such as alginic acid and its physi-
+ologically acceptable salts such as sodium, otassium or
+calcium.
+
+[0061] Hydrophobic polymer may be selected from the
+group consisting of ethyl cellulose; cellulose acetate; cellu-
+lose acetate butyrate; cellulose acetate phthalate; cellulose
+acetate trimellitate; polyvinylacetate phthalate; hydroxypro-
+pylmethylcellulose phthalate; hydroxypropylmethylcellu-
+lose acetate succinate; poly(alkyl methacrylate); poly (vinyl
+acetate); poly vinyl alcohols; and polyacrylamide deriva-
+tives.
+
+ 
+
+ 
+
+[0062] Wax may be selected from the group consisting of
+glycerol palmitostearate; beeswax; glycowax; castor wax;
+carnauba wax; glycerol monostearate; stearyl alcohol; glyc-
+
+Jan. 3], 2019
+
+erol behenic acid ester; cetyl alcohol; natural and synthetic
+glycerides; waxes; fatty acids; and hydrogenated vegetable
+oil.
+
+[0063] In one embodiment the modiﬁed release polymer
+used in the modiﬁed release formulation may be bioadhe-
+sive.
+
+[0064] The bioadhesive polymers may be selected from
+the group consisting of proteins (e,g., hydrophilic proteins)
+such as pectin, zein, modiﬁed zein, casein, gelatin, gluten,
+plasma albumin and collagen; chitosan; oligosaccharides;
+polysaccharides such as cellulose, dextrans, tamarind seed
+polysaccharide, gellan, carrageenan, xanthan gum, gum ara-
+hic, hyaluronic acid, polyhyaluronic acid, alginic acid and
+sodium alginate; polyamides; polycarbonates; polyalky-
+lenes; polyalkylene glycols; polyalkylene oxides; polyalky-
+lene terephthalates; polyvinyl alcohols; polyvinyl ethers;
+polyvinyl esters; polyvinyl halides; polyvinylpyrrolidone;
+polyglycolides; polysiloxanes; polyurethanes; polystyrene;
+polymers of acrylic and methacrylic esters; polylactides;
+poly(butyric acid); poly(valeric acid); poly(lactide-co-gly-
+colide); polyanhydrides; polyorthoesters; poly(fumaric
+acid); poly(maleic acid); and blends or copolymers or mix-
+tures thereof
+
+[0065] Combination of modiﬁed release polymers is also
+included within the scope of the invention.
+
+[0066] The amount of modiﬁed release polymers may
+range from about 10-90%.
+
+[0067] The modiﬁed release formulation may further con-
+tain pharmaceutically acceptable excipients such as binders;
+diluents; lubricants; disintegrating agents; glidants; stabiliz-
+ers; and surface active agents,
+
+[0068] The binders may be selected from potato starch;
+modiﬁed starch; gelatin; wheat starch; com starch; microc-
+rystalline cellulose; celluloses such as hydroxypropyl cel-
+lulose, hydroxyethyl cellulose, hydroxypropylmethyl cellu-
+lose (Hypromellose), ethyl cellulose and sodium carboxy
+methyl cellulose; natural gums such as acacia, alginic acid
+and guar gum; liquid glucose; dextrin; povidone; syrup;
+polyethylene oxide; polyvinyl pyrrolidone; poly vinyl alco-
+hol; poly-N-vinyl amide; polyethylene glycol; gelatin; poly
+propylene glycol; tragacanth; hydrogenated vegetable oil;
+castor oil; parafﬁn; higher aliphatic alcohols; higher alphatic
+acids; long chain fatty acids; fatty acid esters; and wax-like
+materials such as fatty alcohols, fatty acid esters, fatty acid
+glycerides, hydrogenated fats, hydrocarbons, nor-50 mal
+waxes, stearic acid and stearyl alcohol. The amount of
+binder present can vary from about 01% to about 25% by
+weight of the tablet dry weight, preferably about 05% to
+about 10%,
+
+[0069] The diluent may be selected from phannaceutically
+acceptable inert ﬁllers such as microcrystalline cellulose;
+lactose; dibasic or tribasic calcium phosphate; saccharides
+confectioner’s sugar; compressible sugar; dextrates; dextrin;
+dextrose; fructose; lactitol; marmitol; sucrose; starch xylitol;
+sorbitol; talc; calcium carbonate; or calcium sulphate, The
+diluent is preferably used in an amount of about 10 to 90%
+by weight.
+
+[0070] The disintegrating agent may be selected from
+cross-linked polymers such as crospovidone; starch or modi-
+ﬁed starch such as sodium starch glycolate; clays such as
+bentonite or veeg'um; celluloses or cellulose derivatives or
+crosslinked cellulose such as croscarmellose sodium; or
+resins such as polacrillin potassium.
+US 2019/0029968 A1
+
+[0100] The coating operation may be conducted in stan-
+dard equipment such as a ﬂuid bed coater, a Wurster coater
+or a rotary bed coater.
+
+[0101] The invention is not to be limited in scope by the
+speciﬁc embodiments described herein. Indeed, various
+modiﬁcations of the invention in addition to those described
+herein will become apparent to those skilled in the art from
+the foregoing description. Such modiﬁcations are intended
+to fall within the scope of the appended claims.
+
+Example 01
+[0102]
+
+Sr. No. Ingredients 0/. w/w
+l Lacosamlde 32.25
+2 Polyethylene Oxide 24.19
+3 Hypromellose 8.06
+4 Mannitol 32.27
+5 Colloidal silicon dioxide 1.61
+6 Magnesium Stemte 1.61
+
+Film Coating. 273%
+
+[0103] Procedure:
+
+[0104] 1. Sift all ingredients through suitable sieve
+
+[0105] 2. Blend and mix together Lacosarnide, Polyeth-
+ylene Oxide and Hypromellose in a suitable blender.
+
+[0106] 3. Add Mannitol to Step 2 and mix till uniform
+blend is obtained.
+
+[0107] 4. Mix Step 3 with Colloidal silicon dioxide and
+lubricate with Magnesium Stearate for 5 minutes.
+
+[0108] 5. Compress the step 4 into tablet using suitable
+punch tooling.
+
+[0109] 6. Coat the tablets with coating solution either
+organic or aqueous or semiaqueous solution.
+
+Example 02
+[0110]
+
+Sr. No. ingredients % w/w
+l Lacosamide 32.26
+2 Mlcrocrysmlline cellulose 28.23
+3 Polyvinylpyrrolidone 4.03
+4 Polyethylene Oxide 24.19
+5 Hypromellose 8.06
+6 Solvent Q.S.
+7 Colloidal silicon dioxide 1.61
+8 Magnesium Stearate 1.61
+
+Film Coating 24%
+
+[0111] Procedure:
+
+[0112] 1. Sift all ingredients through suitable sieve.
+
+[0113] 2. Blend and mix together Lacosarnide and
+Microcrystalline cellulose in a suitable blender and
+load in RMG.
+
+[0114] 3. Dissolve and prepare a clear solution of Poly-
+vinylpyrrolidone in solvent.
+
+[0115] 4. Granulate the Step 2 with the solution from
+step 3 and dry the granules in Dryer and mill/size them
+by passing through suitable mesh.
+
+[0116] 5. Mix and blend the step 4 with Polyethylene
+Oxide, Hypromellose to form a uniform blend.
+
+[0117] 6. Mix Step 5 with Colloidal silicon dioxide and
+lubricate with Magnesium Stearate for 5 minutes.
+
+Jan. 31, 2019
+
+[0118] 7. Compress the step 6 into tablet using suitable
+punch tooling.
+
+[0119] S. Coat the tablets with coating solution either
+organic or aqueous or semiaqueous solution.
+
+ 
+
+Example 03
+[0120]
+
+Sr. No. Ingredian % w/w
+1 Lacosamlde 19.05
+2 Hypromellose 28.57
+3 Microcrystalline cellulose 23.81
+4 Copovidone 23.81
+5 Acrosil 2.86
+6 Magnesium Stearate 1.90
+7 Solvent Q.S.
+
+[0121] Procedure:
+
+[0122] 1. Sift Lacosamide, Hypromellose and Microc-
+rystalline cellulose through 30# sieve.
+
+[0123] 2. Dissolve Copovidone in solvent.
+
+[0124] 3. Granulate step 1 with the solution of step 2.
+
+[0125] 4. Dry the granules at 45° C. and then pass
+through 20# sieve.
+
+[0126] 5. Sift Microcrystalline cellulose, Crospovidone
+and Aerosil through 4015 sieve.
+
+[0127] 6. Lubricate step 5 by using Mg-stearate passed
+through 60# sieve.
+
+[0128] 7. Compress step 6 by using suitable punch.
+
+[0129] 8. Coat the tablet of Step 7 by using Opadry
+coating solution (2-3% wt. Gain)
+
+Example 04
+[0130]
+
+Sr. No. Ingredients % w/w
+l Leoosemide 33.33
+2 Hydrogenated Vegetable Oil 8.33
+3 Mlcroclystalline cellulose 34.17
+4 Slearic and 4.17
+5 Polyeﬂiylene glycol 16.67
+5 Solvent Q.S.
+7 Colloidal silicon diodee 1.57
+8 Magnesmm Stemte 1.67
+
+Film Coating: 24%
+
+[0131] Procedure:
+
+[0132] 1. Sift all ingredients through suitable sieve.
+
+[0133] 2. Add and melt Hydrogenated Vegetable Oil,
+Polyethylene glycol and Stearic acid in preheated steam
+jacketed vessel at 60-70° C. and to this melted mass,
+add Lacosamide and stearic acid under stirring, stop the
+heating and continue the stirring for 30-45 min until a
+uniform mass is formed
+
+[0134] 3. Cool the molten uniform mass to room tem-
+perature and mill the solidify mass in co-mill using
+suitable sieve.
+
+[0135] 4. Mix and blend the step 3 with Microcrystal-
+line cellulose for 5-10 minutes.
+
+[0136] 5. Mix Step 4 with Colloidal silicon dioxide and
+lubricate with Magnesium Stearate for 5 minutes.
+
+[0137] 6. Compress the step 5 into tablet using suitable
+punch tooling.
+US 2019/0029968 A1
+
+[0071] The lubricant may be selected from Mg, Al or Ca
+or Zn stearate; polyethylene glycol; glyceryl behenate; glyc-
+eryl monosterate; mineral oil; sodium stearyl fumarate;
+stearic acid; hydrogenated vegetable oil; talc; hydrogenated
+soybean oil; stearyl alcohol; leucine; polyethylene glycol;
+ethylene oxide polymers; or colloidal silica.
+
+[0072] The glidant may be selected from magnesium
+trisilicate; powdered cellulose; starch; talc and trihasic cal-
+cium phosphate; calcium silicate; magnesium silicate; col-
+loidal silicon dioxide; or silicon hydrogel,
+
+[0073] The modiﬁed release formulation may optionally
+contain a surface active agent, The preferred surface active
+agent may be selected from a group consisting of fatty acid;
+oleﬁn; alkylcarbonyl; silicon elastomer; sulfate ester; petty
+alcohol sulfate; sulfate pete and oil; sulfonic acid-base; fat
+sulfonate; alkylaryl sulfonate; ligmin sulfonate; phosphoric
+acid ester; polyoxyethylene; polyoxyethylene caster oil;
+polyglycerol; polyol; imidazol; altanolamine; lietamine; sul-
+fobecamine; phosphotide; polyoxyethylene-sorbitan fat acid
+ester (Tween); and sorbitan ester (Span),
+
+[0074] The osmotic agents may be selected from sodium
+chloride; potassium chloride; magnesium sulfate; magne-
+sium chloride; sodium sulfate; lithium sulfate; urea; inositol;
+sucrose; lactose; glucose; sorbitol; ﬁnctose; mannitol; dex-
+trose; magnesium succinate or potassium acid phosphate,
+[0075] In one of the embodiment the modiﬁed release
+formulation comprises lacosamide and modiﬁed release
+polymer which may optionally coated,
+
+[007 6] The coating may be modiﬁed relwse coating which
+may modify the release of drug from modiﬁed release
+formulation or coating which does not alter the release of
+
+drug from the modiﬁed release formulation,
+
+[0077] Commercially available, ready-to-coat prepara-
+tions, sold under various brand names such as various grades
+of Opadry®, Opadry® is a ﬁlm coating system comprising
+hypromellose, polyethylene glycol and titanium dioxide
+which does not alter the release of drug from modiﬁed
+release formulation may also be used.
+
+[0078] Examples of modiﬁed release coating include func-
+tional coating; moisture barrier coatings; enteric polymeric
+coatings; sustained release coating; and the like.
+
+[0079] In one embodiment the modiﬁed release formula-
+tion further comprises core comprising lacosamide and
+modiﬁed release coating,
+
+[0080] In other embodiment the modiﬁed release fonnu-
+lation comprises a core comprising lacosamide and modiﬁed
+release coating which provides therapeutically effective con-
+centration of lacosamide for a period of at least 8 hrs
+preferably 24 his or more
+
+[0081] The core may further comprise pharmaceutically
+acceptable excipients,
+
+[0082] In another embodiment, the modiﬁed release for-
+mulation further comprises:
+
+[0083] (i) a core comprising non-pareil seed;
+[0084] (ii) coating the non-pareil seed with lacosamide;
+and
+
+[0085] (iii) modiﬁed release coating
+[0086] In another embodiment, the modiﬁed release for-
+mulation further comprises:
+[0087] (i) a core comprising non-pareil seed;
+[0088] (ii) coating the non-pareil seed with lacosamide;
+and
+
+[0089] (iii) modiﬁed release coating
+
+Jan. 31, 2019
+
+[0090] which provides therapeutically effective concentra-
+tion of lacosamide for a period of at least 8 hrs preferably 24
+hrs or more.
+
+[0091] The non-pareil seed may be selected from sugar
+spheres, microcrystalline cellulose or other inert material,
+
+[0092] The modiﬁed release coating comprises of modi-
+ﬁed release polymer and other pharrnaceutically acceptable
+excipientsi The modiﬁed release polymer includes hydro-
+philic polymer, hydrophobic polymer or wax as disclosed
+above.
+
+[0093] The modiﬁed release coating composition may
+comprise of cellulosic polymer selected form hydroxypropyl
+cellulose (HPC); hydroxyethyl cellulose; hydroxypropyl
+methylcellulose (hypromellose); methyl cellulose; ethyl cel-
+lulose; cellulose acetate; cellulose acetate butyrate; cellulose
+acetate phthalate; cellulose acetate succinate; cellulose
+acetate propionate; cellulose acetate trimellitate; hydroxy-
+propylmethyl cellulose phthalate; hydroxypropylmethyl cel-
+lulose succinate; hydroxypropylrnethyl cellulose acetate
+succinate; cellulose acetate succinate butyrate; cellulose
+acetate succinate propionate; carboxymethylcellulose
+sodium, cellulose butyrate; and mixtures thereof; pH-inde-
+pendent acrylates such as Eudragit RS, Eudragit RL and the
+like; pH-dependent polymers such as poly(methacrylic acid,
+methylmethacrylate) 1:1, poly(methacrylic acid, ethylacry-
+late) 1:1, poly(methacrylic acid, methylmethacrylate) 1:2,
+and the like or waxes such as polyethylene glycol,
+
+[0094] The modiﬁed release coating may be aqueous,
+nonaqueous or combination of the two,
+
+[0095] If desired, the permeability of the modiﬁed release
+coating may be adjusted by blending of two or more
+excipients. The porosity of the modiﬁed release coating may
+be modiﬁed by using pore forming agents. The pore forming
+agents may be selected from crystals of sucrose; mannitol;
+sorbitol; or salts such as sodium chloride or potassium
+chloride.
+
+[0096] The modiﬁed release coating composition may
+further include other pharmaceutically acceptable excipients
+such as plasticizer. solvent system (ie, water), a colorant to
+provide elegance and product distinction, Color may be
+added to the solution of the therapeutically active agent
+instead, or in addition to the overcoat. Suitable ingredients
+for providing color to the formulation include titanium
+dioxide and color pigments, such as iron oxide pigments.
+The incorporation of pigments, may, however, increase the
+retard etfect of the coating, Alternatively, any suitable
+method of providing color to the formulations of the present
+invention may be used.
+
+[0097] The plasticizer may be selected from the group
+consisting of one or more of polyethylene glycol; triethyl
+citrate; triacetin; diethyl phthalate; dibutyl stearate; dibutyl
+sebacate; oleic acid; alcohol; mineral oil; castor oil; lanolin;
+petrolatum; propylene glycol; and glycerol,
+
+[0098] The modiﬁed release formulation may be manu-
+factured by various methods known in the art such as by dry
+granulation, wet granulation, melt granulation, direct com-
+pression, double compression, extrusion spheronization,
+layering and the like. Compaction of the blend into copri-
+mate may be carried out using a slugging technique or roller
+compaction, The milling of the granules may be carried out
+according to conventional milling methods.
+
+[0099] The process of wet granulation includes aqueous or
+non-aqueous solvents.
+Patent Application Publication Jan. 31, 2019 Sheet 2 0f 2 US 2019/0029968 A1
+
+ 
+
+Plasma Cuncamrﬂinn M Lacommida - 100 nu BID Us 200 mg (1D under ml mmlilinn
+
+4400
+4uuo
+3600
+E“ 3200
+g 2800
+‘2 2400
+2000
+
+Cuncemm n
+5;
+a
+a
+
+1200
+300
+400
+
+O a ‘1 . , I r x
+
+000 400 000 12.00 1000 20 00 2400 28.00 3200 3000 40.00 44 00 48.00 52.00 5500 00 00 641,00 5800 7200
+TI"! In)
+
++9...“
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+]?I(}IJ]RIE 2
+US 2019/0029968 A1
+
+MODIFIED RELEASE FORMULATION OF
+LACOSAMIDE
+
+[0001] This application is a National Stage Application of
+PCT/IN2010/000722, ﬁled 3 Nov. 2010, which claims ben-
+eﬁt ofSerial No. 258/KOL/2010, ﬁled 16 Mar. 2010 in India,
+and which also claims beneﬁt of Serial No. 1309/KOL/2009,
+ﬁled 3 Nov. 2009 in India and which applications are
+incorporated herein by reference. To the extent appropriate,
+a claim of priority is made to each of the above disclosed
+applications
+
+FIELD OF THE INVENTION
+
+[0002] The present invention relates to a modiﬁed release
+formulation of antiepileptic drug. The formulation of the
+present invention comprises lacosamide or pharmaceutically
+acceptable salts. esters, metabolites, prodrugs or enantiom-
+ers thereof and modiﬁed release polymer.
+
+BACKGROUND OF THE INVENTION
+
+[0003] The term epilepsy is derived from a Greek word
+meaning a condition of being seized or overcome. The term
+epilepsy designates a group of central nervous system dis-
+orders having in common the occurrence of sudden and
+transitory episodes of abnormal behavioral symptoms of
+motor sensory, autonomic or psychic origin. Epilepsies have
+a deﬁnite onset and ending, and they usually are of short
+duration.
+
+[0004] Epileptic seizures are mainly of two types: partial
+seizures and generalized seizures. Partial seizures can again
+be of three type; i.e. simple partial, complex partial and
+partial with secondarily generalized tonic clonic seizure.
+Generalized seizures are classiﬁed as absence seizure, myo-
+clonic seizure and tonic-clonic seizure. Anti-epileptic drug
+are vital in preventing ﬁts for people with epilepsy, thereby
+greatly enhancing quality of life.
+
+[0005] Based on their mechanism of action, anti-epileptic
+drugs can be classiﬁed as sodium channel blockers, calcium
+current inhibitors, gamma-aminobutyrlc acid (GABA)
+enhancers, glutamate blockers, carbonic anhydrase inhibi-
+tors etc.
+
+[0006] Dmgs such as acetazolamide, carbamazepine,
+clobazam, clonazepam, ethosuximide, gabapentin, lam-
+otrigine, levetiracetarn, oxcarbazepine, phenobarbital (phe-
+nobarbitone), pheny‘toin, pregabalin, primidone, ruﬁnamide,
+sodium valproate, tiagabine, topiramate, valproic acid,
+vigabatrin, zonisamide, valpromide, divalproex sodium,
+gabapentin, felhamate, fosphenytoin and the like are used
+for the treatment of epilepsy.
+
+[0007] Anti-epileptic drugs (AEDs) are also promising
+agents for the prevention of migraine and other head pain.
+Migraine and epilepsy share several clinical features and
+respond to many of the same pharmacological agents, sug-
+gesting that similar mechanisms may be involved in their
+pathophysiology.
+
+[0008] The most common side effects associated with
+epilepsy medicines are drowsiness, irritability, nausea, rash,
+and clumsiness. Some drugs produce changes in emotions,
+memory or behavior, or aﬁect learning Modiﬁed release
+formulations of anti-epileptic drugs provides reduction in
+the above mentioned side eﬁects, increased patient compli-
+ance, avoids a typical peak-valley plasma concentration
+proﬁle and ultimately reduction in the precipitation of
+
+Jan. 31, 2019
+
+adverse effects especially of a drug with a narrow therapeu-
+tic index whenever overmedication occurs.
+
+[0009] Lacosamide, marketed as Vimpat®, is approved in
+US for the treatment of partial-onset seizure in patient with
+epilepsy aged 17 years and older. The lacosamide may be
+used for the treatment or prophylaxis of migraine, ﬁbro-
+myalgia syndrome, osteoarthritis, post herpetic neuralgia
+and painful diabetic neuropathy. Chemically lacosamide is
+(2R)-2-(acetylamino)—3-methoxy-N-(phenylmethyl)pro-
+panamide, R-enantiomer is at least 10-fold more active than
+the S-enantiomer. US. Pat. No. 5,654,301 discloses amino-
+acid derivative, lacosamide exhibiting anticonvulsant prop-
+erties. RE 38,551 discloses the novel enantiomeric com-
+pounds one of which is lacosamide.
+
+[0010] Vimpat® is approved for oral or intravenous
+administration. Lacosamide for oral use has the initial dose
+of 50 mg twice daily (100 mg per day). It can be increased
+at weekly intervals by 100 mg/day (two divided doses) up to
+the recommended maintenance dose of 200 to 400 mg/day,
+based on individual patient response and tolerability. The
+marketed formulation Vimpat® is an immediate release
+formulation for BID administration
+
+[0011] The side effect associated with lacosamide is simi-
+lar to other epileptics as dizziness, ataxia, vomiting, diplo-
+pia, nausea, vertigo and vision blurred.
+
+[0012] There exists a need for modiﬁed release formula-
+tion of lacosamide which controls the release of lacosamide
+in such a manner that therapeutically eﬂective concentration
+is maintained in the blood for an extended period of time
+keeping the drug concentration in the blood substantially
+constant. The use of modiﬁed release formulations of lacos-
+amide would improve patient compliance as it reduces the
+numbers of dosages to be taken per day.
+
+[0013] With the modiﬁed release formulation, the therapy
+may be continued without interrupting the sleep of the
+patient, which is of special importance when treating an
+epileptic patient to prevent nocturnal seizures, or patients
+with pain who experience severe pain on awakening. as well
+as for debilitated patients for whom an uninterrupted sleep
+is essential.
+
+[0014] Thus the modiﬁed release formulation of lacos-
+amide would provide a modiﬁed release of lacosamide with
+minimal Cm“ to Cmm peak to trough variation over a period
+of at least 12 hrs. It is preferred that the modiﬁed release
+formulation of lacosamide is capable of maintaining a
+substantially constant plasma level of lacosamide for at least
+12 hrs.
+
+SUMMARY OF THE INVENTION
+
+[0015] In one embodiment, the modiﬁed release formula-
+tion of lacosamide comprises lacosamide and modiﬁed
+release polymer.
+
+[0016] In other embodiment, the modiﬁed release formu-
+lation of lacosamide further comprises core comprising
+lacosamide and modiﬁed release coating.
+
+[0017] In another embodiment, the modiﬁed release for-
+mulation further comprises:
+
+[0018] (i) a core comprising non-pareil seed;
+[0019] (ii) coating the non-pareil seed with lacosamide;
+and
+[0020] (iii) modiﬁed release coating.
+[0021] In further embodiment, the modiﬁed release for-
+
+mulation of lacosamide releases not more than about 25% of
+lacosamide within 1 hour, from about 30% to about 70% of
+Patent Application Publication Jan. 31, 2019 Sheet 1 of 2 US 2019/0029968 A1
+
+ 
+
+“I, Lacnsamide Release vs Time
+
+100 ﬁ
+90 -
+80 4
+.70 -
+BO -
+50 «
+
+avg. “:3 Drug Release
+
+‘\
+
+3w /
+
+104
+
+0 ¥ ( I , , . I l .
+O 2 4 6 8 10 ’12 14 16
+Timeﬂlj
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE 1
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0029968 A1
+
+Kulkarni et a].
+
+ 
+
+US 20190029968A1
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+(71)
+
+(72)
+
+(73)
+(21)
+(22)
+
+(63)
+
+(30)
+
+Nov. 3, 2009 (IN) ..
+Mar. 16, 2010 (IN) ..
+
+MODIFIED RELEASE FORMULATION 0F
+LACOSAMIDE
+
+Applicant: LUPIN LIMITED, Mumbai (IN)
+
+Inventors: Shirishkumar Kulkarni, Pune (IN);
+Satish Kumar Dalal, Pune (IN);
+Harshal Jahagirdar, Pune (IN);
+Kishore Kumar Konda, Pune (IN)
+
+Assignee: LUPIN LIMITED, MUMBAI (IN)
+Appl. No: 16/146,237
+Filed: Sep. 28, 2018
+
+Related US. Application Data
+
+Continuation of application No. 13/505,990, ﬁled on
+May 3, 2012, ﬁled as application No. PCT/INIO/
+00722 on Nov, 3, 2010.
+
+Foreign Application Priority Data
+
+1309/KOL/2009
+.. 258/KOL/2010
+
+ 
+
+ 
+
+Publication Classiﬁcation
+
+(51) Int. Cl.
+A61K 9/50 (200601)
+A61K 47/38 (2006.01)
+A61K 47/32 (2006.01)
+A61K 9/20 (200601)
+A61K 31/165 (2006.01)
+(52) us. Cl.
+CPC A61K 9/5070 (2013.01); A61K 47/38
+
+(2013.01); A61K 47/32 (2013.01); A61K
+31/165 (2013.01); A61K 94077 (201301)
+
+(57) ABSTRACT
+
+The present invention provides a modiﬁed release formula-
+tion of lacosamidel The modiﬁed release formulation of the
+present invention comprising lacosamide and modiﬁed
+release polymer provides modiﬁed release of lacosamide
+with minimal C"WC to Cm." peak to trough variation over a
+period of at least 12 hrs.
+US 2019/0029968 A1
+
+[0138] 7. Coat the tablets with coating solution either
+organic or aqueous or semiaqueous solution.
+
+Example 05
+
+ 
+
+ 
+
+[0139]
+Sr. No. Ingredients % w/w
+Isl Layer
+
+1 Lacosamide 20.00
+2 Hypromellose 21.50
+3 Microcrystalline cellulose 11.50
+4 Copovidone 15.00
+5 Aerosil 1.00
+6 Magneslum Stearate 1.00
+7 Solvent Q.s.
+
+lInd Layer
+
+1 Polyethylene oxlde 170.59
+2 Sodium Chloride 76.47
+3 Hypromellose 35.88
+4 Hydroxypropyl cellulose 9.41
+5 Red iron oxide 0.59
+6 Magnesium Stearate 7.06
+7 Solvent Q.s.
+
+[0140] Procedure:
+[0141] First Layer
+[0142] 1. Sift Lacosamide, Hypromellose and Microc-
+rystalline cellulose through 30# sieve.
+[0143] 2. Dissolve Copovidone in solvent.
+[0144] 3. Granulate step 1 with the solution of step 2.
+[0145] 4. Dry the granules at 45° C. and then passed
+through 20# sieve.
+[0146] 5. Sift Crospovidone and Aerosil 200 through
+40# sieve.
+[0147] 6. Lubricate step 5 by using Magnesium Stearate
+passed through 60# sieve.
+[0148] Second Layer
+[0149] 1. Sift Polyethylene oxide, Sodium Chloride,
+Hypromellose, Hydroxypropyl cellulose and Red iron
+oxide through 40# Sieve.
+[0150] 2. Granulate Step 1 by using solvent.
+[0151] 3. Dry the granules at 45° C. and then passed
+through 20# Sieve.
+[0152] 4. Lubricate step 3 by using Magnesium Stearate
+passed through 60%? sieve.
+[0153] Compression
+[0154] Compress both layers by using suitable punch
+[0155] Coating:
+[0156] Coat the compressed tablet by using Opadry
+coating solution (2-3% Wt. Gain)
+
+Example 06
+
+[0157]
+Sr. No. Ingredients % w/w
+1 Lacosamide 32.26
+2 Mlcrocrysodline cellulose 28.23
+3 Polymnylpynoliclone 4.03
+4 Xnnthum Gum 24.19
+5 Hypromellose 8.06
+6 Solvent Q.s.
+
+Jan. 3 l , 20 1 9
+-continued
+Sr. No. ingrediene % w/w
+7 Collmdnl silicon dioxnle l.6l
+8 Magnesmm Stearate l.6l
+
+Film Coating: 24%
+
+[0158] Procedure:
+[0159] 1. Sift all ingredients through suitable sieve
+[0160] 2. Blend and mix together Lacosamide and
+
+Microcrystalline cellulose in a suitable blender and
+load in Rapid Mixer Granulator.
+
+[0161] 3. Dissolve and prepare a clear solution of Poly-
+vinylpyrrolidone in solvent.
+
+[0162] 4. Granulate the Step 2 with the solution from
+Step 3 and dry the granules in Dryer and mill/size them
+by passing through suitable mesh.
+
+[0163] 5. Mix and blend the step 4 with Xanthum Gum,
+Hypromellose to form a uniform blend.
+
+[0164] 6. Mix Step 5 with Colloidal silicon dioxide and
+lubricate with Magnesium Stearate for 5 minutes.
+
+[0165] 7. Compress the step 6 into tablet using suitable
+punch tooling.
+
+[0166] 8. Coat the tablets with coating solution either
+organic or aqueous or semiaqueous solution
+
+Example 07
+
+[0167]
+
+Sr. No. Ingrediens % w/w
+l Lacosamide 32.26
+2 Mlcmcrystalline cellulose 28.23
+3 Polyvmylpyrrolidone 4.03
+4 Sodium niginnte 24.19
+5 Hypromellose 8.06
+6 Solvent Q.s.
+7 Colloldal silicon dioxide 1.61
+3 Magnesium Stearate 1.61
+
+Film Coating: 24%
+
+[0168] Procedure:
+[0169] 1. Sift all ingredients through suitable Sieve.
+
+[0170] 2. Blend and mix together Lacosamide and
+Microcrystalline cellulose in a suitable blender and
+load in Rapid Mixer Granulator.
+
+[0171] 3. Dissolve and prepare a clear solution of Poly-
+vinylpyrrolidone in solvent.
+
+[0172] 4. Granulate the Step 2 with the solution from
+step 3 and dry the granules in Dryer and mill/size them
+by passing through suitable mesh.
+
+[0173] 5. Mix and blend the step 4 with Sodium alg-
+inate, Hypromellose to form a uniform blend,
+
+[0174] 6. Mix the blend of Step 5 with Colloidal Silicon
+dioxide and lubricate with Magnesium Stearate for 5
+minutes.
+
+[0175] 7. Compress the step 6 into tablet using suitable
+punch tooling,
+
+[0176] S. Coat the tablets with coating solution either
+organic or aqueous or semiaqueous solution.
+US 2019/0029968 A1
+
+Example 08
+
+[0177]
+Sr. No. Ingredients % w/w
+Drug loading
+Spray solution/disperSlon
+1 Lacosamide 13.33
+2 Hyprornellose 5.55
+3 Ethyl cellulose 25.55
+4 solvent (2.3.
+5 Sugar Spheres/Microcrystalline 53.33
+Cellulose Spheres
+Capsule ﬁll Weight 100
+
+Fill the drug loaded pellets in suitable size or capsule
+
+[0178] Procedure:
+
+[0179] 1. Sift all ingredients through suitable sieve.
+
+[0180] 2. Dissolve and make a clear solution of Lacos-
+amide, Hypromellose and Ethyl cellulose in solvent
+under Stirring.
+
+[0181] 3. Load Sugar/Microcrystalline Cellulose
+Spheres in F luidized Bed Processor and spray the
+solution from step 2.
+
+[0182] 4. Fill the capsule with dnlg-loaded pellets from
+
+ 
+
+step 3.
+Example 09
+[0183]
+Sr. No. Ingredients % w/w
+Drug loading
+Spray solution/dispeislon
+1 Lacosamide 15.52
+2 Hypromellose 15.52
+3 Solvent Q.S.
+Extragmnular
+4 Sugar Spheres/Microcrystalline 52.5
+
+Cellulose Spheres
+
+Modiﬁed release coating with Elldmglt
+Fill the drug loaded pellets in suimble size or capsule
+
+[0184] Procedure:
+
+[0185] 1. Sift all ingredients through suitable sieve.
+
+[0186] 2. Dissolve and make a clear solution of Lacos-
+amide and Hypromellose in solvent under stirring.
+
+[0187] 3. Load Sugar/Microcrystalline Cellulose
+Spheres in Fluidized Bed Processor and Spray the
+solution from step 2.
+
+[0188] 4. Dissolve Eudragit RL, Eudragit RS in solvent
+and add Dibutyl Sebacate.
+
+[0189] 5. Fill the above drug loaded pellets in suitable
+size of capsule.
+
+Example 10
+[0190]
+Sr. No. Ingredients % w/w
+1 Lacosamtde 7.194
+2 Microcrystalline cellulose 32.374
+
+Jan. 31, 2019
+
+-continued
+
+Sr. No. Ingredients % w/w
+4 Hypromellose 32.373
+5 Polyvlnylpyirolidone/CoePoVidone 3.597
+
+5 Solvent Q.S.
+7 Crospovldone 14.388
+8 Microcrystalline cellulose 7.194
+9 Colloidal silicon dioxide 1.438
+10 Magnesium Stearate 1.43s
+
+Modiﬁed release coating coating with Eudmglt: 34%
+
+[0191] Procedure:
+[0192] 1. Sift all ingredients through suitable sieve
+[0193] 2. Blend and mix together Lacosamide, Micro-
+
+crystalline cellulose and Hypromellose in a suitable
+blender and load in Rapid Mixer Granulator.
+
+[0194] 3. Dissolve and prepare a clear solution of Poly-
+vinylpyrrolidone in solvent.
+
+[0195] 4. Granulate the Step 2 with the solution from
+Step 3 and dry the granules in Dryer and mill/size them
+by passing through suitable mesh.
+
+[0196] 5. Mix and blend the step 4 with Co-Povidone,
+Hypromellose and Microcrystalline cellulose to form a
+uniform blend.
+
+[0197] 6. Mix Step 5 with Colloidal silicon dioxide and
+lubricate with Magnesium Stearate for 5 minutes.
+
+[0198] 7. Compress the Step 6 into tablet using suitable
+punch tooling.
+
+[0199] 8. Coat the tablets with above modiﬁed release
+coating solution prepared by dissolving Amino-meth-
+acrylate co-polymer type A and type B, Dibutyl seba-
+cate/Triethyl citrate/Polyethylene glycol in an above
+mentioned solvent.
+
+Example 11
+[0200]
+
+Sr. No. Ingredients “/5 WW
+1 Lacosamide 7.19
+2 Microcrystalllne cellulose 32.37
+3 Hypmmellose 32.37
+4 Polyvinylpyirolidone/CoePoVidone 3.597
+5 Solvent Q.s.
+f: Crospovidone 14.38
+7 Microcrystalline cellulose 7.194
+8 Colloidal silicon dioxide 1.438
+9 Magnesium Steamte 1.438
+
+Modiﬁed release coahng with Eudragit: 7-8%
+
+[0201] Procedure:
+
+[0202] 1. Sift all ingredients through suitable sieve.
+
+[0203] 2. Blend and mix together Lacosamide and
+Microcrystalline cellulose in a suitable blender and
+load in Rapid Mixer Granulator.
+
+[0204] 3. Dissolve and prepare a clear solution of Poly-
+vinylpyrrolidone in solvent.
+
+[0205] 4. Granulate the Step 2 with the solution from
+Step 3 and dry the granules in Dryer and mill/size them
+by passing through suitable mesh.
+
+[0206] 5. Mix and blend the step 4 with Co-Povidone,
+Hyproniellose and Microcrystalline cellulose to form a
+uniform blend.
+US 2019/0029968 A1
+
+[0207] 6. Mix Step 5 with Colloidal silicon dioxide and
+lubricate with Magnesium Stearate for 5 minutes.
+
+[0208] 7. Compress the step 6 into tablet using suitable
+punch tooling.
+
+[0209] 8. Coat the tablets with modiﬁed release coating
+dispersion prepared by Methacrylic acid co-polymer
+dispersion, Triethyl citrate, Talc and water.
+
+Example 1 2
+
+[0210] Dissolution Study for Lacosamide Tablets of
+Example 03:
+
+[0211] The dissolution proﬁle of the 200 mg lacosamide
+tablets of Example 03 was carried out in type 1 dissolution
+apparatus, basket, at 100 rpm, at a temperature of about 37°
+C., in 900 ml of 0.1N HCl and may release not more than
+about 25% of lacosamide within 1 hour, from about 30% to
+about 70% of lacosamide is released within 4 hour and not
+less than about 75% of lacosamide is released within 12
+
+hours. The results of the in vitro dissolution proﬁle are set
+forth in Table: 01 and illustrated in FIG. 01
+
+TABLE 01
+
+Dissolution proﬁle oflacosamide 200 mg
+modiﬁed release tablets of Example 03
+
+Time (Hrs) Avg. % Drug Release
+0 o
+1 15
+2 21.9
+4 38.5
+6 46.7
+s 59.2
+10 66.5
+12 72.9
+14 31.1
+16 88.3
+
+Example 1 3
+
+[0212] Clinical Study for Lacosamide Tablets of Example
+03:
+
+[0213] A single dose study was conducted in healthy
+human volunteers to assess bioavailability of lacosamide
+formulated as the 200 mg QD modiﬁed release tablets of
+Examples 3 by comparison with a reference treatment with
+Vimpat® 100 mg tablet BID (each tablet containing lacos-
+amide 100 mgione tablet each 12 hourly) manufactured for
+UCB, GA, administered under fed conditions in healthy,
+adult, male, human subjects in a randomized cross over
+study and to evaluate safety and tolerability of lacosamide
+when its absorption proﬁle is altered as in these modiﬁed
+release tablets.
+
+[0214] The study design was open label, balanced, ran-
+domized, three treatment, three sequence, three-period,
+single dose crossover bioequivalence study in 12 healthy,
+adult, male, human subjects under fed conditions.
+
+[0215] The pharmacokinetic parameters AUCD_72, AUCO_
+m, CW”, and Tm>6 were estimated during the study.
+
+[0216] Geometric mean plasma lacosamide concentra-
+tions over the 72-hour assessment period are shown in FIG.
+02. The pharmacokinetic parameters calculated from mean
+
+plasma lacosamide concentration-time proﬁle are given in
+Table: 02.
+
+Jan. 31, 2019
+
+TABLE 02
+
+Pharmacokinetlc parameters (mean x standard devration)
+
+Test (Lacosarnlde
+200 mg modiﬁed
+
+release tablet Reference (Vimpat ® T/R
+
+Parameter (QD)» Example 3) 100 mg tablet(BID) (0/6)
+AUCD.72 100606.90 2: 21332.72 102700.93 2: 25661.12 97.96
+(ng - h/ml)
+
+Anew 109263.99 3: 24438.17 113722.90 : 27763.30 95.08
+(Hg - h/ml)
+
+cm (ng’ml) 3799.61 3: 733.15 3631.46 3: 380.59 104.63
+Tm 111) 12.00 4.50 7
+
+[0217] The relative bioavailability of the Example 3 for-
+mulation to Vimpat® was 97.96% in terms of AUC0_72 ratio.
+[0218] The mean plasma lacosamide concentration proﬁle
+shown in FIG. 02 clearly shows the tablets of Example 3
+effectively modiﬁed the release of lacosamide relative to the
+immediate release tablet (Vimpat®)
+
+11-14. (canceled)
+
+15. A modiﬁed release formulation comprising lacos-
+amide and modiﬁed release polymer.
+
+16. The modiﬁed release formulation of claim 15, wherein
+the modiﬁed release polymer is selected from the group
+consisting of hydrophilic polymer, hydrophobic polymer,
+wax; and mixtures thereof.
+
+17. The modiﬁed release formulation of claim 16, wherein
+the hydrophilic polymer is selected from the group consist-
+ing of cellulose derivatives such as methyl cellulose,
+hydroxypropyl methylcellulose, hydroxyethyl cellulose,
+hydroxypropyl cellulose, hydroxyethyl methylcellulose, car-
+boxymethylcellulose and sodium carboxymethylcellulose;
+vinyl pyrrolidone polymers such as polyvinylpyrrolidone
+and copolymers of vinyl pyrrolidone and vinyl acetate;
+polysaccharides; gums of plant, animal, mineral or synthetic
+origin; polysaccharide such as alginic acid derivatives; chi-
+tosan, gellan and xanthan gum; alkylene oxide such as
+polyethylene oxide; and mixtures thereof.
+
+18. The moc iﬁed release formulation of claim 16, wherein
+the hydrophobic polymer is selected from the group con-
+sisting of ethy cellulose; methacrylic acid derivatives; cel-
+lulose acetate and its derivatives; poly vinyl alcohols and its
+derivatives; polyacrylamide derivatives; and mixtures
+thereof.
+
+19. The moc iﬁed release formulation of claim 16, wherein
+the wax is selected from the group consisting of glycerol
+palmitostearate; beeswax; glycowax; castor wax; carnauba
+wax; glycero monostearate; stearyl alcohol; glycerol
+behenic acid ester; cetyl alcohol; natural and synthetic
+glycerides; waxes; fatty acids; hydrogenated vegetable oil;
+and mixtures thereof.
+
+20. The moc iﬁed release formulation of claim 15, wherein
+the modiﬁed release formulation further comprises core
+comprising lacosarnide and modiﬁed release coating.
+
+21. The moc iﬁed release formulation of claim 15, wherein
+the modiﬁed release formulation further comprises:
+
+(i) a core comprising non-pareil seed;
+
+(ii) coating the non-pareil seeds with lacosamide; and
+
+(iii) modiﬁed release coating
+
+22. The moc iﬁed release formulation of claim 15, wherein
+the modiﬁed release formulation provides therapeutically
+effective concentration of lacosamide for a period of at least
+24 hrs.
+US 2019/0029968 A1
+
+23, The modiﬁed release formulation of claim 15, wherein
+the modiﬁed release formulation of lacosamide releases not
+more than about 25% of lacosamide Within 1 hour, from
+about 30% to about 70% of lacosamjde within 4 hour and
+not less than about 75% of lacosamide Within 12 hours when
+tested according to USP type 1 dissolution apparatus at 100
+rpm and 37° C temperature in 900 m1 of 0.1N HCl,
+
+24, A modiﬁed release formulation comprising lacos-
+amide and modiﬁed release polymer, wherein the modiﬁed
+release formulation administered as a single dose provides
+an invivo plasma proﬁle selected from:
+
+(i) Mean me of about 5 or more hours, or
+
+(ii) Mean Cm“ of less than about 4600 ng/ml, or
+
+(iii) Mean AUCO,72 of more than about 78500 ng~hrlml
+
+25, A modiﬁed release formulation of claim 24, wherein
+the modiﬁed release formulation is administered in dose
+range of 50 to 800 mg of lacosamide,
+
+26, A modiﬁed release formulation of claim 25, wherein
+the modiﬁed release formulation is administered in dose
+range of 100-600 mg of lacosamide.
+
+27 , A modiﬁed release fomiulation of claim 26, wherein
+the modiﬁed release formulation is administered in dose of
+200 mg of lacosamide.
+
+28, The modiﬁed release formulation of lacosamjde sub-
+stantially as hereinbefore described and exempliﬁed
+
+*****
+
+Jan. 3], 2019

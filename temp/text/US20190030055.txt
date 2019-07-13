@@ -1,0 +1,1385 @@
+(19) United States
+(12) Patent Application Publication (10) Pub. No.z US 2019/0030055 A1
+
+US 20190030055Al
+
+ 
+
+CARVER (43) Pub. Date: Jan. 31, 2019
+(54) TOPICAL ANTIFUNGAL PASTES AND A61K 9/00 (2006.01)
+METHODS OF USE THEREOF A61K31/496 (2006.01)
+A61K 31/137 (2006.01)
+(71) Applicant: REVOLUTION PHARMA LLC, A61L 15/44 (2006.01)
+Atlanta, GA (US) (52) us. Cl.
+CFC A61K 31/7048 (2013.01); A61K 31/4174
+(72) Inventor: Craig W. CARVER, Ball Ground, GA (201301); A61K 31/4178 (201301); A61K
+(Us) 9/06 (2013.01); A61K 9/0014 (2013.01); A61K
+. , 2300/00 (2013.01); A61K 9/0034 (2013.01);
+(73) A5519“ REVOLUHON PHARMA LLC’ A61K 9/0031 (2013.01); A611 2300/4124
+Mamas GA (US) (2013.01); A61K 31/137 (2013.01); A61L
+(21) Appl. No.: 16/148,115 15/44 (2013.01), A61K31/496 (2013.01)
+(22) Filed: Oct. 1, 2018 (57) ABSTRACT
+Related US. Application Data Described herein are topical anti-fungal pastes and methods
+‘ p _ ‘ that treat fungal infections of the skin, reduce the severity
+(63) Continuation of application No. 15/027,481, ﬁled on and duration of symptoms of fungal infections of the skin,
+APE. 6:.2016 now Pat. NO‘ 10986008: ﬁled as and prevent recurrence of fungal infections. The topical
+“Whom?“ NO‘ PCU 152.01“. 000592 on Q“ 4 65 pastes described herein are composed of an admixture of one
+2014, Wthh 15 a continuation-impart 0f application or more antifungal agents, excipient inert powder. and a
+N0~ 14/050394, ﬁled on OCL 9: 2013: now Pat. N04 pharmaceutically acceptable topical carrier. The composi-
+878835747' tions and methods described herein minimize fungal resis-
+. . V _ ' tance and maximize the number of targeted fungal strains.
+Publication Classiﬁcation Additionally, the compounds and methods do not suppress
+(51) Int. C1. the body’s immune system either locally or systemically,
+A61K 31/7048 (2006.01) thus allowing for a faster restoration of normal skin ﬂora.
+A61K 31/41 74 (2006.01) The compositions and methods described herein are particu-
+A6IK 31/4178 (2006.01) larly suitable for use in infants and children as well as in
+
+A61K 9/06 (2006.01)
+
+immunocompromised individuals, diabetics, and the obese.
+US 2019/0030055 A1
+
+TOPICAL ANTIFUNGAL PASTES AND
+METHODS OF USE THEREOF
+
+CROSS-REFERENCE TO RELATED
+APPLICATIONS
+
+[0001] This application is a continuation application of
+US application Ser. no. 15/027,481, ﬁled Apr. 6. 2016,
+which is a national phase application of PCT international
+application no. PCT/USZOI4/059228, ﬁled Oct. 6, 2014,
+which is a continuation-in-part of US. nonprovisional patent
+application Ser No. 14/050,094 ﬁled Oct. 9, 2013, which are
+hereby incorporated herein by reference in their entireties.
+
+BACKGROUND
+
+[0002] The superﬁcial layers of the skins and mucous
+membranes of humans and other animals play host to a
+variety of microorganisms, including numerous species of
+fungi and bacteria. Balance between skin ﬂora and the host
+organisms is normally maintained at a steady level, but
+uncontrolled fungal growth occurs regularly in the obese, in
+diabetics, and in immunocompromised individuals such as
+cancer patients undergoing chemotherapy, HIV positive
+persons, and transplant recipients taking anti-rejection
+drugs, among others.
+
+[0003] Candida albicans occurs naturally on the body,
+particularly in warm, moist areas. Intertrigo is an over-
+growth of Candida yeast in areas such as the groin, armpits,
+between the buttocks, under heavy breasts, the inner thighs,
+the perianal area, the genital area, between the toes, the
+crease of the neck, between abdominal fat folds, and other
+body surfaces. Intertrigo also presents as diaper rash. Over-
+growth ofyeasts such as Candida is particularly problematic
+in institutional settings; prevalence ranges from 6% of
+hospital patients to 17% of those residing in nursing homes.
+Up to 20% of home-bound patients also experience topical
+yeast imbalances. Any persons experiencing restricted
+mobility may be at increased risk for intertrigo. Other
+contributing factors include incontinence, heat, humid
+weather, tight clothing, lack of air circulation, friction
+between skin folds, excessive sweating, poor hygiene, mal-
+nutrition, inﬂamrnatory skin conditions such as psoriasis,
+and the use of topical steroids.
+
+[0004] Candida] diaper dermatitis (diaper rash) is a com-
+mon yeast overgrowth infection caused by C. albicans that
+frequently presents in the perianal area and between the
+buttocks of infants and toddlers. Visits to outpatient pediatric
+oﬁices for diaper rash total one million per year in the United
+States. The skin of infants is thinner than that of adults and
+produces fewer secretions. Thus, infant skin is more sus-
+ceptible to irritation and infection. Measures such as fre-
+quent diaper changes, avoidance of moisture-impervious
+diaper covers, and leaving children for long periods of time
+without diapers can help prevent diaper rash. However,
+topical antifungal therapy is still necessary for the resolution
+of candida] diaper rash.
+
+[0005] Symptoms of Candida imbalance include redness,
+irritation, intense itching, burning, pain, and odor. Physi-
+cians oﬁen prescribe combination steroid/antifungal creams
+such as Mycolog (nystatin/triamcinolone), Lotrisone (clotri-
+mazolejbetamethasone), or Vytone (iodoquinol/hydrocorti-
+sone), to intertrigo patients. While these rapidly relieve
+symptoms, fungal resurgence after corticosteroid treatment
+is common. These recurrences of symptoms often exceed the
+
+Jan. 3], 2019
+
+initial presentation. Although triamcinolone, betamethasone,
+and hydrocortisone provide inunediate relief of symptoms,
+they also suppress the body’s own immune response in the
+inﬂamed and/or macerated areas. Thus, a need exists for a
+non-steroidal treatment for Candida overgrowth and inter-
+trigo.
+
+SUMMARY
+
+[0006] Described herein are topical anti-fungal pastes and
+methods that treat fungal infections of the skin, reduce the
+severity and duration of symptoms of fungal infections of
+the skin, and prevent recurrence of fungal infections. The
+topical pastes described herein are composed of an admix-
+ture of one or more antifungal agents, excipient inert pow-
+der, and a phannaceutically acceptable topical carrier The
+compositions and methods described herein minimize fun-
+gal resistance and maximize the number of targeted fungal
+strains. Additionally, the compounds and methods do not
+suppress the body’s immune system either locally or sys-
+temically, thus allowing for a faster restoration of normal
+skin ﬂora. The compositions and methods described herein
+are particularly suitable for use in infants and children as
+well as in immunocompromised individuals, diabetics, and
+the obese.
+
+[0007] The advantages of the invention will be set forth in
+part in the description which follows, and in part will be
+obvious from the description, or may be learned by practice
+of the aspects described below. The advanmges described
+below will be realized and attained by means of the elements
+and combinations particularly pointed out in the appended
+claims. It is to be understood that both the foregoing general
+description and the following detailed description are exem-
+plary and explanatory only and are not restrictive.
+
+DETAILED DESCRIPTION
+
+[0008] Before the present compounds, compositions, and]
+or methods are disclosed and described, it is to be under-
+stood that the aspects described below are not limited to
+speciﬁc compounds, synthetic methods, or uses as such may,
+of course, vary. It is also to be understood that the tenni-
+nology used herein is for the purpose of describing particular
+aspects only and is not intended to be limiting.
+
+[0009] In this speciﬁcation and in the claims that follow,
+reference will be made to a number of terms that shall be
+deﬁned to have the following meanings:
+
+[0010] It must be noted that, as used in the speciﬁcation
+and the appended claims, the singular forms “a,” “an” and
+“the” include plural referents unless the context clearly
+dictates otherwise. Thus, for example, reference to “an
+imidazole antifungal” includes mixtures of two or more such
+antifungals, and the like.
+
+[0011] “Optional” or “optionally” means that the subse-
+quently described event or circumstance can or cannot
+occur, and that the description includes instances where the
+event or circumstance occurs and instances where it does
+not. For example, the phrase “optionally includes an excipi-
+ent inert powder” means that the inert powder can or cannot
+be included in the composition and that the description
+includes compositions where the powder is included and
+compositions where it is not included.
+
+[0012] References in the speciﬁcation and concluding
+claims to parts by weight, of a particular element or com-
+ponent in a composition or article, denotes the weight
+US 2019/0030055 A1
+
+Excipient Inert Powder
+
+[0028] The topical pastes described herein include one or
+more excipient inert powders, The presence of the excipient
+inert powder imparts a number of beneﬁcial properties with
+the respect to the topical pastes described herein. The
+excipient inert powder reduces the active ingredient con-
+centrations of the antifungal agent. Reduced concentrations
+of antifungal agent are desirable for the treatment of certain
+patients such as, for example, children with diaper rash or
+other sensitive individuals. In this aspect, the concentrations
+of the antifungal agent are reduced to safe, but still efﬁca-
+cious, levels for these subjects
+
+[0029] Additionally, the excipient inert powder can impart
+sweat and/or moisture absorption capabilities to the com-
+positions described herein. Here, this absorption capability
+is believed to be beneﬁcial because it reduces the suitability
+of the affected areas for further fungal growth. In still
+another aspect, the excipient ine11 powder acts as a skin
+lubricant to reduce the skin friction, chaﬁng, and discomfort
+that are common to intertrigo, candida] diaper dermatitis,
+and other fungal infections of the skin.
+
+[0030] Examples of excipient inert powders useful herein
+include, but are not limited to talc, starch, zinc oxide, zinc
+carbonate, magnesium oxide, magnesium carbonate, cala-
+mine, calcium carbonate, kaolin, titanium dioxide, or any
+combination thereof. As will be discussed below, the selec-
+tion and amount of excipient inert powder can vary depend-
+ing upon the application,
+
+Pharmaceutically Acceptable Topical Carrier
+
+[0031] The topical pastes described herein include a phar-
+maceutically acceptable topical carrier. In one aspect, the
+pharmaceutically acceptable topical carrier includes a
+cream, lotion, gel, or any other pharmaceutically acceptable
+excipient that can be topically applied to a subject. The
+nature of the pharmaceutically acceptable excipient can vary
+depending upon the application.
+
+[0032] In one aspect, the pharmaceutically acceptable
+excipient is an oil-in-water cream. Not Wishing to be bound
+by theory, the use of an oil-in-water cream in combination
+with the excipient inert powder results in the formation of a
+hygroscopic paste that is useful in controlling the environ-
+ment where the fungal infection is located. By controlling
+the environment at the site of infection, the antifungal agent
+present in the paste is much more effective in treating and/or
+preventing further re-occurring fungal infections in the
+subject.
+
+[0033] Oil-in-water creams known in the art can be used
+in this aspect. The type and amount of oil or oily components
+present in the cream can vary, Examples of such components
+include, but are not limited to, mineral oil, petrolatum,
+parabens, or glycols (erg, ethylene glycol). The amount of
+oil or oily components can vary depending upon the envi-
+ronmental conditions as well as the amount of moisture at
+the site of application in the subject. In one aspect, the
+amount of oily component(s) can be from 10% to 50% by
+weight of the topical paste, In another aspect, the amount of
+oily component(s) is 10%, 15%, 20%, 25%, 30%, 35%,
+40%, 45%, or 50%, where any value can form a lower or
+upper endpoint of a range. In another aspect, the amount of
+water present in the oil-in-water cream is greater than 45%
+by weight of the cream, 45% to 80% by weight of the cream,
+
+Jan. 3], 2019
+
+or 45%, 50%, 55%, 60%, 65%, 70%, 75%, or 80% by weight
+of the cream, where any value can form a lower or upper
+endpoint of a range.
+
+[0034] In one aspect, a useful oil-in-water cream is Derm-
+abase manufactured by Paddock Laboratories, Inc,, which is
+composed of puriﬁed water, petrolatum, mineral oil, ceto-
+stearyl alcohol, propylene glycol, isopropyl palmitate, meth-
+ylparaben, and propylparabeni In another aspect, the oil-in-
+water cream is Vanicream, which is composed of water,
+white petrolatum, cetearyl alcohol, ceteareth—ZO, sorbitol
+solution, propylene glycol, simethicone, glyceryl monoste-
+arate, polyethylene glycol monostearate, sorbic acid, and
+BHT. In another aspect, the oil-in-water cream is Velvachol
+manufactured by Healthpoint, LTD, which is composed of
+water, petrolatum, mineral oil, acetyl alcohol, stearyl alco-
+hol, methylparaben, butylparaben, and propylparaben. In
+another aspect, a useful oil-in-water emulsion cream base is
+Aquaphilic® manufactured by Medco Lab Inc., which is
+composed of water, stearyl alcohol, white petrolatum, pro-
+pylene glycol, sorbitol, isopropyl palmitate, methylparaben,
+and propylparaben.
+
+[0035] In another aspect, the pharmaceutically acceptable
+excipient is an oil-free cream base. In this embodiment, the
+oil-free cream does not contain any oil components such as
+mineral oil, petrolatum, parabens, or glycols (e.g., ethylene
+glycol). In one aspect, the oil-free cream base is VersaBase®
+manufactured by PCCA, which is composed of water, eth-
+ylhexyl stearate, emulsifying wax, tocopherly acetatediso-
+dium EDTA, sorbitol, cyclopentanesiloxane, methylchlor—
+oisothiazolinone and methylisothiazolinonei In another
+aspect, the pharmaceutically acceptable excipient is a lotion.
+In another aspect, the lotion is VersaBase® topical lotion
+base. In another aspect, the pharmaceutically excipient is a
+gel. In another aspect, the gel is VersaBase® topical gel
+base,
+
+[0036] In other aspects, the pharmaceutically acceptable
+excipient is not a water-in-oil base. As discussed above, the
+topical pastes described herein are hygroscopic pastes that
+are useful in controlling the environment where the fungal
+infection is located. The pastes described herein wick or
+remove moisture from the application site of the subject,
+thereby controlling the humidity at the site of infection By
+controlling the environment at the site of infection, the
+antifungal agent present in the paste is much more effective
+in treating and/or preventing further re-occurring fungal
+infections in the subject. Additionally, the water-in-oil base
+can prevent air from contacting the infection site, which can
+promote the growth of bacteria under anaerobic conditions.
+Thus, in certain aspects, the pharmaceutically acceptable
+excipient is not a water-in-oil base, as these bases can trap
+water and/or prevent the release of water at the infection site
+as well as prevent air circulation at the infection site, which
+ultimately produces an environment of sustained or
+increased fungal growth and infection. Additionally, water-
+in-oil bases are greasy and are more difﬁcult to remove when
+compared to other bases (e.g., oil-in-water bases).
+
+Preparation of Topical Pastes
+
+[0037] The topical pastes described herein are formulated
+with a sufﬁcient amount of excipient inert powder and to
+produce a paste The pastes described herein are semisolid
+materials composed of granular particles dispersed through-
+out the pharmaceutically acceptable topical carrier. The
+primary source of the granular particles is derived from the
+US 2019/0030055 A1
+
+relationship between the element or component and any
+other elements or components in the composition or article
+for which a part by weight is expressed. Thus, in a com-
+pound containing 2 parts by weight of component X and 5
+parts by weight component Y, X and Y are present at a
+weight ratio of 2:5, and are present in such ratio regardless
+of whether additional components are contained in the
+compound.
+
+[0013] A weight percent of a component, unless speciﬁ-
+cally stated to the contrary, is based on the total weight of the
+formulation or composition in which the component is
+included.
+
+[0014] By “subject” is meant an individual. The subject
+can be a mammal such as a primate or a human. The term
+“subject” can include domesticated animals including, but
+not limited to, cats, dogs, etc, livestock (e.g., cattle, horses,
+pigs, sheep, goats, etc.), and laboratory animals (e.g., mouse,
+rabbit, rat, guinea pig, etc.)
+
+[0015] By “contacting” is meant an instance of exposure
+by close physical contact of at least one substance to another
+substance. For example, contacting can include contacting a
+body surface, such as the skin of a subject, with a topical
+composition described herein.
+
+[0016] “Treatment” or “treating” means to administer a
+composition to a subject or a system with an undesired
+condition (e.g., fungal infection) to reduce the symptoms of
+the undesired condition when compared to the same subject
+that is not administered the composition. The compositions
+described herein can reduce or arrest (i.e., stop) fungal
+growth in a subject. The topical compositions described
+herein can be applied directly to the infected area on the
+subject and/or near the then infected area.
+
+[0017] In other aspects, the compositions described herein
+can prevent fungal growth in a subject. Here, the topical
+compositions described herein can be applied to an area of
+the subject that is prone to fungal infection.
+
+[0018] By “effective amount” is meant a therapeutic
+amount needed to achieve the desired result or results.
+[0019] “Topical” refers to a composition that is applied to
+the surface of a subject’s body. Topical compositions may be
+applied, for example, to the skin, mucous membranes, hair,
+nails, or any other exposed surface of the body.
+
+[0020] A “fungal infection” is the invasion of the body by
+pathogenic fungi. This invasion can produce tissue injury
+and/or discomfort for the infected individual. Fungal infec-
+tions can be opportunistic (e.g., resulting from overgrowth
+of skin microbiota during conditions of immune suppres-
+sion) or can be acquired from the environment (e.g., noso-
+comial infections) An “antifungal” compound or composi-
+tion is administered to subjects having fungal infections to
+kill as well as reduce or prevent the growth of fungi.
+[0021] “Burow’s solution” is an aqueous solution of alu-
+minum acetate used in pharmacological applications, which
+may range in concentration from 5% to 13%, depending on
+the desired use. Burow’s solution is commonly employed
+for control of symptoms associated with inﬂammatory skin
+conditions and also is known to have antibacterial proper-
+ties It is traditionally applied in a cold compress but can
+optionally be used as a cleanser or astringent
+
+[0022] An “excipient” is a pharmacologically inactive
+substance included in a pharmaceutical composition. Excipi-
+ents are used for a variety of purposes including binders and
+ﬁllers, coatings, colors and ﬂavors, preservatives, sweeten-
+ers, and the like, and are frequently employed to aid in the
+
+Jan. 3], 2019
+
+distribution and/or dispensing of pharmaceutical prepara-
+tions. An “inert” excipient is an excipient that will not react,
+biologically or chemically, with the other components of the
+composition of which it is a part.
+
+[0023] “’owder” is composed of ﬁne particles. Dry sub-
+stances may be reduced to powders by techniques such as,
+for example, grinding, pounding, or triturating.
+
+I. Topical astes and Preparation Thereof
+
+[0024] Described herein are topical pastes that reduce,
+arrest, or revent fungal growth in a subject. The topical
+pastes described herein are composed of an admixture of one
+or more antifungal agents, excipient inert powder, and a
+phannaceutically acceptable topical carrier Each compo-
+nent used to prepare the topical formulations described
+herein is iscussed in detail below.
+
+Antifunga Agents
+
+[0025] The topical pastes described herein include one or
+more anti ungal agents. In one aspect, the antifungal agent
+is an anti ungal imidazole. An “antifungal imidazole” is a
+compounc that possesses antifungal properties and contains
+at least one imidazole ring substituent. The imidazole ring
+can optionally be further substituted. lmidazole antifungals
+can include, but are not limited to, clotrimazole, miconazole,
+ketoconazole, econazole, oxiconazole, luliconazole and
+combinations thereof. Not wishing to be bound by theory,
+imidazole antifungals mechanistically have been shown or
+proposed to inhibit biosynthesis of the fungal sterol ergos-
+terol, to interact with membrane phospholipids, to inhibit
+endogenous respiration, and to inhibit transformation of
+yeasts to mycelial forms
+
+[0026] In another aspect, the antifungal agent is clotrima-
+zole, ketoconazole, miconazole, oxiconazole, econazole,
+luliconazole, terbinaﬁne, nystatin, ﬂuconazole, voricon-
+azole, itraconazole, caspofungin, micafungin, naftiﬁne,
+butenaﬁne, amorolﬁne, ravuconazole, posaconamle, ﬂucy-
+tosine, sertaconazole, eﬁnaconazole, enilaconazole, saper-
+conazole, sulconazole, terconazole, tioconazole, nikkomy-
+cin Z, anidulafungin (LY303366), pimaricin, griseofulvin,
+ciclopirox, haloprogin, tolnaﬁate, undecylenate, or any com-
+bination thereof
+
+[0027] The topical pastes described herein can include a
+single antifungal agent or two or more antifungal agents
+described herein. In one aspect, the antifungal agent includes
+a ﬁrst agent and second agent, wherein the ﬁrst agent is
+clotrimamle, ketoconazole, miconazole, oxiconazole, econ-
+azole, luliconazole, terbinaﬁne, ﬂuconazole, voriconazole,
+itraconazole, caspofungin, micafungin, naftiﬁne, butenaﬁne,
+amorolﬁne, ravuconazole, posaconazole, ﬂucytosine, sert-
+aconazole, eﬁnaconazole, enilaconazole, saperconazole, sul-
+conazole, terconazole, tioconazole, nikkomycin Z, anidula-
+fungin (LY 303366), pimaricin, griseofulvin, ciclopirox,
+lialoprogin, tolnaﬁate, undecylenate, and the second agent is
+nystatin. Not wishing to be bound by theory, antifungal
+properties of polyenes such as nystatin are linked to binding
+ergosterol. Thus, the beneficial effects of combining a poly-
+ene with one or more antifungal agents described herein into
+a single treatment composition have never before been
+realized. For example, imidazole antifungals and polyenes
+are not typically combined since it is thought that the
+presence of one (imidazole) reduces the number of binding
+sites available for the other (polyene).
+US 2019/0030055 A1
+
+[0107] 12, Miconazole Nitrate Cream (2%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch in a 35%/
+30%/35% weight mixture.
+
+[0108] 13. Miconazole Nitrate Cream (2%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch USP in a
+50%/25%/25% weight mixture.
+
+[0109] 14, Miconazole Nitrate Cream (2%), Nystatin
+Cream ( 00,000 units/ gm), and Talc in a 40%/30%/30%
+weight mixture.
+
+[0110] 15. Miconazole Nitrate Cream (2%), Nystatin
+Cream ( 00,000 units/gm), and Talc in a 35%/30%/35%
+weight mixture.
+
+[0111] 16. Miconazole Nitrate Cream (2%), Nystatin
+Cream ( 00,000 units/gm), and Talc in a 50%l25%/25%
+weight mixture,
+
+[0112] 17, Oxiconazo e Nitrate Cream (1%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch in a 40%/
+30%/30% weight mixture,
+
+[0113] 18. Oxiconazo e Nitrate Cream (1%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch in a 35%/
+30%/35% weight mixture.
+
+[0114] 19. Oxiconazo e Nitrate Cream (1%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch in a 50%/
+25%/25% weight mixture.
+
+[0115] 20. Oxiconazo e Nitrate Lotion (1%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch in a 40%/
+25%/35% weight mixture,
+
+[0116] 21. Oxiconazo e Nitrate Lotion (1%), Nystatin
+Cream ( 00,000 units/gm), and Corn Starch USP in a
+50%/20%/30% weight mixture,
+
+[0117] 22, Oxiconazoe Nitrate Cream (1%), Nystatin
+Cream ( 00,000 units/ gm), and Talc in a 40%/30%/30%
+weight mixture,
+
+[0118] 23. Oxiconazo e Nitrate Cream (1%), Nystatin
+Cream (100,000 units/gm) and Talc in a 35%/30%/35%
+weight mixture.
+
+[0119] 24, Oxiconazoe Nitrate Cream (1%), Nystatin
+Cream (100,000 units/gm), and Talc in a 50%/25%/25%
+weight mixture,
+
+[0120] 25, Oxiconazoe Nitrate Lotion (1%), Nystatin
+Cream (100,000 units/ gm), and Talc in a 40%/25%/35%
+weight mixture.
+
+[0121] 26, Oxiconazoe Nitrate Lotion (1%), Nystatin
+Cream, 100,000 units/gm, and Talc in a 50%20%/30%
+weight mixture.
+
+[0122] Any of the topical pastes described herein can
+include one or more additional components that can pro-
+vided additional beneﬁts in addition to the enhanced anti-
+fungal properties imparted by the paste. For example, the
+pastes described herein can include an antipruitic agent to
+stop or prevent itching, an analgesic, an antiseptic agent, or
+any combination thereof. In one aspect, any of the topical
+pastes described herein can include menthol in the amount
+of 1% to 3% by weight of the paste, phenol in the amount
+of 1% to 218% by weight of the paste, camphor in the amount
+of 1% to 5% by weight of the paste, or any combination
+thereof.
+
+ 
+
+ 
+
+11. Methods of Use
+
+[0123] The topical pastes described herein can be used in
+a variety of applications related to the treatment of fungal
+infections, A method for treating a fungal infection includes
+contacting an area showing symptoms of a fungal infection
+with the compositions deﬁned above. The pastes described
+
+Jan. 31, 2019
+
+herein are superior alternatives to conventional treatments
+consisting of anti fungal creams, ointments, or solutions,
+and/or antifungal/steroid combination creams or ointments.
+Additionally, in certain aspects, the combination of two
+antifungal agents as in the pastes described herein will be
+able to eiTectively eliminate or reduce the growth of strains
+resistant to one, but not both, active ingredients. Thus, the
+pastes described herein possess signiﬁcant advantages over
+conventional treatments when dealing with complicated
+cases and/or simultaneous infections by multiple strains of
+fungi
+
+[0124] In one aspect, the fungi causing the infection are
+yeasts such as, for example, Candida albicans or other
+Candida spp. including C, glabrata, C. rugosa, C. parape
+silosis, C. tropicalis, or C. dubliniensis In another aspect, the
+fungi are dermatophytes such as, for example, Trichophyton
+spp. and Microsporum spp. In a further aspect, the dermato-
+phytes are Epidermaphyton ﬂoccosum, I rubrum, T inter-
+digitale, T tonrumns, T violaceum, I concentricum, T
+schoenleinii, I soua'anense, T mentagrophyles, I equinum,
+T erirmcei, T verrucnrum, M audnuinii, M. ferrugineum,
+M canir, M gypreum, M nanum, and/or M cankei.
+[0125] In another aspect, the fungal infection causes a
+fungal disease such as, for example, tinea cruris, tinea
+corporis, tinea versicolor, candidiasis, tinea pedis, intertrigo,
+seborrhoeic dermatitis, diaper rash, tinea capitis, tinea bar-
+bae, thrush, diaper dermatitis (children and adults) or a
+combination thereof. In a still further aspect, the fungal
+disease causes symptoms such as, for example, itching, a
+burning sensation, ﬂaking skin, peeling skin, rash, redness,
+cracking skin, scaly skin, blisters, macerated skin, odor, or
+a combination thereof.
+
+[0126] In one aspect, the pastes described herein are useful
+in treating or preventing intertrigo, Intertrigo is an inﬂam-
+mation or rash caused by overgrowth of yeast species such
+as, for example, Candida albicans. Intertrigo aﬂlicts areas of
+the body that have skin touching skin such as the groin,
+armpits, between the buttocks, under heavy breasts, in the
+inner thighs, beneath penile foreskin, the perianal area,
+genital area, between the toes, in the crease of the neck, and
+abdominal fat folds provide the perfect environment for
+Candida albicans imbalance and symptom presentation. The
+body heat and moisture present in these intertriginous areas
+provide a prime milieu for the proliferation of yeasts such as
+Candida, leading to irritation, redness, intense itching, burn-
+ing, pain and odor. Maceration and/or characteristic satellite
+reddened plaques/lesions often present under the breast, in
+the abdominal folds, and in the inguinal area. Intertrigo
+frequently presents as candida] diaper rash as well.
+
+[0127] Factors that frequently cause or contribute to inter-
+trigo include immune deﬁciencies, obesity, diabetes, incon-
+tinence, heat, humid weather, tight or abrasive clothing or
+underclothing, lack of air circulation, friction between skin
+folds, excessive sweating and moisture, poor hygiene, mal-
+nutrition, inadequate bra support, inﬂammatory skin condi-
+tions like psoriasis in skin folds, and the use of topical
+steroids. Infants and toddlers, with their chubbiness, shorter
+necks, and bended posture, are also at increased risk for
+intertrigo.
+
+[0128] Intertrigo is also particularly common among
+immunocompromised patients. “Immunocompromised
+patients” are individuals with weakened immune systems
+resulting from, for example, HIV or AIDS, chemotherapy
+and/or radiation such as for cancer treatment, long-tenn
+US 2019/0030055 A1
+
+corticosteroid or glucocorticoid therapy, anti-rejection drugs
+taken by transplant recipients, cancers of the bone marrow
+or the blood, splenectomy, or congenital deﬁciencies.
+[0129] In another aspect, the pastes described herein are
+useful in treating or preventing candidal diaper rash. Can-
+didal diaper dermatitis (i.e., diaper rash) is a common yeast
+overgrowth infection caused by Candida albicans that fre-
+quently presents in the perianal area and between the but-
+tocks of infants and toddlers. Visits to outpatient pediatric
+ofﬁces for diaper dermatitis total 1 million per year. Infant
+skin is thinner than that of adults, produces fewer secretions,
+and is more susceptible to irritation and infection. Measures
+to decrease maceration of the skin in these areas include
+frequent diaper changes, avoiding impervious diaper covers,
+and long periods without diapers, Still, topical antifungal
+therapy is necessary for resolution of candida] diaper rash.
+[0130] The pastes described herein can be used to treat
+fungal infections and diseases and also to reduce the severity
+of or eliminate symptoms caused by fungal infections and
+diseases. In one aspect, a method for treating a fungal
+disease in a subject is provided. In this aspect, a subject is
+contacted with an effective amount of one or more of the
+antifungal compositions described herein. In a further
+aspect, the subject is a mammal In a still further aspect, the
+mammal is a human or other primate, a cat, a dog, cattle, a
+horse, a pig, a sheep, a goat, a mouse, a rabbit, a rat, a guinea
+pig, or any other domesticated, captive, or livestock mam-
+mal,
+
+[0131] In a further aspect, the method involves contacting
+the affected area(s) of a subject with the compositions
+described herein. This contact may occur one, two, three, or
+four times daily. In one aspect, the topical compositions
+described herein can be applied to an area that is susceptible
+to fungal infection. In this aspect, the topical compositions
+described herein can prevent infection by the fungus
+[0132] In another aspect, the method involves initiating
+treatment at the onset of symptoms associated with fungal
+infection or disease. In another aspect, the method involves
+initiating treatment at any time after the onset of symptoms
+associated with fungal infection or disease. In one aspect,
+treatment is stopped upon resolution of the symptoms asso-
+ciated with fungal infection or disease. In another aspect,
+treatment is continued after the resolution of the symptoms.
+In this aspect, continued treatment is believed to help
+prevent the recurrence of symptoms and/or the resurgence of
+resistant fungal strains. In still another aspect. treatment may
+be continued for 1, 2, 3, 4, 5, 6, or up to 7 days after the
+resolution of symptoms. In yet another aspect, the compo-
+sitions may be applied sparingly or liberally to the affected
+area. In some aspects, the affected area is washed with water
+or a mild soap prior to application of the compositions
+described herein.
+
+[0133] In a still further aspect, the methods and compo-
+sitions described herein speciﬁcally exclude topical and/or
+systemic treatment with glucocorticoids. Thus, the compo-
+sitions and mixtures disclosed herein can aid in the resto-
+ration of natural ﬂora balance and skin fold integrity without
+the use of glucocorticoids
+
+[0134] In the alternative, a glucocorticoid compound and
+the compositions described herein can be simultaneously
+administered In another aspect, the compositions described
+herein can include other active antifungal ingredients or
+other ingredients that provide immediate relief from symp-
+toms associated with fungal infection and disease.
+
+Jan. 31, 2019
+
+[0135] In one aspect, the area to be treated is ﬁrst pre-
+treated prior to application of the topical compositions
+described herein. For example, the area of the subject can be
+ﬁrst contacted with Burow’s solution, either topically or
+included as part of a cold compress, prior to application of
+the compositions described herein In this aspect, Burow’s
+solution cleanses the affected area and/or allows the subject
+immediate relief from symptoms such as itching, burning,
+and the like. Prior to application of the topical application,
+the area to be treated should be dried as thoroughly as
+possible, as moisture can promote fungal growth on the skin,
+[0136] In other aspects, the topical pastes described herein
+can be incorporated into articles that can be used to treat or
+prevent fungal infections. For example, the pastes can be
+incorporated in or applied to diapers and surgical pads where
+fungal infections are prevalent. Here, the articles can help
+reduce or control moisture at the site of infection or potential
+infection and ultimately treat or prevent fungal infection.
+
+EXAMPLES
+
+[0137] The following examples are put forth so as to
+provide those of ordinary skill in the art with a complete
+disclosure and description of how the compounds, compo-
+sitions, and methods described and claimed herein are made
+and evaluated, and are intended to be purely exemplary and
+are not intended to limit the scope of what the inventors
+regard as their invention. Efforts have been made to ensure
+accuracy with respect to numbers (e.g,, amounts, tempera-
+ture, etc.) but some errors and deviations should be
+accounted for Unless indicated otherwise, parts are parts by
+weight, temperature is in ° C or is at ambient temperature,
+and pressure is at or near atmospheric. There are numerous
+variations and combinations of reaction conditions, e.g.,
+component concentrations, desired solvents, solvent mix-
+tures, temperatures, pressures and other reaction ranges and
+conditions that can be used to optimize the product purity
+and yield obtained from the described process. Only rea-
+sonable and routine experimentation will be required to
+optimize such process conditions.
+
+Trial 1
+
+[0138] An obese female with severe chemotherapy-related
+inguinal intertrigo was treated and observed. Initially, one-
+dimensional therapy with clotrimazole cream 1% applied 3
+times a day neutraliIed progression within 4 days, but she
+remained uncomfortably symptomatic and tissues remained
+red and still macerated in part due to continued sweating in
+the infected area.
+
+[0139] Nystatin-Triamcinolone cream was instituted on
+day 5 due to unrelenting itching, burning, and inﬂammation
+in the groin. Symptomatic relief followed within 2 days and
+applications of the antifungal-steroid cream combination
+continued for 10 days with substantial symptomatic and
+apparent therapeutic resolution. However, recurrence and
+escalation resumed a week later following this apparent
+resolution,
+
+[0140] Aware of the possible risks associated with pro-
+longed steroid use, the following antifungal agents were
+singularly employed: ketoconazole cream 2% was applied 2
+to 3 times a day with signiﬁcant yet marginal lasting efﬁcacy,
+and discontinuation after 8 days was followed with micon-
+azole cream 2% applied 2 to 3 times a day for more than 7
+days. Antimicrobial therapy was discontinued and Baby
+US 2019/0030055 A1
+
+[0068] Sulconazole 1%
+
+[0069] Nystatin 2.27%
+
+[0070] Terbinaﬁne 1%
+
+[0071] Naﬁiﬁne 2%
+
+[0072] Butenaﬁne 1%
+
+[0073] Ciclopirox 0.77%
+
+[0074] Efmaconazole 10%
+
+[0075] In another aspect, the paste includes two or more
+
+antifungal agents. For example, the antifungal agent
+includes a ﬁrst agent and second agent, wherein the ﬁrst
+agent is Clotrimazole, ketoconazole, miconazole, oxicon-
+azole, econazole, luliconazole, terbinaﬁne, ﬂuconazole,
+voriconazole, itraconazole, caspofungin, micaﬁmgin, nafti-
+ﬁne, butenaﬁne, amorolﬁne, ravuconazole, posaconazole,
+ﬂucytosine, sertaconazole, eﬁnaconazole, enilaconamle,
+saperconazole, sulconazole, terconazole, tioconazole, nik-
+komycin Z, anidulaﬁmgin (LY303366), pimaricin, griseo-
+fulvin, ciclopirox, haloprogin, tolnaﬁate, undecylenate, and
+the second agent is nystatin.
+
+[0076] In the case when two or more antifungal agents are
+to be used, the agents an independently be used as a bulk
+powder and/or formulated in a can'ier (e.g., cream). For
+example, clotrimazole cream (1%) can be formulated with
+nystatin powder and additional excipient inert powder to
+produce the topical paste:
+
+[0077] In one aspect, when nystatin is used as one of the
+antifungal agents, the nystatin (powder or cream) has an
+activity of 10,000 units/gram to 500,000 units/gram; 50,000
+units/gram to 250,000 units/gram; 75,000 units/gram to
+150,000 units/gram, or 100,000 units/gram, In another
+aspect, the nystatin powder is from 1% to 3% by weight of
+the powder and has an activity from 75,000 units/gram to
+150,000 units/gram.
+
+[0078] In one aspect, when two antifungal agents are
+employed, the ﬁrst agent is from 0.1 to 3% by weight of the
+paste and nystatin is from 0.1% to 3% by weight of the paste:
+In another aspect, the ﬁrst agent is from 0.1 to 3%. 0.1 to 2%,
+0,5 to 2%, or 0:5 to 1% by weight of the paste and nystatin
+is from 0.1 to 3%, 0:1 to 2%, 0,5 to 2%, or 0.5 to 1% by
+weight of the paste.
+
+[0079] In another aspect, the topical paste is composed of
+20% to 80% by weight antifungal agent (1% or 2% cream),
+and 20% to 80% by weight nystatin powder (100,000
+units/gram). In another aspect, the topical composition is
+composed of 30% to 70%, 40% to 70%, 50% to 70%, or
+60% by weight antifungal agent ( 1% or 2% cream), and 20%
+to 70%, 30% to 60%, 30% to 50%, or 40% by weight
+nystatin powder (100,000 units/gram).
+
+[0080] In another aspect, the topical composition is a
+topical paste composed of 1% Clotrimazole cream and
+nystatin powder having an activity of 100,000 units/gm,
+wherein the weight ratio of Clotrimazole to nystatin powder
+is from 0.5:1 to 5:1; 1:1 to 5:1; 1:1 to 4:1; 1:1 to 3:1; 1:1 to
+2:1 or about 3:2.
+
+[0081] In one aspect, the topical composition is one of the
+following:
+[0082] 1. At least 50% of an antifungal cram, lotion, or
+
+solution, and at least 25% of Nystatin Topical Powder
+(100,00 units/gm).
+
+[0083] 2. Clotrimazole Cram (1%) and Nystatin Topical
+Powder (100,000 units/gm) in a 2:1 weight ratio.
+
+[0084] 3. Clotrimazole Cram (1%) and Nystatin Topical
+Powder (100,000 units/gm) in a 3:2 weight ratio.
+
+Jan. 31, 2019
+
+[0085] 4. Clotrimazole Lotion (1%) and Nystatin Powder
+(100,000 units/gm) in a 3:2 weight ratio.
+
+[0086] 5. Clotrimazole Lotion (1%) and Nystatin Topical
+Powder (100,000 units/gm) in a 2:] weight ratio,
+
+[0087] 6. Clotrimazole Topical Solution (1%) and Nysta-
+tin Topical Powder (100,000 units/gm) in a 2:1 weight
+ratio:
+
+[0088] Clotrimazole Topical Solution (1%) and Nystatin
+Topical Powder (100,000 units/gm) in a 3:2 weight ratio.
+
+[0089] 8. Ketoconazole Cream (2%) and Nystatin Topical
+Powder (100,000 units/gm) in a 2:1 weight ratio.
+
+[0090] 9. Ketoconazole Cream (2%) and Nystatin Topical
+Powder (100,000 units/ gm) in a 3:2 weight ratio.
+
+[0091] 10: Miconazole Nitrate Cream (2%) and Nystatin
+Topical Powder (100,000 units/gm) in a 2:1 to 3:2 weight
+ratio.
+
+[0092] 11, Oxiconazole Nitrate Cream or lotion (1%) and
+Nystatin Topical Powder (100,000 units/gm) in a 2:1 to
+3:2 weight ratio.
+
+[0093] 12: Econazole Nitrate Cream (1%) and Nystatin
+Topical Powder (100,000 units/gm) in a 2:1 to 3:2 weight
+ratio.
+
+[0094] In one aspect, the topical paste includes less than or
+
+equal to 50% by weight of an imidazole cream, lotion, or
+
+solution (1% or 2%), less than or equal to 40% by weight
+
+Nystatin Cram or powder (100,000 units/gm), and less than
+
+or equal to 40% inert powder, wherein the sum of the
+
+components is 100%.
+
+[0095] In one aspect, the topical paste is one of the
+following:
+[0096] l. Clotrimazole Cream (1%), Nystatin Cram (100,
+
+000 units/gm), and Corn Starch USP in a 40%/30%/30%
+by weight mixture.
+
+[0097] 2. Clotrimazole Cream (1%), Nystatin Cream,
+(100,000units/gm), and Corn Starch in a 35%/30%/35%
+weight mixture:
+
+[0098] 3. Clotrimazole Cram (1%), Nystatin Cream,
+(100,000 units/gm), and Corn Starch in a 50%/25%/25%
+weight mixture:
+
+[0099] 4. Clotrimazole Lotion (1%), Nystatin Cream (100,
+000 units/gm), and Corn Starch in a 40%/25%/35%
+weight mixture:
+
+[0100] 5. Clotrimazole Lotion (1%), Nystatin Cram (100,
+000 units/gm), and Corn Starch in a 50%/20%l30%
+weight mixture.
+
+[0101] 6. Clotrimazole Cream (1%), Nystatin Cram (100,
+000 units/gm), and Talc in a 40%/30%l30% weight mix-
+ture.
+
+[0102] 7. Clotrimazole Cream (1%), Nystatin Cream (100,
+000 units/gm), and Talc in a 35%/30%l35% weight mix-
+ture.
+
+[0103] 8. Clotrimazole Cream (1%), Nystatin Cream USP
+(100,000 units/gm), and Talc in a 50%/25%/25% weight
+mixture.
+
+[0104] 9. Clotrimazole Lotion USP (1%), Nystatin Cream
+USP (100,000 units/gm), and Talc USP in a 40%/25%/
+35% weight mixture.
+
+[0105] 10: Clotrimazole Lotion (1%), Nystatin Cream
+(100,000 units/gm), and Talc in a 50%/20%l30% weight
+mixture.
+
+[0106] 11, Miconazole Nitrate Cream (2%), Nystatin
+Cream (100,000 units/gm), and Corn Starch in a 40%/
+30%/30% weight mixture.
+US 2019/0030055 A1
+
+excipient inert powder. However, when the antifungal agent
+used to prepare the topical paste is also a granular material,
+the antifungal agent can also contribute to the formation of
+the topical paste. The amount of the granular particles can
+also vary depending upon the moisture levels in the envi-
+ronment. For example, in hot, humid conditions, the higher
+amounts of granular particles can be included in the com-
+position,
+
+[0038] In one aspect, the topical paste is produced by
+admixing one or more antifungal agents and excipient inert
+powder in the pharmaceutically acceptable topical carrier so
+that the antifungal agent and excipient inert powder are
+evenly or homogeneously dispersed throughout the pharma-
+ceutically acceptable topical carrier, Techniques known in
+the art for homogeneously dispersing the ingredients of the
+topical paste can be used herein
+
+[0039] In one aspect, the topical pastes described herein
+are composed of 10% to 80% by weight granular particles
+(excipient inert powder and optionally antifungal agent). In
+another aspect, the topical paste is composed of 10%, 15%,
+20%, 25%, 30%, 35%, 40%, 45%, 50%, 55%, 60%, 65%,
+70%, 75%, or 80% by weight granular particles, where any
+value can form a lower and upper end-point of a range. In
+another aspect, the topical paste is composed of 10% to 80%,
+10% to 70%, 10% to 60%, 10% to 50%, 10% to 40%, 10%
+to 30%, 20% to 30%, 20% to 80%, 30% to 80%, 40% to
+80%. 50% to 80%, 60% to 80%, or 70% to 80% by weight
+granular particles,
+
+[0040] In one aspect, the antifungal agent used to produce
+the paste can be admixed with the excipient inert powder and
+the pharmaceutically acceptable topical carrier as a pure
+powder. Thus, in one aspect, pure antifungal compound
+(>99%) in powder form can be admixed with the excipient
+inert powder and the pharmaceutically accepmble topical
+carrier to produce the topical paste. The following is a
+non-limiting example of a 2% by weight topical paste of
+ketoconazole (100 g in total):
+
+[004]] 2 g ketoconazole (99.987% purity)
+
+[0042] 16 g talc
+
+[0043] 10 g starch
+
+[0044] 7 g zinc oxide
+
+[0045] 5 g magnesium oxide
+
+[0046] 60 g oil-in-water cream
+
+[0047] In another aspect, the antifungal agent has been
+
+formulated into a powder prior to admixing with the excipi-
+ent inert powder and the pharmaceutically acceptable topical
+carrier. An example of this is nystatin. Pure nystatin has not
+less than 4,400 units/mg (or 4,400,000 units/gm). The phar-
+maceutical concentration of nystatin is 100,000 units/gm.
+Therefore, the bulk of nystatin powder is an inert powder.
+Thus, when the antifungal has been formulated into a
+powder, the antifungal agent and any inert powder present in
+the antifungal agent can also contribute the degree of
+pastiness of the topical paste.
+[0048] In another aspect, topical paste produced by the
+process comprising admixing
+[0049] a. ﬁrst composition comprising an antifungal agent
+in a pharmaceutically acceptable topical carrier, and
+[0050] b. an excipient inert powder,
+wherein the excipient inert powder is in a suﬂicient amount
+to form a paste comprising granular particles evenly distrib-
+uted in the pharmaceutically acceptable topical cream.
+[0051] In this aspect, the antifungal agent has been for-
+mulated in the pharmaceutically acceptable topical canier
+
+Jan. 31, 2019
+
+prior to the addition of the excipient inert powder. For
+
+example, 1% clotrimazole cream (OTC) can admixed with
+
+one or more excipient inert powders to produce a topical
+paste with varying degrees of pastiness, In one aspect, the
+
+ﬁrst composition is 0.5% to 1.3% clotrimazole cream, 0.5%
+
+to 2% ketoconazole cream, 05% to 2% miconazole cream,
+
+05% to 1% oxiconazole cream, 05% to 1% luliconazole
+
+cream, or 05% to 2% terbinaﬁne cream, In another aspect,
+
+the ﬁrst composition is 1% clotrimazole cream, 1% clotri-
+mazole lotion, 1% clotrimazole topical solution, 2% keto-
+conazole cream, 2% miconazole nitrate cream, 1% oxicon-
+
+azole nitrate cream, 1% oxiconazole nitrate lotion, 1%
+
+econazole nitrate cream, 1% luliconazole cream, 1% terbi-
+
+naﬁne cream, and combinations thereof.
+
+[0052] It will be appreciated that the actual preferred
+
+amounts of antifungal agent will vary according to the
+
+speciﬁc compound being utilized, the particular composi-
+tions formulated, the mode of application, and the particular
+sites and subject being treated, Dosages for a given host can
+be determined using conventional considerations, e.g, by
+customary comparison of the diﬂerential activities of the
+subject compounds and of a known agent, e.g., by means of
+an appropriate conventional pharmacological protocol. Phy-
+sicians and formulators, skilled in the art of determining
+doses of pharmaceutical compounds, will have no problems
+determining dose according to standard recommendations
+
+(Physicians Desk Reference, Bamhart Publishing-1999), In
+
+one aspect, the antifungal agent is from 0.25 to 5% by
+
+weight of the paste. In another aspect, the antifungal agent
+is from 0.25 to 5%, 025 to 4%, 025 to 3%, or 0.5 to 3% by
+weight of the paste.
+
+[0053] In one aspect, the topical paste is composed of
+
+[0054] (l) a single antifungal agent composed of clotri-
+mazole, ketoconazole, miconazole, oxiconazole, econ-
+azole, nystatin, luliconazole, terbinaﬁne, ﬂuconazole,
+voriconazole, itraconazole, caspofungin, micafungin, naf-
+tiﬁne, butenaﬁne, amorolﬁne, ravuconazole, posacon-
+azole, ﬂucytosine, sertaconazole, eﬁnaconazole, enilacon-
+azole, saperconazole, sulconazole, terconazole,
+tioconazole, nikkomycin Z, anidulafungin (LY303366),
+pimaricin, griseofulvin, ciclopirox, haloprog'in, tolnaftate,
+or undecylenate;
+
+[0055] (2) an excipient inert powder comprising talc,
+starch, zinc oxide, zinc carbonate, magnesium oxide,
+magnesium carbonate, calamine, calcium carbonate,
+kaolin, titanium dioxide, or any combination thereof; and
+
+[0056] (3) an oil-in-water cream,
+
+wherein the paste comprises from 10% to 80% by weight
+
+granular particles, where the source of the granular particles
+
+is the excipient inert powder alone or in combination with
+the antifungal agent.
+
+[0057] In one aspect, the topical pastes are independently
+the following (% by weight including carrier and inert
+powder):
+
+[0058] Clotrimazole 1%
+
+[0059] Ketoconazole 2%
+
+[0060] Miconazole 2%
+
+[0061] Oxiconazole 1%
+
+[0062] Econazole 1%
+
+[0063] Luliconazole 1%
+
+[0064] Fluconazole 1%
+
+[0065] Itraconazole 1%
+
+[0066] Voriconazole 1%
+
+[0067] Sertaconazole 2%
+US 2019/0030055 A1
+
+; increasingly adsorbent pastes are appropriate with increas-
+ingly elevated moisture presence.
+
+[0152] Lastly, a paste dosage form of the allylamine anti
+fungal terbinaﬁne recently demonstrated enhanced eﬂicacy
+in the remedy of heat related inguinal and buttocks intertrigo
+in the subject of Trial 3.
+
+[0153] In summary, the paste formulations described
+herein are superior alternatives to current and standard
+singular antifungals and antifungal/ steroid combinations in
+the treatment of intertrigo in complicated patient situations
+as well as prompt ﬂare-up resolution of Candidal diaper
+dermatitis, which permits the resumption of barrier creams/
+ordinary protectants applied prophylactically.
+
+[0154] Throughout this application, various publications
+are referenced The disclosures of these publications in their
+entireties are hereby incorporated by reference into this
+application in order to more thlly describe the compounds,
+compositions, and methods described herein.
+
+[0155] Various modiﬁcations and variations can be made
+to the compounds, compositions and methods described
+herein. Other aspects of the compounds, compositions and
+methods described herein will be apparent from consider-
+ation of the speciﬁcation and practice of the compounds,
+compositions and methods disclosed herein. It is intended
+that the speciﬁcation and examples be considered as exem-
+plar'y.
+
+What is claimed:
+
+1. A topical paste comprising
+
+a. one or more antifungal agents,
+
+b. an excipient inert powder, and
+
+c. a pharmaceutically acceptable topical carrier,
+
+wherein the excipient inert powder is in a suﬁicient
+
+amount to form a topical paste.
+
+2. The paste of claim 1, wherein the antifungal agent is
+clotrimazole, ketoconazole, rniconazole, oxiconazole, econ-
+azole, luliconazole, terbinaﬁne, nystatin, ﬂuconazole, vori-
+conazole, itraconazole, caspofungin, micafungin, naﬁiﬁne,
+butenaﬁne, amorolﬁne, ravuconazole, posaconazole, ﬂucy-
+tosine, sertaconazole, eﬁnaconazole, enilaconazole, saper-
+conazole, sulconazole, terconazole, tioconazole, nikkomy-
+cin Z, anidulafungin (LY303366), pirnaricin, griseofulvin,
+ciclopirox, haloprogin, tolnaﬁate, undecylenate, or any com-
+bination thereof.
+
+3. The paste of claim 1, wherein the antifungal agent is a
+single agent.
+
+4. The paste of claim 3, wherein the antifungal agent is
+from 0.25 to 5% by weight of the paste.
+
+Jan. 3], 2019
+
+5. The paste of claim 3, wherein the antifungal agent is
+from 0.5 to 3% by weight of the paste.
+
+6. The paste of claim 3, wherein the antifungal agent is
+clotrimazole, nystatin, ketoconazole, miconazole, oxicon-
+azole, luliconazole, or terbinaﬁne.
+
+7. The paste of claim 1, wherein the excipient inert
+powder comprises talc, starch, zinc oxide, zinc carbonate,
+magnesium oxide, magnesium carbonate, calamine, calcium
+carbonate, kaolin, titanium dioxide, or any combination
+thereof.
+
+8. The paste of claim 1, wherein the paste comprises from
+10% to 80% by weight granular particles, where the source
+of the granular particles is the excipient inert powder alone
+or in combination with the antifungal agent.
+
+9. The paste of claim 1, wherein the pharmaceutically
+acceptable topical carrier comprises a gel, lotion, or cream.
+
+10. The paste of claim 1, wherein the pharmaceutically
+acceptable topical carrier comprises an oil-in-water cream
+base.
+
+11. The paste of claim 10, wherein the oil-in—water cream
+base comprises Dermabase, Velvachol, or Aquaphilic®.
+
+12. The paste of claim 1, wherein the pharmaceutically
+acceptable topical carrier comprises an oil-free cream,
+lotion, or gel.
+
+13. The paste of claim 12, wherein the oil-free cream,
+lotion, or gel comprises VersaBase®.
+
+14. A method for treating or preventing a fungal disease,
+the method comprising applying the paste of claim 1 to the
+subject.
+
+15. The method of claim 14, wherein the fungal disease
+comprises tinea cruris, tinea corporis, tinea versicolor, can-
+didiasis, tinea pedis, intertrigo, seborrhoeic dermatitis, dia-
+per rash, tinea capitis, tinea barbae, thrush. diaper dermatitis,
+or a combination thereof.
+
+16. The method of claim 14, wherein the fungal disease is
+intertrigo,
+
+17. The method of claim 14, wherein the fungal disease is
+diaper rash.
+
+18. The method of claim 14, wherein the composition
+treats at least one symptom comprising itching, a burning
+sensation, ﬂaking skin, peeling skin, rash, redness, cracking
+skin, scaly skin, blisters, macerated skin, odor, or a combi-
+nation thereof.
+
+19. The method of claim 14, wherein the subject has a
+weakened immune system resulting from HIV, AIDS, che-
+motherapy or radiation.
+
+*a=a=**
+US 2019/0030055 A1
+
+Powder (talc) was applied twice a day, which appeared to
+enable integumentary improvement in a dry, chemical-free
+environment; redness, inﬂammation, and maceration abated
+signiﬁcantly.
+
+[0141] Nystatin powder was then “tested” near onset of
+the next recurrence; bathing or cleansing and drying of
+affected and surrounding tissues preceded application two or
+three times a day. Substantial improvement ensued initially
+and appeared to provide a more sustainable healing “envi-
+ronrnen ”, though intertrigo presented repeatedly from time
+to time.
+
+[0142] Paste dosage formulations of the present invention
+were subsequently evaluated Although several creamy paste
+dosage formulations described herein were eﬁicacious, the
+female subject responded best to a creamy pasty clotrima-
+zole cream/nystatin powder formulation (a mixture of 20
+grams of nystatin powder spatulated into 30 grams of
+clotrimazole cream). Higher degrees of pastiness were
+employed in increasingly elevated situation with corre-
+spondingly favorable results. Various clinical presentations
+observed over time suggested ratios ranging from 4:1 to 1:1
+cream to powder. Resolution lasting months was achieved in
+the inguinal and upper thigh regions as well as occasional
+ﬂare-ups under heavy breasts. Repeated yet far less frequent
+challenges over several years yielded consistent, superior
+and reliable results. The cycle of recalcitrance and frequent
+resurgence has remained resolved in this subject for the past
+3 years.
+
+Trial 2
+
+[0143] A second obese, elderly female subject experienced
+similar favorable and lasting results using a creamy paste
+dosage formulations (20 grams of nystatin powder spatu-
+lated into 30 grams of clotrimazole cream) described herein
+following decades of frequent intertrigo treatment with
+conventional single-entity antifungal creams or powders and
+antiﬁlngal/steroid combinations. This subject also continues
+to rely on swift, predictable, and lasting resolution from
+occasional ﬂare-ups.
+
+Trial 3
+
+[0144] A third male subject who experienced occasional
+intertrigo over several years was evaluated. Nystatin—triam-
+cinolone cream was initially prescribed and applied twice
+daily on the infected areas. Although signiﬁcant relief from
+intense itching and burning was achieved within 3 days
+followed by a 90% reduction in inﬂammatory presentation
+within 2 weeks, reoccurrence ensued a week later with heat
+and exercise-induced sweating as aggravating factors. Once
+again, nystatin-triamcinolone cream reduced symptoms
+within a few days, and nystatin cream was applied twice a
+day for 3 more weeks but total resolution would not occur
+[0145] Other antimicrobial creams including miconazole
+nitrate, clotrimazole, and ketoconazole were intermittently
+applied in successive ﬂare-up situations over the next 4
+months; however, lasting resolution appeared unachievable
+as this cycle of recalcitrant yeast overgrowth refused to
+respond and abate with conventional pharmaceuticals.
+
+[0146] Next, several topical herb formulas containing
+various blends of calendula, tea tree oil, chamomile, echi-
+nacea, ginger, coconut oil, rosemary, organic jatoba, olive
+oil, thyme, vitamin E, lavender, and other pure essential oils
+were evaluated. Mixtures of these components were also
+
+Jan. 31, 2019
+
+evaluated in order to maximize elﬁcacy of the formulations.
+On several occasions, oral coconut oil capsules and iodine
+tablets were employed without lasting impact or predictable
+eﬂicacy. Topical lavender and tea tree oil formulations held
+the most utility but proved far too caustic when applied to
+macerated intertriginous regions. Most others simply lacked
+therapeutic beneﬁt. Ultimately, none proved worthy of men-
+tion or recommendation from a pharmacist recognized as
+one who only endorses superior products in any category.
+[0147] Conventional pharmaceutical antifungals were
+revisited, this time in combination. Cream/cream, ointrnent/
+ointment, solution/cream, lotion/cream mixtures of the vari-
+ous azoles/nystatin were employed seeking enhanced eﬁi-
+cacy and potential expanded coverage; disappointing lack of
+synergism was the result.
+
+[0148] Finally, comprehensive intertrigo management
+beginning with application of a mixture of 20 grams of
+nystatin powder spatulated into 30 grams of clotrimazole
+cream interrupted the prolonged cycle of partial remission
+followed by recurrence, escalation, and recalcitrance. Vary-
+ing degrees of pastiness were subsequently employed
+depending on degree of maceration, heat, and moisture
+presence. Affected and surrounding areas were cleansed and
+dried thoroughly prior to liberal application up to 4 times a
+day. Twice daily application proved suﬂicient after 4 days,
+and once daily maintenance with a creamier mixture after 10
+days carried therapy to term on day 15. Ancillary measures
+employed at various stages of treatment included occasional
+and soothing burows solution astringent compresses and
+frequent underwear changes.
+
+[0149] In the 5 years since, occasional ﬂare-ups of ingui-
+nal and perineal intertrigo have occurred from time to time
+allowing opportunities for further validation of the utility of
+the formulation described above; congruent with previous
+ﬁndings, higher degrees of pastiness were employed in
+increasingly elevated moisture situations with correspond-
+ingly favorable results. Incredibly, microbial balance and
+skin fold healing is oﬁen restored within 3 days when
+treatment is initiated in a timely fashion. Though most
+complicated clinical presentations require 10 to 14 days,
+total microbial eradication and overkill is unnecessary when
+follow up measures to control heat and moisture are
+employed following symptom resolution and integumentary
+normalcy restoration.
+
+[0150] For the sake of ongoing study, challenge, and
+comparison, the subject was administered a 1:1 mixture of
+clotrimarole cream and nystatin cream to treat inguinal
+intertrigo that had spread to the scrotum. However, this
+formulation provided limited results when compared to the
+administration of the 3:2 clotrimazole cream/nystatin pow-
+der paste, which was applied within 4 days with accelerated
+results consistent with above.
+
+[0151] Disappointing and discouraging fungicidal activity
+observations became predictably remarkable remedy with
+paste formulation and application of the same active phar-
+maceutical ingredient(s) (API(s)) employed previously.
+Unlike the pastes that controlled site moisture as well as
+yeast overgrowth, current azole creams, solutions , lotions,
+and nystatin cream or ointment products, by themselves or
+in combination were unremarkable and lacked potential
+efﬁcacy in simple and complicated yeast overgrowth pre-
+sentations. The pastes described herein remained the most
+encouraging object of present and future product study and
+development from a bulk active or a combination of API’s

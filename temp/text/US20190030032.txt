@@ -1,0 +1,1690 @@
+US 2019/0030032 A1
+
+and mixing. However, when cooled to room temperature,
+two clear liquid phases may form. Sometimes, the two clear
+layers may not be easy to detect, thus requiring strong light
+and a thorough inspection of the formulation to discern the
+boundary between the two phases. In a number of cases,
+formulations may appear clear and uniform on initial cool-
+ing to room temperature, but when left quiescent at room
+temperature for a period of several days or greater, the
+formulations may separate into two phases. For formulations
+that are at the border of phase separation, the formulation
+may turn cloudy and sometimes slowly separate into two
+phases.
+
+[0065] A variety of additives can optionally be included in
+the inventive formulations to modify the properties of the
+formulations as desired. The additives can be present in any
+amount that is sufﬁcient to impart the desired properties to
+the formulations. The amount of additive used will in
+general be a function of the nature of the additive and the
+effect to be achieved, and can be easily determined by one
+of skill in the art.
+
+[0066] When present, additive(s) are typically present in
+the formulations in an amount in the range from about 0.1
+percent to about 20 percent by weight, relative to the total
+weight of the formulation, and more typically, is present in
+the composition in an amount in the range from about 1, 2,
+or 5 percent to about 10 percent by weight, relative to the
+total weight of the formulation Certain additives, such as
+buﬁers, may be present only in small amounts in the relative
+to the total weight of the formulation.
+
+[0067] Another additive for use with the present compo-
+sitions are non-biodegradable polymers. Non-limiting
+examples of non-erodible polymers which can be used as
+additives include: polyacrylates, ethylene-vinyl acetate
+polymers, cellulose and cellulose derivatives, acyl substi-
+tuted cellulose acetates and derivatives thereof, non-erodible
+polyurethanes, polystyrenes, polyvinyl chloride, polyvinyl
+ﬂuoride, poly(vinyl imidazole), chlorosulphonated polyole-
+ﬁns, and polyethylene oxide.
+
+[0068] Preferred non-biodegradable polymers include
+polyethylene, polyvinyl pyrrolidone, ethylene vinylacetate,
+polyethylene glycol, cellulose acetate butyrate (“CAB”) and
+cellulose acetate propionate (“CAP").
+
+[0069] A further class of additives which can be used in
+the inventive formulations are natural and synthetic oils and
+fats. Oils derived from animals or from plant seeds of nuts
+typically include glycerides of the fatty acids, chieﬂy oleic,
+palmitic, stearic, and linolenic. As a rule the more hydrogen
+the molecule contains, the thicker the oil becomes.
+
+[007 0] Non-limiting examples of suitable natural and syn-
+thetic oils include vegetable oil, peanut oil, medium chain
+triglycerides, soybean oil, almond oil, olive oil, sesame oil,
+peanut oil, fennel oil, camellia oil, corn oil, castor oil, cotton
+seed oil, and soybean oil, either crude or reﬁned, and
+medium chain fatty acid triglycerides.
+
+[0071] Fats are typically glyceryl esters of higher fatty
+acids such as stearic and palmitic. Such esters and their
+mixtures are solids at room temperatures and exhibit crys-
+talline structure. Lard and tallow are examples. In general
+oils and fats increase the hydrophobicity of the formulation,
+slowing degradation and water uptake.
+
+[0072] Another class of additives which can be used in the
+inventive formulations comprise carbohydrates and carbo-
+hydrate derivatives. Non-limiting examples of these com-
+pounds include monosaccarides (simple sugars such as
+
+Jan. 3], 2019
+
+fructose and its isomer glucose (dextrose); disaccharides
+such as sucrose, maltose, cellobiose, and lactose; and poly-
+saccarides.
+
+[0073] Other additives, such as preservatives, stabilizers,
+anti-oxidants, coloring agents, isotonic agents, hurnectants,
+sequesterants, vitamins and vitamin precursors, surfactants
+and the like, may be added as needed. As preferred examples
+of preservatives, paraben derivatives are given with methyl
+paraben and propyl paraben given as most preferred preser-
+vatives. As preferred examples of anti-oxidants, butyl
+hydroxyanisole, butyl hydroxytoluene, propyl gallate, vita-
+min E acetate, and puriﬁed hydroquinone are given with
+vitamin E acetate and butyl hydroxytoluene given as most
+preferred anti-oxidants. Given as preferred examples of
+humectant is sorbitol. Given as preferred examples of
+sequesterant is citric acid.
+
+[0074] Inventive formulations may be made according to
+a number of methods. In certain embodiments, ﬁrst combine
+room temperature solvent(s), room temperature linear poly-
+mer and HVLCM heated to 80° C. Next, mix at (SO-80° C.
+for a period of several hours to overnight (8-16 hours) until
+the formulation is well-mixed. In other embodiments, dis-
+solve the linear polymer in all of the solvent(s). Add hot
+HVLCM (heated at up to 80° C). Then, mix at temperature
+of room temperature to 80° C. for 1 hour to overnight (8-16
+hours) until the formulation is well-mixed. In yet other
+embodiments, dissolve the linear polymer in some of the
+solvent(s). Mix the remainder of the solvent(s) with the
+HVLCM. Add hot HVLCM/solvent mixture (heated at up to
+80° C.) to the linear polymer/solvent(s) mixture. Then, mix
+at temperatures that may range from room temperature to
+80° C. for 1 hour to overnight (8-16 hours), until the
+formulation is well-mixed.
+
+[0075] Inventive formulations are preferably prepared at
+temperatures above room temperature. Once mixed, the
+formulations may be cooled back to room temperature and
+initially observed for cloudiness (indication of incipient
+phase separation), the presence of two liquid layers (usually
+of low to moderate viscosity) or the presence of a viscous
+layer underneath a less viscous layer. The formulations may
+then be leﬁ at room temperature for a signiﬁcant period
+(usually one week or greater) and observed again for cloudi-
+ness, separation into two layers of moderate viscosity or the
+presence of a viscous layer.
+
+[0076] Inventive formulations may be administered to
+subjects using conventional routes of administration, such as
+injection. Effective amounts of biologically active sub-
+stances may be incorporated into the inventive formulations
+so as to achieve a desired pharmacological effect.
+
+[0077] While there has been described and pointed out
+features and advantages of the invention, as applied to
+present embodiments, those skilled in the medical art will
+appreciate that various modiﬁcations, changes, additions,
+and omissions in the method described in the speciﬁcation
+can be made without departing from the spirit of the inven-
+tion.
+
+[0078] The present invention is not to be limited in terms
+of the particular embodiments described in this application,
+which are intended as single illustrations of individual
+aspects of the invention. Many modiﬁcations and variations
+of this invention can be made without departing from its
+spirit and scope, as will be apparent to those skilled in the
+art. Functionally equivalent methods witltin the scope of the
+invention, in addition to those enumerated herein, will be
+US 2019/0030032 A1
+
+N-methylpyrrolidone in the formulation, based on the total
+weight of the hypothetical fonnulation that would contain
+the N-methylpyrrolidone.
+
+[0056] Thus, in an embodiment, a formulation having a
+solvent capacity of about 20% would have sufﬁcient
+amounts of one or more solvents to dissolve the HVLCM
+and linear polymer to the same extent as if about 20% by
+weight of NMP were added to the formulation instead of the
+one or more solvents If NMP were present as the one or
+more solvents in this embodiment, it would be present in an
+amount of about 20% by weight, based on the total weight
+of the formulation. If the one or more solvents were poorer
+solvents for the HVLCM and linear polymer, then the one or
+more solvents would be present in an amount greater than
+about 20% by weight, based on the total weight of the
+formulation. This is illustrated further in Examples 10 and
+11.
+
+[0057] In certain embodiments, when R (the ratio of
+lactide repeat units to total repeat units in the linear polymer)
+is between about 0.55 to 0.85, the solvent capacity of the one
+or more solvents is greater than or equal to about 35%, more
+preferably greater than or equal to about 25%; and still more
+preferably greater than or equal to about 20%. Likewise, in
+cemin embodiments, when R ranges from greater than 0.85
+to about 0.95, the solvent capacity of the one or more
+solvents is greater than or equal to about 25%, more pref-
+erably greater than or equal to about 15%, and still more
+preferably greater than or equal to about 10%. Decrease in
+the lower boundary of solvent capacities represents a physi-
+cal narrowing of the range of claimed formulations. This is
+because the number of formulations that exhibit satisfactory
+solubility behavior over the full range of recited solvent
+capacities decreases as the lower boundary of solvent capac-
+ity decreases.
+
+[0058] “Subject” is used interchangeably with “indi-
+vidual” and means any human or animal with which it is
+desired to practice the present invention. The term “subject”
+does not denote a particular age, and the present systems are
+thus suited for use with subjects of any age, such as infant,
+adolescent, adult and senior aged subjects In certain embodi-
+ments, a subject may comprise a patient
+
+[0059] “Weight average molecular weight” or “MW”
+means the weighted average molecular weight of polymers
+of interest. It can be expressed at the ﬁrst moment of a plot
+of the weight of polymer in each molecular weight range
+against molecular weight. In certain embodiments, weight-
+average molecular weight, Number-average molecular
+weight (Mn), and the molecular weight distribution
+(MWD:Mw/Mn) may be measured by gel permeation chro-
+matography (GPC). GPC is a column fractionation method
+wherein polymer molecules in solutions are separated based
+on their sizes. The separated polymer molecules are
+observed by a detector to generate the GPC chromatogram,
+which is a plot of elution volume or time (related to
+molecular size) versus abundance. The GPC chromatogram
+may be integrated to determine Mw, Mn, and MWD.
+
+[0060] GPC samples of polymer(s) of interest, approxi-
+mately 50 mg in 10 mL solvent, are ﬁltered through a 0.2 pm
+Teﬂon ﬁlter before injection into the instrument. Injections
+of 50-200 [LL are made to generate chromatograms. Chro-
+matograms may be generated using Various systems. In an
+embodiment, a system comprises an Agilent LC 1100 using
+Chemstation software. In another embodiment, a system
+comprises a Waters 510 pump, a Shimadzu CTO-lOA col-
+
+Jan. 31, 2019
+
+um oven, and a Waters 410 differential refractometer. Data
+may be recorded directly to a PC via a Polymer [abs data
+capture unit using Caliber® software. A calibration curve
+may be generated using polystyrene standards. Mw, Mn, and
+MWD relative to polystyrene are calculated. Preferred sol-
+vents for use in GPC comprise: chloroform, dichlormethane
+(methylene chloride), and tetrahydrofuran (THF). Preferred
+different column sets comprise: (1) two Polymer Labs
+Mixed C columns in series, (2) two Polymer Labs Mixed D
+columns in series, or (3) two Polymer Labs Mesopore
+columns in series. Preferred polystyrene calibrants com-
+prise: Polymer Labs Easical PSl kit, Polymer Labs Easical
+PS2 kit, Polymer Labs S-L-lO kit.
+
+[0061] In embodiments, the weight average molecular
+weight of polymers useful in the practice of the present
+invention is less than or equal to about 15,000 Daltons,
+additionally more preferably less than or equal to about
+12,500 Daltons, and yet more preferably less than or equal
+to about 10,000 Daltons.
+
+Formulations
+
+[0062] As noted above, an important consideration in
+development of formulations according to the invention is
+the miscibility or solubility of the polymer in the formula-
+tion with the HVLCM. In situations where the polymer is
+not miscible or soluble in the formulation with the HVLCM,
+phase separation of the polymer and the HVLCM in the
+formulation may occur. Once this occurs, it may be very
+difﬁcult to remix the polymer and the HVLCM, especially at
+the point of use. Should improper remixing occur, undesir-
+ably wide variations in release performance might result.
+Accordingly, formulations that have high miscibility or
+solubility of the polymer in the formulation with the
+HVLCM are desirable.
+
+[0063] The inventive formulations possess this high mis-
+cibility or solubility of the polymer in the formulation with
+the HVLCM. Other points useful to consider in terms of
+formulation strategy may include the following. Minimizing
+total solvent content of the formulations is generally bio-
+logically desirable, for instance in an embodiment having a
+solvent content ranging from about one weight percent up to
+about 35 wt % solvent, preferably ranging from about one
+weight percent up to about 30 wt %, and yet more preferably
+ranging from about one weight percent up to about 25 wt %,
+based on the total weight of the formulation. In contrast,
+increasing solvent content can move a HVLCM/linear poly-
+mer/solvent composition from phase separation to single
+phase behavior. The one or more solvents should be bio-
+compatible, which may eliminate some solvents from use in
+the invention In an embodiment, the one or more solvents
+should be good solvents for both the polymer and HVLCM.
+In an alternate embodiment, the formulation may comprise
+the HVLCM, the linear polymer, one or more good solvents
+for the linear polymer and one or more good solvents for the
+HVLCM, with the resultant formulation being a single
+phase.
+
+[0064] Solubility and phase separation of various
+HVLVM/linear polymer/solvent formulation may be inves-
+tigated by Visual techniques well known to those skilled in
+the art. For formulations with signiﬁcant instability or ten-
+dency to phase-separate, the linear polymer may absorb
+solvent but remain as a separated, Very viscous layer or
+phase in the formulation. Other formulations might be
+rendered into a uniform clear solution by sufﬁcient heating
+US 2019/0030032 A1
+
+peptide, polysaccharide, glycoprotein, glycolipid, nucleic
+acid, or combination thereof, which elicits an immunogenic
+response in an animal, for example, a mammal, bird, or ﬁsh.
+As deﬁned herein, the immunogenic response can be
+humoral or cell-mediated, In the event the material to which
+the immunogenic response is to be directed is poorly anti-
+genic, it may be conjugated to a carrier such as albumin or
+to a hapten, using standard covalent binding techniques, for
+example, with one of the several commercially available
+reagent kits
+
+[0037] Examples of preferred antigens include viral pro-
+teins such as inﬂuenza proteins, human immunodeﬁciency
+vints (HIV) proteins, and hepatitis A, B, or C proteins, and
+bacterial proteins, lipopolysaccharides such as gram nega-
+tive bacterial cell walls and Neisseria gonorrhea proteins,
+and parvovirus.
+
+[0038] Non-limiting examples of pharmacological mate-
+rials include anti-infectives such as nitrofurazone, sodium
+propionate, antibiotics, including penicillin, tetracycline,
+oxytetracycline, chlorotetracycline, bacitracin, nystatin,
+streptomycin, neomycin, polymyxin, gramicidin, chloram-
+phenicol, erythromycin, and azithromycin; sulfonamides,
+including sulfacetamide, sulfamethizole, sulfamethazine,
+sulfadiazine, sulfamerazine, and sulfisoxazole, and anti-
+virals including idoxuridine; antiallergenics such as antazo-
+line, metiapyritene, chlorpheniramine, pyrilamine prophen-
+pyridamine, hydrocortisone, cortisone, hydrocortisone
+acetate, cexamethasone, dexamethasone 21 -phosphate, ﬂuo-
+cinolone, triamcinolone, medrysone, prednisolone, predni-
+solone 21-sodium succinate, and prednisolone acetate;
+desensitizing agents such as ragweed pollen antigens, hay
+fever po len antigens, dust antigen and milk antigen; vac-
+cines such as smallpox, yellow fever, distemper, hog chol-
+era, chic (en pox, antivenom, scarlet fever, dyptheria toxoid,
+tetanus toxoid, pigeon pox, whooping cough, inﬂuenzae
+rabies, mumps, measles, poliomyelitic, and Newcastle dis-
+ease; decongestants such as phenylephrine, naphazoline, and
+tetrahydrazoline, miotics and anticholinesterases such as
+pilocarpine, esperine salicylate, carbachol, diisopropyl ﬂuo-
+rophosp iate, phospholine iodide, and demecarium bromide;
+parasympatholytics such as atropine sulfate, cyclopentolate,
+homatroaine, scopolamine, tropicamide, eucatropine, and
+hydroxyamphetamine; sympathomimetics such as epineph-
+rine; secatives and hypnotics such as pentobarbital sodium,
+phenobarbital, secobarbital sodium, codeine, (a-bromois-
+ovaleryl) urea, carbromal; psychic energizers such as 3-(2-
+aminopropyl) indole acetate and 3-(2-aminobutyl) indole
+acetate; tranquilizers such as reserpine, chlorpromayline,
+and thiopropazate; androgenic steroids such as methyl-
+testosterone and ﬂuorymesterone; estrogens such as estrone,
+l7-,beta,-estradiol, ethinyl estradiol, and diethyl stilbestrol;
+progestational agents such as progesterone, megestrol,
+melengestrol, clilormadinone, ethisterone, norethynodrel,
+19-norprogesterone, norethindrone, medroxyprogesterone
+and 17-.beta.-hydroxy-progesterone', humoral agents such as
+the prostaglandins, for example PGEsubJ, PGE.sub.2 and
+PGF.sub.2; antipyretics such as aspirin, sodium salicylate,
+and salicylamide; antispasmodics such as atropine, methan-
+theline, papaverine, and methscopolamine bromide; antima-
+larials such as the 4-aminoquinolines, 8-aminoquinolines,
+chloroquine, and pyrimethamine, antihistamines such as
+diphenhydramine, dimenhydrinate, tripelennamine, per-
+phenazine, and chlorphenazine; cardioactive agents such as
+dibenzhydroﬂume thiazide, ﬂumethiazide, chlorothiazide,
+
+ 
+
+Jan. 31, 2019
+
+and aminotrate; antipsychotics including typical and atypi-
+cal antipsychotics, wherein the atypical antipsychotics com-
+prise risperidone, paliperidone, or olanzapine; nutritional
+agents such as vitamins, natural and synthetic bioactive
+peptides and proteins, including growth factors. cell adhe-
+sion factors, cytokines, and biological response modiﬁers;
+together with pharmaceutically acceptable salts and poly-
+morphs of the above.
+
+[0039] The biologically active substance is included in the
+composition in an amount suﬂicient to deliver to the host
+animal or plant an eifective amount to achieve a desired
+effect. The amount of biologically active substance incor-
+porated into the composition depends upon the desired
+release proﬁle, the concentration of biologically active sub-
+stance required for a biological eﬂ‘ect, and the desired period
+of release of the biologically active substance,
+
+[0040] The concentration of biologically active substance
+in the composition will also depend on absorption, inacti-
+vation, and excretion rates of the biologically active sub-
+stance as well as other factors known to those of skill in the
+art. It is to be noted that dosage values will also vary with
+the severity of the condition to be alleviated. It is to be
+further understood that for any particular subject, speciﬁc
+dosage regimens should be adjusted over time according to
+the individual need and the professional judgment of the
+person administering or supervising the administration of
+the inventive formulations, and that the concentration ranges
+set forth herein are exemplary only and are not intended to
+limit the scope or practice of the claimed invention. The
+formulations may be administered in one dosage, or may be
+divided into a number of smaller doses to be administered at
+varying intervals of time.
+
+[0041] The biologically active substance is typically pres-
+ent in the formulations in the range from about 0.5 percent
+to about 30 percent by weight relative to the total weight of
+the formulations, and more typically, between approxi-
+mately 1 percent to about 20 percent by weight, and more,
+Another preferred range is from about 2 percent to about 10
+percent by weight. For very active biologically active sub-
+stances, such as growth factors, preferred ranges are less
+than 1% by weight, and less than 0.0001%.
+
+[0042] “Formulation” means a pharmaceutical composi-
+tion useful in the practice of this invention.
+
+[0043] “Linear” means a polymer in which the molecules
+form long chains substantially without branches or cross-
+linked structures.
+
+[0044] “Non-polymeric, non-water soluble high viscosity
+liquid carrier material having a viscosity of at least 5,000 cP
+at 37° C. that does not crystallize neat under ambient or
+physiological conditions” means a high viscosity liquid
+carrier material (“HVLCM”) that is non-polymeric, non-
+water soluble, and has a viscosity of at least 5,000 cl);
+preferably at least 10,000, 15,000; 20,000; 25,000 or even
+50,000 cP; at 37° C. that does not crystallize neat under
+ambient or physiological conditions. The term non-water
+soluble refers to a material that is soluble in water to a degree
+of less than one percent by weight under ambient conditions,
+[0045] In a preferred embodiment, the HVLCM signiﬁ-
+cantly decreases in viscosity when mixed with a solvent to
+form a low viscosity liquid carrier material (“LVLCM”) that
+can be mixed with a substrate for controlled delivery. The
+LVLCM/substrate composition is typically easier to place in
+the body than a HVLCM/substrate composition, because it
+ﬂows more easily into and out of syringes or other implan-
+US 2019/0030032 A1
+
+tation means, and can easily be formulated as an emulsion.
+The LVLCM can have any desired viscosity. It has been
+found that a viscosity range for the LVLCM of less than
+approximately 2000 cP, and more particularly less than 1000
+cP, is typically useful for in vivo applications
+
+[0046] In a preferred embodiment, sucrose acetate isobu-
+tyrate (“SAIB"), a sucrose molecule nominally esteriﬁed
+preferably with two acetic acid and six isobutyric acid
+moieties, is used as the HVLCM.
+
+[0047] SAIB is orally non-toxic and is currently used as to
+stabilize emulsions in the food industry. It is a very viscous
+liquid and has an unusual property that there is a dramatic
+change in viscosity with small additions of heat or with the
+addition of solvents. It is soluble in a large number of
+biocompatible solvents. When in solution or in an emulsion,
+SAIB can be applied via injection or an aerosol spray, SAIB
+is compatible with cellulose esters and other polymers that
+can aﬁect the rate of delivery of the substance
+
+[0048] In other embodiments, the HVLCM can be stearate
+esters such as those of propylene glycol, glyceryl, diethyl-
+aminoethyl, and glycol, stearate amides and other long-chain
+fatty acid amides, such as N,N'-ethylene distearamide, stear-
+amide MBA and DEA, ethylene bistearamide, cocoamine
+oxide, long-chain fatty alcohols, such as cetyl alcohol and
+stearyl alcohol, long-chain esters such as myristyl myristate,
+beheny emcate, and glyceryl phosphates. In a particular
+embodiment, the HVLCM is acetylated sucrose distearate
+(Crodesta A-lO). Additional materials suitable for use as the
+HVLCM are disclosed in US Patent Application Publication
+US 2004/0101557 by Gibson et a1.
+
+[0049] The amount of HVLCM in a formulation will
+depend on the desired properties of a formulation and the
+solvent capacity of the chosen solvent. If the chosen solvent
+has poor solvent capacity performance, then the actual
+amount of solvent may be large, with a corresponding
+reduction in the amount of HVLCM in the formulation. The
+HVLCM is typically present in controlled delivery compo-
+sitions in an amount in the range from about 99.5 percent to
+about 10 percent by weight, more typically, between 95 and
+25 percent, and most typically, between 85 and 45, relative
+to the total weight of the composition.
+
+[0050] “Polymer” means a naturally occurring or synthetic
+compound made up of a linked series of repeat units.
+Polymer(s) include, but are not limited to, thermoplastic
+polymers and thermoset polymers, Polymer(s) may com-
+prise linear polymers and/or branched polymers. Polymers
+may be synthesized from a single species of monomers, or
+may be copolymers that may be synthesized from more than
+one species of monomers. In embodiments, polymers
+according to the invention comprise polymers that comprise
+lactide repeat units. Polymers according to the invention
+may also comprise repeat units of other suitable materials,
+including but not limited to glycolide repeat units, polyeth-
+ylene glycol repeat units, caprolactone repeat units, valero-
+lactone repeat units, and the like. lnitiators for such poly-
+mers include but are not limited to diol initiators including
+l,6-hexanediol, 1,2-propanediol, 1,3-propanediol, 1,4-bu-
+tanediol and the like; diol initiators including difunctional
+poly(ethylene glycol)s (PEGs); monofunctional alcohol ini-
+tiators including l-dodecanol, methyl lactate, ethyl lactate
+and the like; monofunctional PEGs including methoxy(poly-
+ethylene glycol) (mPEG); and other initiators including
+water, glycolic acid, lactic acid, citric acid, and the like. In
+preferred embodiments, the polymer comprises a biodegrad-
+
+Jan. 3], 2019
+
+able polymer, In additional preferred embodiments, the
+polymer comprises a biocompatible polymer. In embodi-
+ments, the polymer may be present in amounts ranging from
+about 1 wt % to about 45 wt %; more preferably, the polymer
+may be present in amounts ranging from about 5 wt % to
+about 35 wt %; and yet more preferably the polymer may be
+present in amounts ranging from about 5 wt % to about 25
+wt %, all based on the total weight of the formulation, In
+other embodiments, the polymer may be present in an
+amount ranging from about 15 wt % to about 45 wt %;
+preferably the polymer may be present in amounts ranging
+from about 15 wt % to about 35 wt %, all based on the total
+weight of the formulation.
+
+[0051] “Repeat units” means residues of monomers that
+are covalently incorporated into a polymer. In embodiments,
+lactide repeat units comprise lactide residues. In certain
+embodiments, glycolide repeat units comprise glycolide
+residues. In embodiments, a linear polymer may possess a
+ratio R of lactide repeat units to total repeat units in the linear
+polymer, wherein R may range from about 055 to about
+0.95, Ranges of R of particular interest are from about 0.55
+to 0.85, and from great than 085 to about 0.95. R may be
+determined experimentally or analytically for each polymer
+by proton NMR or similar techniques.
+
+[0052] “Solvent(s) means materials that are capable of
+dissolving other materials. Preferably, solvents used in the
+practice of the present invention are biocompatible, water
+miscible anrﬂor water soluble, and/or non-toxic. In embodi-
+ments, the biologically active substance may be soluble in
+the solvent. The solvents used to inject the inventive for-
+mulations into animals should not cause signiﬁcant tissue
+irritation or necrosis at the site of implantation, unless
+irritation or necrosis is the desired effect.
+
+[0053] The solvent is preferably water miscible and/or
+water soluble, so that it will diffuse into bodily ﬂuids or other
+aqueous environment, causing the formulation to assume a
+more viscous form. Certain solvents that are not water
+miscible and/or not water soluble may also be used in the
+practice of the invention. Examples of suitable solvents
+include but are not limited to ethanol, ethyl lactate, propyl-
+ene carbonate, glycofurol, N-methylpyrrolidone, 2-pyrroli-
+done, benzyl benzoate, miglyol, propylene glycol, acetone,
+methyl acetate, ethyl acetate, methyl ethyl ketone, benzy
+alcohol, triacetin, dimethylforrnamide, dimethylsulfoxide,
+tetrahydrofuran, caprolactam, decylmethylsulfoxide, oleic
+acid, and/or l-dodecylazacycloheptan-2-one, and combina-
+tions of any ofthe above; with the proviso that one or more
+of the above listed solvents may be speciﬁcally exclude
+from the scope of the invention if it is to be disclaimed.
+
+[0054] When SAIB is used as the HVLCM, the preferre
+solvents include ethanol, dimethylsulfoxide, ethyl lactate,
+ethyl acetate, benzyl alcohol, triacetin, N-methylpyrroli-
+done, propylene carbonate, and glycofurol. SAIB is not
+miscible with glycerol, com oil, peanut oil, 1,2-propanediol,
+polyethylene glycol (PEG200), super reﬁned sesame oil, an
+super reﬁned peanut oil. Accordingly, the latter group 0
+solvents are not preferred for use with SAIB.
+
+[0055] “Solvent capacity” means amount(s) of the one or
+more solvents that dissolves the HVLCM and linear polymer
+in the formulation to the same extent as would a hypothetica
+amount of N-methylpyrrolidone in the formulation Solvent
+capacity is expressed as that hypothetical weight percent 0
+US 2019/0030032 A1
+
+DEPOT FORMULATIONS
+
+RELATED APPLICATIONS
+
+[0001] The present application is a Continuation of appli-
+cation Ser. No. 13/790,902, ﬁled Mar. 8, 2013, which is a
+Continuation of application Ser. No. 12/152,764, ﬁled May
+16, 2008, which is a non-provisional of Provisional Appli-
+cation No 60/930,739, ﬁled May 18, 2007. The disclosures
+of application Ser. Nos. 13/790,902 and 12/152,764 are
+expressly incorporated by reference herein their entireties.
+
+BACKGROUND OF THE INVENTION
+
+Field of the Invention
+
+[0002] The invention relates to formulations comprising
+non-polymeric, non-water soluble high viscosity liquid car-
+rier materials, linear polymers and one or more solvents.
+More particularly, the invention relates to such formulations
+and their use in biologically active substance delivery.
+
+Description of Related Art
+
+[0003] There has been extensive research in the area of
+biodegradable controlled release systems for bioactive com-
+pounds, Biodegradable matrices for drug delivery are useful
+because they obviate the need to remove the drug-depleted
+device,
+
+[0004] The most common matrix materials for drug deliv-
+ery are polymers. The ﬁeld of biodegradable polymers has
+developed rapidly since the synthesis and biodegradability
+of potylactic acid was reported by Kulkarni et al., in 1966
+(“Polylactic acid for surgical implants,” Arch. Surg,
+93:839), Examples of other polymers which have been
+reported as useful as a matrix material for delivery devices
+include polyanhydrides, polyesters such as polyglycolides
+and polylactide-co-glycolides, polyamino acids such as
+polylysine, polymers and copolymers of polyethylene oxide,
+acrylic terminated polyethylene oxide, polyamides, polyure-
+thanes, polyorthoesters, polyacrylonitriles, and polyphosp-
+hazenes, See, for example, US. Pat, Nos. 4,891,225 and
+4,906,474 to Langer (polyanhydrides), U.Sl Pat No. 4,767,
+628 to Hutchinson (polylactide, l polylactide-co-glycolide
+acid), and US. Pat. No, 4,530,840 to Tice, et a1, (polylactide,
+polyglycolide, and copolymers).
+
+[0005] Degradable materials of biological origin are well
+known, for example, crosslinked gelatin. Hyaluronic acid
+has been crosslinked and used as a degradable swelling
+polymer for biomedical applications (US. Pat. No. 4,957,
+744 to Della Valle et al., (1991) “Surface modiﬁcation of
+polymeric biomaterials for reduced thrombogenicity,”
+Polym. Mater. Sci Eng, 62:731-735)
+
+[0006] Biodegradable hydrogels have also been developed
+for use in controlled drug delivery as carriers of biologically
+active materials such as hormones, enzymes, antibiotics,
+antineoplastic agents, and cell suspensions. Temporary pres-
+ervation of functional properties of a carried species, as well
+as the controlled release of the species into local tissues or
+systemic circulation, have been achieved. See for example,
+US Pat. No. 5,149,543 to Cohen. Proper choice ofhydrogel
+macromers can produce membranes with a range of perme-
+ability, pore sizes and degradation rates suitable for a variety
+of applications in surgery, medical diagnosis and treatment.
+[0007] Many dispersion systems are currently in use as, or
+being explored for use as, carriers of substances, particularly
+
+Jan. 31, 2019
+
+biologically active compounds. Dispersion systems used for
+pharmaceutical and cosmetic formulations can be catego-
+rized as either suspensions or emulsions. Suspensions are
+deﬁned as solid particles ranging in size from a few nano-
+meters up to hundreds of microns, dispersed in a liquid
+medium using suspending agents. Solid particles include
+microspheres, microcapsules, and nanospheres. Emulsions
+are deﬁned as dispersions of one liquid in another, stabilized
+by an interfacial ﬁlm of emulsiﬁers such as surfactants and
+lipids. Emulsion formulations include water in oil and oil in
+water emulsions, multiple emulsions, microemulsions,
+microdroplets, and liposomes, Microdroplets are unilamellar
+phospholipid vesicles that consist of a spherical lipid layer
+with an oil phase inside, as deﬁned in U.Sl Pat Nos.
+4,622,219 and 4,725,442 issued to Haynes. Liposomes are
+phospholipid vesicles prepared by mixing water-insoluble
+polar lipids with an aqueous solution. The unfavorable
+entropy caused by mixing the insoluble lipid in the water
+produces a highly ordered assembly of concentric closed
+membranes of phospholipid with entrapped aqueous solu-
+tion.
+
+[0008] US. Pat. No. 4,938,763 to Dunn, et al., discloses a
+method for forming an implant in situ by dissolving a
+non-reactive, water insoluble thermoplastic polymer in a
+biocompatible, water soluble solvent to form a liquid, plac-
+ing the liquid within the body, and allowing the solvent to
+dissipate to produce a solid implantl The polymer solution
+can be placed in the body via syringe. The implant can
+assume the shape of its surrounding cavity. In an alternative
+embodiment, the implant is formed from reactive, liquid
+oligomeric polymers which contain no solvent and which
+cure in place to form solids, usually with the addition of a
+curing catalyst.
+
+[0009] US. Pat. No. 5,747,058 to Tipton et al., discloses
+a composition for the controlled release of substances that
+includes: (i) a non-polymeric, non-water soluble liquid
+carrier material (HVLCM) of viscosity of at least 5,000 cP
+at 37ldegree. C that does not crystallize neat under ambient
+or physiological conditions; and (ii) a substance to be
+delivered.
+
+[0010] While a number of materials have been evaluated
+for use in the controlled delivery of substances, there
+remains a need for formulations and methods that provide
+controlled delivery of biologically active substances with
+low toxicity,
+
+BRIEF SUMNIARY OF THE INVENTION
+
+[0011] In an aspect, the invention relates to formulations
+comprising: (i) a non-polymeric, non-water soluble high
+viscosity liquid carrier material having a viscosity of at least
+5,000 cP at 37° C. that does not crystallize neat under
+ambient or physiological conditions; (ii) a linear polymer
+comprising lactide repeat units, wherein the linear polymer
+possesses a ratio R of lactide repeat units to total repeat units
+in the linear polymer; and (iii) one or more solvents that
+have a solvent capacity; wherein the linear polymer has a
+weight average molecular weight less than or equal to about
+15,000 Daltons, and wherein (a) R satisﬁes the following:
+about 0,55sRsabout 0.95; (b) when R satisﬁes the follow-
+ing: about 0.555R50.85, the solvent capacity of the one or
+more solvents is greater than or equal to about 20%; and (c)
+when R satisﬁes the following: greater than about 0.85 to
+about 0.95, the solvent capacity of the one or more solvents
+is greater than or equal to about 10%.
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0030032 A1
+
+WRIGHT et a].
+
+US 20190030032Al
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+(71)
+
+(72)
+
+(73)
+
+(21)
+(22)
+
+(63)
+
+(60)
+
+DEPOT FORMULATIONS
+
+Applicant: DURECT CORPORATION,
+Cupeitino, CA (US)
+
+Inventors: Jeremy C. WRIGHT, Los Altos, CA
+(US); Felix THEEUWES, Los Altos
+Hills, CA (US); John W. GIBSON,
+Springville, AL (US); Keith E.
+BRANHAM, Pelham, AL (US);
+Stefania SJOBECK, Astorp (SE)
+
+Assignee: DURECT CORPORATION,
+Cupertino, CA (US)
+
+Appl. No: 16/017,477
+Filed: Jun. 25, 2018
+
+Related US. Application! Data
+
+Continuation of application No. 13/790,902, ﬁled on
+Mar. 8, 2013, now Pat. No. 10,028,957, which is a
+continuation of application No. 12/152,764, ﬁled on
+May 16, 2008, now abandoned.
+
+Provisional application No, 60/930,739, ﬁled on May
+18, 2007.
+
+Publication Classiﬁcation
+
+(51) Int. Cl.
+A61K 31/519 (2006.01)
+A61K 47/22 (2006.01)
+A61K 47/34 (2006.01)
+A61K 47/26 (2006.01)
+A61K 9/00 (2006.01)
+A61K 9/10 (2006.01)
+A61K 9/03 (2006.01)
+(52) US. Cl.
+CPC A6IK 31/519 (2013.01); A61K 47/22
+
+ 
+
+(2013.01); A61K 47/34 (2013.01); A61K 47/26
+(2013.01); A61K 9/10 (2013.01); A61K 9/08
+(2013.01); A61K 9/0024 (2013.01); A61K
+9/0019 (2013.01)
+
+(57) ABSTRACT
+
+Disclosed are fomiulations and related methods that com-
+prise a non-polymeric, non-water soluble high Viscosity
+liquid carrier material having a viscosity of at least 5,000 cP
+at 37° C. that does not crystallize neat under ambient or
+physiological conditions; a speciﬁed linear polymer com-
+prising lactide repeat units; and one or more solvents that
+have a solvent capacity.
+US 2019/0030032 A1
+
+[0012] In another aspect, the invention relates to formu-
+lations comprising: (i) a non-polymeric, non-water soluble
+high viscosity liquid carrier material having a viscosity of at
+least 5,000 c? at 37° C, that does not crystallize neat under
+ambient or physiological conditions; (ii) a linear polymer
+comprising lactide repeat units, wherein the linear polymer
+possesses a ratio R of lactide repeat units to total repeat units
+in the linear polymer; and (iii) one or more solvents that
+have a solvent capacity; wherein the linear polymer has a
+weight average molecular weight less than or equal to about
+15,000 Daltons, and wherein: (a) R satisﬁes the following:
+about 0.55sRs0.85; and (b) the solvent capacity of the one
+or more solvents is greater than or equal to about 20%i
+[0013] In yet another aspect, the invention relates to
+formulations comprising: (i) a non-polymeric; non-water
+soluble high viscosity liquid canier material having a vis-
+cosity of at least 5,000 c? at 37° C: that does not crystallize
+neat under ambient or physiological conditions; (ii) a linear
+polymer comprising lactide repeat units, wherein the linear
+polymer possesses a ratio R of lactide repeat units to total
+repeat units in the linear polymer; and (iii) one or more
+solvents that have a solvent capacity; wherein the linear
+polymer has a weight average molecular weight less than or
+equal to about 15,000 Daltons, and wherein (a) R satisﬁes
+the following: greater than about 0.85 to about 095; and (b)
+the solvent capacity of the one or more solvents is greater
+than or equal to about 10%.
+
+[0014] In still another aspect, the invention relates to
+formulations comprising: (i) a non-polymeric, non-water
+soluble high viscosity liquid carrier material having a vis-
+cosity of at least 5,000 c? at 37° C: that does not crystallize
+neat under ambient or physiological conditions; (ii) a linear
+polymer comprising lactide repeat units, wherein the linear
+polymer possesses a ratio R of lactide repeat units to total
+repeat units in the linear polymer, wherein R satisﬁes the
+following: about 0,555Rsabout 0.95; and (iii) one or more
+solvents present in an amount ranging from about one
+weight percent up to about 35 weight percent, based on the
+total weight of the formulation; wherein the linear polymer
+has a weight average molecular weight less than or equal to
+about 15,000 Daltons, and wherein the one or more solvents
+comprise ethanol, ethyl lactate, propylene carbonate, glyco-
+furol, N-methylpyrrolidone, 2-pyrrolidone, benzyl benzoate,
+miglyol, propylene glycol, acetone, methyl acetate, ethyl
+acetate, methyl ethyl ketone; benzyl alcohol, triacetin; dim-
+ethylformamide, dimethylsulfoxide, tetrahydrofuran, capro-
+lactam, decylmethylsulfoxide, oleic acid, and/or l-dodecy-
+lazacycloheptan-Z-one, and combinations of any of the
+above:
+
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+[0015] Before describing the present invention in detail, it
+is to be understood that this invention is not limited to
+particularly exempliﬁed materials or process parameters as
+such may, of course, vary: It is also to be understood that the
+terminology used herein is for the purpose of describing
+particular embodiments of the invention only; and is not
+intended to be limiting,
+
+[0016] All publications, patents and patent applications
+cited herein, whether supra or infra, are hereby incorporated
+by reference in their entirety for all purposes:
+
+[0017] As used in this speciﬁcation and the appended
+
+claims, the singular forms “a.” “an” and “the” include plural
+
+Jan. 31, 2019
+
+referents unless the content clearly dictates otherwise. For
+example, reference to “a polymer” includes a mixture of two
+or more such molecules, reference to “a solvent” includes a
+mixture of two or more such compositions, reference to “an
+adhesive" includes mixtures of two or more such materials,
+and the like,
+
+A. Introduction
+
+[0018] Surprisingly, the inventors have found that the
+problems in the art may be addressed by providing formu-
+lations that comprise: (i) a non-polymeric, non-water soluble
+high viscosity liquid carrier material having a viscosity of at
+least 5,000 c? at 37° C, that does not crystallize neat under
+ambient or physiological conditions; (ii) a linear polymer
+comprising lactide repeat units, wherein the linear polymer
+possesses a ratio R of lactide repeat units to total repeat units
+in the linear polymer; and (iii) one or more solvents that
+have a solvent capacity; wherein the linear polymer has a
+weight average molecular weight less than or equal to about
+15,000 Daltons, and wherein (a) R satisﬁes the following:
+about 0.555Rsabout 0.95; (b) when R satisﬁes the follow-
+ing: about 0,555R50,85, the solvent capacity of the one or
+more solvents is greater than or equal to about 20%; and (c)
+when R satisﬁes the following: greater than about 0.85 to
+about 095, the solvent capacity of the one or more solvents
+is greater than or equal to about 10%:
+
+[0019] Surprisingly, the inventors further have found that
+the problems in the art may be addressed by providing
+formulations that comprise: (i) a non-polymeric, non-water
+soluble high viscosity liquid carrier material having a vis-
+cosity of at least 5,000 c? at 37° C: that does not crystallize
+neat under ambient or physiological conditions; (ii) a linear
+polymer comprising lactide repeat units, wherein the linear
+polymer possesses a ratio R of lactide repeat units to total
+repeat units in the linear polymer; and (iii) one or more
+solvents that have a solvent capacity; wherein the linear
+polymer has a weight average molecular weight less than or
+equal to about 15,000 Daltons, and wherein: (a) R satisﬁes
+the following: about 0,555R50.85; and (b) the solvent
+capacity of the one or more solvents is greater than or equal
+to about 20%.
+
+[0020] Additionally surprisingly, the inventors have found
+that the problems in the art may be addressed by providing
+formulations that comprise: (i) a non-polymeric, non-water
+soluble high viscosity liquid carrier material having a vis-
+cosity of at least 5,000 c? at 37° C: that does not crystallize
+neat under ambient or physiological conditions; (ii) a linear
+polymer comprising lactide repeat units, wherein the linear
+polymer possesses a ratio R of lactide repeat units to total
+repeat units in the linear polymer; and (iii) one or more
+solvents that have a solvent capacity; wherein the linear
+polymer has a weight average molecular weight less than or
+equal to about 15,000 Daltons, and wherein (a) R satisﬁes
+the following: greater than about 0:85 to about 0.95; and (b)
+the solvent capacity of the one or more solvents is greater
+than or equal to about 10%.
+
+[0021] In addition, surprisingly, the inventors have found
+that the problems in the art may be addressed by providing
+formulations that comprise: (i) a non-polymeric, non-water
+soluble high viscosity liquid carrier material having a vis-
+cosity of at least 5,000 cP at 37° C. that does not crystallize
+neat under ambient or physiological conditions; (ii) a linear
+polymer comprising lactide repeat units, wherein the linear
+polymer possesses a ratio R of lactide repeat units to total
+US 2019/0030032 A1
+
+repeat units in the linear polymer, wherein R satisﬁes the
+following: about 0.555Rsabout 0.95; and (iii) one or more
+solvents present in an amount ranging from about one
+weight percent up to about 35 weight percent, based on the
+total weight of the formulation; wherein the linear polymer
+has a weight average molecular weight less than or equal to
+about 15,000 Daltons, and wherein the one or more solvents
+comprise ethanol, ethyl lactate, propylene carbonate, glyco-
+furol, N-methylpyrrolidone, 2-pyrrolidone, benzyl benzoate,
+miglyol, propylene glycol, acetone, methyl acetate, ethyl
+acetate, methyl ethyl ketone, benzyl alcohol, triacetin, dim-
+ethylformamide, dimethylsulfoxide, tetrahydrofuran, capro-
+lactam, decylmethylsulfoxide, oleic acid. and/or 1—dodecy-
+lazacycloheptan-Z-one, and combinations of any of the
+above.
+
+[0022] Linear polymers according to the invention can be
+used to alter the release proﬁle of the biologically active
+substance to be delivered, to add integrity to the formulation,
+or to otherwise modify the properties of the formulation,
+Such linear polymers according to the invention comprise
+lactide repeat units. An example of such a polymer is
+poly(lactide-co-glycolide). The ratio R, which is the ratio of
+lactide repeat units to total repeat units in the linear polymer,
+is given in the “R column” of Table 1,
+
+[0023] An important consideration in development of for-
+mulations according to the invention is the miscibility or
+solubility of the polymer in the formulation with the
+HVLCM, In situations where the polymer is not miscible or
+soluble in the formulation with the HVLCM, phase separa-
+tion of the polymer and the HVLCM may occur. Once this
+occurs, it may be very diﬂ'tcult to remix the polymer and the
+HVLCM, especially at the point of use, Should improper
+remixing of the formulation occur, it might not release drug
+in a desired manner, Additionally, the formulations might be
+difﬁcult to administer. Accordingly, formulations that have
+high miscibility or solubility of the polymer in the fonnu-
+lation with the HVLCM are desirable.
+
+[0024] The inventive formulations possess this high mis-
+cibility or solubility of the linear polymer in the formulation
+with the HVLCM. As can be seen by inspecting Table 1, not
+all formulations comprising linear polymers, HVLCMs, and
+solvents result in useful formulations. The formulations
+listed as “Comparative Formulations” are examples of for-
+mulations that were not considered to be useful in the
+context of the present invention. In contrast, the inventive
+embodiments, such as those exempliﬁed in Table l, are
+useful and exhibit little if any phase separation,
+
+[0025] The eifect of solvent capacity can be seen, for
+instance, by examining Formulation 6, which exhibits
+acceptable solubility behavior. This Formulation comprises
+55 wt % sucrose acetate isobutyrate (SAIB), 25 wt % NMP,
+and 20 wt % of a poly (lactide-co-glycolide) (PLGA) having
+an R of0.65 and a Mw of5300, Formulation 6 has a solvent
+capacity of 25 wt %. By way of comparison, Formulations
+C11 and C12 are also presented Formulation C1 1 comprises
+55 wt % sucrose acetate isobutyrate (SAIB), 20 wt % NMP,
+5 wt % of DMSO, and 20 wt “/0 of a poly (lactide-co-
+glycolide) (PLGA) having an R of 0.65 and a Mw of 5300.
+Likewise, Formulation C12 comprises 55 wt % sucrose
+acetate isobutyrate (SAIB), 20 wt % NMP, 5 wt % ofbenzyl
+benzoate, and 20 wt % of a poly (lactide-co-glycolide)
+(PLGA) having an R of 0,65 and a Mw of 5300. Formula-
+tions C11 and C12 comprise less than 25 wt % NMP, and are
+inadequate with respect to their solubility perfomiance.
+
+Jan. 31, 2019
+
+Therefore, the formulations C11 and C12 do not meet the
+solvent capability requirements and are thus not inventive
+embodiments of the present invention.
+
+[0026] Another way of understanding solvent capacity is
+shown in Examples 7 and 8. These Examples show how it
+is possible to determine the solvent capacity for the inven-
+tive formulations This is performed for two additional
+solvent systems, besides the baseline NMP solvent system,
+and in two different embodiments of the inventive formu-
+lations.
+
+[0027] Examples 9 and 10 show embodiments of the
+inventive fomiulations that comprise biologically active
+substances,
+
+[0028] The invention will now be described in more detail.
+
+Deﬁnitions
+[0029] All percentages are weight percent unless other-
+wise noted.
+[0030] All references cited herein are incorporated herein
+
+by reference in their entirety and for all purposes to the same
+extent as if each individual publication or patent or patent
+application was speciﬁcally and individually indicated to be
+incorporated by reference in its entirety for all purposes
+and/or reproduced fully herein. The discussion of references
+herein is intended merely to summarize the assertions made
+by their authors and no admission is made that any reference
+constitutes prior art. Applicants reserve the right to chal-
+lenge the accuracy and pertinence of the cited references.
+[0031] The present invention is best understood by refer-
+ence to the following deﬁnitions, the drawings and exem-
+plary disclosure provided herein.
+
+[0032] “Administering” or “administration” means pro-
+viding a drug to a subject in a manner that is phamiacologi-
+cally useful
+
+[0033] “Biologically active substance” means molecule(s)
+including a drug, peptide, protein, carbohydrate (including
+monosaccharides, oligosaccharides, and polysaccharides),
+nucleoprotein, mucoprotein, lipoproteirL synthetic polypep-
+tide or protein. or a small molecule linked to a protein.
+glycoprotein, steroid, nucleic acid (any form of DNA,
+including cDNA, or RNA, or a fragment thereof), nucleo-
+tide, nucleoside, oligonuclcotides (including antisense oli-
+gonucleotides), gene, lipid, hormone, mineral supplement,
+vitamin including vitamin C and vitamin E, or combinations
+of any of the above, that cause(s) a biological effect when
+administered in vivo to an animal, including but not limited
+to birds and manunals, including humans
+
+[0034] Drug means any substance used internally or exter-
+nally as a medicine for the treatment, cure, or prevention of
+a disease or disorder, and includes but is not limited to
+immunosuppressants, antioxidants, anesthetics, chemo-
+therapeutic agents, steroids (including retinoids), hormones,
+antibiotics, antivirals, antifungals, antiproliferatives, antihis-
+tamines, anticoagulants, antiphotoaging agents, melano-
+tropic peptides, nonsteroidal and steroidal anti-inﬂammatory
+compounds, antipsychotics, and radiation absorbers, includ-
+ing UV-absorbers.
+
+[0035] The term biologically active substance also
+includes agents such as insecticides, pesticides, fungicides,
+rodenticides, and plant nutrients and growth promoters,
+[0036] In one embodiment, the formulation is a vaccine
+and the substance to be delivered is an antigen, The antigen
+can be derived from a cell, bacteria, or virus particle, or
+portion thereof As deﬁned herein, antigen may be a protein.
+US 2019/0030032 A1
+
+apparent to those skilled in the art from the foregoing
+description. Such modiﬁcations and variations are intended
+to fall within the scope of the appended claims. The present
+invention is to be limited only by the terms of the appended
+claims, along with the full scope of equivalents to which
+such claims are entitled
+
+[0079] The following Examples are meant to be illustra-
+tive of the claimed invention, and not limiting in any way.
+
+EXAMPLES
+
+Example 1: Formulation Examples
+
+[0080] Various formulation examples according to the
+invention, together with various comparative formulation
+examples, were prepared. Information relating to these
+examples is set forth in Table 1, The polymer synthesis, and
+formulation techniques for several representative examples
+have been set forth below. The remaining non-representative
+examples were prepared using such representative tech-
+niques, and with conventionally obtainable modiﬁcations to
+the representative techniques.
+
+Example 2
+
+[0081] A 500 mL three-neck round bottom ﬂask, a glass
+stirrer bearing, a gas joint, and a glass stirring shaft were
+dried in a glassware oven at 100° C. to remove all traces of
+moisture. The following materials were transferred to the
+ﬂask: 179.00 g DL-lactide, 71.00 g of glycolide, and 13.75
+g 1,6-hexanediol. The ﬂask was equipped with the stirring
+shaft with a Teﬂon paddle, the stirrer bearing, and a gas joint
+connected to a manifold with vacuum and nitrogen gas
+supply. The stirrer shaft/bearing was sealed with a rubber
+balloon and the reaction mixture was evacuated for several
+minutes and the ﬂask was backﬁlled with nitrogen gas. The
+ﬂask was immersed in an oil bath maintained at 150° C. and
+stirred using an overhead stirrer attached to the shaft/paddle
+assembly, Once all of the monomer had melted, a charge of
+stannous 2-ethylhexanoate was added, 0075 g in a solution
+of toluene (559 mL of a solution with a concentration of
+0.13416 g/mL) was added to the melt. Stirring was contin-
+ued for 4 hours Next, the temperature of the oil bath was
+reduced to 1150 C., stirring was stopped, and the stirrer
+shaﬂ/bearing was sealed with a rubber balloon and the
+reaction mixture was evacuated under full vacuum for 1
+hour. The polymer was then poured onto a piece of Teﬂon
+ﬁlm in a glass dish and allowed to cool. The ﬁnished
+polymer was stored protected from ambient moisture in a
+vacuum oven and/or plastic bags. The resulting polymer had
+a MW of 5300 Da as determined approximately by GPC, and
+an R ratio of 065.
+
+Example 3: Formulation 6
+
+[0082] PLGA polymer produced according to Example 2
+was removed from cold storage & allowed to warm to room
+temperature. SAIB (in a glass jar) was heated to 80° C. for
+several hours. 5.69 grams of hot SAIB were poured into a
+glass jar. Next, 2.59 grams of NMP were dispensed into the
+glass jar. Next, 2.05 grams of 65/35 PLGA polymer were
+dispensed into the glass jar. The jar was sealed and fastened
+to a rotating mixing wheel. The mixing wheel was placed
+into an 80° C. oven and turned on so that the jar rotated at
+the outside of a circular path at a rate sufﬁcient to achieve
+mixing. After two hours of mixing at 80° C., the jar was
+
+Jan. 31, 2019
+
+removed from the mixing wheel and allowed to cool to room
+temperature. The formulation composition was 55% SAIB,
+25% NMP and 20% PLGA. On standing, the formulation
+remained clear and did not exhibit any evidence of phase
+separation.
+
+Example 4
+
+[0083] A l L three-neck round bottom ﬂask, a glass stirrer
+bearing, a gas joint, and a stirring shaﬁ were dried in a
+glassware oven at 100° C. to remove all traces of moisture.
+The following materials were transferred to the ﬂask: 17900
+g DL-lactide, 71.00 g of glycolide, and 2.1 g of water. The
+ﬂask was equipped with a stirring shaﬂ and a Teﬂon paddle,
+a stirrer bearing, and a gas joint connected to a manifold with
+vacuum and nitrogen gas supply. The stirrer shalt/bearing
+was sealed and the reaction mixture was evacuated for
+several minutes and the ﬂask was backﬁlled with nitrogen
+gas. This was repeated 4 additional times. The ﬂask was
+immersed in an oil bath maintained at 159° C. and stirred
+using an overhead stirrer attached to the shaft/paddle assem-
+bly. Once all of the monomer had melted, a charge of
+stannous 2-ethylhexanoate, 0.1125 g in a solution of toluene,
+was added to the melt. Stirring was continued for 15 hours,
+Next, the temperature of the oil bath was reduced to 115° C.,
+stirring was stopped, and the stirrer shalt/bearing was sealed
+and the reaction mixture was evacuated under full vacuum
+for 1 hour. The polymer was then poured onto a piece of
+Teﬂon ﬁlm in a glass dish and allowed to cool. The ﬁnished
+polymer was stored protected from ambient moisture in a
+vacuum oven and/or plastic bags. The resulting polymer had
+a MW of 7200 Da as determined approximately by GPC, and
+an R ratio of 065.
+
+Example 5: Comparative Formulation C3
+
+[0084] 3.28 grams of PLGA polymer made according to
+Example 4 were dissolved in a mixture of 1.55 grams of
+DMSO and 1.55 grams of ethanol. 2498 grams of warm
+SAIB were added, with a resulting nominal formulation of
+10.5% PLGA, 49% DMSO, 49% ethano and 79.7% SAIB,
+The formulation separated into two Jhases at room tempera-
+ture. Additional DMSO (3.90 grams) and additional ethanol
+(225 grams) were added to yield a nominal formulation of
+8.8% PLGA, 14.5% DMSO, 10.1% etianol and 66.6%
+
+SAIB. The formulation remained se Jarated into two phases.
+
+Example 6: Formulation 6 (Alternate Formulation
+Methodology
+
+V
+
+[0085] PLGA polymer produced accorcing to Example 2
+was removed from cold storage & a lowed to warm to room
+temperature. 2036 grams of 65/35 PLGA polymer were
+dispensed into a glass jar. 25.45 grams of NMP were added
+to the jar and the jar was sealed. The jar was fastened to a
+rotating mixing wheel (Glas Col, erre iaute, 1nd,). The
+mixing wheel was turned on so that the jar rotated at the
+outside of a circular path, with hating at approximately 80
+C until the polymer was dissolved in the NMP. 55.49 grams
+of SAIB (warmed) were added to tie po ymer/NMP solu-
+tion. The jar was sealed and fastened to a rotating mixing
+wheel (Glas Col, Terre Haute, 1nd,). The mixing wheel was
+turned on so that the jar rotated at tie outside of a circular
+path at a speed sufﬁcient to achieve mixing. The solution
+was mixed until a uniform preparation was achieved. The
+formulation composition was 55% SAIB, 25% NMP and
+US 2019/0030032 A1
+
+20% PLGA, all expressed as wt % based on total weight of
+the formulation. On standing, the vehicle remained clear and
+did not exhibit any evidence of phase separation.
+
+Example 7: Solvent Capacity Experiments
+
+[0086] Approximately 2.5 g of PLGA having a molecular
+weight of 4700 Da, a lactide/glycolide ratio of 65/35, and
+initiated by hexanediol; and 6.855 g of SAIB were added to
+a vial (Le. ﬁxed weight relationship of polymer to SAIB).
+Solvents, as shown in Table 2 below, were slowly added and
+the formulation was mixed at 60° C. in a Emprotech
+Unitherm® oven until a single phase solution was formed.
+The solution was then removed from the oven and allowed
+to sit on a bench top at roughly room temperature for
+approximately a week. If the solution phase separated more
+solvent was added and the formulation was mixed at 60° C.
+until a single phase solution was formed and remained a
+single phase for one week while sitting on the bench top at
+roughly room temperature. The ﬁnal compositions are
+shown in Table as shown in Table 2 below. The solvent
+capacity of this vehicle was 25.61 wt %. 26.44 wt % wt %
+
+of BA or 42.64 wt % of DMSO were needed to achieve that
+solvent capacity.
+
+TABLE 2
+
+(ﬁgures are weight percent of total ﬁnal weieht)
+
+Material Trial A Trial B Trial C
+SAIB 53.86 41.99 54.55
+
+PLGA 19.70 15.37 19.84
+
+NMP 25.61
+
+EA 26.44
+
+DMSO 42.64
+
+Jan. 3], 2019
+
+TABLE 3
+
+(Figures are wei ht Dercent of tom] ﬁnal weight)
+
+Material Trial D Trial E Trial F
+SAIB 58.83 50.37 60.58
+PLGA 21.47 18.41 22.06
+NMP 17.36
+EA 19.70
+
+DMSO 31.22
+
+Example 9: Naltrexone Formulation
+
+[0088] 0555 grams of PLGA (65/35 LG, 1-dodecanol
+initiated, MW of 6400 Daltons by GPC, from DURECT®
+Birmingham) was mixed with 3620 grams of Benzyl Alco-
+hol (from J .T.Baker) in a sealed bottle by gentle inversion
+inside a Lindberg/Blue M oven at 60° C. for 35 minutes,
+resulting in homogeneous solution. To this mixture was
+added 6094 grams of hot SAIB (from Eastman Chemicals).
+The vehicle was mixed by gentle inversion for approxi-
+mately 65 hours at room temperature. A uniform vehicle
+resulted (SAlB/benzyl alcohol/PLGA 59.34/35.25/5.40).
+0118 grams of nalu'exone base (Mallinckrodt) was added to
+a separate bottle. 4205 grams of the vehicle was added to
+this bottle. The naltrexone was dissolved in the Vehicle by
+gentle inversion for approximately 3 hours, resulting in a
+uniform clear solution that was pale yellow in color. The
+composition of the naltrexone formulation (in wt % based on
+total formulation weight) was:
+
+PLGA: 5.3%
+
+Benzyl alcohol
+SAIB
+Naltrexone
+
+34.3%
+57.7%
+2.7%
+
+Example 8: Solvent Capacity Experiments
+
+[0087] Approximately 2.5 g of PLGA having a molecular
+weight of 6600 Da, a lactide/glycolide ratio of 65/35, and
+initiated with dodecanol; and 6.855 g of SAIB were added
+to a vial. Solvents, as shown in Table 3 below, were slowly
+added and the formulation was mixed at 60° C. in a
+Emprotech Unitherm® oven until a single phase solution
+was formed. The solution was then removed from the oven
+and allowed to sit on a bench top at roughly room tempera-
+ture for approximately a week. If the solution phase sepa-
+rated more solvent was added and the formulation was
+mixed at 60° C. until a single phase solution was formed and
+remained a single phase for one week while sitting on the
+bench top at roughly room temperature. The ﬁnal compo-
+sitions are shown in Table 3 below. The solvent capacity of
+this vehicle was 17.36 wt %. 19.70 wt % of BA or 31.22 wt
+% of DMSO were needed to achieve that solvent capacity.
+
+Example 10: Risperidone Formulation
+
+[0089] The atypical antipsychotic drug risperidone was
+added to the formulation of Example 3 (Formulation 26) as
+follows:
+
+To 7.33 grams of Formulation 26, 1.095 grams of risperi-
+done (from Kemprotec) were added. The vial was placed on
+a Glas-Col rotating wheel set at 30% for approximately two
+hours until a homogeneous suspension was obtained. The
+resulting formulation had the composition of 48% SAlB,
+22% NMP, 17% PLGA and 13% Risperidone, with percent-
+ages expressed as weight percent based on total weight of
+the formulation. The resulting vehicle was a stable homo-
+geneous suspension.
+
+TABLE 1
+MW
+Formulation #: Polymer R (GPC) Formulation composition
+1 PLGA 55/357 0.55 7200 SAIB/NMP/EtOH/PLGAVCOOH:
+coon 68.4/13.2/9.2/9.3
+2 PLGA 55/35 0.55 5300 SAIB/NMP/PLGAz70/25/S
+3 PLGA 55/35 0.55 5300 SAIB/NMP/PLGA: 70.3/203/931
+4 PLGA 55/35 0.55 5300 SAIB/NMP/PLGA:59.7/26.5/13.8
+5 PLGA 55/35 0.55 5300 SAIB/NMP/PLGA: 55/30/15
+5 PLGA 55/35 0.55 5300 SAIB/NMP/PLGA: 55/25/20
+
+Solubility Behavior
+
+Soluble
+
+Soluble
+Soluble
+Soluble
+Soluble
+Soluble
+US 2019/0030032 A1 Jan. 31, 2019
+12
+
+67 i The formulation of claim 64, wherein the linear
+poly(lactide-co-g1ycolide) is present in an amount ranging
+from about 15 Wt % to 45 wt %, based on the total weight
+of the vehicle
+
+68‘ The formulation of claim 64, wherein the linear
+poly(lactide-co-glycolide) has a weight average molecular
+weightless than 1215 kilodaltons.
+
+691 The formulation of claim 64, wherein the one or more
+solvents is present in an amount ranging from 25 weight
+percent up to about 35 weight percent, based on the total
+weight of the vehicle,
+
+70‘ A method of administering a biologically active sub-
+stance comprising administering the formulation of claim
+64.
+US 2019/0030032 A1
+11
+
+46. The formulation of claim 41, wherein when R satisﬁes
+the following: greater than 0.85 to about 0.95, the solvent
+
+capacity of the one or more solvents is greater than or equal
+to about 15%,
+
+47 . The formulation of claim 41, wherein when R satisﬁes
+the following: greater than 0.85 to about 0.95, the solvent
+capacity of the one or more solvents is greater than 20%.
+
+48. A method of administering a biologically active sub-
+stance comprising administering the formulation of claim
+41.
+
+49. A formulation comprising:
+
+a biologically active substance; and
+
+a vehicle comprising:
+
+(i) sucrose acetate isobutyrate (SAIB) in an amount of
+
+from 25 to 85 wt % based on total weight of the vehicle;
+
+(ii) a linear poly(lactide-co-glycolide) in an amount of
+
+from 10 to 45 wt % based on total weight ofthe vehicle,
+wherein the linear poly(lactide-co-glycolide) possesses
+a ratio R of lactide repeat units to total repeat units in
+the linear poly(lactide-co-glycolide); and
+
+(iii) one or more solvents that have a solvent capacity,
+
+wherein the one or more solvents dissolve the SAIB
+and the linear poly(lactide-co-glycolide), and wherein
+the SAIB, linear poly(lactide-co-glycolide), and one or
+more solvents are monophasic when maintained at
+approximately 25° C. for a one-week period;
+
+wherein the linear poly(lactide-co-glycolide) has a weight
+
+average molecular weight less than or equal to 15
+kilodaltons, and
+
+wherein:
+
+(a) R satisﬁes the following: 0.555R50.85; and
+
+(b) the solvent capacity of the one or more solvents is
+
+greater than or equal to 25%.
+
+50. The formulation of claim 49, wherein the biologically
+active substance comprises an atypical antipsychotic.
+
+51. The formulation of claim 49, wherein the biologically
+active substance comprises an antiviral.
+
+52. The formulation of claim 49, wherein the linear
+poly(lactide-co-glycolide) is present in an amount ranging
+from about 15 wt % to 45 wt %, based on the total weight
+of the vehicle.
+
+53. The formulation of claim 49, wherein the linear
+poly(lactide-co-glycolide) has a weight average molecular
+weight less than 12.5 kilodaltons.
+
+54. A method of administering a biologically active sub-
+stance comprising administering the formulation of claim
+49.
+
+55. A formulation comprising:
+
+a biologically active substance; and
+
+a vehicle comprising:
+
+(i) sucrose acetate isobutyrate (SAIB) in an amount of
+
+from 25 to 85 wt % based on total weight of the vehicle;
+
+(ii) a linear poly(lactide-co-glycolide) in an amount of
+
+from 10 to 45 wt % based on total weight of the vehicle,
+wherein the linear poly(lactide-co—glycolide) possesses
+a ratio R of lactide repeat units to total repeat units in
+the linear poly(lactide-co-glycolide); and
+
+(iii) one or more solvents that have a solvent capacity,
+
+wherein the one or more solvents dissolve the SAIB
+and the linear poly(lactide—co-glycolide), and wherein
+the SAIB, linear poly(lactide-co-glycolide), and one or
+more solvents are monophasic when maintained at
+approximately 25° C. for a one-week period;
+
+Jan. 31, 2019
+
+wherein the linear poly(lactide-co-glycolide) has a weight
+average molecular weight less than or equal to 15
+kilodaltons, and wherein
+
+R satisﬁes the following: greater than 0.85 to about 0.95;
+
+and
+
+the solvent capacity of the one or more solvents is greater
+
+than or equal to about 10%.
+
+56. The formulation of claim 55, wherein the biologically
+active substance comprises an atypical antipsychotic.
+
+57. The formulation of claim 55, wherein the biologically
+active substance comprises an antiviral.
+
+58, The formulation of claim 55, wherein the linear
+poly(lactide-co-glycolide) is present in an amount ranging
+from about 15 wt % to 45 wt %, based on the total weight
+of the vehicle.
+
+59, The formulation of claim 55, wherein the linear
+poly(lactide—co-glycolide) has a weight average molecular
+weight less than 12.5 kilodaltons.
+
+60. The formulation of claim 55, wherein the solvent
+capacity of the one or more solvents is greater than or equal
+to about 15%.
+
+61. The formulation of claim 55, wherein the solvent
+capacity is greater than 20%.
+
+62. The formulation of claim 55, wherein the solvent
+capacity of the one or more solvents is greater than or equal
+to about 25%.
+
+63, Amethod of administering a biologically active sub-
+stance comprising administering the formulation of claim
+55.
+
+64, A formulation comprising:
+
+a biologically active substance; and
+
+a vehicle comprising:
+
+(i) sucrose acetate isobutyrate (SAIB) in an amount of
+
+from 25 to 85 wt “/0 based on total weight ofthe vehicle;
+(ii) a linear poly(lactide—co-glycolide) in an amount of
+from 10 to 45 wt % based on total weight of the vehicle,
+wherein the linear poly(lactide-co-glycolide) possesses
+a ratio R of lactide repeat units to total repeat units in
+the linear poly(lactide-co-glycolide), wherein R satis-
+ﬁes the following: 0.555Rsabout 0.95; and
+(iii) one or more solvents present in an amount ranging
+from 25 weight percent up to about 43 weight percent,
+based on total weight of the vehicle, wherein the one or
+more solvents dissolve the SAIB and the linear poly
+(lactide-co-glycolide), and wherein the SAIB, linear
+poly(lactide—co-g1ycolide), and one or more solvents
+are monophasic when maintained at approximately 25°
+C. for a one-week period;
+
+wherein the linear poly(lactide-co-glycolide) has a weight
+average molecular weight less than or equal to 15
+kilodaltons, and
+
+wherein the one or more solvents comprise ethanol, ethyl
+
+lactate, propylene carbonate, glycofurol, N-methylpyr-
+rolidone, 2-pyrrolidone, benzyl benzoate, caprylic/ca-
+pric triglyceride, propylene glycol, acetone, methyl
+acetate, ethyl acetate, methyl ethyl ketone, benzyl alco-
+hol, triacetin, dimethylformamide, dimethylsulfoxide,
+tetrahydrofuran, caprolactam, decylmethylsulfoxide,
+oleic acid, l-dodecylazacycloheptan-2-one, and com-
+binations thereof.
+
+65, The formulation of claim 64, wherein the biologically
+active substance comprises an atypical antipsychotic,
+
+66. The formulation of claim 64, wherein the biologically
+active substance comprises an antiviral.
+US 2019/0030032 A1
+
+ 
+
+ 
+
+10
+
+TABLE l-continued
+
+Jan. 31, 2019
+
+1.-40. (canceled)
+
+41: A formulation comprising:
+
+a biologically active substance; and
+
+a vehicle comprising:
+
+(i) sucrose acetate isobutyrate (SAIB) in an amount of
+from 25 to 85 wt % based on total weight of the vehicle;
+
+(ii) a linear poly(lactide—co-glycolide) in an amount of
+from 10 to 45 wt % based on total weight of the vehicle,
+wherein the linear poly(lactide-co-glycolide) possesses
+a ratio R of lactide repeat units to total repeat units in
+the linear poly(lactide-co-glycolide); and
+
+(iii) one or more solvents that have a solvent capacity,
+wherein the one or more solvents dissolve the SAIB
+and the linear poly(lactide-co-glycolide), and wherein
+the SAIB, linear poly(lactide-co-glycolide), and one or
+more solvents are monophasic when maintained at
+approximately 25° C. for a one-week period;
+
+wherein the linear poly(lactide-co-glycolide) has a weight
+average molecular weight less than or equal to 15
+kilodaltons, and wherein
+
+MW
+Fonnulallon 1;: Polymer R (GPC) Folmulallon composnlon Soluhlllty Behavior
+7 PLGA 65/35 0.65 5300 SAIB/NMP/EtOH/PLGA: 58.6/14.0/9.4/18.0 cloudy but single phase
+3 PLGA 65/35 0.65 5300 SAIB/NMP/EtOH/PLGA: Soluble
+55.0/15.1/10.0/20.0
+9 PLGA 65/35 0.65 5300 SAIB/NMP/EtOH/PLGA: 55.1/19.9/5.0/20.0 Soluble
+10 PLGA 65/35 0.65 5300 SAIB/NMP/DMSO/PLGA: Soluble
+54.1/19.8/6.0/20.1
+11 PLGA 65/35 0.65 5300 SAIB/NMP/BA/PLGA: 55/20/5/20 Soluble
+12 PLGA 65/35 0.65 5300 SAIB/DMSO/EtOH/PLGA: 55/25/5/5 Soluble
+13 PLGA 65/35 0.65 5300 SAIB/DMSO/BA/PLGA: 65/25/5/5 Soluble
+14 PLGA 65/35 0.65 5300 SAIB/DMSO/NMP/PLGA: 65/25/5/5 Soluble
+15 PLGA 65/35 0.65 4100 SAIB/NMP/PLGA: S3.1/21.9/25.0 Soluble
+16 PLGA 65/35 0.65 4100 SAIB/NMP/PLGA: 492122.6/232 Soluble
+17 PLGA 65/35 0.65 4100 SAIB/NMP/PLGA: 29.7/33.9/36.4 Soluble
+13 PLGA 65/35 0.65 3200 SAIB/NMP/PLGA: 70.0/20.0/10.0 Soluble
+19 PLGA 65/35 0.65 4700 SAIB/NMP/PLGA: 55/25/20 Soluble
+20 PLGA 65/35 0.65 6600 SAIB/NMP/PLGA: 55/25/20 Soluble
+21 PLGA 65/35 0.65 6600 SAIB/NMP/EtOH/PLGA: 55/15/10/20 Soluble
+22 PLGA 60/40 0.6 3200 SAIB/NMP/PLGA: 70.0/20.0/10.0 Soluble
+23 PLGA 55/45 0.55 3200 SAIB/NMP/PLGA: 65/25/10 Soluble
+01 PLGA 0.65 7200 SAIB/NMP/PLGA-COOH: 70/25/5 n61 soluble
+65/35-
+coon
+02 PLGA 0.65 7200 SAIB/BA/EIOH/PLGAVCOOH: not soluble
+65/35 65.3/14.1/11.1/9.5
+coon
+c3 PLGA 0.65 7200 SAIB/DMSO/EtOH/PLGA: not soluble
+65/35- 66.6/14.5/10.l/8.8
+000H
+c4 PLGA 65/35 0.65 5300 SAIB/NMP/PLGA: 75/15/10 not soluble
+c5 PLGA 65/35 0.65 5300 SAIB/NMP/PLGA: 65/20/15 n61 soluble
+C6 PLGA 65/35 0.65 5300 SAIB/NMP/PLGA: 60/20/20 n61 soluble
+c7 PLGA 65/35 0.65 5300 SAIB/NMP/EtOH/PLGA: 72.9/8.8/8.6/9.6 n61 soluble
+cs PLGA 6.5/35 0.65 5300 SAIB/NMP/EtOH/PLGA: 62.0/17.2/4.6/16.2 separates long lenn
+09 PLGA 65/35 0.65 5300 SAIB/NMP/DMSO/PLGA: separates long term
+53.8/15.4/10.8/20.1
+010 PLGA 65/35 0.65 5300 SAIB/NMP/DMSO/PLGA: separates long term
+54.9/15.0/9.s/20.1
+011 PLGA 65/35 0.65 5300 SAIB/NMP/DMSO/PLGA: 55/20/5/20 separates long term
+012 PLGA 65/35 0.65 5300 SAIB/NMP/BB/PLGA: 55/20/5/20 not soluble
+013 PLGA 65/35 0.65 5300 SAIB/DMSO/PLGA: 70/25/5 not soluble
+014 PLGA 65/35 0.65 5300 SAIB/DMSO/PLGA: 65/30/5 not soluble
+015 PLGA 6.5/35 0.65 5300 SAIB/DMSO/EtOH/PLGA: 71.7/10.0/s.7/9.7 n61 soluble
+016 PLGA 65/35 0.65 5300 SAIB/DMSO/BB/PLGA: 65/25/5/5 n61 soluble
+017 PLGA 65/35 0.65 5300 SAIB/BA/EtOH/PLGA: 69.8/11.8/8.8/9.5 n61 soluble
+C18 PLGA 0.50 5500 SAIB/NMP/PLGA-COOH: 70/25/5 separates at RT & 37 C.
+50/507
+coon
+
+ 
+
+(a) R satisﬁes the following: 0.555Rsabout 0.95;
+
+(b) when R satisﬁes the following: 0.555R50l85, the
+solvent capacity of the one or more solvents is greater
+than or equal to 25%; and
+
+(c) when R satisﬁes the following: greater than 0.85 to
+about 0.95, the solvent capacity of the one or more
+solvents is greater than or equal to about 10%.
+
+42. The formulation of claim 41, wherein the biologically
+active substance comprises an atypical antipsychotic.
+
+43. The formulation of claim 41, wherein the biologically
+active substance comprises an antiviral.
+
+44. The formulation of claim 41, wherein the linear
+poly(lactide—co-glycolide) is present in an amount ranging
+from about 15 wt % to 45 wt %, based on the total weight
+of the vehicle.
+
+45. The formulation of claim 41, wherein the linear
+poly(lactide—co-glycolide) has a weight average molecular
+weight less than 12.5 kilodaltons.

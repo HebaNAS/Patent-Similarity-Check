@@ -1,0 +1,2710 @@
+Patent Application Publication Jan. 31, 2019 Sheet 9 of 9 US 2019/0031721 A1
+
+RESiDUALS
+
+ 
+
+ABSORBANCE AT 280 nm
+
+ 
+
+ 
+
+6.4 6.45 6.5 6.55 6.8
+
+RAmus (CM)
+
+FIG. 9
+Patent Application Publication Jan. 31, 2019 Sheet 8 of 9 US 2019/0031721 A1
+
+LUCFERASEACﬁVRY
+
+12500
+
+10000
+
+7500
+
+5000
+
+REUGNEUGHTUNUS
+
+2500
+
+ 
+
+MOUSENUMBER
+
+FIG. 8
+US 2019/0031721A1
+
+SOLUBLE FORMS OF HENDRA AND NIPAH
+VIRUS F GLYCOPROTEIN AND USES
+THEREOF
+
+ACKNOWLEDGEMENT OF FEDERAL
+SUPPORT
+
+[0001] The present invention arose in part from research
+funded by the following federal grants: U54 AIO57168 and
+R21 AIO65597. The government may have certain rights to
+the invention.
+
+FIELD OF THE INVENTION
+
+[0002] The present invention relates to soluble forms of F
+glycoprotein from Hendra and Nipah viruses, to composi-
+tions comprising soluble forms of F glycoprotein from
+Hendra and Nipah virus, to antibodies reactive against
+soluble forms of F glycoprotein from Hendra and Nipah
+virus, and to methods related thereto.
+
+BACKGROUND OF THE INVENTION
+
+[0003] Nipah virus (NiV) and Hendra virus (HeV) are
+newly emergent zoonotic viruses that currently comprise
+their own genus, Henipavirus, within the family Paramyxo-
+viridae. Paramyxoviruses are negative-sense RNA envel-
+oped yiruses and encompass a variety of important human
+and animal pathogens, including; measles virus, mumps
+Virus, Sendai virus, Newcastle disease virus, rinderpest
+vims, canine distemper virus, human parainﬂuenza viruses,
+respiratory syncytial virus. and simian vims 5 (reviewed in
+Lamb and Parks (2007) Fields Virology, eds. Knippe &
+Howley, Lippincott. Williams & Wilkins, pp 1449-1496)
+The broad species tropisms of the Henipaviruses and the
+ability to cause fatal disease in both animals and humans
+distinguish HeV and NiV from all other known paramyxo-
+vimses (reviewed in Eaton (2001) Microbes Infect 3:277-
+278), HeV and NiV are both regarded as Biological Safety
+Level-4 (BSL—4) pathogens, and are on the NIAID Biode-
+fense research agenda as zoonotic emerging category C
+priority pathogens that could potentially be used as agents
+for bio-terrorism. Henipaviruses can be readily ampliﬁed in
+host livestock and can further cause disease in large animals,
+Henipavinises can be aerosol transmitted to humans where
+disease may manifest as severe respiratory illness and febrile
+encephalitis. Human to human transmission is also possible.
+Henipaviruses can be readily grown in either cell culture or
+embryonated chicken eggs, can be produced in high un-
+concentrated titers (~108 TCIDSO/ml), and can be highly
+infectious (Crameri et al. (2002) J, Virol. Methods 99:41 -5 1;
+Field et a1. (2001) Microbes Infect. 3:307»314; Hooper et al,
+(2001) Microbes Infect 3:315-322).
+
+[0004] The principal reservoirs for both NiV and HeV
+appear to be several species of pteroid fruit bats, common to
+Southeast Asia and the Paciﬁc, and hence most reported viral
+outbreaks seen to date have been in those areas (Eaton et a1.
+(2006) Nat. Rev. Microbiol. 4:23-35). HeV ﬁrst appeared in
+Australia in 1994 in two unrelated but similarly timed
+episodes of severe respiratory disease in horses, in which a
+total of three transmissions to humans were observed, two of
+which resulted in death. HeV reemerged through fatal
+equine infections inAustralia in 1999, 2004, and 2006 (Field
+et al. (2000) Aust. Vet J r 781279-280; Anonymous (2004) Int.
+Soc. for Infect. Dis. 200412143307; Murray (2006) World
+Org. for Animal Health Vol. 19-No. 26). NiV emerged in
+
+Jan. 31, 2019
+
+between 1997 and 1998 in an outbreak of encephalitis
+among pig farmers in both Malaysia and Singapore, gener-
+ating 265 reports of human infection, of which 105 were
+fatal (Chua (2003) J. Clin, Virol, 26:265-275). NiV recently
+reemerged in Bangladesh, Two outbreaks of NiV occurred in
+2004, and yet another in January of 2005 (Communicable
+Disease Report Weekly (2005) Vol. 15 No 16) Several
+important observations in the more recent outbreaks have
+been made, including higher incidence of acute respiratory
+distress syndrome, person-to-person transmission, and sig-
+niﬁcantly higher case fatality rates (approaching 75%)
+(Health and Science Bulletin (2004) 2:5-11; Hsu et a1.
+(2004) Emerg. Infect Dis. 10:2082-2087).
+
+[0005] Physiologically, paramyxoviruses possess two
+major membrane-anchored glycoproteins in the envelope of
+the viral particle that are required for infection of a receptive
+host cell. The two glycoproteins serve different but comple-
+mentary functions. One glycoprotein acts to achieve physi-
+cal attachment with the host while the other glycoprotein
+acts to achieve effective fusion with the host. Typically,
+without the concerted action of both, the host cannot be
+infected.
+
+[0006] The attachment glycoprotein is a type 11 membrane
+protein where the amino (N —) terminus is oriented toward
+the cytoplasm and the carboxy (C—) terminus is on the other
+side of the plasma membrane and in the extracellular mate-
+rialr The attachment glycoprotein can be either a hemagglu-
+tininneuraminidase protein (HN), a hemagglutinin protein
+(H), or a glycoprotein (G) (which lacks hemagglutination
+and neuraminidase activities) depending on the particular
+virus (reviewed in Lamb & Parks (2007) Fields Virology,
+eds. Knippe & Howley, Lippincott Williams & Wilkins, pp.
+1449-1496). Traditionally, the HN, H, and G proteins are the
+principal antigens to which virtually all neutralizing anti-
+bodies are directed. NiV and HeV both express G glyco-
+proteins. Previous studies focusing on the G glycoproteins
+from NiV and HeV have yielded effective subunit vaccines
+and diagnostic reagents. The primary function of the
+paramyxovirus attachment glycoprotein is to engage appro-
+priate receptors on the surfaces of host cells, which for the
+majority of well-characterized paramyxoviruses, are sialic
+acid moieties. HeV and NiV glycoprotein, however, utilizes
+the host cell protein receptors ephrinBZ and/or ephrinB3
+(Bishop et a1. (2007) J. Virol. 81 :5893-5901; Bonaparte et a1.
+(2005) Proc, Natl. Acad. Sci. USA. 102: 10652-10657;
+Negrete et all (2006) PLoS Pathog 2: e7)
+
+[0007] The fusion (F) glycoprotein in paramyxoviruses
+mediates pH-independent membrane fusion between the
+virus and its host cell, which results in delivery of the
+nucleocapsid. Paramyxovirus F glycoproteins are trimeric
+class I fusogenic envelope glycoproteins, with the protein's
+N-terminus being located in the extracellular domain, An
+important feature of paramyxovirus F glycoproteins is the
+presence of two heptad repeat regions and a hydrophobic
+fusion peptide. HeV and NiV infect through a pH-indepen-
+dent membrane fusion process into the host cell by the
+concerted action of the attachment and fusion glycoproteins.
+In nearly all cases, both glycoproteins are required for
+eﬂicient membrane fusion (Bossart & Broder (2007) Viral
+Entry into Host Cells, eds. Pohlmann & Simmons, Landes
+Bioscience).
+
+[0008] Upon activation of the fusion mechanism, F gly-
+coproteins will undergo confomiational changes that facili-
+tate the insertion of the fusion peptide into target mem-
+US 2019/0031721A1
+
+branes. The conformational changes bring the two heptad
+repeat regions together for the formation of a six-helix
+bundle structure (also called a timer-of-hairpins). These
+conformational changes occur during or immediately fol-
+lowing vints-cell membrane fusion reviewed in Lamb et al.
+(2006) Virology 344130-37). Several molecular details of the
+substantial conformational change of F glycoprotein have
+been revealed in the recent structural solutions of both post-
+and pre—fusion conformations of F glycoprotein (Yin et a1.
+(2005) Proc. Nat1.Acad. Sci. USA. 102:9288-9293; Yin et
+al. (2006) Nature 439:38-44).
+
+[0009] Research in Henipaviruses is of extreme impor-
+tance for at least two major reasons: to gain insight into the
+physiology of these viruses, and to develop strategies to
+treat, to detect and to prevent their further outbreak. Cur-
+rently, therapeutics and methodologies for diagnosis for
+NiV— or HeV-infected individuals are limited Given the
+novelty and threat posed by these viruses, there is a need for
+improved means of treating and/or preventing an infection
+by NiV or HeV, as well as a means for accurately detecting
+an infection.
+
+SUMMARY OF THE INVENTION
+
+[0010] The present invention provides new tools and
+methods for the design, production and use of soluble forms
+of the F glycoprotein of Hendra virus and Nipah virus. The
+present invention relates to various soluble forms of the F
+glycoprotein from the Hendra or Nipah virus. The invention
+provides a non-membrane bound form of F glycoprotein
+from the Hendra and Nipah viruses. The invention provides
+for a soluble F glycoprotein suitable as an antigen for
+vaccination purposes. The invention further provides soluble
+forms of F glycoprotein suitable to identify and isolate
+antibodies that speciﬁcally bind to it. The invention further
+provides diagnostic kits comprising soluble forms of F
+glycoprotein suitable for detecting the presence of Hendra
+and Nipah viruses.
+
+[0011] In one embodiment, the invention provides meth-
+ods of producing soluble F glycoprotein derived from Hen-
+dra virus and/or Nipah virus. In some embodiments, the
+soluble F glycoprotein is produced by recombinant means.
+By way of example, the soluble F glycoprotein can he
+produced by genetic engineering. In other embodiments, the
+soluble F glycoprotein is produced as a synthetic polypep-
+tide.
+
+[0012] In another embodiment, the invention provides
+nucleic acid and polypeptide sequences or fragments, ana-
+logs or homologs thereof that encode a soluble F glycopro-
+tein derived from Hendra or Nipah virus.
+
+[0013] The invention also provides expression vectors
+comprising the nucleic acid encoding a soluble F glycopro-
+tein derived from Hendra and/or Nipah virus.
+
+[0014] The invention also provides a fusion protein com-
+prising a polypeptide of the invention and one or more
+additional polypeptides that enhance the stability of the
+present invention enhance the irnmunogenicity of the pres-
+ent invention and/or assist in the puriﬁcation of the present
+invention. Other embodiments provide nucleic acids that
+encode the fusion proteins. Some embodiments provide
+soluble oligomers of F glycoprotein from Hendrit and/or
+Nipah virus.
+
+[0015] Another embodiment of the present invention pro-
+vides antibodies and fragments thereof, such as neutralizing,
+humanized, monoclonal, chimeric and polyclonal antibod-
+
+Jan. 31, 2019
+
+ies, speciﬁc or a soluble F glycoprotein derived from
+Hendra and/or Nipah virus and diagnostic and/ or therapeutic
+application of such antibodies.
+
+[0016] Anotier embodiment provides subunit vaccine
+comprising the nucleotide or amino acid sequences of the
+invention.
+[0017] Anotder embodiment of the invention provides
+methods of preventing infection by Hendra and/or Nipah
+virus in a subject or of mitigating an infection of Hendra
+and/or Nipah vinis in a subject.
+
+[0018] Anotier embodiment of this invention provides
+diagnostic kits comprising the nucleic acids, polypeptides
+and/or antiboc'es of the invention.
+
+[0019] Other embodiments and advantages of the inven-
+tion are set forth in part in the description, which follows,
+and in part, may be obvious from this description, or may be
+learned from the practice of the invention.
+
+ 
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+[0020] FIG. 1 shows size exclusion chromatography
+analysis of HeV soluble F (sF) glycoprotein. 300 [tg of HeV
+sF glycoprotein was analyzed on a calibrated SuperdexTM
+200 10/300 gel ﬁltration column 400 u_L fractions were
+collected. The elution volume of each peak was used to
+determine the approximate molecular mass as depicted from
+the calibrated curve. Vo indicates the void volume.
+
+[0021] FIGS. 2A-2B show size exclusion chromatography
+analysis of NiV sF glycoprotein generated after Phospholi-
+pase D cleavage of a carboxy-terminus GPI sequence. FIG.
+2A shows 300 [Lg of NiV sF glycoprotein-GPI analyzed on
+a calibrated SuperdexTM 200 10/300 gel ﬁltration column.
+400 [LL fractions were then collected. The elution volume of
+each peak was used to determine the approximate molecular
+mass as depicted from the calibrated curve. Vo represents the
+void volume. FIG. 2B shows 5 [LL of each fraction after
+analysis by Blue Native polyacrylamide gel electrophoresis
+(BN-PAGE) followed by western blotting Immuno-detec-
+tion was done by using a horseradish peroxidase (HRP)
+conjugated anti S-peptide antibody.
+
+[0022] FIGS. 3A-3B show size exclusion chromatography
+analysis of HeV sF glycoprotein with a carboxy terminal
+GCN peptide motif. FIG. 3A shows 4 mg of HeV sF
+g ycoprotein-GCN analyzed on a calibrated SuperdexTM 200
+10/300 gel filtration column 400 [LL fractions were collected.
+Tie elution volume of each peak was used to determine the
+a proximate molecular mass as depicted from the calibrated
+curve. Vo indicates the void volume. FIG. 3B shows 2 [LL of
+each fraction analyzed by BN-PAGE followed by western
+b otting. Detection was done using HRP conjugated anti
+S-peptide antibody.
+
+[0023] FIGS. 4A-4B show size exclusion chromatography
+analysis of NiV sF glycoprotein with a carboxy] terminal
+GCN peptide motif FIG. 4A shows 3 mg of NiV sF
+g ycoprotein-GCN analyzed on a calibrated SuperdexTM 200
+10/300 gel ﬁltration column. 400 [1L fractions were col-
+lected. The elution volume of each peak was used to
+determine the approximate molecular mass as depicted from
+the calibrated curve. Vo indicates the void volume. FIG. 3B
+s ows 2 [1L of each fraction analyzed by BN-PAGE followed
+by western blotting. Detection was done using HRP conju-
+gated anti S-peptide antibody.
+
+[0024] FIGS. 5A-5B show BN PAGE analysis of sF
+g ycoprotein. In lane 1, HeV sF glycoprotein-GCN was
+loaded. In lane 2, NiV sF glycoprotein-GCN was loaded. In
+US 2019/0031721A1
+
+ing antigen binding ability. Such fragments are also well
+known in the art and are regularly employed both in vitro
+and in vivo. In particular, as used herein, the term “antibody”
+means not only full-length immunoglobulin molecules but
+also antigen binding active fragments such as the well-
+known active fragments F(ab‘)2, Fab, Fv, and Fd.
+
+[0036] As used herein, the terms “Hendra Virus Disease”
+and “Nipah Virus Disease” refer to diseases caused, directly
+or indirectly, by infection with Hendra or Nipah virus. The
+broad species tropisms and the ability to cause fatal disease
+in both animals and humans have distinguished Hendra virus
+(HeV) and Nipah virus (NiV) from all other known
+paramyxoviruses (Eaton (2001) Microbes Infect. 3:277-
+278). These viruses can be ampliﬁed and cause disease in
+large animals and can be transmitted to humans where
+infection is manifested as a severe respiratory illness and/or
+febrile encephalitis
+
+[0037] As used herein with respect to proteins and poly-
+peptides, the term “recombinant” may include proteins and/
+or polypeptides and/or peptides that are produced or derived
+by genetic engineering, for example by translation in a cell
+of non-native nucleic acid or that are assembled by artiﬁcial
+means or mechanisms.
+
+[0038] As used herein with respect to polypeptides and
+proteins, the term “isolated” may include a polypeptide or
+nucleic acid that, by the hand of man, exists apart from its
+native environment and is therefore not a product of nature.
+For example, an isolated polypeptide may exist in a puriﬁed
+form or may exist in a non-native environment such as, for
+example, a recombinant host cell.
+
+[0039] As used herein, the term “analog” may include any
+polypeptide having an amino acid sequence substantially
+identical to a polypeptide, or peptide, of the invention, in
+which one or more residues have been conservatively sub-
+stituted with a functionally similar residue, and further
+which displays substantially identical functional aspects of
+the polypeptides as described herein. Examples of conser-
+vative substitutions include substitution of one non-polar
+(hydrophobic) residue for another (e.g. isoleucine, valine,
+leucine or methionine) for another, substitution of one polar
+(hydrophilic) residue for another (eg. between arginine and
+lysine, between glutamine and asparagine, between glycine
+and serine), substitution of one basic residue for another
+(eg. lysine, arginine or histidine), or substitution of one
+acidic residue for another (e.g. aspartic acid or glutamic
+acid).
+
+[0040] As used herein, a “homolog” may include any
+polypeptide having a tertiary structure substantially identical
+to a polypeptide of the invention which also displays the
+functional properties of the polypeptides as described
+herein.
+
+[0041] As used herein, “trimerization domain” refers to a
+structural motif that aids the polymerization of expressed
+proteins. Trimerization domains may aid soluble proteins to
+conﬁgure as though they were bound to the membrane.
+Trimerization domains, for example, may use coiled-coil
+motifs to polymerize. An example of a trimerization domain
+is seen in the basic leucine zipper. Basic leucine zippers
+typically correlate to a coiled coil of a-helices, whereby the
+positioning of leucine, or other hydrophobic amino acids, in
+the helices interact to form a hydrophobic core. An example
+of a basic leucine zipper is GCN4.
+
+[0042] As used herein “treatment” may include any type
+of intervention used in an attempt to alter the natural course
+
+Jan. 3], 2019
+
+of the individual or cell. Treatment may include, but is not
+limited to, administration of e.g., a pharmaceutical compo-
+sition, alone or in combination with other treatment modali-
+ties generally known in the art. The “treatment” may be
+performed prophylactically, or subsequent to the initiation of
+a pathologic event.
+
+[0043] As used herein, “pharrnaceutically acceptable car-
+rier” may include any material which, when combined with
+an active ingredient, allows the ingredient to retain biologi-
+cal activity and is non-reactive with the subject’s inunune
+system. Examples may include, but are not limited to,
+standard pharmaceutical carriers such as a phosphate buff-
+ered saline (PBS) solution, water, emulsions, and various
+types of wetting agents.
+
+[0044] As used herein, “fusion” may refer to nucleic acids
+and polypeptides that comprise sequences that are not found
+naturally associated with each other in the order or context
+in which they are placed according to the present invention.
+A fusion nucleic acid or polypeptide does not necessarily
+comprise the natural sequence of the nucleic acid or poly-
+peptide in its entirety. Fusion proteins have the two or more
+segments joined together through normal peptide bonds.
+Fusion nucleic acids have the two or more segments joined
+together through normal phosphodiester bonds.
+
+[0045] As used herein, “subject” may include the recipient
+of the treatment to be practiced according to the invention.
+The subject can be any animal, including a vertebrate. The
+subject will in most cases, preferably be a human, but may
+also be a domestic livestock, laboratory animal (including
+but not limited to, rodents such as a rat or mouse) or pet
+animal,
+
+[0046] As used herein, “cleavage” may refer to the sev-
+ering of an amino acid or nucleotide sequence. By way of
+example, cleavage may occur with the use of enzymes, such
+as trypsin and chymotrypsin. By way of further example,
+nucleotide sequences can be cleaved with the use of restric-
+tion endonucleases.
+
+[0047] Nipah and Hendra viruses require the concerted
+action of the attachment and fusion glycoproteins to infect
+the host cell and insert the nucleocapsid. The present inven-
+tion provides a soluble form of the F glycoprotein of both the
+Nipah and Hendra viruses. For example, the absence of the
+cytoplasmic and transmembrane regions of the carboxyl
+terminus of the F glycoprotein allow for solubilization of the
+protein. As a further example, use of the ﬁrst 488 amino
+acids of NiV and HeV (a loss of 58 amino acids in both),
+produces a soluble version of the F glycoprotein that retains
+characteristics of the native protein. The present invention
+includes polypeptides and fragments and analogs and
+homologs thereof having substantially the same function as
+the polypeptides of this invention. This invention also
+encompasses proteins or peptides that are substantially
+homologous to the polypeptides.
+
+Soluble Forms of the F Glycoprotein of NiV and HeV
+
+[0048] The present invention provides soluble forms of
+NiV and HeV F glycoprotein from differing strains. The
+present invention provides soluble forms of the F glycopro-
+tein comprising an amino acid sequence with signiﬁcant
+homology to the amino acid sequences of the extracellular
+domain of native F glycoproteins of the Hendra and Nipah
+virus. In a further embodiment, the soluble forms of the F
+glycoprotein have at least 50% identity with native NiV or
+HeV F glycoprotein, preferably at least about 70% identity,
+US 2019/0031721A1
+
+lane 3, HeV SF glycoprotein was loaded In lane 4, NiV SF
+glycoprotein-GPI was loaded. FIG. 5A shows a westem blot
+of approximately 2 ug of protein loaded per lane Immuno-
+detection was done by using HRP conjugated anti S-peptide
+antibody, FIG, SB shows Coomassie Blue staining of
+approximately 5 ug of protein loaded per lane
+
+[0025] FIGS. 6A-6C show ELISA titration of serum from
+mice immunized with different sF protein as indicated in
+Table 1, Plates were coated with 50 ng of HeV (FIG. 6A) or
+NiV (FIG. 6B) sF GCN per well followed by blocking in 5%
+BSA, PBS, 0,05% Tween 20. Two-fold serial dilution start-
+ing from 1/2000 of each mouse serum, mAb D54 against
+HIV-1 envelope-GCN, anti S peptide antibody, and Rabbit
+anti HeV F 1 polyclonal antibody was carried out HRP
+conjugated anti mouse IgG was used as secondary antibody,
+Each serum titration was done in duplicates and the average
+OD values were plotted against the serum dilution in log
+values, HIV-1 envelope-GCN (FIG. 6C) was used to monitor
+the titer of antibody generated against the GCN tail.
+[0026] FIG, 7 shows immunoprecipmtion of full length
+HeV or NiV F by different mouse serum. HeLa USU cells
+were infected with recombinant vaccinia virus expressing
+full length HeV or NiV F with MOI of 10 for 24 hours. Cells
+were lysed and cleared by centrifugation. The lysates were
+then divided equally into 7 portions. Each cell lysate fraction
+was then added with 1 ul of serum from diiTerent mouse
+immunized with different SF as indicated in Table 1. The
+mixture was rotated at 4° C. overnight followed by pro-
+tein-G bead precipitation at room temperature for 1 hr The
+bound complex was then washed 3 times and subsequently
+boiled in 50 [.11 SDS-PAGE sample loading buffer in reduc-
+ing condition. 25 pl of the boiled samples were then ana-
+lyzed on SDS-PAGE followed by western blotting The
+precipitated F glycoprotein was detected using rabbit anti
+HeV Fl polyclonal antibody. (ﬁve indicates pooled pre-
+immunization serum).
+
+[0027] FIG, 8 shows serum neutralization ofNiV F and G
+pseudotyped luciferase reporter virus. NiV F and G
+pseudovirus particles harboring the NL43 luciferase reporter
+gene was pre—incubated with the mouse serum in 1/200,
+1/400, and 1/800 (leﬁ to right) dilution at room temperature
+for 1/2 hr. 293T cells were then infected with the mixture for
+48 his The cells were then lysed and the luciferase activity
+was measured. Each infection was done in triplicates. (ve
+indicates pooled pre-immunization serum).
+
+[0028] FIG, 9 shows representative equilibrium sedimen-
+tation data (6,000 rpm) of HeV SF GCN (15 mg/ml) in PBS
+with 001% Triton X-100 buffer at 4° C. Data are plotted as
+absorbance versus the radius from the axis of rotation. The
+data ﬁt closely to a trimeric complex. The deviation in the
+data from the linear ﬁt for a trimeric model is plotted
+
+(Upper)?
+DETAILED DESCRIPTION
+
+[0029] The Hendra virus (HeV) and Nipah virus (NiV) are
+closely related members of the Hem’paviru: genus of the
+Paramyxoviridae family, These viruses infect cells by a
+pH-independent membrane fusion event mediated by their
+attachment (G) and fusion (F) envelope glycoproteins
+(Envs) Generally, this invention provides soluble forms of
+HeV and NiV F glycoprotein, the nucleotide sequences
+encoding the proteins and to methods for uSing these pro-
+teins to diagnose, detect, prevent, and treat disease associ-
+ated with infection by HeV and/or NiV. Speciﬁcally, this
+
+Jan. 31, 2019
+
+invention provides soluble forms of HeV and NiV F glyco-
+protein which retain characteristics of the native F glyco-
+protein,
+
+[0030] The natural physiology of the F glycoprotein amino
+acid sequence prevents the protein from being soluble in
+aqueous solutions. The present invention provides soluble
+forms of the HeV and NiV F glycoproteins comprising all or
+part of the extracellular domain of F glycoprotein of a HeV
+or NiV The soluble forms of F glycoprotein may be pro-
+duced by deleting all or part of the transmembrane and
+cytoplasmic tail domains of the F glycoprotein. By way of
+example, a soluble F glycoprotein may comprise the com-
+plete extracellular region of an HeV or NiV F glycoprotein.
+Also, by way of example, a soluble F glycoprotein may
+comprise all or part of the extracellular region and part of the
+transmembrane domain of an HeV or NiV f glycoprotein. By
+way, of further example, several versions of a soluble F (sF)
+glycoprotein were constructed, primarily through removing
+the cytoplasmic tail and/or transmembrane domain that
+anchor the protein. Without these regions, the resulting
+expressed F glycoprotein is soluble.
+
+[0031] The sF glycoproteins of the invention are structur-
+ally similar to the native viral F glycoprotein. By way of
+example, the sF glycoproteins of the invention may be
+recognized by polyclonal antibodies directed to HeV and/or
+NiV. By way of example, the sF glycoproteins of the
+invention may assemble in the oligomeric form or forms
+(such as a trimer), comparable to native NiV and HeV F
+glycoprotein.
+
+[0032] The sF glycoproteins of the present invention are
+suitable, for example, for vaccine development and for
+acting as an antigen to generate anti-viral antibodies when
+used aS a vaccine or in the isolation of recombinant mono-
+clonal antibodies. The SF glycoproteins are suitable to
+generate antibodies capable of recognizing native F glyco-
+protein, The sF glycoproteins of the present invention that
+assemble in oligomeric forms, such as trimers, can be of
+further use, such as, for example, for crystallization and
+structural determination to provide further information to aid
+structural-based antiviral research The oligomeric forms of
+sF glycoprotein of the present invention may also generate
+further antibodies capable of recognizing native F glyco-
+protein and its native oligomeric forms. Examples of meth-
+odology that may be used include, but are not limited to, the
+assays described herein in the Examples
+
+[0033] As used herein, the singular form “a" or “an” or
+“the" includes plural references unless indicated otherwise.
+For example, “a” F glycoprotein includes one or more F
+glycoproteins.
+
+[0034] As used herein, “soluble F glycoprotein” or
+“soluble form of F glycoprotein” or “sF glycoprotein” refers
+to an amino acid sequence corresponding to a fragment or
+portion of native F glycoprotein that contains the extracel-
+lular domain or a portion thereof The sF glycoprotein is
+structurally similar to the native viral F glycoprotein. By
+way of example, removal of a transmembrane domain
+increases solubility,
+
+[0035] As used herein, the term “antibody" means an
+immunoglobulin molecule or a fragment of an immuno-
+globulin molecule having the ability to speciﬁcally bind to
+a particular antigen. Antibodies are well known to those of
+ordinary Skill in the science of immunology As used herein,
+the term “antibody” means not only full-length antibody
+molecules but also fragments of antibody molecules retain-
+US 2019/0031721A1
+
+(buﬁalo rat liver cells) (ATCC CRLl442); W138 (human
+lung cells) (ATCC CCL75); HepG2 (human liver cells)
+(HB8065); and MMT 060652 (mouse mammary tumor)
+(ATCC CCLSI).
+
+[0065] In other embodiments, the present invention pro-
+vides nucleic acid molecules encoding a fusion protein
+comprising the sF glycoprotein and additional polypeptides
+Vectors useful for constructing eukaryotic expression sys-
+tems for the production of fusion polypeptides comprise
+nucleic acid encoding the fusion protein operatively linked
+to an appropriate transcriptional activation sequence, such as
+a promoter and/or operator. Other typical features may
+include appropriate ribosome binding sites, termination
+codons, enhancers, terminators, or replicon elements These
+additional features can be inserted into the vector at the
+appropriate site or sites by conventional splicing techniques
+such as restriction endonuclease digestion and ligation.
+[0066] In some embodiments, the nucleic acid molecules
+encode a fusion protein comprising nucleic acids fused to
+the nucleic acid encoding the sF glycoprotein. The fused
+nucleic acid may encode polypeptides that may aid in
+puriﬁcation and/or immunogenicity and/or stability without
+shiﬁing the codon reading frame of the sF glycoprotein, In
+some embodiments, the fused nucleic acid will encode for a
+polypeptide to aid puriﬁcation of the sF glycoprotein. In
+some embodiments the fused nucleic acid will encode for an
+epitope and/or an afﬁnity tag. Examples of polypeptides that
+aid puriﬁcation include, but are not limited to, a His-tag, a
+myc-tag, an S-peptide tag, a MBP tag, a GST tag, a FLAG
+tag, a thioredoxin tag, a GFP tag, a BCCP, a calmodulin tag,
+a Strep tag, an HSV-epitope tag, a VS-epitope tag, and a CBP
+tagi
+
+[0067] In other embodiments, the fused nucleic acid will
+encode for a polypeptide that correlates to a site directed for,
+or prone to, cleavage. In preferred embodiments, the fused
+nucleic acid will encode for polypeptides that are sites of
+enzymatic cleavage. In further embodiments, the enzymatic
+cleavage will aid to isolate the sF glycoprotein. as well as
+other fused polypeptide segments, from yet other polypep-
+tides. By way of example, an intermediary nucleic acid that
+encodes for an enzymatic cleavage site placed between
+nucleic acids that encode for sF glycoprotein and an S—pep-
+tide epitope will allow for later separation of the expressed
+sF glycoprotein and the S—peptide. In further preferred
+embodiments, the fused nucleic acid will encode in part for
+amino acids that are a site of cleavage by Factor Xa. In some
+embodiments, the fused nucleic acid will encode for amino
+acids that are membrane anchored and a site of cleavage. By
+way of example, SEQ ID NO: 8 will anchor the fusion
+polypeptide to the plasma membrane and is a site for
+Phospholipase D cleavage,
+
+[0068] In other embodiments, the fused nucleic acid will
+encode in part for a polypeptide that aids the stability and
+function of the soluble F glycoprotein. In further embodi-
+ments, the fused nucleic acid will encode for polypeptides
+that aid in forming oligomers of soluble F glycoprotein. In
+preferred embodiments, the fused nucleic acid will encode
+for a trimerization domain, A basic leucine zipper motifis an
+example of a trimerization domain. By way of further
+example, the basic leucine zipper motif is a GCN4 poly-
+peptide segment
+
+[0069] In other embodiments, the multiple nucleic acids
+will be fused to the nucleic acid encoding sF glycoprotein.
+The fused nucleic acids may encode for polypeptides that
+
+Jan. 3], 2019
+
+aid puriﬁcation and/or enzymatic cleavage and/or stability.
+In further embodiments, the fused nucleic acids will not
+elongate the expressed polypeptide signiﬁcantly. In further
+embodiments, the fused nucleic acids will encode for less
+than sixty extra amino acids to the sF glycoprotein. In some
+embodiments, the fused nucleic acids follow after the
+nucleic acid encoding the sF glycoprotein In other embodi-
+ments, the fused nucleic acids precedes the nucleic acid
+encoding sF glycoprotein. In other embodiments, the fused
+nucleic acids ﬂank the nucleic acid encoding sF glycopro-
+tein. In some embodiments, a fused nucleic acid that
+encodes for an amino acid sequence prone to enzymatic
+cleavage and is placed between the nucleic acid that encodes
+for sF glycoprotein region and another fused nucleic acid
+that encodes for a polypeptide to aid purification. In pre-
+ferred embodiments, the nucleic acid molecule will be
+arranged so that a cleavage domain will separate a polypep-
+tide to aid puriﬁcation from the sF glycoprotein fused to a
+trimerization domain.
+
+Antibodies that Bind Soluble Forms of F Glycoprotein
+[0070] Another aspect of the invention is directed to the
+generation of antibodies. Examples of antibodies encom-
+passed by the present invention, include, but are not limited
+to, antibodies speciﬁc for HeV F glycoprotein, antibodies
+speciﬁc for NiV F glycoprotein, antibodies that cross react
+with HeV F glycoprotein and NiV F glycoprotein and
+neutralizing: antibodies. The antibodies of the invention
+may be characterized using methods well known in the art,
+[0071] The antibodies useful in the present invention can
+encompass monoclonal antibodies, polyclonal antibodies,
+antibody fragments (e.g., Fab, Fab‘, F(ab‘)2, Fv, Fe, etc.),
+chimeric antibodies, bispeciﬁc antibodies, heteroconjugate
+antibodies, single chain (ScFv), mutants thereof, fusion
+proteins comprising an antibody portion, humanized anti-
+bodies and any other modiﬁed conﬁguration of the immu-
+noglobulin molecule that comprises an antigen recognition
+site of the required speciﬁcity, including glycosylation vari-
+ants of antibodies, amino acid sequence variants of antibod-
+ies, and covalently modiﬁed antibodies. Preferred antibodies
+are derived from murine, rat, human, primate, or any other
+origin (including chimeric and humanized antibodies).
+[0072] In one embodiment the antibodies are polyclonal or
+monoclonal antibodies. Methods of preparing monoclonal
+and polyclonal antibodies are well known in the art.
+[0073] In other embodiments, the antibodies are human-
+ized by methods known in the art. A humanized antibody is
+an immunoglobulin molecule that contains minimal
+sequence derived from non-human immunoglobulin. In yet
+other embodiments, fully human antibodies are obtained by
+using commercially available mice that have been engi-
+neered to express speciﬁc human immunoglobulin proteins.
+In other embodiments, the antibodies are chimerici A chi-
+meric antibody is an antibody that combines characteristics
+from two diiferent antibodies. Methods of preparing chime-
+ric antibodies are known in the art.
+
+[0074] In other embodiments, the nucleotide sequence that
+encodes the antibody is obtained and then cloned into a
+vector for expression or propagation. In another embodi-
+ment, antibodies are made recombinantly and expressed
+using methods known in the art. By way of example, sF
+glycoprotein may be used as an antigen for the purposes of
+isolating recombinant antibodies by these techniques Anti-
+bodies can be made recombinantly by using the gene
+sequence to express the antibody recombinantly in host
+US 2019/0031721A1
+
+cells. Methods for making derivatives of antibodies and
+recombinant antibodies are known in the art.
+
+[0075] In other embodiments, the antibodies are bound to
+a carrier by conventional methods in the art, for use in, for
+example, isolating or purifying native Hendra or Nipah F
+glycoproteins or detecting native Hendra or Nipah F glyco-
+proteins in a biological sample or speciment In other
+embodiments, neutralizing antibodies are administered as
+passive immunotherapy to a subject infected with or sus-
+pected of being infected with Hendra or Nipah virus.
+
+[0076] An antibody is a heterotetrameric glycoprotein
+composed of two identical light (L) chains and two identical
+heavy (H) chains (an Igm antibody consists of ﬁve of the
+basic heterotetramer unit along with an additional polypep-
+tide called J chain, and therefore contain ten antigen binding
+sites, while secreted IgA antibodies can polymerize to form
+polyvalent assemblages comprising two to ﬁve of the basic
+four chain units a ong, with J chain). The L chain from any
+vertebrate species can be assigned to one of two clearly
+distinct types, called kappa and lambda, based on the amino
+acid sequences of their constant domains and the methods of
+the current invention include the use of antibodies with
+either a kappa or ambda L chain. Depending on the amino
+acid sequence of the constant domain of their heavy chains
+(CH), immunoglo aulins can be assigned to different classes
+or isotypes. There are ﬁve classes of iinintmoglobulins: IgA,
+IgD, IgE, IgG, and IgM, having heavy chains designated
+alpha, delta, epsi on, gamma and mu, respectively The
+gamma and alpha classes are further divided into subclasses
+on the basis of relatively minor differences in CH sequence
+and function, e.g., rumans express the following subclasses:
+IgG,, Ing, IgGB, gGA, IgAl and IgA2. The methods of the
+present invention include the use of antibodies, including
+monoclonal antibodies, from any of the above classes and/or
+subclasses.
+
+[0077] As used ‘rerein, the term “variable” refers to the
+fact that certain segments of the variable domains differ
+extensively in sequence among antibodies. The variable
+domain mediates antigen binding and deﬁnes speciﬁcity of
+a particular antibody for its particular antigen. However, the
+variability is not evenly distributed across the llO-arnino
+acid span of the variable domains. Instead, the variable
+regions consist of relatively invariant stretches called frame-
+work regions (FR) of about ﬁfteen to thirty amino acids
+separated by shorter regions of extreme variability called
+“hypervariable regions” that are each about nine to twelve
+amino acids long. The Variable domains of native heavy and
+light chains each comprise four framework regions, largely
+adopting a beta-sheet conﬁguration, connected by three
+hypervariable regions, which form loops connecting, and in
+some cases forming part of, the beta-sheet structure, The
+hypervariable regions in each chain are held together in
+close proximity by the framework region and, with the
+hypervariable regions from the other chain, contribute to the
+formation of the antigen-binding site of antibodies (see
+Kabat et al. (1991) Sequences of Proteins of immunological
+Interest, Public Health Service, National institutes of
+Health). The constant domains are not involved directly in
+binding an antibody to an antigen, but exhibit various
+effector functions, such as participation of the antibody in
+antibody dependent cellular cytotoxicity (ADCC).
+
+[0078] The term “hypervariable region” when used herein
+refers to the amino acid residues of an antibody which are
+responsible for antigen-binding. The hypervariable region
+
+ 
+
+Jan. 3], 2019
+
+generally comprises amino acid residues from a “comple-
+mentarity determining region” or “CDR” which contributes
+to the speciﬁcity of the antibody.
+
+[0079] The term “antibodies or fragments thereof“ as used
+herein refers to antibodies or fragments thereof that speciﬁ-
+cally bind to a sF poly peptide or a fragment of a sF poly
+peptide and do not speciﬁcally bind to other non-sF poly-
+peptides. Preferably, antibodies or fragments that immuno-
+speciﬁcally bind to a SP polypeptide or fragment thereof do
+not non-speciﬁcally cross-react with other antigens (er bind-
+ing cannot be competed away with a non-sF protein, e.g.,
+BSA in an appropriate immunoassay). Antibodies or frag-
+ments that immunospeciﬁcally bind to an SF polypeptide
+can be identiﬁed, for example, by irnmunoassays or other
+techniques known to those of skill in the art. Antibodies of
+the invention include, but are not limited to, synthetic
+antibodies, monoclonal antibodies, recombinantly produced
+antibodies, intrabodies, diabodies, multispeciﬁc, antibodies
+(including hi-speciﬁc: antibodies), human antibodies,
+humanized antibodies, chimeric antibodies, single-chain Fvs
+(scFv) (including bi-speciﬁc scfvs), single chain antibodies,
+Fab' fragments, F(ab‘)2 fragments, disulﬁde-linked Fvs
+(dev), and anti-idiotypic (an i-Id) antibodies, and epitope-
+binding fragments of any of the above. In particular, anti-
+bodies of the present invention include immunoglobulin
+molecules and immunologically active portions of immu-
+noglobulin molecules, molecules that contain an antigen
+binding she that irnrnunospeciﬁcally binds to an sF antigen
+
+(eg, one or more complementarity determining regions
+(CDRs) of an anti-sF antibody).
+
+[0080] The term “monoclonal antibody” as used herein
+refers to an antibody obtained from a population of substan-
+tially homogeneous antibodies, i,e., the individual antibod-
+ies comprising the population are identical except for pos-
+sible naturally occurring mutations that may be present in
+minor amounts and includes antibody fragments as deﬁned
+herein. Monoclonal antibodies are highly speciﬁc, being
+directed against a single antigenic site. Furthermore, in
+contrast to polyclonal antibody preparations which include
+different antibodies directed against different determinants
+(epitopes), each monoclonal antibody is directed against a
+single determinant on the antigen. In addition to their
+speciﬁcity, the monoclonal antibodies are advantageous in
+that they may be synthesized uncontaminated by other
+antibodies. The modiﬁer “monoclonal” is not to be con-
+strued as requiring production of the antibody by any
+particular method. For example, the monoclonal antibodies
+useful in the present invention may he prepared by the
+hybridoma methodology ﬁrst described by Kohler et a1.
+(1975) Nature 256, 495 or may be made using recombinant
+DNA methods in bacterial, eukaryotic animal or plant cells
+(see US. Pat. No, 4,816,567). The “monoclonal antibodies”
+may also be isolated from phage antibody libraries using the
+techniques described in Clackson et a1. (1991) Nature 352:
+624-628 and Marks et a1. (1991) J. Mol. Biol. 222. 581-597,
+for example.
+
+[0081] As used herein, an “intact" antibody is one which
+comprises an antigen-binding site as well as a C L and at least
+heavy chain constant domains, CH1 and C92 and CH? The
+constant domains may be native sequence constant domains
+(erg, human native sequence constant domains) or amino
+acid sequence variant thereof. Preferably, the intact antibody
+has one or more effector functions.
+US 2019/0031721A1
+
+cally synthesized peptide, such as adenylation, carboxy-
+lation, glycosylation, hydroxylation, methylation, phospho-
+rylation or myristylation. These added structural
+modiﬁcations may be further be selected or preferred by the
+appropriate choice of recombinant expression system, On
+the other hand, fusion polypeptides may have their sequence
+extended by the principles and practice of organic synthesis
+
+Nucleic Acids Encoding Soluble Forms of F Glycoprotein
+
+[0056] The present invention provides nucleic acid mol-
+ecules encoding an amino acid sequence of a soluble form
+of the F glycoprotein of NiV or HeV and variants thereof.
+Nucleic acids may include single or double stranded forms
+of deoxyribonucleotides or ribonucleotides or polymers
+thereof.
+
+[0057] The present invention also provides a vector com-
+prising a nucleic acid encoding for the F glycoprotein of NiV
+or HeV A vector may be any of a number of nucleic acids
+into which a desired sequence may be inserted by restriction
+and ligation for transport between different genetic environ-
+ments or for expression in a host cell. Vectors are typically
+composed of DNA, although RNA vectors are also avail-
+able, Vectors include, but are not limited to, plasmids and
+phagemids. A cloning vector is one which is able to replicate
+in a host cell, and which is further characterized by one or
+more endonuclease restriction sites at which the vector may
+be cut in a determinable fashion and into which a desired
+DNA sequence may be ligated such that the new recombi-
+nant vector retains its ability to replicate in the host cell. In
+the case of plasmids, replication of the desired sequence may
+occur many times as the plasmid increases in copy number
+within the host bacterium or just a single time per host
+before the host reproduces by mitosis, In the case ofphage,
+replication may occur actively during a lytic phase or
+passively during a lysogenic phase.
+
+[0058] Vectors may further contain a promoter sequence.
+A promoter may include an untranslated nucleic acid
+sequence usually located upstream of the coding region that
+contains the site for initiating transcription of the nucleic
+acid. The promoter region may also include other elements
+that act as regulators of gene expression. In further embodi-
+ments of the invention, the expression vector contains an
+additional region to aid in selection of cells that have the
+expression vector incorporated. The promoter sequence is
+often bounded (inclusively) at its 3‘ terminus by the tran-
+scription initiation site and extends upstream (5' direction) to
+include the minimum number of bases or elements necessary
+to initiate transcription at levels detectable above back-
+ground. Within the promoter sequence will be found a
+transcription initiation site, as well as protein binding
+domains responsible for the binding of RNA polymerase.
+Eukaryotic promoters will oﬁen, but not always, contain
+“TATA” boxes and “CAT" boxes.
+
+[0059] Vectors may further contain one or more marker
+sequences suitable for use in the identiﬁcation and selection
+of cells which have been transformed or transfected with the
+vector. Markers include, for example, genes encoding pro-
+teins which increase or decrease either resistance or sensi-
+tivity to antibiotics or other compounds, genes which encode
+enzymes whose activities are detectable by standard assays
+known in the art (e.g., D-galactosidase or alkaline phos-
+phatase), and genes which visibly affect the phenotype of
+transformed or transfected cells, hosts, colonies or plaques.
+Preferred vectors are those capable of autonomous replica-
+
+Jan. 3], 2019
+
+tion and expression of the structural gene products present in
+the DNA segments to which they are operably joined.
+[0060] An expression vector is one into which a desired
+nucleic acid sequence may be inserted by restriction and
+ligation such that it is operably joined to regulatory
+sequences and may be expressed as an RNA transcript.
+Expression refers to the transcription and/or translation of an
+endogenous gene, transgene or coding region in a cell.
+[0061] A coding sequence and regulatory sequences are
+operably joined when they are covalently linked in such a
+way as to place the expression or transcription of the coding
+sequence under the inﬂuence or control of the regulatory
+sequences, If it is desired that the coding sequences be
+translated into a functional protein, two DNA sequences are
+said to be operably joined if induction of a promoter in the
+5' regulatory sequences results in the transcription of the
+coding sequence and if the nature of the linkage between the
+two DNA sequences does not (1) result in the introduction
+of a frame-shift mutation, (2) interfere with the ability of the
+promoter region to direct the transcription of the coding
+sequences, or (3) interfere with the ability of the correspond-
+ing RNA transcript to be translated into a protein. Thus, a
+promoter region would be operably joined to a coding
+sequence if the promoter region were capable of effecting
+transcription of that DNA sequence such that the resulting
+transcript might be translated into the desired protein or
+polypeptide.
+
+[0062] Some aspects of the present invention include the
+transformation and/or transfection of nucleic acid encoding
+sF glycoprotein. Transformation is the introduction of exog-
+enous or heterologous nucleic acid to the interior of a
+prokaryotic cell. Transfection is the introduction of exog-
+enous or heterologous nucleic acid to the interior of a
+eukaryotic cell. The transforming or transfecting nucleic
+acid may or may not be integrated (covalently linked) into
+chromosomal DNA making up the genome of the cell. In
+prokaryotes, for example, the transforming nucleic acid may
+be maintained on an episomal element such as a plasmid or
+viral vector. With respect to eukaryotic cells, a stably trans-
+fected cell is one in which the transfecting nucleic acid has
+become integrated into a chromosome so that it is inherited
+by daughter cells through chromosome replication, This
+stability is demonstrated by the ability of the eukaryotic cell
+to establish cell lines or clones comprised of a population of
+daughter cells containing the transfected nucleic acid.
+
+[0063] Higher eukaryotic cell cultures may be used to
+express the proteins of the present invention, whether from
+vertebrate or invertebrate cells, including insects, and the
+procedures of propagation thereof are known (see, for
+example, Knise et al. (1973) Tissue Culture, Academic
+Press).
+
+[0064] Suitable host cells for expressing the polypeptides
+of the present invention in higher eukaryotes include: 293
+(human embryonic kidney) (ATCC CRL-1573); 293F (Invit-
+rogen, Carlsbad Calif); 293T and derivative 293T/17
+(293tsA1609neo and derivative ATCC CRL-11268) (human
+embryonic kidney transformed by SV40 T antigen); COS-7
+(monkey kidney CVI line transformed by SV40)(ATCC
+CRL1651); BHK (baby hamster kidney cells) (ATCC
+CRLIO); CHO (Chinese hamster ovary cells); mouse Sertoli
+cells; CVI (monkey kidney cells) (ATCC CCL70); VERO76
+(African green monkey kidney cells) (ATCC CRL1587);
+HeLa (human cervical carcinoma cells) (ATCC CCL2);
+MDCK (canine kidney cells) (ATCC CCL34); BRL3A
+US 2019/0031721A1
+
+Jan. 31, 2019
+
+, cont inued
+
+<210> SEQ ID NO 11
+
+<211> LENGTH: 12
+
+<212> TYPE: DNA
+
+<213> ORGANISM: Artificial
+<220> FEATURE:
+
+<223> OTHER INFORMATION: Nucleotide sequence for Factor X3
+
+<400> SEQUENCE: ll
+
+atcgagggca gg
+
+<210> SEQ ID NO 12
+
+<211> LENGTH: 4
+
+<212> TYPE: PRT
+
+<213> ORGANISM: Artificial
+<220> FEATURE:
+
+12
+
+<223> OTHER INFORMATION: Amino acid sequence for Factor xa
+
+<400> snowmen: 12
+
+Ile Glu Gly Arg
+1
+
+1-25. (canceled)
+
+26. A soluble polypeptide comprising a soluble antigenic
+form of a Hendra F glycoprotein, wherein (i) the glycopro-
+tein consists of an amino acid sequence with at least 90
+percent sequence identity to amino acids 1 to 488 of SEQ ID
+NO: 4, (ii) the glycoprotein is fused to a second peptide, and
+(iii) the second peptide is a trinierization domain which is
+SEQ ID NO: 10.
+
+27. The soluble polypeptide of claim 26, wherein the
+glycoprotein has at least 98 percent identity to amino acids
+1 to 488 of SEQ ID NO: 2.
+
+28. The soluble polypeptide of claim 26, wherein the
+glycoprotein comprises amino acids 1 to 488 of SEQ ID NO:
+2.
+
+29. The soluble polypeptide of claim 26, wherein the
+glycoprotein consists of amino acids 1 to 488 of SEQ ID
+NO: 2,
+
+30, The soluble polypeptide of claim 26, wherein the
+second peptide is located in proximity to the carboxyl
+terminus of the glycoprotein.
+
+31. A pharmaceutical composition comprising the soluble
+polypeptide of claim 26 and a pharmaceutically acceptable
+carrier.
+
+32, A diagnostic kit for detecting a Henipavirus infection
+in a subject comprising the soluble polypeptide of claim 26,
+
+33. A method of eliciting an immune response in a human
+subject in need thereof comprising administering to the
+subject the pharmaceutical composition of claim 31.
+
+*a=a=**
+US 2019/0031721A1
+
+more preferably at least about 80%, more preferably still at
+least about 90%, and most preferably at least about 98%
+sequence identity, In one embodiment, the polypeptide com-
+prises SEQ ID NO: 2. In another embodiment, the polypep-
+tide comprises SEQ ID NO: 4, The sF glycoproteins may
+further encompass amino acid insertions, substitutions and/
+or deletions that have minimal to no effect on the activity,
+function or shape of the polypeptide. Examples of such
+substitutions include the substitution of one non-polar resi-
+due for another, the substitution of one polar residue for
+another, the substitution of one basic residue for another. or
+the substitution of one acidic residue for another. The sF
+glycoprotein may further include insertions, substitutions
+and/or deletions of amino acids in a comparison to the amino
+acid sequence of the extracellular domain of native NiV or
+HeV F glycoprotein that yield minimal etfect on the activity,
+function and/or structure of the polypeptide. Those skillec in
+the art will recognize non-natural amino acids may also be
+used, Non-natural amino acids include, for example, beta-
+alanine (beta-Ala), or other omega-amino acids, such as
+3-amino propionic, 2,3-diamino propionic (2,3-dia 3),
+4-amino butyric and so forth, alpha-aminisobutyric acid
+(Aib), sarcosine (Sat), omithine (Om), citrulline (Cit), t-bu-
+tylalanine (t-BuA), t-butylglycine (t-BuG), N-methylisoleu-
+cine (N-Melle), phenylglycine (Phg), and cyclohexylalanine
+(Cha), norleucine (Nle), cysteic acid (Cya) 2-naphthy1a a-
+nine (2-Nal); l,2,3,4-tetrahydroisoquinoline-3-carboxylic
+acid (T ic); beta-2-thienylalanine (Thi); and methionine sul-
+foxide (M80)
+
+[0049] The sF glycoprotein of the present invention may
+be prepared by any known techniques. For example, tie
+polypeptides may be expressed through genetic engineering.
+By way of example, the translation of recombinant DNA,
+The polypeptides may also be prepared synthetically. By
+way of example, the polypeptide may be synthesized using
+the solid-phase synthetic technique initially described y
+Merriﬁeld (J. Am Chem. Soc. 852149-2154), which is
+incorporated herein by reference, Other polypeptide synthe-
+sis techniques may be found, for example, Kent et a1. (1985)
+in Synthetic Peptides in Biology and Medicine, eds. Alitalo
+et al., Elsevier Science Publishers, 295-358,
+
+ 
+
+[0050] The sF glycoprotein of the present invention may
+be isolated or obtained in substantially pure form. Substan-
+tially pure means that the proteins and/or polypeptides
+and/or peptides are essentially free of other substances with
+which they may be found in nature or in vivo systems to an
+extent practical and appropriate for their intended use. In
+particular, the sF glycoproteins are sufﬁciently pure and are
+suﬂiciently free from other biological constituents of their
+host cells so as to be useful in, for example, generating
+antibodies, sequencing, or producing pharmaceutical prepa-
+rations, By techniques well known in the art, substantially
+pure polypeptides may be produced in light of the nucleic
+acid and amino acid sequences disclosed herein. Because a
+substantially puriﬁed polypeptide of the invention may be
+admixed with a phannaceutically acceptable carrier in a
+pharmaceutical preparation, the polypeptide may comprise
+only a certain percentage by weight of the preparation, The
+polypeptide is nonetheless substantially pure in that it has
+been substantially separated from the substances with which
+it may be associated in living systems.
+
+Jan. 3], 2019
+
+Fusion Polypeptides Comprising Soluble F Glycoprotein
+
+[0051] The present invention further provides isolated
+fusion polypeptides comprising sF glycoprotein and addi-
+tional polypeptides, The additional polypeptides may be
+fragments of a larger polypeptide, In one embodiment, there
+are one, two, three, four, or more additional polypeptides
+fused to the sF glycoprotein, In some embodiments, the
+additional polypeptides are fused toward the amino terminus
+of the sF glycoprotein. In other embodiments, the additional
+polypeptides are fused toward the carboxyl terminus of the
+sF glycoprotein. In further embodiments, the additional
+polypeptides ﬂank the sF glycoprotein,
+
+[0052] In some embodiments, the additional polypeptides
+aid the stabilization, structure and/or the puriﬁcation of the
+sF glycoprotein. In some embodiments, the additional poly-
+peptides assist the sF glycoprotein to form oligomers, such
+as a trimer. Oligomers may assist sF glycoproteins to con-
+ﬁgure in a manner more similar to native F glycoprotein, By
+way of example, a trimerization domain fused to sF glyco-
+protein may stabilize the polypeptide and may further
+increase polymerization of the polypeptide.
+
+[0053] In some embodiments the additional polypeptides
+may comprise an epitope, In other embodiments, the addi-
+tional polypeptides may comprise an afﬁnity tag. By way of
+example, fusion of a polypeptide comprising an epitope
+and/or an afﬁnity tag to sF glycoprotein may aid puriﬁcation
+and/or identiﬁcation of the polypeptide. By way of example,
+the polypeptide segment may be a His-tag, a myc-tag, an
+S-peptide tag, a MBP tag (maltose binding protein), a GST
+tag (glutathione S-transferase), a FLAG tag, a thioredoxin
+tag, a GFP tag (green ﬂuorescent protein), a BCCP (biotin
+carboxyl carrier protein), a calmodulin tag, a Strep tag, an
+HSV-epitope tag, a V5-epitope tag, and a CRP tag. The use
+of such epitopes and aﬂinity tags is known to those skilled
+in the art.
+
+[0054] In further embodiments, the additional polypep-
+tides may provide a fusion protein comprising sites for
+cleavage of the polypeptide As an example, a polypeptide
+may be cleaved by hydrolysis of the peptide bond. In some
+embodiments, the cleavage is performed by an enzyme. In
+some embodiments cleavage occurs in the cell. In other
+embodiments, cleavage occurs through artiﬁcial manipula-
+tion and/or artiﬁcial introduction of a cleaving enzymei By
+way of example, cleavage enzymes may include pepsin,
+trypsin, chymotrypsin, and/or Factor Xa. The additional
+polypeptides may provide for a membrane anchor domain.
+The membrane anchor domain may be a site for cleavage.
+For example, Phospholipase D will cleave the membrane
+anchor domain of SEQ ID NO: 8. Moreover, cleavage
+allows ease of isolating the sF glycoprotein from the poly-
+peptides. Cleavage may also allow isolation of sF glycopro-
+tein fused to polypeptides from other polypeptides. By way
+of example, a Factor Xa cleavage site may allow isolation of
+sF glycoprotein fused to a trimerization domain from an
+S-peptide tag. The present invention provides sF glycopro-
+tein fused to a trimerization domain, a Factor Xa cleavage
+domain and an S-peptide tag. The trimerization domain
+allows for the association of sF glycoprotein as an oligomer.
+The S—peptide tag allows for puriﬁcation through the use of
+anti-S—peptide antibodies. The Factor Xa cleavage domain
+allows for separation of the sF glycoprotein fused to the
+trimerization domain from the S-peptide tag.
+
+[0055] Fusion polypeptides may further possess additional
+structural modiﬁcations not shared with the same organi-
+US 2019/0031721A1
+
+example, to enhance the immunogenicity of a soluble F
+glycoprotein of the invention being administered as a sub-
+unit vaccine, the pharmaceutical composition may further
+comprise an adjuvant.
+
+Vaccines for Henipaviruses
+
+[0093] Another aspect of the invention is directed toward
+the use of the sF glycoprotein as vaccinating agent. The
+formulation of a vaccine or irnmunogenic compositions of
+the invention will employ an effective amount of the poly-
+peptide antigen. That is, there will be included an amount of
+antigen which will cause the subject to produce a speciﬁc
+and suﬂicient immunological response so as to impart pro-
+tection to the subject from subsequent exposure to Hendra or
+Nipah vims. In one embodiment, HeV or NiV sF glycopro-
+tein, or a combination thereof, is administered by itself or in
+combination with an adjuvant.
+
+[0094] Adjuvants include aluminum salts (alum), Com-
+plete Freund’s Adjuvant (CFA), Incomplete Freund’s Adju-
+vant (IFA), Muramyl dipeptide (MDP), synthetic analogues
+of MDP ,N-acetylmuramyl-L-alany1-D-isoglutamyl-L-ala-
+nine-2-[l,2-dipalmitoy-s-glycero-3 -(hydroxyphosphory-
+loxy)]ethylamide (MTP-PE) and compositions containing a
+metabolizable oil and an emulsifying agent, wherein the oil
+and emulsifying agent are present in the form of an oil-in-
+water emulsion having oil droplets substantially all of which
+are less than one micron in diameter (see, for example, EP
+0399843).
+
+[0095] In some embodiments, the adjuvant comprises a
+Toll like receptor (TLR) 4 ligand. in combination with a
+saponin, The Toll like receptor (TLR) 4 ligand may be for
+example, an agonist such as a lipid A derivative particularly
+monophosphoryl lipid A or more particularly 3 Deacylated
+monophoshoryl lipidA (3 D-MPL). 3 D-MPL is sold under
+the trademark MPL® by Corixa Corporation and primarily
+promotes CD4+T cell responses with an IFN-g (Thl) phe-
+notype. It can be produced according to the methods dis-
+closed in GB 2220211A. Chemically, it is a mixture of
+3-deacylated monophosphoryl lipid A with 3, 4, 5 or 6
+acylated chains. In one embodiment in the compositions of
+the present invention small particle 3 D-MPL is used. Small
+particle 3 D-MPL has a particle size such that it may be
+sterile-ﬁltered through a 0.22 pm ﬁlter. Such preparations
+are described in PCT Patent Application WO 9421292.
+[0096] The adjuvant may also comprise one or more
+synthetic derivatives of lipid A which are known to be TLR
+4 agonists including, but not limited to: OM174 (2-deoxy-
+6-0-[2-deoxy-2-[(R)-3-dodecanoyloxytetra-decanoy-
+lamino]-4 -o-phosphono-[3-D-glucopyranosyl]-2-[(R)-3-hy-
+droxytetradecanoylamino]-a-D-
+glucopyranosyldihydrogenphosphate), as described in PCT
+Patent Application W0 95/ 14026; CM 294 DP (3S, 9
+R)—3-[(R)-dodecanoyloxytetradecanoylamino]-4-oxo-5-aza-
+9(R)-[(R)-3-hydroxytetradecanoylamino]decan-1,10—diol,
+l,10-bis(dihyd.rogenophosphate), as described in WC
+9964301 and WO 00/0462; and, OM 197 MP-Ac DP (38-,
+9R)-3 - [(R)-dodecanoyloxytetradecanoylamino] -4 -oxo -5
+-aza-9-[(R)-3-hydroxytetradecanoylamino]decan-l ,lO-diol,
+l -dihydrogenophosphate 10-(6-aminohexanoate) (WO
+01/46127).
+
+[0097] Other TLR4 ligands which may be used include,
+but are not limited to, alkyl Glucosaminide phosphates
+(AGPs) such as those disclosed in WO 98/50399 or US. Pat.
+No. 6,303,347 (processes for preparation of AGPs are also
+
+Jan. 31, 2019
+
+disclosed), or pharmaceutically acceptable salts of AGPs as
+disclosed in US. Pat. No. 6,764,840. Some AGPs are TLR4
+agonists, and some are TLR4 antagonists. Both can be used
+as one or more adjuvants in the compositions of the inven-
+tion.
+
+[0098] A preferred saponin for use in the present invention
+is Quil Aand its derivatives. Quil A is a saponin preparation
+isolated from the South American tree Quilaja Saponaria
+Molina and was ﬁrst described as having adjuvant activity
+by Dalsgaard et a1. (1974) Saponin adjuvants, Archiv. ﬁir die
+gesamte Vinisforschung, Vol, 44, Springer Verlag, pp. 243-
+254. Puriﬁed fragments of Quil A have been isolated by
+HPLC which retain adjuvant activity without the toxicity
+associated with Quil A (EP 0 362 278), for example Q87 and
+QSZl (also known as QA7 and QA21). QS21 is a natural
+saponin derivec from the bark of Quillaja saponaria Molina
+which induces CD8+ cytotoxic T cells (CTLs), Thl cells and
+a predominant gG2a antibody response and is a preferred
+saponin in the context of the present invention.
+
+[0099] Particular formulations of QS21 have been
+described whic are particularly preferred, these formula-
+tions further comprise a sterol (WO 96/33739). The saponins
+forming part of the present invention may be separate in the
+form of micelles, mixed micelles (preferentially, but not
+exclusively witi bile salts) or may be in the form of ISCOM
+matrices (EP 0109942 Bl), liposomes or related colloidal
+stmctures such as worm-like or ring-like multimeric com-
+plexes or lipidic/layered structures and lamellae when for-
+mulated with c olesterol and lipid, or in the form of an oil
+in water emulsion (for example as in WO 95/17210). The
+saponins may 3e associated with a metallic salt, such as
+aluminium hydroxide or aluminium phosphate (W0
+98/ 15287). In some embodiments, the saponin is presented
+in the form 0 a liposome, ISCOM or an oil in water
+emulsion.
+
+[0100] In some embodiments, adjuvants are combinations
+of 3D-MPL and QS21 (EP 0671948 B1) and oil in water
+emulsions comprising 3D-MPL and QS21 (WO 95/17210,
+WO 98/56414).
+
+[0101] Other aspects contemplate use of sF glycoprotein
+as a subunit vaccine. A subunit vaccine refers to the use of
+a fragment of a virus as an inoculating agent. Those skilled
+in the art will know subunit vaccines oifer a means to
+generate antibodies to a particular part or region of a virus,
+By way of example, a recombinant form of a surface
+receptor of a vims may serve as a subunit vaccine. A subunit
+vaccine comprising HeV or NiV soluble F glycoprotein, or
+combinations thereof, can be administered orally, intrave-
+nously, subcutaneously, intra-arterially, intramuscularly,
+intracardially, intraspinally, intradtoracically, intraperitone-
+ally, intraventricularly, sublingually, and/or transdermally,
+Dosage schedule of administration and eﬂicacy of subunit
+vaccines can be determined by methods known in the art,
+
+ 
+
+Method of Using Soluble Forms of F Glycoprotein
+
+[0102] One aspect of the present invention is directed in
+part to the treatment, the prevention, and the detection of
+NiV and/or HeV In some embodiments, an animal receives
+treatment and/or prevention and/or detection of NiV and/or
+HeV. In preferred embodiments, the animal is a human For
+example, the polypeptides of the present invention may be
+used to raise antibodies to NiV and/or HeV in vivo. By way
+of further example, the polypeptides of the present invention
+may be used to determine if a subject produces antibodies to
+US 2019/0031721 A1 Jan. 31,2019
+16
+
+scoutinued
+actcatgacc ttgtcggtga tgtgagatta gccggagtta taatggcagg agttgctatt 360
+gggattgcaa ccgcagctca aatcactgca ggcgtagcac tatatgaggc aatgaagaat 420
+gctgacaaca tcaacaaact caaaagcagc attgaatcaa ctaatgaagc tgtcgttaaa 480
+cttcaagaga ctgcagaaaa gacagtctac gtgctgactg ctctacagga ttacattaat 540
+actaatttag taccgacaat tgacaagata agctgcaaac agacagaact ctcactagat 600
+ctggcattat caaagtacct thtgatttg Ctttttgtat ttggccccaa ccttcaagac 660
+ccagtttcta attcaatgac tatacaggct atatctcagg cattcggtgg aaattatgaa 720
+acactgctaa gaacattggg ttacgctaca gaagactttg atgatcttct agaaagtgac 780
+agcataacag gtcaaatcat ctatgttgat ctaagtagct actatataat tgtcagggtt 840
+tattttccta ttctgactga aattcaacag gcctatatcc aagagttgtt accagtgagc 900
+ttcaacaatg atgattcaga atggatcagt attgtcccaa atttcatatt ggtaaggaat 950
+
+acattaatat caaatataga gattggattt tgcctaatta caaagaggag cgtgatctgc 1020
+aaccaagatt atgccacacc tatgaccaac aacatgagag aatgtttaac gggatcgact 1080
+gagaagtgtc ctcgagagct ggttgtttca tcacatgttc ccagatttgc actatctaac 1140
+ggggttctgt ttgccaattg cataagtgtt acatgtcagt gtcaaacaac aggcagggca 1200
+atctcacaat caggagaaca aactctgctg atgattgaca acaccacctg tcctacagcc 1260
+gtactcggta atgtgattat cagcttaggg aaatatctgg ggtcagtaaa ttataattct 1320
+gaaggcattg ctatcggtcc tccagtcttt acagataaag ttgatatatc aagtcagata 1380
+tccagcatga atcagtcctt acaacagtct aaggactata tcaaagaggc tcaacgactc 1440
+
+cttgatactg ttaatccatc atta 1454
+
+<210> SEQ ID No 4
+
+<211> LENGTH: 488
+
+<212> TYPE: PRT
+
+<213> ORGANISM: Nipah Virus
+
+<400> SEQUmCE: 4
+
+Met Val Val Ile Leu Asp Lys Arg Cys Ty: Q’s Asn Leu Leu 115 Leu
+1 5 1o 15
+
+116 Leu Met 116 Sex Glu Cys Ser Val Gly Ile Leu His Tyr Glu Lys
+20 25 3o
+
+Lem Ser Lys Ile Gly Lem Val Lys Gly Val Thr Arg Lys Tyr Lys Ile
+35 40 45
+
+Lys Ser Asn Pro Leu Thr Lys Asp Ile Val Ile Lys Met Ile Pro Asn
+so 55 50
+
+Val Ser Asp Met Sex Gln Cys 1hr Gly Ser Val Met Glu Asn Tyr Lys
+55 7o 75 so
+
+Thr Arg Leu Asn Gly Ile Leu Thr Fro Ile Lys Gly Ala Leu Glu Ile
+35 9o 95
+
+Tyr Lys Asn Asn Thr His Asp Leu Val Sly Asp Val Arg Leu Ala 61}!
+100 105 110
+
+Val Ile Met Ala Gly Val Ala Ile Gly Ile Ala Thr Ala Ala Gln Ile
+115 120 125
+
+Thr Ala Gly Val Ala Lem Tyr Glu Ala Mel: Lys Asn Ala Asp Asn Ile
+130 135 140
+
+Asn Lys Leu Lys Se): Ser Ile Glu Ser Thr Asn Glu Ala V31 V31 Lys
+US 2019/0031721 A1 Jan. 31,2019
+15
+
+, cont illued
+
+Lys Gln Thr Glu Leu Ala Leu Asp Lem Ala Leu Ser Lys Tyr Leu ser
+195 200 205
+
+Asp Leu Leu Phe Val Phe Gly Pxo Asn Leu Gln Asp Pro V3]. Ser Asn
+210 215 220
+
+Ser Met Thx Ile Gln Ala Ile Sex Gln Ala Phe Gly Gly Asn Tyr Glu
+225 230 235 240
+
+Thr Leu Leu Arg Thr Leu Gly lyr Ala Thr Glu Asp Phe Asp Gly Leu
+245 250 255
+
+Lem Glu Ser Asp ser lle Thr Gly Gln Ile val Tyr Val Asp Leu Ser
+260 265 270
+
+Sex Ty: Tyx lle lle Val Axg Val Tyr Phe Pxo lle Leu Thr Glu lle
+275 280 285
+
+G111 Gln Ala Tyr Val Gln Glu Leu Lea Pro val Ser Fhe Asn Asn Asp
+290 295 300
+
+Asn Ser Glu Trp Ile Ser Ile Val Pro Asn Phe Val Leu Ile Arg Asn
+305 310 315 320
+
+Thr Leu lle Sex Asn lle Glu Val Lys Tyx Q’s Leu lle Thr Lys Lys
+325 330 335
+
+Sex Val lle cys Asn G111 Asp Tyr Ala Thr Pro Met Thr Ala Ser val
+340 345 350
+
+Arg Glu Cys Leu Thx Gly Ser Thx Asp Lys Cys Pro Arg Glu Leu Val
+355 360 355
+
+Val Ser Sex His Val Pro Axg Phe Ala Leu Ser Gly Gly Val Leu Phe
+370 375 380
+
+Ala Asn W5 lle Ser Val Thr W5 Gln Cys Gln Thr Thr Gly Axg Ala
+335 390 395 400
+
+Ile ser Gln ser Gly Glu Gln Thr Lea Leu Met Ile Asp Asn Thr Thr
+405 410 415
+
+Cys Thr Thx Val Val Leu Sly Asn lle lle lle Sex Leu Sly Lys Tyx
+420 425 430
+
+Leu Gly Sex Ile Asn Tyr Asn Sex Glu Sex Ile Ala Val Sly Pro Pro
+435 440 445
+
+Val Tyx Thr Asp Lys Val Asp lle Sex Sex Gln Ile Sex Sex Met Asn
+450 455 450
+
+G111 Sex Leu Gln Gln Sex Lys Asp Tyr Ile Lys Glu Ala Gln Lys lle
+465 470 475 430
+
+Lea Asp Thr Val Asn Fro ser Leu
+485
+
+<210> SEQ ID NO 3
+<211> LENGTH: 1464
+<212> TYPE: DNA
+
+<213> ORGANISM: Nipah vixus
+
+<400> SEQUENCE: 3
+
+atggtagtta tacttgacaa gagatgttat tgtaatcttt taatattgat tttgatgatc so
+tcggagtgta gtgttgggat tctacattat gagaaattga gtaaaattgg acttgtcaaa 120
+ggagtaacaa gaaaatacaa gattaaaagc aatcctctca caaaagacat tgttataaaa 180
+atgattccga atgtgtcgga catgtctcag tgcacaggga gtgtcatgga aaattataaa 24o
+
+acacgattaa acggtatctt aacacctata aagggagcgt tagagatcta caaaaacaac 300
+US 2019/0031721A1
+
+[0082] An “antibody fragment” comprises a portion of an
+intact antibody, preferably the antigen binding CDR or
+variable region of the intact antibody. Examples of antibody
+fragments include Fab, Fv, Fab' and F(ab')2 fragments;
+diabodies; linear antibodies (see. U.S. Pat. No. 5,641,870
+and Zapata et al. (1905) Protein Eng 8. 1057-1062); single-
+chain antibody molecules; and Multispeciﬁc antibodies
+ﬁrmed from antibody fragments
+
+[0083] Papain digestion of antibodies produces two iden-
+tical antigen-binding fragments, called “Fab” fragments, and
+a residual “Fe” fragment, a designation reﬂecting the ability
+to cry stallize readily. The Fab fragment consists of an entire
+L chain along with the variable region domain of the H chain
+(VH , and the ﬁrst constant domain of one heavy chain
+(Cm), Each Fab fragment is monovalent with respect to
+antigen binding, i.e., it has a single antigen-binding site.
+Pepsin treatment of an antibody yields a single large F(ab')2
+fragment which roughly corresponds to two disulﬁde linked
+Fab fragments having divalent antigen-binding activity and
+is still capable of cross-linking antigen. Fab' fragments differ
+from Fab fragments by having additional few residues at the
+carboxy terminus of the CH1 domain including one or more
+cysteines from the antibody hinge region. Fab'-SH is the
+designation harem for Fab‘ in which the cysteine residue(s)
+of the constant domains bear a free thiol group. F(ab’)2
+antibody fragments originally were produced as pairs of Fab‘
+fragments which have hinge cysteines between them. Other
+chemical couplings of antibody fragments are also known
+[0084] The Fc fragment comprises the carboxy-terminal
+portions of both H chains held together by disulﬁdes. The
+eEector functions of antibodies are determined by sequences
+in the Fc region, which region is also the part recognized by
+Fc receptors (FcR) found on certain types of cells.
+
+[0085] As used herein, “Fv” is the minimum antibody
+fragment which contains a complete anti gen-recognition and
+-binding site. This fragment consists of a dimer of one
+heavy- and one light-chain variable region domain in tight,
+non-covalent association. From the folding of these two
+domains emanate six hypervariabie loops (three loops each
+from the H and L chain) that contribute the amino acid
+residues for antigen binding and confer antigen binding,
+speciﬁcity to the antibody. However, even a single variable
+domain (or half of an Fv comprising only three CDRs
+speciﬁc for an antigen) has the ability to recognize and bind
+antigen, although at a lower afﬁnity than the entire binding
+site
+
+[0086] As used herein, “Single-chain Fv” also abbreviated
+as “st” or “scFv” are antibody fragments that comprise the
+VH and VL antibody domains connected into a single
+polypeptide chain. Preferably, the st polypeptide further
+comprises a polypeptide linker between the VH and VL
+domains which enables the st to form the desired stnrcture
+for antigen binding (see Rosenburg et a1. (1994) The Phar-
+macology of Monoclonal Antibodies, Springer-Verlag, pp.
+269-315).
+
+[0087] As used herein, the term “diabodies” refers to small
+antibody fragments prepared by constructing st fragments
+(see preceding paragraph) with short linkers (about 5 to
+about 10 residues) between the VH and VL domains such that
+inter-chain but not infra-chain pairing of the V domains is
+achieved, resulting in a bivalent fragment, ire., fragment
+having two antigen-binding sitesi Bispeciﬁc diabodies are
+heterodimers of two “crossover” st fragments in which the
+VH and VL domains of the two antibodies are present on
+
+Jan. 31, 2019
+
+different polypeptide chains. Diabodies are described more
+fully in, for example, WO 93/111161 and Hollinger et a1.
+(1993) Proc. Natl Acad. Sci. USA 90. 6444-6448.
+
+[0088] An “isolated antibody" is one which has been
+identiﬁed and separated and/or recovered from a component
+of its natural environment Contaminant components of its
+natural environment are materials which would interfere
+with diagnostic or therapeutic uses for the antibody, and may
+include enzymes, hormones, and other proteinaceous or
+non-proteinaceous components. In preferred embodiments,
+the antibody will be puriﬁed to greater than 95% by weight
+of antibody, and most preferably more than 99% by weight,
+Isolated antibody includes the antibody in situ within recom-
+binant cells since at least one component of the antibody’s
+natural environment will not be present. Ordinarily, how-
+ever, isolated antibody will be prepared by at least one
+puriﬁcation step.
+
+[0089] In one embodiment of the invention, the conju-
+gated antibody binds to an epitope on the cytoplasmic
+domain of a protein speciﬁc to cancer cells (i.e., a cancer cell
+marker). In another embodiment, the conjugated antibody
+includes, but is not limited to, an antibody which binds to an
+epitope on the cytoplasmic domain of sF,
+
+Pharmaceutical Compositions Comprising sF Glycoprotein
+
+[0090] Another aspect of the invention is directed toward
+the use of the soluble F glycoprotein as part of a phamia-
+ceutical composition. The antibodies and nucleic acids of the
+present invention may also be used as pan of a pharmaceu-
+tical composition. The compositions used in the methods of
+the invention generally comprise, by way of example and
+not imitation, and effective amount of a nucleic acid or
+pol Jeptide (eg, an amount sufﬁcient to induce an immune
+response of the invention or antibody of the invention (e.g.,
+an amount of a neutralizing antibody suﬂicient to mitigate
+infection, alleviate a symptom of infection and/or prevent
+infection) The nucleic acids, polypeptides, and antibodies
+of tie invention can further comprise pharmaceutically
+acceptable carriers, excipients, or stabilizers known in the
+art (see generally Remington, (2005) The Science and
+Practice of Pharmacy, Lippincott, Williams and Wilkins).
+[0091] The nucleic acids, poly peptides, and antibodies of
+the Jresent invention may be in the form of lyophilized
+formulations or aqueous solutions. Acceptable carriers,
+exci ients, or stabilizers may be nontoxic to recipients at the
+dosages and concentrations that are administered. Carriers,
+excipients or stabilizers may further comprise buffers
+Examples of buffers include, but are not limited to, carbo-
+hydrates (such as monosaccharide and disaccharide), sugars
+(suci as sucrose, mannitol, and sorbitol), phosphate, citrate,
+antioxidants (such as ascorbic acid and methionine), preser-
+vatives (such as phenol, butanol, benzanol; alkyl parabens,
+catechol, octadecyldimethylbenzyl ammonium chloride,
+hexamethoniuni chloride, resorcinol, cyclohexanol, 3-pen-
+tano , benzalkonium chloride, benzethonium chloride, and
+m-cresol), low molecular weight polypeptides, proteins
+(suci as serum albumin or immunoglobulins), hydrophilic
+polymers amino acids, chelating agents (such as EDTA),
+salt-fonning counter-ions, metal complexes (such as Zn-
+protein complexes), and non-ionic surfactants (such as
+TW'EENTM and polyethylene glycol),
+
+[0092] The pharmaceutical composition of the present
+invention can further comprise additional agents that serve
+to enhance and/or complement the desired effect. By way of
+US 2019/0031721 A1 Jan. 31,2019
+17
+
+scoutinued
+145 150 155 160
+
+Lea Gln Glu Thr Ala Glu Lys Thr Val Ty: val Leu Thr Ala Leu Gln
+165 170 175
+
+Asp Ty: Ile Asn Th: Asn Leu Val Pro Th: Ile Asp Lys Ile Se: Cys
+180 185 190
+
+Lys Gln Thr Glu Leu Ser Leu Asp Lsu Ala Leu Ssr Lys Ty: Leu Ser
+195 200 205
+
+Asp Leu Leu Phs Val Phs Gly Pro Asn Leu Gln Asp P:o Val Se: Asn
+210 215 220
+
+Se: Mel: Thr lle Gln Ala 11s Ser G111 Ala Phs Gly Gly Asn Ty: Glu
+225 230 235 240
+
+Th: Leu Leu Arg Thr Lem Gly Tyr Ala Th: Glu Asp Phe Asp Asp Leu
+245 250 255
+
+Leu Glu Se: Asp Se: Ile Th: 61}! Gln Ile Ile Ty: Val Asp Leu Se:
+250 255 270
+
+Se: Ty: Tyr 116 He Val Arg Val Ty: Phe Pro Ile Leu Th: Glu Ile
+275 230 235
+
+G111 Gln Ala Tyr Ile Gln Glu Leu Leu Pro Val Ser Phe Asn Asn Asp
+290 295 300
+
+Asp Ser Glu T:p Ile Se: 11s val P:o Asn Phs Ile Lem Val A:g Asn
+305 310 315 320
+
+Thr Leu Ile Se: Asn 112 Glu Ile Gly Phe Cys Leu lls Th: Lys A:g
+325 330 335
+
+Ser Val Ile Cys Asn Gln Asp Tyr Ala Th: Pro Met Th: Asn Asn Met
+340 345 350
+
+Arg Glu W5 Lsu Thr Gly Se: Thr Glu Lys Q’s Pro A:g Glu Leu Val
+355 360 365
+
+Val Ser Ser His Val Pro Arg Phe Ala Leu Ser Asn Gly Val Leu Phe
+370 375 380
+
+Ala Asn Cys Ile Se: Val Th: Cys Gln Cys Gln Th: Th: Sly A:g Ala
+335 390 395 400
+
+Ile Ser Gln Ser Gly Glu Gln Thr Leu Leu Met Ile Asp Asn Thr Thr
+405 410 415
+
+Cys P:o Thr Ala Val Leu Gly Asn Val 115 115 Ssr Leu Gly Lys 13;:
+420 425 430
+
+Leu Gly Ser Val Asn Ty: Asn Ser Glu Gly 115 Ala 11s Gly P:o Pro
+435 440 445
+
+Val Phs Thr Asp Lys Val Asp Ile Se: Ser Gln Ile Se: Ser Mel: Asn
+450 455 460
+
+Gln Se: Leu Gln Gln Se: Lys Asp Ty: Ile Lys Glu Ala Gln A:g Leu
+455 470 475 490
+
+Leu Asp Th): Val Asn Pro Se]: Leu
+485
+
+<210> SEQ ID NO 5
+
+<211> LENGTH: 48
+
+<212> TYPE: DNA
+
+<213> ORGANISM: Artificial
+
+<220> FEATURE:
+
+<223> OTHER INFORMATION: Nucleotide sequence for S-peptide
+
+<400> SEQUENCE: 5
+
+aaggagaccg ctgctgctaa gttcgaacgc cagcacatgg attcttga 4s
+US 2019/0031721A1
+18
+
+, cont inued
+
+<210> SEQ ID No 6
+
+<211> LENGT I 15
+
+<212> TYPE: PRT
+
+<213> ORGANISM: Artificial
+
+<220> FEATURE:
+
+<223> OTHER INFORMATION: Amino acid sequence for S-peptide
+
+ 
+
+<400> SEQUENCE: 6
+
+Lys Glu Thr Ala Ala Ala Lys Phe Glu Arg Gln His Met Asp Ser
+1 5 10 15
+
+<210> SEQ ID No 7
+
+<211> LENGTH: 117
+
+<212> TYPE: DNA
+
+<213> ORGANISM: Artificial
+
+<220> FEATURE:
+
+<223> OTHER INFORMATION: Nucleotide sequence for GPI
+
+<400> SEQUWCE: 7
+atcgatccaa ataaaggaag tggaaccacc tcaggtacta Cccgtcttct atctgggcac
+
+acgtgtttca cgttgacagg tttgcttggg acgctagtaa ccatgggctt gctgact
+
+<210> SEQ ID No 8
+
+<211> LENGTH: 39
+
+<212> TYPE: PRT
+
+<213> ORGANISM: Artificial
+
+<220> FEATURE:
+
+<223> OTHER INFORMATION: Amino acid sequence for GPI
+
+<400> SEQUENCE: 8
+
+lie Asp Pro Asn Lys Gly Sex Gly Thr Thr Ser Gly Thr Thr Arg Leu
+1 5 10 15
+
+Lem sex Gly His Thr Cys Phe Thr Lem Thr Gly Leu Lem Gly Thr Leu
+20 25 30
+
+Val Thr Met Gly Leu Leu Thr
+35
+
+<210> SEQ ID NO 9
+
+<211> LENGTH: 93
+
+<212> TYPE: DNA
+
+<213> ORGANISM: Artificial
+
+<220> FEATURE:
+
+<223> OTHER INFORMATION: Nucleotide sequence for GCN4
+
+<400> SEQUENCE: 9
+atgaagcaga tcgaggacaa gatcgaggag atcctgagca agatctacca catcgagaac
+gagatcgcca ggatcaagaa gctgatcggc gag
+
+<210> SEQ ID No 10
+
+<211> LENGTH: 31
+
+<212> TYPE: PRT
+
+<213> ORGANISM: Artificial
+
+<220> FEATURE:
+<223> OTHER INFORMATION: Amino acid sequence for GCN4
+
+<400> SEQUENCE: 10
+
+Met Lys Gln Ile Glu Asp Lys Ile Glu Glu Ile Leu Ser Lys Ile Tyr
+1 5 10 15
+
+His 115 Glu Asn Glu 116 Ala Arg Ile Lys Lys Leu 116 Gly Glu
+20 25 30
+
+60
+
+117
+
+60
+
+93
+
+Jan. 3], 2019
+US 2019/0031721 A1 Jan. 31,2019
+14
+
+scoutinued
+actaaccttg ttcctacaat agatcaaatt agctgcaagc aaacagagct cgcattagac 600
+ttggcgttgt ctaagtatct gtctgatctg ctctttgttt tcggacctaa cttacaggat 660
+ccagtctcta attccatgac tatccaagca atatctcaag catttggggg caattacgaa 720
+accttactga gaacgcttgg ttacgcgacc gaggacttcg acggcctttt agaaagtgat 780
+agcataacag gccagatagt ctatgtagat ctcagtagct attacataat agtaagggtg 34o
+tattttccca tactaacaga gatccaacag gcttatgtgc aggagttgct tccagtgagt 900
+:ctaatascg ataattcaga atggatcagc attgtcccga atttcgtgct gattaggaac 960
+
+acgctgattt caaatataga agtcaagtac tgcttaatca ccaagaaaag tgtgatttgt 1020
+aatcaggact atgctacacc catgacggct agcgtgagag aatgcttgac aggatccaca 1000
+gataagtgcc caagggagtt agtagtctca tcccatgttc caagatttgc cctctcagga 1140
+ggagtcttgt ttgcaaattg tataagtgtg acatgtcagt gtcagactac tgggagggca 1200
+atatctcaat caggggaaca gacactactg atgattgaca atactacctg cacaacagtt 1250
+gttctaggaa acataatcat aagccttgga aaatatttgg gatcaataaa ttacaattct 1320
+gagagcattg ctgttgggcc accagtctat acagacaaag ttgatatctc aagtcagata 1300
+tctagtatga atcaatcact acaacaatct aaggattaca ttaaagaagc tcaaaagatc 1440
+ttggacactg tgaatccgtc gttg 1454
+<210> SEQ ID NO 2
+
+<211> LENGTH: 483
+
+<212> TYPE: PRT
+
+<213> ORGANISM: Hendra Virus
+
+<400> SEQUENCE: 2
+
+Met Ala Thr G111 Glu Val Arg Leu Lysl cys Leu Leu cys Gly Ile Ile
+1 5 1o 15
+
+Val Leu Val Leu Se: Leu Glu 61}! Leu Gly Ile Leu His Ty: Glu Lys
+20 25 30
+
+Leu Se: Lys 11s Gly Leu Val Lys Gly Ile Th: Arg Lys Ty: Lys Ile
+35 4o 45
+
+Lys Se: Asn Pro Leu Thr Lys Asp 11s Val Ile Lys Met Ils P:o Asn
+so 55 50
+
+Val Se: Asn Val Ser Lys Cys Thr Gly Thr Val Met Glu Asn Ty: Lys
+65 '70 75 80
+
+Se: Arg Leu Th: Gly Ile Leu Ser Fro Ile Lys Gly Ala Ile Glu Leu
+95 90 95
+
+Ty: Asn Asn Asn Th: His Asp Leu Val Gly Asp Val Lys Leu Ala 61}!
+100 105 110
+
+Val Val Met Ala G1}! 119 Ala Ile Gly Ile Ala Th): Ala Ala Gln 116
+115 120 125
+
+Thr Ala Gly Val Ala Lsu Ty: Glu Ala Met Lys Asn Ala Asp Asn no
+130 135 140
+
+A511 Lys Leu Lysl Ser Se: Ile Glu 5e: Th: Asn Glu Ala Val Val Lys
+145 150 155 160
+
+Leu Gln Glu Thr Ala Glu Lys Th): Val Tyr Val Leu Thr Ala Leu 6111
+165 170 175
+
+Asp Ty: 11e Asn Thr Asn Leu Val Pro Th: Ile Asp Gln Ils Se: W5
+180 185 190
+US 2019/0031721A1
+
+addition, the data indicates that sF could be used as a
+diagnostic tool for the detection of anti-HeV or anti-NiV
+antibodies from animal and human sources.
+
+TABLE 1
+
+ 
+
+Summary of different mouse immunizations with various sF
+protein preparations. Balb/c mice were primed wim the
+indicated antigen and subsequently boosted 3 times with
+a different 5 protein amnity puriﬁed sF antigen (in some
+
+cases the S-peptide tagged was removed) with 28 days
+intervals. Mice were bled 10 days aiter each boost
+
+immunization. Serum Were collected and pooled.
+
+ 
+
+Immunizations Cross
+Mouse No. Primed antigen 1x Boost antigen 3x reaotive
+3 and 4 Hev sF s tagged l-iev sF s mgged Yes
+5 and 6 Hev sF s tagged l-iev sFrGCN untagged Yes
+7 and s Niv sF GPI s tagged Niv sFrGCN untagged Yes
+
+ 
+
+TABLE 2
+
+ 
+
+Senim neutralization of Niv and Hev. Serum from mouse
+immunized wim the indicated proteins were serially diluted
+in a 96-well plate in EMEM and mixed with 200 TCIDSO of
+
+either Hev or Niv for 30 min at 37° c. 2 x 10" Vero
+cells were added to each well, incubated for 3 days at
+37° c. and observed for signs of viral cytopathic eireet
+
+(CPE). The semm titer was determined as the higiest dilution
+
+in which viral CPE was fully neutralized.
+
+ 
+
+Neutralization titer Serum dilution
+
+ 
+
+ 
+
+13
+
+Jan. 31, 2019
+
+Example 5
+
+Sedimentation Equilibrium Experiments
+
+[0119] Materials and Methods. Analytical ultiacentrifuga-
+tion measurements were performed on a Beckman XL-A
+Optima analytical ultracentrifuge with an An-60 Ti rotor at
+4° C. Protein samples were dialyzed overnight into PBS with
+0.01% Triton X-100 buﬂer, loaded at initial concentrations
+of 0.75, 1.5 and 3 mg/ml, and analyzed at rotor speeds of
+6,000 and 7,500 rpm. Data were acquired at two wave-
+lengths per rotor speed and were ﬁt using the program
+NONLIN to a single species model of the natural logarithm
+of the absorbance versus radial distance squared. (Johnson et
+a1, (1981) Biophys, J. 36(3): 575-88.) Solvent density and
+protein partial speciﬁc volume parameters were calculated
+taking into account the solvent and protein composition,
+respectively. (Laue et all (1992) Royal Society of Chemistry,
+Cambridge, United Kingdom.)
+
+[0120] Results. Sedimentation equilibrium measurements
+were carried out to determine the oligomeric state of the
+puriﬁed HeV sF GCN, The protein is trimeric, with an
+apparent molecular mass of ~215 kDa (FIG. 9). There was
+no systematic dependence of apparent molecular mass on
+protein concentration over a 4-fold range of protein concen-
+tration studied.
+
+[0121] It should be understood that the foregoing discus-
+sion and examples merely present a detailed description of
+
+Mouse No. Immunized with i-iev Niv certain preferred embodiments. It therefore should be appar-
+ent to those of ordinary skill in the art that various modiﬁ-
+5 HeVsF GCN 1:10 1:10 , 4 . .
+6 HeV 5F 1:40 1:20 cations and equivalents can be made Without departing from
+7 NW sF GCN 1:5 12160 the spirit and scope of the invention A11 journal articles,
+8 NWSF GP] (15 1240 other references atents and atent a lications that are
+control SARS CoV <1:5 <1:5 , , , j P l ‘1’ ‘ pp .
+identiﬁed in this patent application are incorporated by
+reference in their entirety.
+SEQUENCE LISTING
+<160> NUMBER OF SEQ ID NOS: 12
+(210) SEQ ID NO 1
+(211) LENGTH: 1464
+<212> TYPE: DNA
+<213> ORGANISM: Kendra Virus
+<400> SEQUENCE: 1
+atggctacac aagaggtcag gctaaagtgt ttgctctgtg ggatcatagt tctggttttg 60
+tcattagaag ggccagggat actacattat gagaaactta gtaagatagg gctggttaaa 120
+ggtattacaa gaaagtacaa gattaagagt aaccctttga ccaaggatat tgtgatcaaa 130
+atgatcccta atgtctcgaa tgtctcaaag tgcaccggga ctgttatgga gaattacaaa 240
+agcagactca cagggattct ctcaccaatc aaaggcgcca tcgaactgta caataataac 300
+acgcatgacc tagttggtga tgtcaagctt gcaggtgtgg tgatggcagg gattgcaatc 350
+gggatagcta ctgctgcaca aaccacagca ggcgttgcct tacatgaggc aatgaagaac 420
+gcagacaata tcaataaact caagagcagc atagagtcta caaatgaggc tgttgtcaaa 480
+teacaggaaa cagctgagaa aacagtctac gtccttactg ctcttcaaga ttacatcaac 54o
+US 2019/0031721 A1
+11
+
+NiV antﬂor HeV In some embodiments, the polypeptide is
+used to isolate antibodies. By way of example, polypeptides
+may be bound to an aﬂinity matrix.
+
+[0103] By way of further example, the nucleic acid of the
+present invention can be used to transform and/transfect
+cells to recombinantly produce the polypeptides and/or
+antibodies of the present invention. The nucleic acids may
+further be utilized to treat an infected subject. By way of
+example, the nucleic acids can be used in inhibiting gene
+expression. The nucleic acids of the present invention may
+also be used, for example, to determine if a subject is
+infected with NiV and/or HeV. By way of example, this can
+be achieved using methods of radiolabeled hybridization.
+[0104] By way of further example, the antibodies of the
+present invention can be used to recognize an infection by
+NiV and/or HeV By way of example, the antibodies can
+recognize native F glycoprotein as an antigen. The antibod-
+ies of the present invention can also be used to ﬁght an
+infection by NiV and/or HeV. By way of example, human-
+ized antibodies or antibody fragments or monoclonal anti-
+bodies can employ a subject’s own immune response to an
+NiV and/or HeV infection. By way of further example, the
+antibodies of the present invention may be coupled to a
+cytolcine or a toxin or an enzyme or a marker to assist in
+treating and detecting an infection.
+
+[0105] Further aspects of the present invention relate to
+diagnostic assays. The present invention is of use with many
+assays known in the art. Those skilled in the art will
+recognize the wide array of research based uses for the
+polypeptides, nucleic acids and antibodies of the present
+invention. The polypeptides, antibodies and nucleic acids of
+the present invention may, for example, be labeled, such as
+with a radioactive, chemiluminescent, ﬂuorescent and/or
+dye molecules. The antibodies, nucleic acids and polypep-
+tides of the present invention lend themselves to use in
+assays for example DNA assays (such as Southern blotting),
+RNA assays (such as northern blotting), protein assays (such
+as westem blotting), chromatographic assays (such as gas,
+liquid, HPLC, size-exclusion), immunoassays (such as
+ELISA) and structural assays (such as crystallography and
+NMR spectroscopy). The antibodies, polypeptides and
+nucleic acids of the present invention may further be used as
+probes. Assays which amplify the signals from a probe are
+also known to those skilled in the art.
+
+Diagnostic Kits of F
+Glycoprotein
+
+Comprising Soluble Forms
+
+[0106] Another aspect of the invention is directed toward
+use of the sF glycoprotein as part of a kit used to detect the
+presence of Hendra or Nipah virus. Kits of the invention
+include one or more containers comprising by way of
+example, and not limitation, nucleic acids encoding a HeV
+or NiV sF glycoprotein or combinations thereof, a HeV or
+NiV sF glycoprotein or combinations thereof and/or anti-
+bodies of the invention and instructions for use in accor-
+dance with any of the methods of the invention described
+herein. The sF glycoproteins and/or antibodies of the inven-
+tion may be used in a variety of immunoassays for Hendra
+and Nipah virus. In one embodiment, recombinant sF gly-
+coprotein serves to ﬁinction as an antigen for the purposes
+of detecting antibody in biological samples. The containers
+may be unit doses, bulk packages (e.g., multi-dose pack-
+ages) or sub-unit doses. The kits of this invention are in
+suitable packaging. Also contemplated are packages for use
+
+Jan. 31, 2019
+
+in combination with a speciﬁc device, such as an inhaler,
+nasal administration device or an infusion device. A kit may
+have a sterile access port. The container may also have a
+sterile access port, Kits may optionally provide additional
+components such as buffers and interpretive information,
+[0107] Without further description, it is believed that a
+person of ordinary skill in the art can, using the preceding
+description and the following illustrative examples, make
+and utilize the invention and practice the claimed methods.
+For example, a skilled artisan would readily be able to
+determine the adminstration of the food product of the
+present invention. The following working examples there-
+fore, speciﬁcally point out the illustrative embodiments of
+the invention, and are not to be constnied as limiting in any
+way the remainder of the disclosure.
+
+EXAMPLES
+
+[0108] All of the sF constructs described in the examples
+below were engineered using a modiﬁed version of the
+commercially available expression vector pcDNA3.1 Hy go
+(+) (lnvitrogen Corp). The Hygromycin selection marker
+allows for selection of successfully transfected cells in the
+presence of the Geneticin (G418) antibiotic. The pcDNA 3.1
+Hygro (+) was modiﬁed by incorporating the enhanced
+cytomegalovirus (CMV) promoter region from phCMV l
+(Gelantis). This enhanced CMV promoter allows for high
+expression of the sequences inserted into the backbone of
+the pcDNA3.1 Hygro(+) vector. The addition of nucleic acid
+sequence to encode for an S-peptide sequence (SEQ ID NO:
+5) facilitated puriﬁcation of the released sF glycoprotein.
+Further nucleic acids sequences were introduced in some
+versions that would result in encoding additional peptide
+regions, such as a GPI-Phospholipase D cleavage site (SEQ
+ID NO: 7) a trimeric GCN4 motif (SEQ ID NO: 9) and a
+Factor Xa cleavage site (SEQ ID NO: 11). Expression
+plasmid constructs were generated with these nucleic acid
+sequences and used to generate stable cell lines that express
+the various versions of the proteins. The S-peptide 13 amino
+acid sequence (Novagen) was added to the C-terminus in all
+constructs. The S-peptide expression facilitates puriﬁcation
+by S-protein agarose (Novagen), as well as immuno-detec-
+tion by anti S—peptide antibodies.
+
+Example 1
+
+Production HeV sF Glycoprotein Timer and
+Detection by Size Exclusion Chromatography
+
+[0109] Materials and Methods. 293T cells were trans-
+fected with the modiﬁed pcDNA 3,1 Hygro (+) vector
+containing an insert to encode for the ﬁrst 488 amino acids
+of the F glycoprotein from HeV, followed by an S-peptide
+sequence. Selection for transfection was performed using
+Geneticin (G418), and surviving cells were maintained in
+the presence of G4 1 8 using standard tissue culture protocols.
+Cells and media were harvested by standard protocols. The
+resulting solutions were resolved by size exclusion chroma-
+tography, using a SuperdexTM 200 10/300 gel ﬁltration
+column, with 400 [.LL fractions collected.
+
+[0110] Results. The elutiori proﬁle by gel ﬁltration shows
+a putative trimer peak that elutes at ~299 kDA, a higher
+molecular weight species with a peak of ~552 kDa, and
+larger aggregates that elute near the void volume (Vo) (FIG.
+1).
+US 2019/0031721A1
+
+Example 2
+
+Production of NiV sF Glycoprotein by
+Phospholipase D Cleavage
+
+[0111] Materials and methods. As secretion of native NiV
+sF was poor, a modiﬁed version of NiV sF was engineered,
+whereby a glycoylphosphatidylinositol (GPI) anchor signal
+sequence was appended to the NiV sF nucleotide sequence.
+HeLa-PLD cells are a modiﬁed version of HeLa cells that
+stably express Phospholipase D (PLD) (Mann (2004) Bio-
+chem. J. 378: 641-648). PLD then speciﬁcally cleaves the
+phospho-glycerol bond in GPI-anchored proteins. This
+results in the release of GPI-linked proteins from the anchor-
+ing membrane. This mechanism then causes secretion of the
+previously GPI-anchored NiV sF GPI from the HeLa PLD
+cells.
+
+[0112] HeLa-PLD cells were transfected with the modiﬁed
+pcDNA 3.1 Hygro (+) vector containing an insert to encode
+for the ﬁrst 488 amino acids of the F glycoprotein from NiV,
+followed by an S-peptide sequence and then a GP] sequence
+to allow for PLD cleavage, Selection for transfection was
+performed using Geneticin (G418), and surviving cells were
+maintained in the presence of G418 using standard tissue
+culture protocols. Cells and media were harvested by stan-
+dard protocols. The resulting solutions were resolved by size
+exclusion chromatography, using a SuperdexTM 200 10/300
+gel ﬁltration column, with 400 [,LL fractions collected. 5 [LL
+samples of each fraction were denatured and resolved by
+BN-PAGE. The resulting gel was transferred to a membrane,
+and following standard blocking and washing protocols, was
+probed with antibodies to the S-peptide sequence that are
+conjugated to HRP to allow for smndard chemiluminescent
+detection.
+
+[0113] Results. The elution proﬁle from the gel ﬁltration of
+the NiV sF GPI construct shows a putative timer peak that
+elutes at ~186 kDa. a higher molecular weight species with
+a peak of ~357 kDa, and larger aggregates that elute near the
+void volume (V0) (FIG. 2A),
+
+Example 3
+
+Stabilization of HeV and NiV sF Glycoprotein
+Timers by GCN4 Motif
+
+[0114] Materials and Methods. 293T cells were trans-
+fected with the modiﬁed pcDNA 3.1 Hygro (+) vector
+containing an insert to encode for the ﬁrst 488 amino acids
+of the F glycoprotein from NiV or HeV, followed by a GCN
+sequence, then a Factor Xa cleavage sequence and then an
+S-peptide sequence, Selection for transfection was per-
+formed using Geneticin (G418), and surviving cells were
+maintained in the presence of G418 using standard tissue
+culture protocols. Cells and media were harvested by stan-
+dard protocols. The resulting solutions were resolved by size
+exclusion chromatography, using a SuperdexTM 200 10/300
+gel ﬁltration column, with 400 [,LL fractions collected. 5 [LL
+samples of each fraction were denatured and resolved by
+BN-PAGE. The resulting gel was transferred to nitrocellu-
+lose paper, and following standard blocking and washing
+protocols, was probed with antibodies to the S-peptide
+sequence that are conjugated to HRP to allow for standard
+chemiluminescent detection.
+
+[0115] Results. Expression and secretion of HeV and NiV
+sF glycoproteins containing a GCN4 motif was improved by
+
+12
+
+Jan. 31, 2019
+
+at least 10-fold than their respective wild-type sF cells. This
+indicates the GCN4 motif affects codon optimization and
+stabilization of the sF.
+
+[0116] Differences can also be seen in the elution proﬁles
+between wild type sF and sF-GCN, The higher oligomeric
+species observed in the wild-type sF proﬁles was absent in
+the sF-GCN. A high aggregate species and a single putative
+trimer peak that elute at approximately 327 and 306 kDa was
+observed for HeV and NiV sF-GCN, respectively (FIG, 3A
+and FIG. 4A). The aggregate species for HeV sF-GCN was
+much lesser as compared to all the other sF. This suggests
+the timer stabilization by the GCN motif eliminates higher
+oligomeric forms that present in the non-GCN sF. Native gel
+analysis using the Blue Native (BN) PAGE system (Invit-
+rogen) of all the sF and the fractions from all gel ﬁltrations
+show corresponding sizes of the timer species (FIGS. 2-4B
+and FIG. 5), except for NiV sF GPI, which has a higher
+apparent molecular mass in Native gel as compared to the
+gel ﬁltration analysis (FIG. 4).
+
+Example 4
+
+HeV and NiV sF Glycoproteins are lmmunogenic
+in Mice and can Elicit Cross-Reactive and
+Neutralizing Polyclonal Antibody Responses
+
+[0117] Materials and Methods. HeV sF S tagged and
+sF-GCN, and NiV sF-GPI S tagged and sF-GCN were used
+to immunize Balb/C mice. Each mouse was bled prior to
+immunization to obtain serum as negative control. Each
+mouse was primed and boosted 3 times with different sF
+preparations as indicated in Table 1. Each immunization was
+performed with 10 ug of protein using TiterMax® Gold
+Adjuvant (Sigma) with 28 days intervals. The mice were
+bled 10 days post immunization and serum samples were
+harvested. The serum collected from the second and third
+boost were pooled and examined by ELISA, The sF immu-
+nized mouse sera were also tested for its ability to immu-
+noprecipitate full length untagged HeV and NiV F. The sF
+immunized mouse sera were also tested for an ability to
+neutralize NiV pseudotyped retroviral luciferase reporter
+virions.
+
+[0118] HeV and NiV F-speciﬁc cross-reactive antibody
+was observed in all mice as indicated in the ELISA assay
+(FIG. 6A and 6B) and as demonstrated by the immunopre-
+cipitation assay conducted with full-length HeV and NiV F
+(FIG. 7). A lower titer antibody response against the GCN
+tail was evident when a non-related (HIV-1 envelope gly-
+coprotein-GCN) protein was used to coat the plate (FIG.
+5C). Mice that were immunized with the non GCN sF
+showed no reactivity against HIV-1 envelope-GCN. Neu-
+tralizing and cross-reactive neutralizing antibodies were also
+generated as indicated by the neutralization of luciferase
+gene encoding retrovirus pseudotyped with NiV F and G
+entry assay. The assay was carried out using serum dilutions
+(Table 2) from mice immunized with the sF-GCN glyco-
+proteins to block entry of NiV and HeV live virus (FIG. 8).
+This also indicates that mice immunized with these prepa-
+rations of sF may be used to generate murine monoclonal
+antibodies speciﬁc for F, some of which would be expected
+to be cross-reactive. The results indicate that sF glycoprotein
+preparations are immunogenic, will elicit antibodies that can
+recognize native full-length F glycoproteins, will elicit
+cross-reactive antibodies and will elicit cross-reactive virus-
+neutralizing antibodies when administer as a vaccine. 1n
+Patent Application Publication Jan. 31, 2019 Sheet 3 0f 9 US 2019/0031721 A1
+
+327 KDa
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+%
+§
+0
+12 13 14 15 16 17 18 19 20 21 22 23 24 25 25 27
+FRACTEON NUMBER
+T236KD§
+104808
+
+//
+
+720KDa
+
+480K021
+
+242K023
+
+146K561
+
+FIG. 3B
+Patent Application Publication Jan. 31, 2019 Sheet 2 0f 9 US 2019/0031721 A1
+
+V0
+f 35mm 186K021
+
+OD 280 nM
+
+ 
+
+ 
+
+12 13 ‘24 15 16 17 18 19 20 21 22 23 24 25 26 27
+FRACTEON NUMBER
+
+FIG. 2A
+
+i236KDa \
+
+mebaf’
+729m
+
+480K136
+
+ 
+
+FIG. 23
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0031721 A1
+
+CHAN et a].
+
+US 20190031721A1
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+
+(71)
+
+(72)
+
+(73)
+
+(21)
+
+(22)
+
+(63)
+
+(60)
+
+SOLUBLE FORMS OF HENDRA AND NIPAH
+VIRUS F GLYCOPROTEIN AND USES
+THEREOF
+
+Applicant: THE HENRY M. JACKSON
+FOUNDATION FOR THE
+ADVANCEMENT OF MILITARY
+MEDICINE, INC., Bthesda. MD (US)
+
+Inventors: Yee-peng CHAN, Bethesda, MD (US);
+Christopher BRODER. Silver Spring,
+MD (US)
+
+THE HENRY M. JACKSON
+FOUNDATION FOR THE
+ADVANCEMENT OF MILITARY
+MEDICINE, INC., Bethesda, MD (US)
+
+Assignee:
+
+Appl. NO: 16/055,429
+
+Filed: Aug. 6, 2018
+
+Related U.S. Application Data
+
+Continuation of application No. 12/808,930, ﬁled on
+May 12, 2011, now Pat, No. 10,040,825, ﬁled as
+application No. PCT/US08/87719 on Dec. 19, 2008,
+
+Provisional application No. 61/006,107, ﬁled on Dec,
+19, 2007.
+
+Publication Classiﬁcation
+
+Int. Cl.
+C07K 14/005
+C07K 16/10
+A61K 39/12
+A61K 39/00
+U.S. Cl.
+
+(51)
+(2006.01)
+(2006.01)
+(2006101)
+(2006101)
+(52)
+C07K 14/005 (2013101); C07K 16/1027
+(2013101); A61K 39/12 (201301); C12N
+2760/18234 (2013.01); A61K 2039/6031
+(2013.01); CIZN 2760/18222 (2013,01); A61K
+
+2039/5115 (2013401)
+
+(57) ABSTRACT
+
+This invention relates to soluble forms of F glycopmtein
+from Hendra and Nipah virus and to compositions compris-
+ing soluble forms of F glycoprotein from Hendra and Nipah
+virus. This invention further relates to soluble Oligomers of
+F glycoprotein from Hendra and Nipah virus, This invention
+also relates to nucleic acids encoding soluble forms of F
+glycoprotein from Hendra and Nipah VinlS, This invention
+also relates to diagnostic and therapeutic methods using the
+soluble forms of F glycoprotein from Hendra and Nipah
+virus. Further, this invention relates to antibodies, including
+neutralizing antibodies, and to vaccines for the prevention,
+diagnosis and treatment of infection by Hendra and Nipah
+viruses,
+
+Speciﬁcation includes 3 Sequence Listing.
+Patent Application Publication Jan. 31, 2019 Sheet 1 0f 9 US 2019/0031721 A1
+
+ 
+
+552 Km
+2529 KBa
+
+OD 280 nM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1:2 13 14 15 16 17 i8 19 20 2? 22 23 24 25 26
+FRACTION NUMBER
+
+FIG. 1
+Patent Application Publication Jan. 31, 2019 Sheet 5 0f 9 US 2019/0031721 A
+
+ 
+
+FIG. 5B
+
+2/»
+
+1236KDa
+304803
+720K031
+480KDa
+242KDa
+146KDa
+
+FIG. 5A
+Patent Application Publication Jan. 31, 2019 Sheet 4 0f 9 US 2019/0031721 A1
+
+305 KDa
+
+OD 280 EM
+
+ 
+
+ 
+
+ 
+
+51 12 13 14 15 16 17 i8 19 20 21 22 23 24 25 26 2?
+FRACTSON NUMBER
+
+FIG. 4A
+
+1 23616352
+$048M
+
+//
+
+720KDa
+
+480KDa
+
+242KD8
+
+€46KDa
+
+ﬁ/ﬂ/
+
+ 
+
+FIG. 4B
+Patent Application Publication
+
+3 000
+
+3 000
+
+100/ SF GCN UNTAGGED
+
+Jan. 31, 2019 Sheet 6 of 9
+
+ 
+
+r-WVVV1
+
+10000 100000
+DILUTiON ()LOG
+
+1000000
+
+FIG. 6A
+
+HeV SF GCN UNTAGGED
+
+ 
+
+10000 100000
+DILUTiON (H08
+
+1006000
+
+FIG. 68
+
+H014 ENVELOPE-SON
+
+30000
+
+100000
+DILUTiON ()LOG
+
+FIG 6C
+
+ 
+
+1 000000
+
+*- MOUSEE
+W MOUSE4
++ MOUSES
+-~ MOUSES
++ MOUSE?
+
+4* MOUSEB
+
+4* ANTI F1
+
+~ ~ ANT! 8
+
+4- POOLED PREBLEED
+
+  
+
++ MOUSES
++ 00008534
+W MOUSE 5
+~ MOUSEG
+~~ MOUSE
++ MOUSES
+W ANT! F1
+
+- ~ ANT! 8
+
++ POOLED PRE—BLEED
+
+    
+   
+   
+   
+   
+   
+     
+
+ 
+ 
+   
+     
+   
+   
+   
+   
+   
+
+  
+
+4- MOUSEB
++ MOUSEA
+
+- MOUSES
+
+m MOUSEé
+
+w MOUSE?
+
+-* MOUSE8
+
+-*- ANTS F1
+
+- - ANT! S
+
+~v~ POOLED PRESLEEB
+
+US 2019/0031721A1
+Patent Application Publication Jan. 31, 2019 Sheet 7 0f 9 US 2019/0031721 A1
+
+-VE
+
+yx
+Er}
+<3:
+(I)
+k
+LL no
+:3:
+:5:
+8.0
+w
+(Y)
+Lu
+>. k
+I
+no CD
+~
+s- k
+E5
+3'5
+E (O
+1.5..
+2
+2
+
+K03
+64

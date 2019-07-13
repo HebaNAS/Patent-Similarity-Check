@@ -1,0 +1,1714 @@
+US 2019/0029978 A1
+
+Example 1 9
+
+Lip-C6 Inhibits TLR2- and TLR4-Induced Neutrophil
+Activation
+
+[0083] We examined the effect of Lip-C6 on TLR-induced
+neutrophil CXC chemokine production. Ahuman neutrophil
+cell line (HL-60) was stimulated in vitro with S. aureus or
+LPS, and CXCLS/IL-8 production was measured by ELISA.
+As shown in FIG. 9A, CXCL8/IL-8 is produced by the
+human neutrophil cell line in response to S. aureus or LPS
+stimulation; however, pre-incubation with Lip-C6 signiﬁ-
+cantly inhibits CXC production compared with ghost lipo-
+some.
+
+[0084] As CXC chemokine production by neutrophils
+likely mediates further neutrophil inﬁltration to the corneal
+stroma and subsequent development of keratitis, we also
+examined the effect of Lip-C6 on an enriched (>98%)
+population of mouse peritoneal neutrophils. As shown in
+FIGS. 9B and C, pre-incubation of murine neutrophils with
+ghost liposomes or Lip-C6 conﬁrmed the results with human
+neutrophils (FIG. 9A), with Lip-C6 inhibiting TLR2- and
+TLR4-induced CXCLl and CXCL2 production in a dose
+dependent manner.
+
+[0085] Statistical analysis was performed using an
+unpaired t-test (Prism; Graph Pad Soﬁware. San Diego,
+Calif). A p value of less than 0.05 was considered signiﬁ-
+cant.
+
+INCORPORATION BY REFERENCE
+
+[0086] All publications mentioned in this speciﬁcation are
+incorporated herein by reference to the same extent as if
+each individual publication is speciﬁcally and individually
+indicated to be incorporated by reference,
+
+[0087] 1. Johnson A C, Heinzel F P, Diaconu E, et al.
+Activation of toll-like receptor (TLR)2, TLR4, and TLR9
+in the mammalian comea induces MyD88-dependent cor-
+neal inﬂammation, Invest Ophthalmol Vis Sci 2005;
+46:589-595.
+
+[0088] 2. Khatri S, Lass J H, Heinzel F P, et al. Regulation
+of endotoxin-induced keratitis by PECAM-l , MIP—2, and
+toll-like receptor 4. Invest Ophthalmol Vi: Sci 2002;
+43:2278-2284.
+
+[0089] 3. Stover T, Kester M. Liposomal delivery
+enhances short-chain ceramide-induced apoptosis of
+breast cancer cells. J Pharmacol Exp Ther 2003; 307:
+468-475.
+
+[0090] 4. Stover T C, Sharma A, Robertson G P, Kester M.
+Systemic delivery of liposomal short-chain ceramide lim-
+its solid tumor growth in murine models of breast adeno-
+carcinoma. Clin Cancer Res 2005; 11:3465-3474.
+
+[0091] 5. Kruszewski F H, Walker T L, DiPasquale L C.
+Evaluation of a human corneal epithelial cell line as an in
+vitro model for assessing ocular irritation Fundam Appl
+Toxicol 1997; 36:130-140.
+
+[0092] 6. Ueta M, Nochi T, Jang M H, et a1. Intracellularly
+expressed TLR2s and TLR4s contribution to an immu-
+nosilent environment at the ocular mucosal epithelium. J
+Immunol 2004; 17313337-3347.
+
+[0093] 7. Adhikary G, Crish J, Lass J, Eckert R L. Regu-
+lation of involucrin expression in normal human corneal
+
+Jan. 31, 2019
+
+epithelial cells: a role for activator protein one. Invest
+Ophthalmol V1: Sci 2004; 45:1080-1087.
+
+[0094] 8, Sun Y, Hise A G, Kalsow C M, Pearlman E,
+Staphylococcus aureus-induced corneal inﬂammation is
+dependent on Toll-like receptor 2 and myeloid diﬁeren-
+tiation factor 88. Infect Immun 2006; 74:5325-5332.
+
+[0095] 9. Hauert A B, Martinelli S, Marone C, Niggli V
+Differentiated HL-60 cells are a valid model system for
+the analysis of human neutrophil migration and chemot-
+axis. IntJBiochem Cell Biol 2002; 34:838-854.
+
+[0096] While the invention has been explained in relation
+to embodiments, it is to be understood that various modiﬁ-
+cations thereof will become apparent to those skilled in the
+art upon reading the speciﬁcation. Therefore, it is to be
+understood that the inventions disclosed herein are intended
+to cover such modiﬁcations as fall within the scope of the
+appended claims, and to cover insubstantial variations
+thereof.
+
+1. A method for treating ocular tissue injury or diseases
+comprising administering to a subject in need thereof a
+composition comprising a C6-ceramide containing nanoli-
+posome, wherein the ocular disease is a disease associated
+with neutrophil inﬁltration in a cell,
+
+2. The method of claim 1 wherein the ceramide thereof is
+administered at a dosage of about 1 nanogram to about 100
+micrograms per day.
+
+3. The method of claim 1 wherein the composition
+inhibits mitogen-activated protein (MAP) kinases signaling.
+
+4. The method of claim 3 wherein the MAP kinases is at
+least one of JNK and p38.
+
+5. The method of claim 1 wherein the ceramide down-
+regulates chemotatic mediators that recruit neutrophils to the
+site of tissue injury via Toll-like and cytokine receptors.
+
+6. The method of claim 1 wherein the ocular disease is a
+diswse of the anterior eye.
+
+7. The method of claim 6 wherein the ocular disease is at
+least one of keratitis, endophthalmitis, uveitis, conjunctivi-
+tis, blepharitis, contact lens-induced peripheral ulcer and
+corneal dystrophy.
+
+8. The method of claim 1 wherein the ocular disease is a
+disease of the posterior eye.
+
+9. The method of claim 8 wherein the ocular disease is at
+least one of retinitis pigmentosa, diabetic retinopathy, macu-
+lar degeneration and ocular toxoplasmosis.
+
+10. The method of claim 1 wherein the ocular disease is
+caused by refractive or laser surgery.
+
+11. A method for preventing ocular diseases associated
+with neutrophil inﬁltration in a cell comprising administer-
+ing to a subject in need thereof a composition comprising a
+Cﬁ-ceramide containing nanoliposome.
+
+12. The method of claim 11 wherein the ocular disease is
+a disease of the anterior eye.
+
+13. The method of claim 12 wherein the ocular disease is
+at least one of keratitis, endophthalmitis, uveitis, conjunc-
+tivitis, blepharitis, contact lens-induced peripheral ulcer and
+corneal dystrophy,
+
+14, The method of claim 11 wherein the ocular disease is
+a disease of the posterior eye.
+
+15. The method of claim 14 wherein the ocular disease is
+at least one of retinitis pigmentosa, diabetic retinopathy,
+macular degeneration and ocular toxoplasmosis.
+
+*****
+Patent Application Publication
+
+cacwsmza {gyms
+
+cm: 1m: (pg/m3
+
+ 
+
+m‘nm sum mow;
+c warm 5w
+5.3UV605
+
+5361.35
+
+at ﬁljﬁSKCVS egg/m)
+ES
+
+5 ‘ 0‘ an”
+Pasﬁzys
+
+AA um;
+
+   
+
+Jan. 31, 2019 Sheet 1 of 9
+
+m
+
+g
+c:
+
+age
+
+exam 3 (may
+M
+
+    
+
+«3 cu:
+
+W 19:33.; Aug mm
+
+ 
+
+11) ca 615
+
+US 2019/0029978 A1
+
+   
+   
+
+we n§a<
+
+s
+m1$3$163854159wﬁﬂ
+
+(5?: Eu. Fat w
+FarraCys
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0029978 A1
+
+PEARLMAN et al.
+
+ 
+
+US 20190029978Al
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+
+(71)
+
+(72)
+
+(21)
+(22)
+
+(62)
+
+CERAMIDE COMPOSITION AND METHOD
+OF USE
+
+ApplicantszCase Western Reserve University,
+Cleveland, OH (US); The Penn State
+Research Foundation, University Park,
+
+PA (US)
+
+Eric PEARLMAN, Irvine, CA (US);
+Mark KESTER, Afton, VA (US)
+
+Inventors:
+
+Appl. No.2 16/046,246
+
+Filed: Jul. 26, 2018
+
+Related U.S. Application Data
+
+Division of application No. 11/773,989, ﬁled on Jul,
+6, 2007, now Pat. No. 10,045,953,
+
+momma tpgimt}
+
+ 
+
+   
+
+" 56566 n 4 13 5
+L533. 258 Gaga
+
+331116205
+
+momma—z Engine};
+§ § ‘3‘ § §
+6 5 <1 e e
+
+a
+-
+
+ 
+
+,{r 2,11; ﬁg 0
+
+__Lm:w55”§§€” fnwgam
+
+Samoa;
+
+gamma {1291611)
+8
+
+     
+
+       
+
+(60) Provisional application No. 60/806,655, ﬁled on Jul,
+6, 2006.
+
+Publication Classiﬁcation
+
+(51) 1111.0.
+A61K 31/164 (2006.01)
+(52) U.S. Cl.
+CPC ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, A61K 31/164 (201301)
+(57) ABSTRACT
+
+A method for treating and preventing diseases associated
+with neutrophil inﬁltration, particularly ocular diseases, is
+provided, which method comprises administering to a sub-
+ject in need thereof an etfective amount of ceramjde or a
+derivative thereoi Also provided is a composition for treat-
+ing diseases associated with neutrophil inﬁltration, the com-
+position comprising ceramide or a derivative thereof.
+
+a
+a O
+151 a
+
+  
+  
+
+m
+m
+
+V at: ~16 g a jg 0
+
+325.6% maxed
+L95
+
+9:91.05
+
+MI
+9
+
+  
+
+CXCL‘ESKC {pgknl}
+3
+
+m 3
+
+15 a 2:5; V 15
+”$16 1.1%? @6156.
+W
+
+.5!va B
+Patent Application Publication Jan. 31, 2019 Sheet 2 of 9 US 2019/0029978 A1
+
+FIG. 28
+
+RmFIG. 2 ”431;.”
+
+   
+ 
+ 
+   
+  
+
+  
+  
+
+A E ‘
+
+g 22
+
+N 5mm 55
+
+u
+
+:3 g
+
+a :55» g
+
+5 G . u
+
+mC;GﬁﬁmﬁgGhRmC,€%$§;§M§
+
+M .
+ﬁaumuﬁ saunas samui Staurisis Saute“; Swami
+m HG. 20 an. m FIG. 20
+5:» i an;
+430' E 2564
+312K).
+
+exam)»: mm;
+
+ 
+
+_ mmﬁ-M} m 63% c at as v man 0 MM
+simus awmuz saints: 5 gamma;
+Patent Application Publication Jan. 31, 2019 Sheet 3 of 9 US 2019/0029978 A1
+
+ 
+
+FIG. 3
+Patent Application Publication Jan. 31, 2019 Sheet 7 0f 9 US 2019/0029978 A1
+
+ 
+
+     
+
+Ngutmgahits Stream {hickness Stremai haze
+? I
+am ugly ‘2
+5i
+.2.“
+- e
+25 E?
+§ 5:: a O
+ﬁ 3 ‘11 .0 ‘ as g
+g go —va- 2‘
+3
+w ngWmW g
+3 _ mm u 0 mm: ﬁnd 3
+*x L: auzeus 9 Siam-qua
+E ' i 164»
+“ mus 0
+§ my a
+3m.) ’.
+. r "r
+mo» 5‘ ﬂ,“ 1
+30M? .
+“mm
+W" ”SSW'M" "’3 " mm was mm m “mm”
+ms L95 LPS
+Patent Application Publication
+
+Sub—cusxiunsiiwi
+
+ 
+
+ 
+
+FIG. 63 g *-
+g; a: a
+E
+
+neuhmahilﬁﬁpm warm
+'6
+
+g
+
+3%
+
+$ 5%
+
+Ma: a,
+
+““E
+
+mmphlism mm
+«A
+»
+
+Jan. 31, 2019 Sheet 6 of 9
+
+ 
+
+ 
+
+Yepécgi ﬁubvbanjuncﬂvai
+25 + minim:
+“MR...“ a. gag , ‘ u
+14; _ , 3: was.
+a M“ a . '"“ “""a “f
+’ g to, c a
+r. _ .
+ll a 3G
+2 g so ‘0‘?»
+S
+nah. It; EH01: 755 new
+Seamus
+.. >5
+m .11 g a , u
+’ ° 5;” 'vzm '
+z a . ’
+4:: ' ﬁg ‘17 '
+5
+mm :, om: an
+we
+
+ 
+
+US 2019/0029978 A1
+Patent Application Publication Jan. 31, 2019 Sheet 4 of 9 US 2019/0029978 A1
+
+FIG, 4B
+Patent Application Publication Jan. 31, 2019 Sheet 5 0f 9 US 2019/0029978 A1
+
+’5? mwww “‘ \“§‘ “$3“ “3%“ w \\
+
+{gﬁmi \ A w “§“ *3 "4%?
+
+ 
+
+w\§“‘~\w
+
+ 
+
+$32
+
+4%
+
+i937
+
+ﬁgﬂa i imﬁﬁ $3533;
+
+?
+ZZZ
+a;
+
+ 
+
+v §3t§§§é§°i
+
+/ av
+Ma
+5x3
+3??
+
+wé
+
+/ ,
+
+waits: F‘QNK 3‘ miaé 3%,
+
+ 
+
+FIG. 5
+Patent Application Publication Jan. 31, 2019 Sheet 8 0f 9 US 2019/0029978 A1
+
+Ligawﬁg Z {‘Eﬁiﬁ'ﬁuﬂ
+Patent Application Publication
+
+ 
+
+ 
+
+ 
+
+Jan. 31, 2019 Sheet 9 of 9 US 2019/0029978 A1
+
+é
+
+    
+  
+
+    
+
+   
+
+ 
+
+€
+- 7
+:32
+:3 W
+k
+.1
+g3 25»;
+as
+s Ghié g 4 m u 13% an Wwii... a
+m M U 433 M G?! :5“
+Sameus LP$
+FIG. 93
+.4. sons— Fﬁgtgm 20 New
+40m 3‘
+g 3cm- 3
+m {ﬂ .
+g 25% §
+'4 .3
+u a;
+E «my» g
+{F . , , , . . i .
+W m vs 23L as a;
+”chs gﬂ Vu‘gﬁ" :3 En“ - we
+3.33.5!sz “M .aumua m
+‘ s
+E E mm
+3 2
+“7 :5
+a
+M §
+§
+ﬂ :5
+U
+H , m 122‘; 2.4 :5 a
+WWW 113631313 sum!”
+" ‘LFS
+US 2019/0029978 A1
+
+CERAMIDE COMPOSITION AND METHOD
+OF USE
+
+[0001] This application is a divisional application of US.
+application Ser. No. 11/773,989 ﬁled Jul. 6, 2007 which
+claims the beneﬁt of US. Provisional Application No.
+60/806,655 ﬁled Jul. 6, 2006, the contents of which are
+hereby incorporated by reference in their entireties.
+
+[0002] The work described herein was funded by NIH
+grants ROEY14362 and P30EY11373, and a Sponsored
+Research Agreement with Bausch and Lomb, Inc, with
+additional support from EY015800, The Research to Prevent
+Blindness Foundation and the Ohio Lions Eye Research
+Foundation
+
+BACKGROUND
+
+[0003] Corneal inﬁltration and microbial keratitis are
+caused by viruses, bacteria, fungi and parasites, and are
+leading causes of visual impairment and blindness world-
+wide. In addition, microbial products such as lipopolysac-
+charide (LPS), bacterial cell walls, ﬁagellin or microbial
+nucleic acid can induce corneal inﬂammation via Toll-like
+receptors (TLR) on corneal epithelial cells. TLR/MyD88-
+mediated CXC chemokine production and subsequent neu-
+trophil inﬁltration to the corneal stroma and activation are
+critical steps in the inﬂammatory response.
+
+SUMMARY
+
+[0004] The present invention, in one aspect, is directed to
+a method for treating and/or preventing diseases associated
+with neutrophil inﬁltration, which method comprises admin-
+istering an effective amount of ceramide or ceramide deriva-
+tive. In one embodiment, the method comprises treating
+ocular disease such as keratitis, endophthalmitis, uveitis,
+conjunctivitis, blepharitis, contact lens-induced peripheral
+ulcer, corneal dystrophy, retinitis pigmentosa, diabetic ret-
+inopathy, macular degeneration, ocular toxoplasmosis and
+diseases resulting from complications from refractive or
+
+laser surgery.
+
+[0005] In one aspect of the invention, there is provided a
+composition for treating and/or preventing diseases associ-
+ated with neutrophil inﬁltration, the composition comprising
+ceramide or ceramide derivative. In one embodiment, the
+
+ceramide or ceramide derivative comprises C6-ceramide.
+The ceramide or ceramide derivative may be delivered via a
+particulate carrier, particularly, a liposome.
+
+[0006] The administration route for treating and/or pre-
+venting diseases associated with neutrophil inﬁltration may
+be at least one of intravenous, intraperitoneal, intrathecal,
+intralymphatic, intramuscular, intralesional, parenteral, epi-
+dural, subcutaneous, pleural, topical, oral, nasal, anal, ocular
+and otic. For ocular diseases, the administration route may
+he one of topical, systemic, intravitreal and subconjunctival.
+
+[0007] The ceramide or ceramide derivative inhibits mito-
+gen-activated protein (MAP) kinases signaling, particularly
+JNK and p38 signaling, which suppresses neutrophil recruit-
+ment to the cell. The ceramide or ceramide derivative down
+regulates chemotatic mediators (cytokines) that recruit neu-
+trophils to the site of tissue injury via Toll-like and cytokine
+receptors.
+
+Jan. 31, 2019
+
+BRIEF DESCRIPTION OF THE FIGUR 318
+
+[0008] FIGS. 1A and 1B are bar graphs showing the dose
+dependent effect of Lip-C6 on CXC chemokine human
+corneal epithelial cells. FIG. 1A: Human corneal epithelial
+cells (HCE-T) were pre-incubated 40 min. witi Lip-C6,
+Lip-SIP, or control (ghost) liposomes, washed and stimu-
+lated with inactivated S. aureus, which activates T 4R2 (Ref.
+8). Alter 6 hours, supernatants were collected and CXCLI/
+GRO-(x, CXCLS/ENA-78 and CXCLS/IL-S were measured
+by ELISA. FIG. 1B: Primary human corneal epithelial cells
+were isolated from donor corneas, and stimulatec with the
+synthetic TLR2 agonist PamBCys in the presence of Lip-C6
+or control, ghost liposomes. Lip-C6 inhibits c emokine
+production. Values are mean+/—SD for triplicate wells, and
+are representative of three independent experiments.
+(m:medium alone.)
+[0009] FIGS. 2A, 2B, 2C and 2D are bar graphs showing
+the time-dependent effect of Lip-C6 on CXC c emokine
+human corneal epithelial cells. FIGS 2A, 2B and 2C:
+Human corneal epithelial cells (HCE-T) were pre-incubated
+40 min with Lip-C6 or control (ghost) liposomes, washed
+and stimulated with S. aureus. After 3 hrs, 6 hrs, or 12 hrs,
+supernatants were collected and CXCLI/GRO-ot (‘16. 2A),
+CXCLS/ENA-78 (FIG. 2B) and CXCL8/IL—8 (PIG. 2C)
+were measured by ELISA. FIG. 2D: Primary human corneal
+epithelial cells were isolated from donor corneas, pre-incu-
+bated 40 min with Lip-C6 or control liposomes, and stimu-
+lated with S. aureus. Supernatants were collected ter 3 hrs,
+6 hrs or 12 hrs, and cytokines were measured.
+
+[0010] FIG. 3 is a series of micrographs showing intrac-
+ellular localization of Lip-C6. Human corneal epithelial
+Ge] 5 were incubated with NBD labeled Lip-C6 (a), and were
+counter-stained with either BodipyTM-labeled ceramide as a
+Go gi marker (b, c) or Mito-Tracker red (d). Lip-C6 co-
+localized with Golgi (panel 0). Final magniﬁcation using an
+x63 objective with 16 further magniﬁcation is x1008.
+[0011] FIGS. 4A and 4B show the effect of Lip-C6 on
+HC 3 cell apopto sis. FIG. 4A: Human corneal epithelial cells
+were incubated with DNase I, (positive control, panel a), or
+wit Lip-C6 (panel c), and apoptosis was detected by
+TUNEL assay. Panels b and d are corresponding DAPI
+stained nuclei. FIG. 4B: Two hundred cells were counted,
+anc the percent TUNEL positive cells is shown. Lip C6 did
+not induce apoptosis in these cells.
+
+[0012] FIG. 5 shows the elfect of Lip-C6 on p38 and INK
+phosphorylation. Human corneal epithelial cells were incu-
+bated with Lip-C6 or ghost liposomes for 30 min prior to
+adc ition of S. aureus. After 6 hrs, cells were processed for
+SDS-PAGE and Western blot analysis using Abs to phos-
+phorylated and non-phosphorylated forms of p38 and .INK.
+Bands were scanned by densitometry, and the ratio of
+phosphorylated to non-phosphorylated forms were quanti-
+ﬁec, and the mean+/—SEM of three independent experi-
+ments is shown. Inhibition of P-p38 and P-JNK occurred
+aﬁer incubation with Lip-C6.
+
+[0013] FIGS. 6A and 6B show the effect of sub-conjunc-
+tival and topical application of Lip-C6 on neutrophil recruit-
+ment to the corneal stroma in mouse models of S aureus-
+(FIG. 6A) and LPS- (FIG. 6B) induced corneal
+inﬂammationi Lip-C6 or ghost liposomes were either
+injected into the subconjunctival space, topically applied to
+a 1 mm diameter region in the central cornea, or were
+applied by both methods. Aﬁer 40 min, corneas were
+stimulated with either inactivated S. aureus (FIG. 6A) or
+US 2019/0029978 A1
+
+LPS (FIG. 6B), and all were given a second topical appli-
+cation of ghost or Lip-C6 after 6 hrs. After 24 hrs, eyes were
+snap frozen and neutrophil numbers in a 5 urn corneal
+section were determined alter immunostaining. Data points
+represent individual corneas from each group of mice.
+Comeas given Lip-C6 by each of these protocols had
+signiﬁcantly less neutrophils than control ghost liposomes.
+The experiment was repeated three times with similar
+results.
+
+[0014] FIG. 7 shows the effect of topical Lip-C6 on S.
+aureus- and LPS-induced increased corneal thickness and
+haze. A 1 mm diameter wound was made in the central
+corneal stroma of C57BL/6 mice, and topical Lip-C6 was
+given 1 hr before and 6 hrs after exposure to S, aureuix After
+24 hrs, neutrophils were detected by imrnunohistochemistry,
+comws were by in Vivo confocal microscopy, and corneal
+thickness and haze were calculated as described in herein.
+[0015] FIGS. 8A, 8B, 8C and 8D show the eifect of
+Lip-C6 on corneal epithelial wound healing. A 1 mm diam-
+eter comeal epithelial abrasion was generated, and corneas
+were treated with topical Lip-C6 or ghost liposomes 40 min
+prior to, and l and 6 h alter exposure to S. aureus. A2.5%
+ﬂuorescein solution was added after 0 hr, 6 hrs or 24 hrs to
+detect the epithelial wound, and the diameter was calculated
+by image analysis. FIG. 8A: Representative images from
+ﬁve mice per group. FIG. SB: Diameter of wound treated
+with LipC6 or ghost liposomes (mean of ﬁve corneas). There
+is no inhibitory eifect of Lip-C6 on the rate of wound
+healing. FIG. 8C: Representative hematoxylin and eosin
+stained corneal sections 6 hrs and 24 hrs after epithelial
+abrasion and exposure to Lip-C6, At 6 hrs, the loss of
+epithelium was noted and after 24 hrs, regeneration was
+noted. No diiferences in epithelial regeneration were noted
+among groups treated with Lip-C6 or controls (data not
+shown). FIG. 8D: Corneal sections were stained with
+TUNEL reagents (green) to determine the effect on apop-
+tosis, and nuclei were stained with DAPI (blue). Shown are
+representative sections of naive corneas (panel a) or corneal
+sections after treatment with Lip-C6 and S. aureus (panel b).
+TUN EL positive cells were detected in the stroma and not
+the epithelium of S. aureus treated mice. These data are
+representative of three independent experiments.
+
+[0016] FIGS. 9A, 9B and 9C show the eifect of Lip-C6 on
+TLR2 and TLR4-induced inﬂammation on human and
+murine neutrophils. FIG. 9A: The human neutrophil cell line
+(HL—60) was incubated with Lip-C6 or control (ghost gh)
+liposornes 30 min prior to stimulation with S aureus or LPS.
+After 6 hrs, CXCLS/IL-S in cell free supernatants was
+measured by ELISA. Results are mean+/—SD of three rep-
+licate wells, and data are representative of three independent
+experiments. Lip-C6 inhibited CXC chemokine production
+by TLR2 and TLR4 stimulated human neutrophils compared
+with ghost liposomes. FIGS. 9B and 9C: Murine peritoneal
+neutrophils (98% pure) were incubated overnight with S,
+aureu: (FIG. 9B) or LPS (FIG. 9C) in the presence of
+Lip-C6 or ghost liposomes, and CXCLl/KC, CXCLZ/MIP-2
+were measured by ELISA. Results are mean+/—SD of three
+replicate wells per sample, and data are representative of
+three independent experiments.
+
+DETAILED DESCRIPTION
+
+[0017] The present invention, in one aspect, is directed to
+a method for treating and/or preventing diseases associated
+with neutrophil inﬁltration in a cell, which method com-
+
+Jan. 3], 2019
+
+prises administering to the cell an eifective amount of
+ceramide or ceramide derivative. In one embodiment, the
+disease is ocular disease, such as an anterior eye disease
+including keratitis, endophthalmitis, uveitis, conjunctivitis,
+blepharitis, contact lens-induced peripheral ulcer and cor-
+neal dystrophy. The ocular disease may also be a disease of
+the posterior eye, including retinitis pigmentosa, diabetic
+retinopathy, macular degeneration and ocular toxoplasmo-
+sis. In one embodiment, the ocular disease is a complication
+resulting from refractive or laser surgery.
+
+[0018] The administration route for administering the cer-
+amide or ceramide derivative to the cell may be at least one
+of intravenous, intraperitoneal, intrathecal, intralymphatic,
+intramuscular, intralesional, parenteral, epidural, subcutane-
+ous, pleural, topical, oral, nasal, anal, ocular and otic. For
+ocular diseases, the administration route may be one of
+topical, systemic, intravitreal and subconjunctival.
+
+[0019] In one aspect of the invention, there is provided a
+composition for treating and/or preventing tissue injury or
+diseases associated with neutrophil inﬁltration in a cell, the
+composition comprising an effective amount of ceramide or
+ceramide derivative. The composition inhibits mitogen-ac-
+tivated protein (MAP) kinases signaling. The ceramide or
+ceramide derivative downregulates chemotatic mediators
+(cytokines) that recruit neutrophils to the site of tissue injury
+via Toll-like and cytokine receptors.
+
+[0020] Microbial keratitis caused by bacterial infection or
+bacterial products is a leading cause of visual impairment,
+and activates the host innate immune response through
+pathogen recognition molecules, especially Toll-like recep-
+tors (TLR). Activation of (TLR)2, TLR4 and TLR9 on
+abraded corneal epithelium by bacterial lipoproteins
+(T LR2), lipopolysaccharide (LPS, TLR4), or bacterial DNA
+(T LR9) induces MyD88-dependent CXC chemokine pro-
+duction and subsequent neutrophil inﬁltration to the corneal
+stroma and development of corneal haze. In sterile corneal
+inﬁltrates such as contact lens associated peripheral ulcer,
+biopsy studies showed that neutrophils are the predominant
+cells present in the corneal stroma.
+
+[0021] Sphingolipid metabolites are a class of lipids that
+serve both a structural role in membranes and induce intra-
+cellular signaling. Ceram ides generally include a sphingoid
+base linked to a fatty acid Via an amide bond. The term
+“ceramide” as used herein refers to any N-acylsphingosine
+including sphingolipids in which the sphingosine is acylate
+with a fatty acid acyl CoA derivative to form an N-acyl-
+sphingosine, Cerarn ides and ceramide derivatives include,
+but are not limited to, derivatives of the SN-l position
+including l-chloro and 1-benzoyl ceramides, which would
+not be subject to phosphorylation at this position, as well as
+derivatives at the SN-2 position (amide linkage), such as a
+methylcarbamate group or a 2-0-ethyl substituent, which
+would not be subject to degradation by ceramidases. In
+addition, cell-permeable forms of these ceramides analogs
+can be utilized. Examples of these cell-permeable ceramides
+and/or derivatives contain 2-10 carbons and have short chain
+fatty acids at the SN-2 position (C6 ceramide). An example
+of CE-ceramide is N-Hexanoyl-D-erythro—Sphingosine.
+[0022] Ceramides may be isolated from natural sources or
+chemically synthesized. Cerarnide mediates cell differentia-
+tion, cell cycle arrest, and apoptosis. Intracellular ceramide
+accumulation can lead to inhibition of Akt pro-survival
+pathways and stimulation of caspase activity, resulting in
+DNA fragmentation and cell death.
+US 2019/0029978 A1
+
+alcohol; (20) phosphate buffer solutions; and (21) other
+non-toxic compatible substances employed in phamiaceuti-
+cal formulations.
+
+[0032] The ceramide may be delivered via a articulate
+carrier such as a liposorne. Examples of formulations of
+liposomes and other particulate carriers, particularly where
+ceramide is included as an apoptosis-inducing agent, are
+described in examples herein and in US, Patent Application
+Publication No, 2005/0025820, Further examples are
+described in Stover T et all, J Pharmacol Exp Tier., 2003,
+307:468-475; and Stover T C, et al., Clin Cancer Res, 2005,
+11:3465-3474. Liposomes used in methods according to the
+present invention typically have particle sizes int e range of
+about 1 nanometer to about 1 micron, inclusive, in diameter.
+Nano-sized liposomes having particle sizes in the range of
+about 1-100 nanometers, inclusive, in diameter are pre-
+ferred. In embodiments in which a liposome nanocarrier is
+used, the liposome has a lipid-containing wall ceﬁning an
+internal volume,
+[0033] Further particulate carriers include other nanocar-
+riers suitable for delivering the ceramide include nut are not
+limited to nanospheres, nanodendrimers, nanocol oids, nan-
+odots, nanocolumns, and combinations of these, Further
+description of liposomes and methods relating to their
+preparation and use may be found in Liposomes: A Practical
+Approach (The Practical Approach Series, 264), V. R
+Torchilin and V. Weissig (Eds), Oxford University Press;
+2nd ed, 2003. Further description of nanocarriers may be
+found in S. M, Moghimi et al., Nanomedicine: current status
+and future prospects. FASEB J. 2005, 19, 311-30.
+
+[0034] Wetting agents, emulsiﬁers and lubricants, such as
+sodium lauryl sulfate and magnesium stearate, as well as
+coloring agents, release agents, coating agents, sweetening,
+ﬂavoring and perfuming agents, preservatives and antioxi-
+dants can also be present in the compositions.
+
+[0035] Examples of pharmaceutically-acceptable antioxi-
+dants include: (1) water soluble antioxidants, such as ascor-
+bic acid, cysteine hydrochloride, sodium bisulfate, sodium
+metabisulﬁte, sodium sulﬁte and the like: (2) oil-soluble
+antioxidants, such as ascorbyl palmitate, butylated hydroxy-
+anisole (BHA), butylated hydroxytoluene (BHT), lecithin,
+propyl gallate, alpha-tocopherol, and the like; and (3) metal
+chelating agents, such as citric acid, ethylenediamine tet-
+raacetic acid (EDTA), sorbitol, tartaric acid, phosphoric
+acid, and the like.
+
+[0036] Formulations of the present invention include those
+suitable for oral, nasal, topical (including buccal and sub-
+lingual), rectal, vaginal and/or parenteral administration.
+The formulations may conveniently be presented in unit
+dosage form and may be prepared by any methods well
+known in the art of pharmacy, The amount of active ingre-
+dient which can be combined with an excipient material to
+produce a single dosage form will vary depending upon the
+host being treated, the particular mode of administration.
+The amount of active ingredient that can be combined with
+an excipient to produce a single dosage form will generally
+be that amount of the compound that produces a therapeutic
+effect.
+
+[0037] Methods of preparing these formulations or com-
+positions include the step of bringing into association a
+compound of the present invention with the carrier and,
+optionally, one or more accessory ingredients In general, the
+formulations are prepared by uniformly and intimately
+bringing into association a compound of the present inven-
+
+ 
+
+Jan. 31, 2019
+
+tion with liquid carriers, or ﬁnely divided solid carriers, or
+both, and then, if necessary, shaping the product.
+
+[0038] Formulations of the invention suitable for oral
+administration may be in the form of capsules, cachets, pills,
+tablets, lozenges, powders, granules, or as a solution or a
+suspension in an aqueous or non-aqueous liquid, or as an
+oil-in-water or water-in-oil liquid emulsion, or as an elixir or
+syrup, or as pastilles and/or as tooth pastes or mouth washes
+and the like, each containing a predetermined amount of a
+compound of the present invention as an active ingredient.
+A compound of the present invention may also be admin-
+istered as a bolus, electuary or paste,
+
+[0039] In solid dosage forms of the invention for oral
+administration, the active ingredient is mixed with one or
+more pharmaceutically-acceptable carriers, such as sodium
+citrate or dicalcium phosphate, and/or any of the following:
+(1) ﬁllers or extenders, such as starches, lactose, sucrose,
+glucose, mannitol, and/or silicic acid; (2) binders, such as,
+for example, carboxymethylcellulose, alginates, gelatin,
+polyvinyl pyrrolidone, sucrose and/or acacia; (3) humec-
+tants, such as glycerol; (4) disintegrating agents, such as
+agar-agar, calcium carbonate, potato or tapioca starch, alg-
+inic acid, certain silicates, and sodium carbonate; (5) solu-
+tion retarding agents, such as paraﬂin; (6) absorption accel-
+erators, such as quaternary ammonium compounds; (7)
+wetting agents, such as, for example, cetyl alcohol and
+glycerol monostearate; (8) absorbents, such as kaolin and
+bentonite clay; (9) lubricants, such a talc, calcium stearate,
+magnesium stearate. solid polyethylene glycols, soc ium
+lauryl sulfate. and mixtures thereof; and (10) coloring
+agents, In the case of capsules, tablets and pills, the phar-
+maceutical compositions may also comprise buffering
+agents. Solid compositions of a similar type may also be
+employed as ﬁllers in soft and hard-ﬁlled gelatin capsules
+using such excipients as lactose or milk sugars, as we] as
+high molecular weight polyethylene glycols and the like.
+
+[0040] Atablet may be made by compression or mol ing,
+optionally with one or more accessory ingredients. Com-
+pressed tablets may be prepared using binder (for example,
+gelatin or hydroxypropylmethyl cellulose), lubricant, inert
+diluent, preservative, disintegrant (for example, soc ium
+starch glycolate or cross-linked sodium carboxymethyl cel-
+lulose), surface-active or dispersing agent, Molded taalets
+may be made by molding in a suitable machine a mixture of
+the powdered compound moistened with an inert liquid
+diluent,
+
+[0041] The tablets, and other solid dosage forms 0 the
+pharmaceutical compositions of the present invention, such
+as dragees, capsules, pills and granules, may optionally be
+scored or prepared with coatings and shells, such as enteric
+coatings and other coatings well known in the pharmaceu-
+tical-formulating art. They may also be formulated so as to
+provide slow or controlled release of the active ingredient
+therein using, for example, hydroxypropylmethyl cellulose
+in varying proportions to provide the desired release proﬁle,
+other polymer matrices, liposomes and/or microspheres.
+They may be sterilized by, for example, ﬁltration through a
+bacteria-retaining ﬁlter, or by incorporating sterilizing
+agents in the form of sterile solid compositions that can be
+dissolved in sterile water, or some other sterile injectable
+medium immediately before use, These compositions may
+also optionally contain opacifying agents and may be of a
+composition that they release the active ingredient(s) only,
+or preferentially, in a certain portion of the gastrointestinal
+US 2019/0029978 A1
+
+[0023] It has been previously demonstrated that C6 cer-
+amide in liposome formulation (Lip-C6) induces apoptosis
+of breast cancer cells and limits tumor growth. Despite the
+documented role of ceramide in promoting apoptosis in
+several cell types, this does not appear to be the mechanism
+of action in microbial keratitis. The mechanism involves
+inhibition of p38 and .INK phosphorylation, and resultant
+CXC chemokine production, rather than promotion of epi-
+thelial cell apoptosis. This conclusion is supported by our
+ﬁndings that: 1) chemokine production by human corneal
+epithelial cells in vitro is reduced in the absence of signiﬁ-
+cant apoptosis; 2) activation of pro-inﬂammatory and pro-
+apoptotic signaling cascades (JNK, p38) are inhibited in
+HCE cells by Lip—C6; 3) chemokine production by murine
+corneal epithelium in vivo is inhibited; 4) there is no
+detectable apoptosis in corneal epithelium induced by C6 in
+vitro or in vivo; and 5) neutrophil inﬁltration and develop-
+ment of corneal haze is inhibited in Lip-C6 treated corneas
+aﬂer TLR stimulationi
+
+[0024] Ceramide in liposome formulation limits keratitis
+by reducing activation and production of CXC chemokines
+by corneal epithelial cells, and thereby limit recruitment of
+neutrophils to the corneal stroma. This reduction in CXC
+secretion may be due to Lip-C6 inhibiting pro-inﬂammatory
+cascades that involve p38 and INK, In addition to corneal
+epithelial cells, neutrophil activation is also inhibited by
+ceramide, which represents a second target of anti—inﬂam-
+matory activity.
+
+[0025] This novel action of ceramide may also explain its
+role in preconditioning. For example, TNF-a generated
+ceramide induces tolerance to ischemia in astrocytes and
+intravenous or intracisternal delivery of cell permeable
+ceramide analogues reduce focal cerebral ischemia in SHR
+rats, The neutophil inhibitory actions of ceramide, may be
+due to ceramide-activated KSR (kinase suppressor of ras),
+which minimizes the pro-inﬂammatory and apopotic effects
+of TNF in an irritable bowel disease model. Alternatively, as
+Akt signaling has been liked to TLR-inﬂammatory signal-
+ing, ceramide may exert therapeutic actions through the
+inhibition of Akt, Ceramide selectively interacts with protein
+kinase C zeta, which inactivates AKT via phosphorylation of
+Ser 34. In addition, ceramide can inhibit LPS/TLR4-induced
+lL—8 synthesis in endothelial cells. As shown in atheroscle-
+rotic and diabetic models, and conﬁrmed in the present study
+using sphingosine-l-phosphate (SIP, FIG, 1), it is often the
+phosphorylated or glycosylated ceramide metabolites, and
+not ceramide itself, that mediates the pro-inflammatory
+actions of sphinglolipids.
+
+[0026] Topical application of C6-enriched 80 nm size
+nanoliposomes is an effective therapeutic approach to cor-
+neal inﬂammation induced by bacteria and bacterial prod-
+ucts that activate TLRs. Furthermore, Lip-C6 functions by
+inhibiting CXC chemokine production by corneal epithelial
+cells, and thereby blocking neutrophil recruitment to the
+cornwl stroma without inhibiting epithelial cell proliferation
+and wound healing, Taken together with the absence of
+apoptotic side effects, this provides a therapeutic application
+for ameliorating the clinical manifestations associated with
+microbial keratitis.
+
+[0027] In certain aspects, the application provides com-
+positions comprising a ceramide or ceramide derivative and
+an excipient. Such compositions may be designed for deliv-
+ery systemically or locally, and may be formulated for
+administration in any convenient way for use in human or
+
+Jan. 31, 2019
+
+veterinary medicine, In certain embodiments, the ceramide
+or ceramide derivative composition is formulated for local
+delivery to a particular epithelium, optionally a mueosal
+epithelium, For example, a composition may be formulated
+for delivery to the mouth, the eye, the skin, the vagina, the
+rectum, the intestines and the nose or other airways, In
+certain embodiments, the application provides methods for
+making a medicament comprising a ceramide or ceramide
+derivative and an excipient for the administration by one of
+the above-described modes,
+
+[0028] Thus, another aspect of the present invention pro-
+vides compositions, optionally pharrnaceutically acceptable
+compositions, comprising an amount, optionally a therapeu-
+tically effective amount, of ceramide, formulated together
+with one or more excipients, including additives and/0r
+diluents. As described in detail below, the compositions may
+be specially formulated for administration in solid or liquid
+form, including those adapted for the following: (1) sys-
+temic or local oral administration, for example, drenches
+(aqueous or non-aqueous solutions or suspensions), tablets,
+boluses, powders, granules, pastes, or ﬁlms; (2) parenteral
+administration, for example, by subcutaneous, intramuscular
+or intravenous injection as, for example, a sterile solution or
+suspension; (3) topical application, for example, as a cream,
+ointment or spray applied to the skin; or (4) intravaginally or
+intrarectally, for example, as a pessary, cream or foam. In
+certain embodiments the subject ceramide compounds may
+be incorporated into liposomal vesicles,
+
+[0029] The phrase “therapeutically-etfective amount” as
+used herein means that amount of a compound, material, or
+composition comprising a compound of the present inven-
+tion that is effective for producing some desired therapeutic
+effect by blocking neutrophil inﬁltration to the site of injury.
+
+[0030] The phrase “pharmaceutically acceptable” is
+employed herein to refer to those compounds, materials,
+compositions, and/or dosage forms which are, within the
+scope of sound medical judgment, suitable for use in contact
+with the tissues of human beings and animals without
+excessive toxicity, irritation, allergic response, or other
+problem or complication, commensurate with a reasonable
+beneﬁt/risk ratio.
+
+[0031] The phrase “excipient” as used herein means a
+material, composition or vehicle, such as a liquid or solid
+ﬁller, diluent, excipient, solvent or encapsulating material,
+optionally phannaceutically-acceptable, involved in admin-
+istering the subject cerarnidei Each excipient should be
+compatible with the other ingredients of the formulation and
+not injurious to the subject. Some examples of materials
+which can serve as pharmaceutically-acceptable excipients
+include: (1) sugars, such as lactose, glucose and sucrose; (2)
+starches, such as corn starch and potato starch; (3) cellulose,
+and its derivatives, such as sodium carboxymethyl cellulose,
+ethyl cellulose and cellulose acetate; (4) powdered traga-
+canth; (5) malt; (6) gelatin; (7) talc; (8) cocoa butter and
+suppository waxes; (9) oils, such as peanut oil, cottonseed
+oil, saﬂlower oil, sesame oil, olive oil, corn oil and soybean
+oil; (10) glycols, such as propylene glycol; (11) polyols,
+such as glycerin, sorbitol, rnannitol and polyethylene glycol;
+(12) esters, such as ethyl oleate and ethyl laurate; (l3) agar;
+(l4) buffering agents, such as magnesium hydroxide and
+aluminum hydroxide; (15) alginic acid; (16) pyrogen-free
+water; (17) isotonic saline; (18) Ringer’s solution; (19) ethyl
+US 2019/0029978 A1
+
+Example 7
+
+Mouse Model of Keratitis
+
+[0064] C57BL/6 mice (6-8 weeks old) from The Jackson
+Laboratory (Bar Harbor, Me) were anesthetized by intrap-
+eritoneal injection of 04 ml 2,2,2-tribromoethanol (TBE),
+and a 1 mm diameter area of the central corneal epithelium
+was deﬁned using a trephine, and epithelium was removed
+using an AlgerbrushTM (Richmond Products, Albuquerque,
+N. Mex.) Comeas were then treated with ultrapure lipopo-
+lysaccharide (LPS) from Invivogen, San Diego, Calif.) as
+described in References l and 2, or with S aureus strain
+8325 that had been killed by exposure to ultraviolet radiation
+(Ref 8) Mice were maintained in speciﬁc pathogen-free
+conditions in microisolater cages, and were treated in accor-
+dance With the guidelines provided in the ARVO statement
+for the Use of Animals in Ophthalmic and Vision Research
+
+Example 8
+
+Immunohistochemistry
+
+[0065] Eyes were snap frozen in liquid nitrogen, and 5 pm
+sections were incubated 2 hrs with anti-neutrophil antibody
+NIMP-R14 diluted 1:100 in 1% fetal calf serum/TBS (1%
+FCS/T BS) as described in Reference 2. After washing,
+cornwl sections were incubated with FITC-conjugated rab-
+bit anti-rat antibody (Vector Laboratories, Burlingame,
+Calif) diluted 1:200 in 1% FCS/TBS. Slides were mounted
+in Vectashield containing DAPI (Vector), and neutrophils in
+each section was quantiﬁed by ﬂuorescence microscopy
+
+Example 9
+
+In Vivo Confocal Microscopy Analysis of Corneal
+Thickness and Haze
+
+[0066] In Vivo analysis of cellular inﬁltration was accom-
+plished using a Nidek ConfoscanTM as described in Refer-
+ence 1. Brieﬂy, mice were anesthetized and immobilized,
+and the cornea was examined using a 40x objective with a
+transparent gel (Genteal, Novartis Ophthalmics, Duluth,
+Ga.) as a medium, A series of images of the entire cornea
+was captured using NAVISTM software, and stromal thick-
+ness (area between basal epithelium and corneal endothe-
+lium) was measured directly using the NavisTM soﬂware, To
+measure stromal haze, the light intensity of each 1-2 pm
+image of the corneal stroma was exported into Prism (Graph
+Pad Software, San Diego, Calif), and the total area under the
+curve was then calculated as described in References 1 and
+8.
+
+Example 10
+
+Wound Healing Assays
+
+[0067] For the ﬂuorescein dye exclusion assay, 0.25%
+ﬂuorescein solution (Bausch and Lomb, Inc, Rochester,
+NY.) was applied as a single drop to the ocular surface, and
+ﬂuorescein was detected by ﬂuorescence microscopy, and
+the area of the lesion was calculated using lmageProTM
+software, Eyes were then ﬁxed in 10% formaldehyde,
+embedded in paraﬁin, and 5 pm sections were stained with
+hematoxylin and eosin.
+
+Jan. 31, 2019
+
+Example 1 1
+
+In Vitro Neutrophil Activation
+
+[0068] The human HL-60 cell line was maintained in
+RPMI with 10% FBS, and incubated ﬁve days in 12%
+DMSO to generate the neutrophil phenotype (Ref. 9). Cells
+were placed into 96 well plates at 1><105 per well, and
+incubated 6 hrs with S. aureus or LPS. CXCL8/IL-8 pro-
+duction was measured by ELISA (R&D Systems, Minne-
+apolis, Minn.)
+
+[0069] Murine peritoneal neutrophils were obtained as
+described in Reference 8. Brieﬂy, mice were injected with 1
+ml of 9% casein 16 hrs and 3 hrs prior to peritoneal lavage,
+and cells were layered onto a sterile 90% Percoll gradient
+(Pharmacia, Biotech, Piscataway, N.J.). The neutrophil
+population (>95%) was recovered from the second layer on
+the gradient as determined by cytology. Neutrophils were
+incubated in DMEM for 2 hrs at 37° C. with 50 ng/ml
+GM-CSF, and stimulated for 15 hrs with S aureus or LPS.
+Viability was >95% as determined by Trypan blue exclusion
+Cytokines in the culture supematants were measured by
+ELISA (R&D Systems).
+
+Example 12
+
+Lip-C6 Inhibition of TLR Activation of HCE Cells
+
+[0070] To determine the effect of Lip-C6 on TLR-induced
+CXC chemokine production, human corneal epithelial
+(HCE) cells were brieﬂy exposed (30 min) to Lip-C6 or
+control/ghost (non-C6) liposomes, washed, and incubated
+with inactivated S. aureus, which activates TLR2 in addition
+to a speciﬁc synthetic TLR2 ligand, ParnsCys. As a further
+control, we used Lip-sphingosine-l-P (SlP), a ceramide
+metabolite linked to mitogenesis. As shown in FIG. 1A,
+CXCLl, CXCLS and CXCL8 was produced in response to
+stimulation with S. aureus. Control (ghost) lipo somes had no
+effect on constitutive or stimulated chemokine production;
+however. exposure to Lip-C6 completely inhibited S
+aureus-induced and PamsCys-induced CXCLl, CXCLS and
+CXCL8 production. In contrast, SlP did not reduce
+chemokine production, and in the case of CXCL8/IL-8, SlP
+actually augmented chemokine production by S1 aureusl To
+ascertain the effect of Lip-C6 on TLR2-stimulated primary
+epithelial cells, human corneal epithelial cells were isolated
+from donor corneas and incubated with Pam3Cys in the
+presence of Lip-C6 or ghost liposomes. As shown in FIG.
+1B, Lip-C6, but not control, ghost liposomes inhibited
+production of CXCL1, CXCLS and CXCL8 by primary
+human corneal epithelial cells,
+
+[0071] To determine the inhibitory effect of Lip-C6 over a
+12 hr period of TLR2 stimulation, HCE cells were pre-
+incubated with Lip-C6 or control, ghost liposomes prior to
+addition of S aureus. Cell supernatants were collected at 3
+hrs, 6 hrs and 12 hrs, and chemokine production was
+measured by ELISA, As shown in FIG. 2, cytokine produc-
+tion by Lip-C6 treated cells was signiﬁcantly lower than
+control cells as early as 3 hrs, and continued until 12 hrs after
+St aureus stimulation. Taken together, these data clearly
+demonstrate that Lip-C6 inhibits TLR2-induced CXC
+chemokine production by human corneal epithelial cells in
+a dose and time-dependent manner,
+US 2019/0029978 A1
+
+Example 1 3
+
+Localization of Lip-C6
+
+[0072] To identify the cellular localization of Lip-C6,
+liposomes were prepared using C6-NBD, and were incu-
+bated with HCE cells and counter-stained with either
+BodipyTM-labeled ceramide as a Golgi marker (InVitrogen)
+or with Mito-Tracker red. As shown in FIG. 3, Lip-C6-NBD
+co-localized with ceramide (a-c), but not with mitochondria
+(d), demonstrating that the lipid formulation of C6 localizes
+to the same site as soluble ceramide.
+
+Example 14
+
+Apoptosis Detection
+
+[0073] To determine if Lip-C6-mediated inhibition of
+CXC chemokines was due to induction of a pro-apoptotic
+response, HCE cells were incubated with S. aureus and
+either Lip-C6 or ghost liposomes for 18 hrs, and apoptosis
+was measured by TUNEL assay. As shown in FIG. 4A,B,
+fewer than 2% TUNEL positive cells were detected in any
+of the groups, including Lip-C6-treated cells, whereas 100%
+cells were TUNEL positive after DNAse treatment This
+ﬁnding indicates that Lip-C6 inhibits CXC chemokine pro-
+duction without inducing apoptosis.
+
+Example 1 5
+
+Inhibition of p38 and JNK Phosphorylation
+
+[0074] To examine the effect of Lip-C6 on p38 and JNK,
+HCE cells were incubated with 5 [1M Lip-C6 or ghost
+liposomes for 30 min., and S. aureus was added for an
+additional 6 hrs. HCE cells were then processed for SDS-
+PAGE and Western Blot analysis using Ab to total and
+phosphorylated JNK and p38.
+
+[0075] As shown in FIG. 5, JNK and p38 were phospho-
+rylated after stimulation with S aureus. Furthermore, phos-
+phorylation was blocked by Lip-C6 but not by control
+(ghost) liposomes. As p38 and JNK are involved in inﬂam-
+matory processes, including CXC chemokine production,
+these ﬁndings indicate that the anti-inﬂammatory eﬁect of
+C6 is, in part, due to inhibition of p38 and JNK phospho-
+rylation.
+
+Example 16
+
+Neutrophil Recruitment Inhibition
+
+[007 6] The eﬁect of Lip-C6 in vivo was examined to
+determine if Lip-C6 inhibits LPS- or S. aureus-induced
+corneal inﬂammation. 2 nMole (811 ng) of either Lip-C6 or
+control liposomes in 2 pl was either: i) injected into the
+sub-conjunctiva] space; ii) applied topically after inducing a
+1 mm diameter corneal abrasion; or iii) applied using both
+modalities. Aﬁer 30 min, abraded comeas were treated with
+either the TLR2 agonist S aureus or the TLR4 agonist LPS,
+Mice were sacriﬁced 18 hrs later, and neutrophil recruitment
+to the corneal stroma was determined by immmunohisto-
+chemistry using NIMP-R14, and the number of neutrophils
+per 5 pm section was examined by direct counting.
+
+[0077] As shown in FIG 6, S. aureus or LPS applied to the
+abraded corneal surface induced a pronounced neutrophil
+inﬁltration to the cornea] stroma within 24 hrs. However, we
+found that Lip-C6 administered by sub-conjunctiva] injec-
+
+Jan. 31, 2019
+
+tion, topical application, or both treatments signiﬁcantly
+inhibited neutrophil recruitment to the corneal stroma. Fur-
+thermore, we found that there was no diﬂerence in inhibitory
+activity between these modalities.
+
+Example 17
+
+Eﬁect of Topical Lip-C6 on Corneal Thickness and Haze
+
+[0078] To assess the eﬁect of topical Lip-C6 on TLR2-
+induced corneal thickness and haze, corneas were abraded as
+before, control or Lip-C6 was added one hour before and 6
+hrs after stimulation with 1x107 UV inactivated S aureus or
+40 pg LPS, After 24 hrs, comeas were examined by in vivo
+confocal microscopy (Confoscanm), and increases in cor-
+neal thickness and haze were measured using NavisTM
+software as described in Refs. 1 and 8. Neutrophils were
+detected by immunohistochemistry as before. FIG. 7 shows
+that Lip-C6 administered topically not only inhibited neu-
+trophil recruitment to the corneal stroma, but also prevented
+development of increased corneal thickness and haze
+induced by S aureus or LPS,
+
+Example 18
+
+[0079] Lip-C6 does not Prevent Corneal Epithelial Wound
+Healing
+
+[0080] As corneal wound healing requires epithelial cell
+proliferation and migration, the effect of Lip-C6 in this
+process was examined. A one mm diameter wound was
+made in the corneal epithelial layer as described above, and
+corneas were pre-treated for 30 min with Lip-C6 or ghost
+liposomes, and exposed to S. aureus. Fluorescein was added
+to the corneal surface at 0 hr, 6 hrs and 24 hrs after abrasion.
+As ﬁuorescein binds only to sites where the corneal epithe-
+lium is not intact or contiguous, the area of ﬂuorescein
+binding shows the area of the wound, and conversely
+ﬂuorescein exclusion indicates wound healing. As shown in
+FIG. 8A, ﬂuorescein was present on the wound at 0 hr and
+6 hrs in control (ghost) and Lip-C6 treated corneas exposed
+to S aureus. Fluorescein was undetectable alter 24 hrs,
+indicating complete wound healing The rate of corneal
+wound healing was not inhibited by Lip-C6 or control
+liposomes in the presence of S aureus (FIG. 8B). Similarly,
+H&E stained sections of representative corneas treated with
+Lip-C6 show that the corneal epithelium is absent at 6 hrs,
+and has regenerated aﬁer 24 hrs (FIG 8C), Similar results
+were observed in all control groups (data not shown),
+thereby demonstrating that the anti-inﬂammatory activity of
+C6-ceramide is not due to impaired corneal wound healing.
+
+[0081] To determine if Lip-C6 induces corneal epithelial
+cell apoptosis, corneal sections were stained for TUNEL
+reactivity and counterstained with DAPI. FIG. 8D shows
+that TUNEL positive cells were not detected in the stroma or
+epithelium of either na'i've corneas (a) or corneas treated with
+Lip-C6 and S. aureus (b), TUNEL positive corneal epithelial
+cells were not detected in any of the experimental groups
+(not shown), thereby demonstrating that Lip-C6 has no
+pro-apoptotic eﬁect on epithelial cells in vivo.
+
+[0082] These observations support the conclusion that
+Lip—C6 suppresses corneal inﬂammation by inhibiting CXC
+chemokine production and resultant neutrophil recruitment
+to the corneal stroma rather than promoting epithelial cell
+apoptosis.
+US 2019/0029978 A1
+
+large therapeutic induces are preferred. While compounds
+that exhibit toxic side etfects may be used, care should be
+taken to design a delivery system that targets such com-
+pounds to the site of affected tissue in order to minimize
+potential damage to uninfected cells and, thereby, reduce
+side effects.
+
+[0055] The data obtained from the cell culture assays and
+animal studies can be used in formulating a range of dosage
+for use in humans The dosage of such compounds lies
+preferably within a range of circulating concentrations that
+include the ED50 with little or no toxicity. The dosage may
+vary within this range depending upon the dosage form
+employed and the route of administration utilizedi For any
+compound used in the method of the invention, the thera-
+peutically effective dose can be estimated initially from cell
+culture assays A dose may be formulated in animal models
+to achieve a circulating plasma concentration range that
+includes the IC50 (ie, the concentration of the test com-
+pound which achieves a half-maximal inhibition of symp-
+toms) as determined in cell culture Such information can be
+used to more accurately determine useful doses in humans
+Levels in plasma may be measured, for example, by high
+performance liquid chromatography
+
+[0056] Embodiments of inventive compositions and meth-
+ods are illustrated in the following examples These
+examples are provided for illustrative purposes and are not
+considered limitations on the scope of inventive composi-
+tions and methods
+
+EXAMPLES
+Example 1
+
+Preparation of Liposomal Ceramide
+
+[0057] In general, delivery of ceramide via liposome is
+effective and characterized by minimal metabolic degrada-
+tion, optimal subcellular localization and lower effective
+concentration compared to organic solvent-based, for
+example DMSO, delivery. (Stover T and Kester M., J
+Pharmacol Exp Ther, 2003, 307:468—475; and Stover T C,
+et al., Clin Cancer Res, 2005, 11:3465-3474).
+
+[0058] Liposomes were prepared as described previously
+(see for example, Stover et al, 2003; and Stover et al., 2005)
+containing 30 molar % C6-ceramide, l,2-disteoroyl-sn-
+glycer0-3-ph0sphocholine, 1,2-dioleoyl-sn-glycero-3-phos-
+phoethanolamine, l,2-distearoyl-sn-glycero-3—ph0sphoetha-
+nol-amine-N-[methoxy PEG(2000)], PEG(750)—C6-
+ceramide, Control liposomes were made up Without
+ceramide, but contained the same amount of total lipids
+Brieﬂy, lipids were solubilized in chloroform, dried under a
+stream of nitrogen and hydrated with a phosphate-buffered
+saline solution at 55° C. The resulting solution was soni-
+cated, and underwent extrusion through 100 nm polycar-
+bonate membranes using the Avanti Mini Extruder (Avanti
+Polar Lipids). Liposomal-C6 vesicles had an average
+homogenous size distribution of 80:15 nm as measured by
+dynamic light scattering. Liposome C6 and control, ghost
+liposomes were maintained at 4° C
+
+Example 2
+
+Human Corneal Epithelial (HCE) Cells
+
+[0059] The SV—40 transfected HCE-T corneal epithelial
+cell line was obtained from ATCC, and maintained in
+
+Jan. 31, 2019
+
+keratinocyte medium as described in References 5 and 6.
+Primary corneal epithelial cells were obtained from corneas
+from the Cleveland Eye Bank, and corneal epithelial cells
+were released aﬁer treating with Dispase as described in
+Reference 7, Cells were routinely used at passages 2-5.
+
+Example 3
+
+Chemokine Immunoassays
+
+[0060] HCE cells were plated into 48 well plates at
+lxlOS/well, and incubated at times as indicated in Example
+12 below. Human CXCLl, CXCLS and CXCLS/IL-S pro-
+duction was measured by ELISA according to the manufac-
+turer’s directions (R&D Systems, Minneapolis, Minn.).
+
+Example 4
+
+Intracellular Localization of Lip-C6
+
+[0061] Human corneal epithelia cells were plated onto
+glass coverslips in a Petri dish with Keratinocyte-Serum
+Free Medium (KSFM), Cells were washed and incubated for
+30 minutes at 4° C. with 12 [4M NBD-Lip C6 (as in Refs 3
+and 4), and either 5 pM BodipyTM labeled ceramide (Mo-
+lecular Probes, Eugene, Oreg. USA) in HBSS according to
+manufacturer’s directions, or with 40 nM MitoTracker Red
+(Molecular Probes). Samples were washed and examined
+incubate in fresh KSFM at 37° C. for a further 30 minutes.
+Cells were examined live using a Leica inverted scope,
+DMI6000B. Photomicrographs were taken using 63x objec-
+tive with a 1.6 changer, giving a ﬁnal magniﬁcation of
+x1008.
+
+Example 5
+
+Apoptosis Assays
+
+[0062] Corneal epithelial cells of ﬁve pm frozen corneal
+sections were incubated with terminal deoxynucleotidyl
+transferase-mediated dUTP nick end labeling (TUNEL)
+reagents according to manufacturer’s directions (Roche,
+Penzberg, Germany) TUNEL positive cells were detected
+and quantiﬁed by ﬂuorescence microscopy.
+
+Example 6
+
+SDS-PAGE and Western Blot Analysis
+
+[0063] For immunoblot analysis, equivalent amounts of
+protein were electrophoresed on denaturing and reducing
+8% polyacrylamide gels and transferred to nitrocellulose
+membrane. The membrane was blocked by 5% nonfat dry
+milk and then incubated with antibody speciﬁc for phospho-
+JNK (#9251), phospho—p38MAPK (#9216) INK (#9252),
+and p38 MAPK (#9212 (Cell Signaling Technology, Bev-
+erly, Mass). Antibody speciﬁc for actin was purchased from
+Sigma-Aldrich and used for immunoblot detection at a
+dilution of 1:3000. Peroxidase conjugated goat anti-mouse
+IgG (SC-2005) and goat anti-rabbit IgG (SC-2004) were
+obtained from Santa Cruz Biotechnology and used at dilu-
+tion of 1:5000. Secondary antibody binding was visualized
+using a commercial chemiluminescence detection kit (Arn-
+ersliam Bioscience). The intensity of the bands in X-ray ﬁlm
+were quantiﬁed by “lmageJ” software, and calculated as
+ratio of P-p38 and P-JNK over total p38 and INK. Error bars
+are mean of two separated experiments with similar results.
+US 2019/0029978 A1
+
+tract, optionally, in a delayed manner. Examples of embed-
+ding compositions that can be used include polymeric sub-
+stances and waxes. The active ingredient can also be in
+microencapsulated form, if appropriate, with one or more of
+the above-described excipients,
+
+[0042] Liquid dosage forms for oral administration of the
+compounds of the invention include phamiaceutically
+acceptable emulsions, microemulsions, solutions, suspen-
+sions, syrups and elixirs. In addition to the active ingredient,
+the liquid dosage forms may contain inert diluents com-
+monly used in the art, such as, for example, water or other
+solvents, solubilizing agents and emulsiﬁers, such as ethyl
+alcohol, isopropyl alcohol, ethyl carbonate, ethyl acetate,
+benzyl alcohol, benzyl benzoate, propylene glycol, 1,3-
+butylene glycol, oils (in particular, cottonseed, groundnut,
+corn, germ, olive, castor and sesame oils), glycerol, tetra-
+hydrofuryl alcohol, polyethylene glycols and fatty acid
+esters of sorbitan, and mixtures thereof.
+
+[0043] Besides inert diluents, the oral compositions can
+also include adjuvants such as wetting agents, emulsifying
+and suspending agents, sweetening, ﬂavoring, coloring, per-
+fuming and preservative agents.
+
+[0044] Suspensions, in addition to the active compounds,
+may contain suspending agents as, for example, ethoxylated
+isostearyl alcohols, polyoxyethylene sorbitol and sorbitan
+esters, microcrystalline cellulose, aluminum metahydroxide,
+bentonite, agar-agar and tragacanth, and mixtures thereof
+
+[0045] Formulations of the pharmaceutical compositions
+of the invention for rectal or vaginal administration may be
+presented as a suppository, which may be prepared by
+mixing one or more compounds of the invention with one or
+more suitable nonirritating excipients or carriers comprising,
+for example, cocoa butter, polyethylene glycol, a supposi-
+tory wax or a salicylate, and which is solid at room tem-
+perature, but liquid at body temperature and, therefore, will
+melt in the rectum or vaginal cavity and release the cer-
+amide.
+
+[0046] Dosage forms for the topical or transdermal (sys-
+temic) or dermal (local) administration of a compound of
+this invention include powders, sprays, ointments, pastes,
+creams. lotions, gels, solutions, patches and inhalants. The
+active compound may be mixed under sterile conditions
+with a pharmaceutically acceptable carrier, and with any
+preservatives, buffers, or propellants that may be required. In
+one embodiment, the ceramide or ceramide derivative is
+administered at a dosage of about 1 nanogram to about 100
+micrograms per day. In another embodiment, the ceramide
+or ceramide derivative is administered at a dosage of about
+100 nanograms to about 1 microgram per day,
+
+[0047] Ophthalmic formulations, eye drops, creams, oint-
+ments, powders, solutions and the like, are also contem-
+plated as being within the scope of this invention.
+
+[0048] The ointments, pastes, creams and gels may con-
+tain, in addition to an active compound of this invention,
+excipients, such as animal and vegetable fats, oils, waxes,
+paraﬁins, starch, tragacanth, cellulose derivatives, polyeth-
+ylene glycols, silicones, bentonites, silicic acid, talc and zinc
+oxide, or mixtures thereof.
+
+[0049] Powders and sprays can contain, in addition to a
+compound of this invention, excipients such as lactose, talc,
+silicic acid, aluminum hydroxide, calcium silicates and
+polyamide powder, or mixtures of these substances. Sprays
+can additionally contain customary propellants, such as
+
+Jan. 3], 2019
+
+chloroﬂuorohydrocarbons and volatile unsubstituted hydro-
+carbons, such as butane and propane.
+
+[0050] In some cases, in order to prolong the effect of a
+drug, it is desirable to slow the absorption of the drug from
+subcutaneous or intramuscular injection. This may be
+accomplished by the use of a liquid suspension of crystalline
+or amorphous material having poor water solubility, The rate
+of absorption of the drug then depends upon its rate of
+dissolution that turn, may depend upon crystal size and
+crystalline form Alternatively, delayed absorption of a par-
+enterally administered drug form is accomplished by dis-
+solving or suspending the drug in an oil vehicle.
+
+[0051] Injectable depot forms are made by forming micro-
+encapsule matrices of the subject compounds in biodegrad-
+able polymers such as polylactide-polyglycolide. Depending
+on the ratio of drug to polymer, and the nature of the
+particular polymer employed, the rate of drug release can be
+controlled. Examples of other biodegradable polymers
+include poly(orthoesters) and poly(anhydrides). Depot
+injectable formulations are also prepared by entrapping the
+drug in liposomes or microemulsions that are compatible
+with body tissue.
+
+[0052] When the compounds of the present invention are
+administered as pharmaceuticals, to humans and animals,
+they can be given per se or as a pharmaceutical composition
+containing, for example, 0.1 to 99.5% (more preferably, 05
+to 90%) of active ingredient in combination with a pharma-
+ceutically acceptable carrier.
+
+[0053] In yet another embodiment, the ceramide can be
+administered as part of a combinatorial therapy with other
+agents. For example. the combinatorial therapy can include
+a ceramide with at least one antibacterial, antiviral or
+antifungal agent, In one embodiment, the combinational
+therapy includes a ceramide and at least one opthalmic
+antibiotic or opthalmic antivirali Opthalmic antibiotics
+include, e.g., Chloromycetin opthalmic (chloramphenical);
+Cortisporin (neomycin and polymyxin l3 sulfates and
+hydrocortisone acetate cream); Ilotycin (erythromycin
+opthalmic ointment); NeoDecadron (neomycin sulfate-dex-
+amethasone socium phosphate); Polytrim (trimethoprim and
+polythyxin [3 sulfate opthalmic solution); Terra-Cortril
+(oxytetracycline HCl and hydrocorlisone acetate); Terramy-
+cin (oxytetracycline); and TobraDex (tobramycin and dex-
+amethasone opt ialmic suspension and ointment). Opthalmic
+antivirals include, e,g., Vira-A opthalmic ointment, (vidara-
+bine)i Opthalmic quinalones include, e.g., Chibroxin (nor-
+ﬂoxacin opthalmic solution); Ciloxan opthalmic solution,
+(Ciproﬂoxacin iCl); Ciloxan opthalmic ointment, (Cipro-
+ﬂoxacin HCl); and Ocuﬂox opthalmic solution (oﬂoxacin).
+Opthalmic sulfonamides include, e.g,, Blephamide opthal-
+mic ointment (sulfacetamide sodium and prednisolone
+acetate); and B ephamide opthalmic suspension (sulfacet-
+amide sodium and prednisolone acetate) A combinatorial
+therapy may inc ude a C6-ceramide and a chemotherapeutic
+agent, such as cytosine, arabinoside, S-ﬂuorouracil,
+hydroxyurea, and methotrexate.
+
+[0054] Toxicity and therapeutic eﬁicacy of such com-
+pounds can be cetermined by standard pharmaceutical pro-
+cedures in cell cultures or experimental animals, e.g., for
+determining The Ld50 (The Dose Lethal To 50% Of The
+Population) And The Ed50 (the dose therapeutically effec-
+tive in 50% of the population) The dose ratio between toxic
+and therapeutic effects is the therapeutic index and it can be
+expressed as the ratio LDSO/EDSO. Compounds that exhibit

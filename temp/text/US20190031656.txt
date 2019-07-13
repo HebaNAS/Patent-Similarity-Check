@@ -1,0 +1,6309 @@
+US 2019/0031656 A1
+35
+
+Example 10
+
+3-((8-Acetamjdoimidazo[l ,2-a]pyridin-3-yl)ethy-
+nyl)-4-met.hyl-N-(4- (triﬂuoromethyl )pyridin-Z-yl)
+
+benzamide
+[0234]
+0 NH
+/ /N
+\ N /
+g CF
+I \ 3
+0 N /
+
+N- (3 -Ethyny1imidazo[ 1 ,2-a]pyridin—8-y1)acetamide
+
+[0235] N-(3-Ethynylimjdazo[l,2-a]pyridjn—8-yl)acet-
+amide was synthesized as for example 1A from N-(3-
+bromoimidazo[l,2-a]pyridin-8—y1)acetamide (E. Smakula
+Hand and William W Paudler, J, Org, Chem, 1978, 43,
+2900-2906) The titled compound was isolated as an olf-
+white solid. Rf, 0,6 (hexane/ethylacetate 50/50): MS
+(M+H)‘ 200.
+
+3-((8-Acetamjdoimjdazo[l ,2-a]pyridin-3-yl)ethy-
+nyl)-4-met.hyl-N-(4- (triﬂuoromethyl)pyridin-2-yl)
+benzamide
+
+[0236] The titled compound was made as for example 1
+using 3-iodo-4-methyl-N-(4-(triﬂuoromethy1)pyridin-2-yl)
+benzamjde and N-(3-ethynylimidazo[l,2-a]pyr1din—8-yl)ac-
+etamide: MS (M+H)‘ 4784.
+
+Example 11
+
+N- (3 -( l H-imidazol- l -yl )- 5 -(tri ﬂuoromethyl)phenyl)-
+3-((8-acetamidoimidazo[ l ,2-a]pyridin-3-yl)ethynyl)-
+[0237]
+
+4-meLhylbenzamjde
+0% NH
+
+//N
+\N/
+
+2::
+
+CF;
+
+Jan. 31, 2019
+
+[0238] The titled compound was made as for example 10
+using N-(3-(lH-imidazol-1-y1)—5-(triﬂuoromethy1)pheny1)-
+3-lodo-4-methylbenzamide and N-(3-ethyny1imidazo[1,2-a]
+pyridin-8-yl)acetamide: MS (M+H) 543,
+
+Example 12
+
+4-Met_hyl-3-((8-(4-(methylsulfonyl)phenylamino)
+imidazo[1,2-a]pyridin—3-yl)ethynyl)-N-(4-(triﬂuo-
+r0methyl)pyridin-Z-yl)benzamide
+
+[0239]
+$02M:
+HN
+/ /N
+\ N /
+CF3
+g \
+l /
+o
+
+8-(Benzyloxy)—3-bromoimjdazo[ l ,2-a]pyridine
+
+[0240] To a solution of 2-amino-3-benzyloxypyridine
+(2510 g, 1249 mmol) and chloroacetaldehyde (50% wt in
+P120, 167 mL, 1312 mmol) in 250 mL of EtOH was heated
+at reﬂux in a sealed tube for 19 h, Upon cooling to ambient
+
+temperature, the reaction mixture was concentrated and the
+resulting brown oil added 125 mL 1N NaOH then extracted
+
+with dichloromethane (DCM) The combined organic layers
+were washed with HZO, dried over NaZSO4 and concentrated
+Upon concentrating the solution, a tan solid formed which
+was ﬁltered and dried to provide 25.8 g of cmde product.
+
+[0241] To a solution of crude 8-(benzyloxy)imjdazo[l,2-
+a]pyridine (873 g, 389 mmol) in 100 mL of EtOH was
+added, dropwise, 418 mL (467 mmol) of a solution of 1:1
+Brz/HZO at ambient temperature under an atmosphere of N2.
+The resulting dark orange suspension was stirred at ambient
+temperature for 30 min, added 60 mL 1N NaOH, and the
+reaction mixture extracted with DCM, The combined
+organic layers were dried over NaZSO4 and concentrated,
+The crude product was puriﬁed by silica gel ﬂash chroma-
+tography (eluted with 30% EtOAc/hexanes) to provide 704
+g of product.
+
+8-(Benzyloxy) -3-((trimetliylsilyl)ethynyl)imidazo[l ,
+2-a]pyridine
+
+[0242] A mixture of 8-(benzyloxy)-3-bromoimidazo[1,2-
+a]pyridine (10.0 g, 330 mmol), 9139 mL (660 mmol) of
+ethynyltrimethylsilane, 0.580 g (0825 mmol) of Pd(PPh3)
+2012, 0.230 g (1.19 mmol) of CuI, and 5109 mL(3613 mmol)
+of diisopropylamine in 100 mL of acetonitrile was heated at
+reﬂux for 3 h under an atmosphere of N2, Upon cooling to
+US 2019/0031656 A1
+
+-continued
+(Mr.
+
+T H
+
+/
+\\
+
+\
+N /<R" >1,
+
+\/
+
+O
+
+[0123] This approach is illustrated in Scheme XVIII which
+depicts the coupling of an acetylenic Ring T (i.et. 3-ethy-
+nylimidazo[1,2-b]pyridazine) with a substituted W—[Ring A]
+(i.e., 3-iodo-4-methylbenzoic acid), followed by an amide
+coupling of the resultant [Ring T]-[Ring A]-COOH inter-
+mediate with a HZN-[Ring B]-L2-[Ring C] moiety (irer,
+4-((4 -methy1piperazin-1-yl)methy1)-3-(triﬂuoromethylani-
+line):
+
+Scheme XVII
+
+ 
+
+TMS
+
+ 
+
+Pd(PPh3) 4
+on DIEA n
+Br 2. TBAF or ch03
+
+  
+
+ 
+
+/
+\ mating) .
+N/ on DIEA n
+/
+N,
+\\ Oxallehlorlde
+H N CF3
+2 (\N/
+OH Nd
+o
+/ /N
+\ N /
+N/
+
+NH CF
+3 0/
+
+[0124] Alternatively, as another illustration of the practi-
+tioners range of assembly options, the 3-iodo-4-methylben-
+
+Jan. 3], 2019
+
+zoic acid Ring A intermediate can be reacted in a Sono-
+gashira reaction with trimethylsilylacetylene, which after
+silyl deprotection, can a second Sonogashira coupling reac-
+tion with an activated Ring T as illustrated in Scheme XIX,
+
+Scheme XIX
+
+. TMS
+—»
+on menu»
+CuI, DLEA, n
+
+2. TBAF or ch03
+
+(Rf).
+H ex
+W
+OH
+O
+
+ 
+
+ 
+
+menu»
+on, DIEA, n
+
+(R’L
+
+OH
+
+O
+
+[0125] With synthetic approaches such as the foregoing,
+combined with the examples which follow, additional infor-
+mation provided herein and conventional methods and mate-
+rials, the practitioner can prepare the full range of com-
+pounds disclosed herein,
+
+[0126] 5. Uses, Formulations, Administration
+
+[0127] Pharmaceutical Uses; Indications
+
+[0128] This invention provides compounds having bio-
+logical properties which make them of interest for treating or
+ameliorating diseases in which kinases may be involved,
+symptoms of such disease, or the effect of other physiologi-
+cal events mediated by kinases. For instance, a number of
+compounds of this invention have been shown to inhibit
+tyrosine kinase activity of Src and ab], among other tyrosine
+kinases which are believed to mediate the growth, develop-
+ment and/or metastasis of cancer A number of compounds
+of the invention have also been found to possess potent in
+vitro activity against cancer cell lines, including among
+others K-562 leukemia cells. Observed potencies have been
+as much as 10-fold more powerful than Gleevec in conven-
+tional antiproliferation assays with K562 cells,
+
+[0129] Such compounds are thus of interest for the treat-
+ment of cancers, including both primary and metastatic
+cancers, including solid tlunors as well as lymphomas and
+US 2019/0031656 A1
+
+[0121] An example in depicted in Scheme XV:
+
+Scheme XV
+
+1. Sonogashira
+
+c 1
+(\N/ 0‘11: mg
+N:N/ 2. TBAF
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jan. 3], 2019
+
+in a non-limiting example in which Ring A and Ring B are
+phenyl and L1 is CONH, Scheme XVII describes Sono-
+gashira Coupling of an acetylenic Ring T with 3-iodo-4-
+methylbenzoic acid (a Ring A moiety) to generate a [Ring
+T]-[Ring A] intermediate which then undergoes an amide
+coupling with an optionally substituted Ring B moiety:
+
+Scheme XVII
+(Win 1
+
+Pd(PPh3)4
+
+‘>
+
+OH 011, DIEA,1’[
+
+ 
+
+/ /N
+\ N /
+Rf ﬂ
+\\ / r 1
+F“
+T H HZN
+g NJ / \
+_(Rb)P
+/
+0 CF \\ oxnlyl Chloride
+3
+[0122] In other embodiments, the steps can be carried out OH
+in a diﬁerent order. For example, the Sonogashira Coupling
+reaction can be used to Ring T to Ring Aprior to linking that
+portion to Ring B and/0r [Ring B]-[L2]-[Ring D] and/or 0
+[Ring B]-[Ring C] as shown in Scheme XVI
+Scheme XVI
+(Mn l l (R54
+N
+T H +
+A
+W
+(R“)/
+M /<R">p
+W Sonogashira B
+N | Coupling
+T H
+US 2019/0031656 A1
+
+[0227] The titled compound was made as for example 1
+using N-(5-tert-butylisoxazol-3-yl)—3-iodo-4-methylbenz-
+amide and 3-ethynylimidazo[l,2-a]pyridine: MS (M+H)+
+399,
+
+Example 8
+
+3-(Imidazo[1 ,2-a]pyridin-3-ylethyny1)—4-methy1-N—
+(4-((4-methylpiperazin-1-y1)methyl)—3-(triﬂuorom-
+
+ethyl)phenyl)benzamide
+[0228]
+/ /N
+\ N /
+H
+N CF3
+0 I \
+
+[0229] 3-Ethyny1imidazo[l,2-a]pyridine (37 mg, 026
+mmol), 3-iodo-4-methyl-N-(4-((4-methylpiperazin-1-yl)
+methyl)-3-(triﬂuoromethyl)phenyl)benzamide (1034 mg,
+012 mmol) (prepared as in Example 2), Pd[(PPh3)4] (11.6
+mg, 5 mol %), and CuI (29 mg, 75 mmol %) was placed in
+a vial with rubber septum. The mixture underwent 3 cycles
+of vacuum/ﬁlling with N2, and DMF (15 ml) and N,
+N-diisopropylethylamine (53 mL, 013 mmol) was added
+The mixture was stirred at rt for 16 h, and the reaction was
+quenched with H20. EtOAc and more water were added for
+extraction The combined organic layer was dried (NaZSO4),
+ﬁltered, concentrated, and the resulting residue was puriﬁed
+by silica gel chromatography (eluent: 5% MeOH in meth-
+ylene chloride, MeOH was pre-saturated with ammonia
+gas), giving the titled compound as an otf-white solid (53%,
+56 mg): MS (M+H)+ 532.
+
+Alternative Synthesis of 3-(Imidazo[l,2-a]pyridin-
+3-ylethynyl) -4-methyl-N-(4—((4-methylpiperazin- l -
+y1)methy1)-3-(triﬂuoromethy1)pheny1)benzamide
+
+[0230] 3-(Imidazo[1,2-a]pyridin-3-ylethynyl)-4-methyl-
+N-(4-((4-methylpiperazin-yl)methyl)-3-(triﬂuoromethyl)
+phenyl)benzamide and its mono hydrochloride salt can be
+prepared in an alternative synthesis similar to that described
+in Example 1 from 3-(imidazo[1,2-a]pyridin-3-ylethynyl)-
+4-methylbenzoic acid and 4-((4-methylpiperazin-l-yl)
+methy1)-3-(triﬂuoromethy1)ani1ine (as prepared in example
+2). The 3-(imidazo[l ,2-a]pyridin-3 -ylethynyl)—4-methylben-
+zoic acid is prepared in a manner similar to that described in
+Example 1 using 3-Ethynylimidazo[l,2-a]pyridine and
+3-iodo-4-methy1benzoic acid as Sonogashira coupling part-
+ners.
+
+Jan. 31, 2019
+
+Example 9
+
+N-(3-(2-((dimethylamino)methyl)- lH-imidazol-l -
+yl)-5-(triﬂuoromethyl)phenyl)-3-(imidazo[1,2-a]
+pyridin-3 -ylethynyl)-4 -methylbenzamide
+
+[0231]
+/ /N
+\ N /
+H
+N (ll-‘3
+0
+N
+( 7AM
+\ N /
+[0232] To 3-ethynylimidazo[1,2-a]pyridine (0.032 g, 022
+
+mmol) in anhydrous DMF (1.26 mL) was added N-(3-(2-
+((dimethylamino)methyl)-1H-imidazol-1-yl)-5-(triﬂuorom-
+ethyl)phenyl)-3-iodo-4-methylbenzamide (prepared as in
+Example 3). Pd(PPh3)A (0.013 g, 0,011 mmol), Cul (0.0032
+mg, 0‘0165 mmol) and DIPEA (0064 mL, 044 mmol) The
+solution was degassed with argon for 15 minutes then stirred
+overnight at 111 The solvent was removed and the resultant
+residue was chromatographed over silica gel eluting initially
+with EtOAc and then with methanol/methylene chloride
+(5:95) to furnish the desired product: (007 g, 59%) MS
+(M+H)” 542,
+
+Alternative Synthesis of N-(3-(2-((dimethylamino)
+
+methy1)-lH-imidazol-l-yl)—5-(triﬂuoromethyl)phe—
+
+nyl)-3-(imidazo[l ,2-a]pyridin-3 -ylethynyl)-4-meth-
+ylbenzamide
+
+[0233] N-(3-(2—((dimethylamin0)methyl)—lH-imidazol-l-
+y1)-5-(t1iﬂuoromethy1)pheny1)—3-(imidazo[l ,2-a]pyridin-3-
+ylethynyl)-4-methylbenzamide and its mono hydrochloride
+salt can be prepared in an alternative synthesis similar to that
+described in Example 1 from 3-(imidazo[l,2-a]pyridin-3-
+ylethynyl)-4»methylbenzoic acid and 3-(2-((Dimethyl-
+amino)methy1)—1H-imidazol-l-yl)—5-(triﬂuoromethyl)ani-
+line (as prepared in Example 3) The 3-(imidazo[l,2-a]
+pyridin-3-ylethynyl)—4-methylbenzoic acid is prepared in a
+manner similar to that described in Example 1 using 3-Ethy-
+nylimidazo[1,2-a]pyridine and 3-iodo-4-methylbenzoic acid
+as Sonogashira coupling partners,
+US 2019/0031656 A1
+
+leukemias (including CML, AML and ALL), and including
+cancers which are resistant to other therapies, including
+other therapies involving the administration of kinase inhibi-
+tors such as Gleevec, Tarceva or lressa.
+
+[0130] Such cancers include, among others, cancers of the
+breast, cervix, colon and rectum, lung, ovaries, pancreas,
+prostate, head and neck, gastrointestinal stroma, as well as
+diseases such as melanoma, multiple myeloma, non-Hodg-
+kin’s lymphoma, melanoma, gastric cancers and leukemias
+(e.g., myeloid, lymphocytic, myelocytic and lymphoblastic
+leukemias) including cases which are resistant to one or
+more other therapies, including among others, Gleevec,
+Tarceva or lressa.
+
+[0131] Resistance to various anticancer agents can arise
+from one or more mutations in a mediator or effector of the
+cancer (e.g., mutation in a kinase such as Src or Abl) which
+correlate with alteration in the protein’s drug binding prop-
+erties, phosphate binding properties, protein binding prop-
+erties, autoregulation or other characteristics. For example,
+in the case of BCR-Abl, the kinase associated with chronic
+myeloid leukemia, resistance to Gleevec has been mapped to
+a variety of BCR/Abl mutations which are linked to a variety
+of functional consequences, including among others, steric
+hindrance of drug occupancy at the kinase’s active site,
+alteration in deformability of the phosphate binding P loop,
+effects on the conformation of the activation loop surround-
+ing the active site, and others. See eg Shah et a1, 2002,
+Cancer Cell 2, 117-125 and Azam et al, 2003, Cell 112,
+831-843 and references cited therein for representative
+examples of such mutations in Bcr/Abl which correlate with
+drug resistance. See also the following references for addi-
+tional background information on BCR/Abl, its mechanistic
+role in CML and drug-resistance-conferring mechanisms
+and mutations: Kurzrock et al., Philadelphia chromosome-
+positive leukemias: from basic mechanisms to molecular
+therapeutics, Ann Intern Med 2003 May 20; 138(10):819-
+30; O’Dwyer et al., Demonstration of Philadelphia chromo-
+some negative abnormal clones in patients with chronic
+myelogenous leukemia during major cytogenetic responses
+induced by imatinib mesylate. Leukemia. 2003 March;
+17(3):481-7; Hochhaus et al., Molecular and chromosomal
+mechanisms of resistance to imatinib (ST1571) therapy,
+Leukemia. 2002 November; 16(11):2190-6; O’Dwyer et al.,
+The impact of clonal evolution on response to imatinib
+mesylate (ST1571) in accelerated phase CML. Blood. 2002
+Sep. 1; 100(5)11628-33; Braziel et al., Hematopathologic
+and cytogenetic ﬁndings in imatinib mesylate-treated
+chronic myelogenous leukemia patients: 14 months’ expe-
+rience. Blood. 2002 Jul. 15:100(2):435-41; Corbin et al.,
+Analysis of the structural basis of speciﬁcity of inhibition of
+the Abl kinase by ST1571. J Biol Chem. 2002 Aug. 30;
+277(35):32214-9; Wertheim et al., BCR-ABL—induced adhe-
+sion defects are tyrosine kinase-independent. Blood. 2002
+Jun: 1; 99(11):4l22-30. Kantarjian et al., Hematologic and
+cytogenetic responses to imatinib mesylate in chronic myel-
+ogenous leukemia, N Engl J Med. 2002 Feb. 28; 346(9):
+645-52. Erratum in: N Engl J Med 2002 Jun. 13; 346(24):
+1923; Hochhaus et al., Roots of clinical resistance to STI-
+571 cancer therapy. Science. 2001 Sep. 21; 293(5538):2163;
+Druker et al., Activity of a speciﬁc inhibitor of the BCR-
+ABL tyrosine kinase in the blast crisis of chronic myeloid
+leukemia and acute lymphoblastic leukemia with the Phila-
+delphia chromosome. N Engl J Med. 2001 Apr. 5; 344(14):
+1038-42. Erratum in: N Engl J Med 2001 Jul. 19; 345(3):
+
+Jan. 31, 2019
+
+232: Mauro et al., Chronic myelogenous leukemia. Curr
+Opin Oncol. 2001 January; 13(1):3-7. Review; Kolibaba et
+al., CRKL binding to BCR-ABL and BCR-ABL transfor-
+mation. Leuk Lymphoma. 1999 March; 33(1-2):119-26;
+Bhat et al., Interactions ofp62(dok) with p210(bcr—abl) and
+Bcr-Abl-associated proteins. J Biol Chem: 1998 Nov: 27;
+273(48):32360—8; Senechat et al:, Structural requirements
+for function of the Crkl adapter protein in ﬁbroblasts and
+hematopoietic cells. Mol Cell Biol. 1998 September; 18(9):
+5082-90; Kolibaba et al., Protein tyrosine kinases and can-
+cer. Biochim Biophys Acta. 1997 Dec. 9:1333(3):F217-48.
+Review; Heaney at al., Direct binding of CRKL to BCR-
+ABL is not required for BCR-ABL transformation. Blood.
+1997 Jan: 1:89(l):297-306; Hallek et al., Interaction of the
+receptor tyrosine kinase pl45c-kit with the p210bcr/ab1
+kinase in myeloid cells. Br J Haematol. 1996 July; 94(1):
+5-16; Oda et al., The SH2 domain ofABL is not required for
+factor-independent growth induced by BCR-ABL in a
+murine myeloid cell line. Leukemia 1995 February; 9(2):
+295-301; Carlesso et al., Use of a temperature-sensitive
+mutant to deﬁne the biological effects of the p2] OBCR-ABL
+tyrosine kinase on proliferation of a factor-dependent
+murine myeloid cell line. Oncogene. 1994 January: 9(1):
+149-56.
+
+[0132] Again, we contemplate that compounds of this
+invention, both as monotherapies and in combination thera-
+pies, will be useful against leukemias and other cancers,
+including those which are resistant in whole or part to other
+anticancer agents, speciﬁcally including Gleevec and other
+kinase inhibitors, and speciﬁcally including leukemias
+involving one or more mutations in BCR/Abl, within or
+outside the kinase domain, including but not limited to those
+noted in any of the foregoing publications. See in particular
+Azam et al, and references cited therein for examples of such
+mutations in BCR/Abl, including, among others, mutations
+in the drug binding cleft, the phosphate binding P loop, the
+activation loop, the conserved VAVK of the kinase beta-3
+sheet, the catalytic alpha-1 helix of the small N lobe, the
+long alpha-3 helix within the large C lobe, and the region
+within the C lobe downstream of the activation loop.
+[0133] Pharmaceutical Methods
+
+[0134] The method of the invention comprises adminis-
+tering to a subject in need thereof a therapeutically effective
+amount of a compound of the invention.
+
+[0135] A “therapeutically effective amount” is that amount
+effective for detectable killing or inhibition of the growth or
+spread of cancer cells; the size or number of tumors; or other
+measure of the level, stage, progression or severity of the
+cancer. The exact amount required will vary from subject to
+subject, depending on the species, age, and general condi-
+tion of the subject, the severity of the disease, the particular
+anticancer agent, its mode of administration, combination
+treatment with other therapies, and the like.
+
+[0136] The compound, or a composition containing the
+compound, may be administered using any amount and any
+route of administration effective for killing or inhibiting the
+growth of tumors or other forms of cancer
+
+[0137] The anticancer compounds of the invention are
+preferably formulated in dosage unit form for ease of
+administration and uniformity of dosage: The expression
+“dosage unit form” as used herein refers to a physically
+discrete unit of anticancer agent appropriate for the patient
+to be treated. As is normally the case, the total daily usage
+of the compounds and compositions of the present invention
+US 2019/0031656 A1
+
+ambient temperature, the reaction mixture was concentrated
+and the crude product was puriﬁed by silica gel ﬂash
+chromatography (eluted with 20-50% EtOAc/hexanes) to
+provide 6.74 g of product: 321 m/z (M+H).
+
+3-((Trimethylsilyl)ethynyl)imidazo[l,2-a]pyridin-8—
+yl triﬂuoromethanesulfonate
+
+[0243] To a cooled (0° C,) solution of 8-(benzyloxy)-3-
+((trirnethylsilyl)ethynyl)irnidazo[l,2-a]pyridine (344 g,
+10.7 mmol) in 400 mL of DCM, under an atmosphere of N2,
+was added via cannulation 100 mL (100 mmol) of boron
+tricliloride (1,0M solution in hexanes), The reaction solution
+was stirred at 0° C./N2 for 30 min. to which was added (0“
+C.) 200 mL H20 followed by extraction with DCM. The
+combined organic layers were washed with brine, dried over
+NaZSO4 and concentrated. The crude product was puriﬁed
+by silica gel ﬂash chromatography (eluted with 30% EtOAc/
+hexanes then 10% MeOH/DCM) to provide 2.32 g of
+deprotected product: 231 m/z (M+H).
+
+[0244] To a cooled (—78° C.) solution of 8-(hydroxy)-3-
+((trimethylsilyl)ethynyl)irnidazo[1,2-a]pyridine (2.32 g,
+10.1 mmol) and 163 mL (201 mmol) ofpyridine in 50 mL
+of DCM, under an atmosphere of N2, was added 2.03 mL
+(121 mmol) of triﬂuoromethahesulfonic anhydride via
+syringe. Upon removing the cooling bath, the reaction
+solution was stirred at ambient temperature (N 2) for 2 h, The
+reaction mixture was poured into a stirring solution of 100
+mL 1,0N HCl, the layers separated, and the organic layer
+washed successively with 1,0N HCl, H20, saturated aque-
+ous NaHCO3, and brine, The organic layer was dried over
+NaZSO4 and concentrated. The crude product was ﬁltered
+through a small plug of silica gel (eluted with 30% EtOAc/
+hexanes), concentrated, and further dried in vacuo to provide
+3.63 g of product 363 m/z (M+H).
+
+N-(4-(Methylsulfonyl)phenyl)-3-((trimet.hylsilyl)
+ethynyl)imidazo[l,2-a]pyridin-8 amine
+
+[0245] A mixture of 3-((trimethylsilyl)ethynyl)imidazo[1,
+2-a]pyridin-8—yl triﬂuoromethanesulfonate (0.329 g, 0.91
+mmol), 0.186 (1.09 mmol) of 4-(methylsulfonyl)aniline,
+0,083 g (0,091 mmol) of Pd2(dba)2. 0,087 g (018] mmol)
+of 2-dicyclohexylphosphino-2‘,4‘,6‘-triisopropylbiphenyl,
+and 0.385 g (1.81 mmol) ofpotassium phosphate in 8 mL of
+DME was heated at 80° C, in a sealed tube overnight under
+an atmosphere of N2. Upon cooling to ambient temperature,
+the reaction mixture was concentrated and the crude product
+was puriﬁed by silica gel ﬂash chromatography (triethylarn-
+ine—treated silica get; eluted with 0—80% EtOAc/hexanes) to
+provide 0.058 g of product: 384 m/z (M+H).
+
+3-Ethynyl-N-(4-(methylsulfonyl)phenyl)imidazo[l ,
+2-a]pyridin-8-amine
+[0246] To a solution of N—(4-(methylsulfonyl)phenyl)-3-
+((trirnethylsilyl)ethynyl)irnidazo[l ,2-a]pyridin-8-amine
+(0.058 g, 0.15 mmol) in 1.5 mL ofTHF was added 0.23 mL
+
+Jan. 31, 2019
+
+(023 mmol) of tetrabutylarnmonium ﬂuoride (1,0M In THF)
+at ambient temperature. The solution was stirred for 15 min,
+concentrated, and the crude product puriﬁed by silica gel
+ﬂash chromatography (triethylamine-treated silica gel;
+eluted with 100% DCM then 5% MeOH/DCM) to provide
+a quantitative yield (0,047 g) of product 312 m/z (M+H).
+
+4-Methyl-3-((8-(4-(methylsulfonyl)phenylamino)
+imidazo[l ,2-a]pyridin-3 -yl)ethynyl)-N—(4-(triﬂuo-
+romethyl)pyridin—Z-yl)benzamide
+
+[0247] A mixture of 3-ethynyl-N-(4-(methylsulfonyl) phe-
+nyl)irnidazo[l,2-a]pyridin-8-amine 5 (0,048 g, 0,154
+mmol), 0.069 g (0,170 mmol) of 3-iodo-4-rnethyl-N-(4-
+(triﬂuoromethyl)pyridin-2-yl)benzamide, 0,009 g (0,008
+mmol) of Pd(PPh3)4, 0.002 g (0.012 mmol) ofCuI, and 004
+mL (023 mmol) of diisopropylethylarnine in 08 mL of
+DMF was stirred at ambient temperature overnight under an
+atmosphere of N2. The reaction mixture was concentrated
+and the crude product was puriﬁed by silica gel ﬂash
+chromatography (triethylamine—treated silica gel; eluted
+with 10% EtOAc/hexanes to 100% EtOAc) to provide 0,047
+g of product as a solid: 590 m/z (M+H),
+
+Example 13
+
+4-methyl-3-((8-(4-sulfamoylphenylamino)irnidazo[ l,
+2-a]pyridin-3-yl)ethynyl)-N- (4-(triﬂuoromethyl)
+pyridin-2-yl)benzamide
+
+[0248]
+SOZNHZ
+HN
+/ /
+\ N /
+
+CF3
+g \
+
+[0249] The title compound was synthesized from 3-ethy-
+nyl-N-(4-sulfamoylphenyl)imidazo[l ,2-a]pyridin-8—amine
+
+and 3-iodo-4-rnethyl-N-(4-(triﬂuoromethyl)pyridin-2-yl)
+benzamide in a manner similar to that described for Example
+12, The product was obtained as a solid: 591 m/z (M+H).
+US 2019/0031656 A1
+
+Example 14
+
+(R)iN-(4-((3 -(Dirnethylamino)pyrrolidin-1-y1)
+methyl)-3-(triﬂuoromethyl)phenyl)-3-(imidazo[l ,2-
+b]pyridazin-3 -ylethynyl)-4 -methylbenzamide
+
+[0250]
+/ /N
+\ ,N /
+
+cr3
+
+2m
+
+3—((Trimethylsi1y1)ethynyl)imidazo[ 1,2—b]pyridazine
+
+[0251] A mixture of 3-bromoimidazo[1,2-b]pyridazine
+(36.78 g, 0.186 mol; prepared according to Stanovnik, B. et
+al, Synthesis (1981), 12, 987-989), ethynyltrirnethylsilane
+(21.89 g, 0.223 mol), Pd(PPh,)4 (10.73 g, 9.29 mrnol). CuI
+(5130 g, 0.028 mol), and diisopropylethylamine (32.4 mL,
+0.279 mol) in 150 mL of DMF was stirred at ambient
+temperature, under an atmosphere of NZ, for 1 h. The
+reaction mixture was concentrated and the crude product
+was puriﬁed by silica gel ﬂash chromatography (eluted with
+0-5% MeOH/DCM) to provide 28.46 g of product,
+
+3—Ethyny1imidam[1,2-b]pyridazine
+
+[0252] To a solution of 3-((trime1hylsilyl)ethynyl) imidazo
+[1,2-b]pyridazine (28.46 g, 0.132 mol) in 200 mL of THF
+was added 145 mL (0.145 mol) of tetrabutylammonium
+ﬂuoride (1 .0M in THF) at ambient temperature. The solution
+was stirred for 15 min, concentrated, and the crude product
+puriﬁed by silica gel ﬂash chromatography (eluted with
+0-5% MeOH/DCM) to provide 17.84 g of product.
+
+1-(Brornomethy1)-4-nitro -2-(triﬂuoromethyl)benzene
+
+[0253] A suspension of 2-methy1—5-nitrobenzotriﬂuoride
+(3190 g, 19 mmol), N-bromosuccinimide (NBS, 3156 g, 20
+mmol), and 2,2'-azobis(2-methylpropion.itrile) (AIBN,
+01094 g, 0.6 mmol) in 40 mL of CCl4 was heated at reﬂux
+under N2 for 16 h. HPLC indicated ca. 50% conversion
+Additional NBS (10 mmol) and AIBN (0.6 mmol) were
+added and the mixture was heated at reﬂux for another 14 h,
+HPLC indicated ca, 80% conversion. The reaction mixture
+was cooled to ambient temperature, and the solid was
+ﬁltered and washed with EtOAc The combined ﬁltrate was
+washed with aq. NaHCO3, dried over Na2304, ﬁltered,
+concentrated on rotovap, and further dried under vacuum.
+1H NMR indicated the ratio of desired product to unreacted
+
+37
+
+Jan. 31, 2019
+
+2-methyl-5-nitrobenzotriﬂuoride to be 75:25 This material
+was used directly in the next step.
+
+(R)7N,N-Dimethy1-1 -(4-nitro-2-(triﬂuoromethyl)
+benzyl)pyrrolidin—3 -amine
+
+[0254] To a solution of crude 1-(bromomethyl)-4—nitro-2-
+(triﬂuoromethyl)benzene (175 mmol, 75% pure) in 40 mL
+of DCM was added EtzN (269 mL, 19.3 mmol) and
+(R)-(+)-3-(dimethy1amino)pyrrolidine (2,0 g, 17.5 mmol).
+Aﬂer stirring overnight at ambient temperature under an
+atmosphere of N2, the reaction solution was concentrated,
+added aq. NaHCO3 (100 mL), and the resulting mixture
+extracted with DCM (4x50 mL). The combined organic
+layer was dried over Na2S04, ﬁltered, concentrated, and the
+resulting residue was puriﬁed by silica gel chromatography
+(eluted with 0-10% MeOH/DCM) to provide 335 g of
+product as a yellow oil.
+
+(R)-(4-Amino -2-(triﬂuoromethyl)benzyl)—N,N-dim-
+ethylpyrrolidin-3 -amine
+
+[0255] To a solution of (R)7N,N-dimethy1-1-(4-nitro-2-
+(triﬂuoromethyl)benzy1)pyrrolidin-3-amine (1.20 g, 379
+mrnol) in 20 mL of wet EtOH was added 0.26 g of Pd/C
+(10% Pd on C) and the mixture shaken in a Parr apparatus
+(pressure reaction vessel purged thoroughly with H2 and
+pressure regulated at 45 psi throughout) for 2-3 h. The
+reaction mixture was ﬁltered through a small pad of celite,
+washed with EtOAc, and the combined organics concen-
+trated to provide a quantitative yield of a light yellow oil.
+This material was used directly in the next step.
+
+(R)iN-(4- ((3 -(Dimethylamino)pyrrolidin- l -yl)
+methyl)-3 —(triﬂuoromethyl)phenyl) -3 iodo-4-methyl -
+benzamide
+
+[0256] To a cooled (0° C) solution of (R)-l-(4-amino-2-
+(triﬂuoromethyl)benzyl)-N,N-dimethylpyrrolidin-3-amine
+(379 mmol) in 14 niL DCM, under an atmosphere of N2,
+was added 3-Iodo-4-methy1benzoyl chloride (1.17 g, 4.17
+mmol; CAS#52107-98-9, prepared from the reaction of
+3-iodo-4-methylbenzoic acid and SOCIZ) followed by drop-
+wise addition of N,N-diisopropylethylamine (2164 mL, 152
+mmol). Aﬁer stirring to ambient temperature over 1.5 h, the
+reaction mixture was concentrated and the crude product
+was puriﬁed by silica gel chromatography (eluted with 0-8%
+MeOH/DCM; MeOH was pre-saturated with ammonia gas),
+to provide 071 g of product as a thick yellow oil,
+
+(R)7N-(4-((3 -(dimethylamino)pyrrolidin- l -yl)
+methyl)-3 -(triﬂuoromelhyl)plienyl)-3 -(imidazo[1,2 -
+b ]pyridazin-3 -y1ethynyl)—4-methylbenzamide
+
+[0257] A mixture of 3-ethynylimidazo[l,2-b]pyridazine
+(0.051 g, 0.34 mmol), 0.150 g (0.28 mmol) of (R)iN-(4-
+((3 -(dimethylamino)pyrrolidin-1-y1)methy1)-3 -(triﬂuorom-
+
+ethy1)pheny1)-3-iodo-4-methy1benzamide, 0.016 g (0.014
+mmol) of Pd(PPh3)4, 0.004 g (0,021 mmol) of CuI, and 0,09
+n1L (0.51 mmol) of N,N-diisopropy1ethylamine in 3.5 mL of
+DMF was stirred at ambient temperature, under an atmo-
+sphere osz, for 3 days (reaction pushed to completion with
+additional equivalents of reagents and heating to 80° C).
+The reaction mixture was concentrated and the crude prod-
+uct was puriﬁed by silica gel chromatography (eluted with
+US 2019/0031656 A1
+23
+
+will be decided by the attending physician using routine
+reliance upon sound medical judgment. The speciﬁc thera-
+peutically effective dose level for any particular patient or
+organism will depend upon a variety of factors including the
+disorder being treated; the severity of the disorder; the
+potency of the speciﬁc compound employed; the speciﬁc
+composition employed; the age, body weight, general
+health, sex and diet of the patient; the route and schedule of
+administration; the rate of metabolism and/or excretion of
+the compound; the duration of the treatment; drugs used in
+combination or coincident with administration of the com-
+pound of this invention; and like factors well known in the
+medical arts.
+
+[0138] Furthermore, aﬁer formulation with an appropriate
+pharmaceutically acceptable carrier in a desired dosage, the
+compositions of this invention can be administered to
+humans and other animals orally, rectally, parenterally, intra-
+cisternally, intravaginally, intraperitoneally, topically (as by
+transdermal patch, powders, ointments, or drops), sublin-
+gually, bucally, as an oral or nasal spray, or the like,
+
+[0139] The effective systemic dose of the compound will
+typically be in the range of 0.01 to 500 mg of compound per
+kg of patient body weight, preferably 0.1 to 125 mg/kg, and
+in some cases 1 to 25 mg/kg, administered in single or
+multiple doses Generally. the compound may be adminis-
+tered to patients in need of such treatment in a daily dose
+range of about 50 to about 2000 mg per patient, Adminis-
+tration may be once or multiple times daily, weekly (or at
+some other multiple-day interval) or on an intermittent
+schedule. For example, the compound may be administered
+one or more times per day on a weekly basis (e.g. every
+Monday) Indeﬁnitely or for a period of weeks, e.g. 4-10
+weeks, Alternatively, it may be administered daily for a
+period ofdays (erg. 2-10 days) followed by a period of days
+(e.gi, 1-30 days) without administration of the compound,
+with that cycle repeated indeﬁnitely or for a given number
+of repetitions, e.g. 4-10 cycles. As an example, a compound
+of the invention may be administered daily for 5 days. then
+discontinued for 9 days, then administered daily for another
+5 day period, then discontinued for 9 days, and so on,
+repeating the cycle indeﬁnitely, or for a total of 4-10 times,
+
+[0140] The amount of compound which will be effective
+in the treatment or prevention of a particular disorder or
+condition will depend in part on well known factors affecting
+drug dosage. In addition, in vitro or in vivo assays may
+optionally be employed to help identify optimal dosage
+ranges. Arough guide to effective doses may be extrapolated
+from dose-response curves derived from in vitro or animal
+model test systems. The precise dosage level should be
+determined by the attending physician or other health care
+provider and will depend upon well known factors, includ-
+ing route of administration, and the age, body weight, sex
+and general health of the individual; the nature, severity and
+clinical stage of the disease: the use (or not) of concomitant
+therapies; and the nature and extent of genetic engineering
+of cells in the patient.
+
+[0141] When administered for the treatment or inhibition
+of a particular disease state or disorder, the effective dosage
+of the compound of this Invention may vary depending upon
+the particular compound utilized, the mode of administra-
+tion, the condition, and severity thereof, of the condition
+being treated, as well as the various physical factors related
+to the individual being treated. In many cases, satisfactory
+results may be obtained when the compound is administered
+
+Jan. 31, 2019
+
+in a daily dosage of from about 001 mg/kg-SOO mg/kg,
+preferably between 0.1 and 125 mykg, and more preferably
+between 1 and 25 mg/kg. The projected daily dosages are
+expected to vary with route of administration Thus, paren-
+teral dosing will often be at levels of roughly 10% to 20%
+of oral dosing levels,
+
+[0142] When the compound of this invention is used as
+part of a combination regimen, dosages of each of the
+components of the combination are administered during a
+desired treatment period. The components of the combina-
+tion may administered at the same time; either as a unitary
+dosage form containing both components. or as separate
+dosage units; the components of the combination can also be
+administered at different times during a treatment period, or
+one may be administered as a pretreatment for the other
+
+[0143] Regarding the Compounds
+
+[0144] Compounds of present invention can exist in free
+form for treatment, or where appropriate, as a pharmaceu-
+tically acceptable salt or other derivative. As used herein, the
+term “pharmaceutically acceptable salt” refers to those salts
+which are, within the scope of sound medical judgment,
+suitable for use in contact with the tissues of humans and
+lower animals without undue toxicity, irritation, allergic
+response and the like, and are commensurate with a reason-
+able beneﬁt/risk ratio, Pharmaceutically acceptable salts of
+amines, carboxylic acids, phosphonates and other types of
+compounds, are well known in the art, For example, S, M.
+Berge, et al, describe pharmaceutically acceptable salts in
+detail in .1. Pharmaceutical Sciences, 66:1-19 (1977), incor-
+porated herein by reference. The salts can be prepared in situ
+during the isolation and puriﬁcation of the compounds of the
+invention, or separately by reacting the free base or free acid
+of a compound of the invention with a suitable base or acid,
+respectively, Examples of pharmaceutically acceptable, non-
+toxic acid addition salts are salts of an amino group formed
+with inorganic acids such as hydrochloric acid, hydrobromic
+acid, phosphoric acid, sulfuric acid and perchloric acid or
+with organic acids such as acetic acid, oxalic acid, maleic
+acid, tartaric acid, citric acid, succinic acid or malonic acid
+or by using other methods used in the art such as ion
+exchange Other pharmaceutically acceptable salts include
+adipate, alginate, ascorbate, aspartate, benzenesulfonate,
+benzoate, bisulfate, borate, butyrate, camphorate, camphor-
+sulfonate, citrate, cyclopentanepropionate, digluconate,
+dodecylsulfate, ethanesulfonate, formate, fumarate, gluco-
+heptonate, glycerophosphate, gluconate, hemisulfate, hep-
+tanoate, hexanoate, hydroiodide, 2-hydroxy-ethanesul-
+fonate, lactobionate, lactate, laurate, lauryl sulfate, malate,
+maleate, malonate, methane-sulfonate, 2-naphthalenesul-
+fonate, nicotinate, nitrate, oleate, oxalate, palmitate, pamo-
+ate, pectinate, persulfate, 3-phenylpropionate, phosphate,
+picrate, pivalate, propionate, stearate, succinate, sulfate,
+tamate, thiocyanate, p-toluenesulfonate, undecanoate, val-
+erate salts, and the like. Representative alkali or alkaline
+earth metal salts include sodium, lithium, potassium, cal-
+cium, magnesium, and the like. Further pharmaceutically
+acceptable salts include, when appropriate, nontoxic ammo-
+nium, quaternary ammonium, and amine cations formed
+using counterions such as halide, hydroxide, carboxylate,
+sulfate, phosphate, nitrate, loweralkyl sulfonate and aryl
+sulfonate
+
+[0145] Additionally, as used herein, the term “pharmaceu-
+
+tically acceptable ester” refers preferably to esters which
+hydrolyze in vivo and include those that break down readily
+US 2019/0031656 A1
+
+sists of either DNA alkylating agents, DNA intercalating
+agents, CDK inhibitors, or microtubule poisons. The che-
+motherapy doses used are just below the maximal tolerated
+dose and therefore dose limiting toxicities typically include,
+nausea, vomiting, diarrhea, hair loss, neutropenia and the
+like,
+
+[0180] There are large numbers of antineoplastic agents
+available in commercial use, in clinical evaluation and in
+pre-clinical development, which would be selected for treat-
+ment of cancer by combination drug chemotherapy And
+there are several major categories of such antineoplastic
+agents, namely, antibiotic-type agents, alkylating agents,
+antimetabolite agents, hormonal agents, immunological
+agents, interferon-type agents and a category of miscella-
+neous agents,
+
+[0181] A ﬁrst family of antineoplastic agents which may
+be used in combination with compounds of the present
+invention includes antimembolite-type/thymidilate synthase
+inhibitor antineoplastic agents. Suitable antimetabolite anti-
+neoplastic agents may be selected from but not limited to the
+group consisting of S-FU-ﬁbrinogen, acanthifolic acid, ami-
+nothiadiazole, brequinar sodium, carmofur, CibaGeigy
+CGP-30694, cyclopentyl cytosine, cytarabine phosphate
+stearate, cytarabine conjugates, Lilly DATHF, Merrel Dow
+DDFC, dezaguanine, dideoxycytidine, dideoxyguanosine,
+didox, Yoshitomi DMDC, doxiﬂuridine, Wellcome EHNA,
+Merck & Co, EX-015, fazarabine, ﬂoxuridine, ﬂudarabine
+phosphate, Sﬂuorouracil, N-(21-furanidyl) ﬂuorouracil. Dai-
+ichi Seiyaku FO-152, isopropyl pyrrolizine, Lilly
+LY-188011, Lilly LY-264618, methobenzaprim, methotrex-
+ate, Wellcome MZPES, norspermidine, NCI NSC-127716,
+NCI NSC-264880, NCI NSC-39661, NCI NSC-612567,
+Warner-Lambert PALA, pentostatin, piritrexim, plicamycin,
+Asahi Chemical PL-AC, Takeda TAC788, thioguanine,
+tiazofurin, Erbamont TIF, trimetrexate, tyrosine kinase
+inhibitors, Taiho UFT and uricytin.
+
+[0182] A second family of antineoplastic agents which
+may be used in combination with compounds of the present
+invention consists of alkylating-type antineoplastic agents,
+
+[0183] Suitable alkylating-type antineoplastic agents may
+be selected from but not limited to the group consisting of
+Shionogi 254-8, aldo-phosphamide analogues, altretamine,
+anaxirone, Boehringer Mannheim BER-2207, bestrabucil,
+budotitane, Wakunaga CA-102, carboplatin, carrnustine,
+Chinoin-139, Chinoin—153, chlorambucil, cisplatin, cyclo-
+phosphamide, American Cyanamid CL-286558, Sanoﬁ
+CY-233, cyplatate, Degussa D 384, Sumitomo DACHP
+(Myr)2, diphenylspiromustine, diplatinum cytostatic, Erba
+distamycin derivatives, Chugai DWA-2114R, ITl E09,
+elmustine, Erbamont FCE-24517, estramustine phosphate
+sodium, fotemustine, Unimed G M. Chinoin GYKI-17230,
+hepsulfam, ifosfamide, iproplatin, lomustine, mafosfamide,
+mitolactolf Nippon Kayaku NK-l2l, NCI NSC-264395,
+NCI NSC-342215, oxaliplatin, Upjohn PCNU, predni-
+mustine. Proter PTT-119, ranimustine, semustine, Smith-
+Kline SK&F-101772, Yakult Honsha SN-22, spiromus-tine,
+Tanabe Selyaku TA-077, tauromustine, temozolomide,
+teroxirone, tetraplatin and trimelamol
+
+[0184] A third family of antineoplastic agents which may
+be used in combination with compounds of the present
+invention consists of antibiotic-type antineoplastic agents,
+Suitable antibiotic-type antineoplastic agents may be
+selected from but not limited to the group consisting of
+Talho 4181-A, aclarubicin, actinomycin D, actinoplanone,
+
+Jan. 31, 2019
+
+Erbamont ADR-456, aeroplysinin derivative, Ajinomoto AN
+11, Ajinomoto AN3, Nippon Soda anisomycins, anthracy-
+cline, azino-mycin-A, bisucaberini Bristol-Myers BL-6859,
+Bristol-Myers BMY—25067, Bristol-Myers BNY—25551,
+Bristol-Myers BNY—26605 IBristolMyers BNY—Z7557, Bris-
+tol-Myers BMY—28438, bleomycin sulfate, bryostatin-l,
+Taiho C-1027, calichemycin, chromoximycin, dactinomy-
+cin, daunorubicin, Kyowa Hakko DC-102, Kyowa Hakko
+DC-79, Kyowa Hakko DC-88A, Kyowa Hakko, DC89-AI,
+Kyowa Hakko DC92-B, ditrisarubicin B, Shionogi DOB-41,
+doxorubicin, doxorubicin-ﬁbrinogen, elsamicin—A, epirubi-
+cin, erhstatin, esorubicin, esperamicin-AI, esperamicin-Alb,
+Erbamont FCE21954, Fujisawa FK-973, fostriecin, Fuji-
+sawa FR-900482, glildobactin, gregatin-A, grincamycan,
+herbimycin, idarubicin, illudins, kazusamycin, kesarirho-
+dins, Kyowa Hakko KM-5539, Kirin Brewery KRN-8602,
+Kyowa Hakko KT—5432, Kyowa Hakko KT—5594, Kyowa
+Hakko KT—6149, American Cyanamid LL-D49194, Meiji
+Seika ME 2303, menogaril, mitomycin, mitoxantrone,
+SmithKline M-TAG, neoenactin, Nippon Kayaku NK-313,
+Nippon Kayaku NKT-Ol, SRI International NSC-357704,
+oxalysine, oxaunomycin, peplomycin, pilatin, pirarubicin,
+porothramycin, pyrindanycin A, Tobishi RA-l, rapamycin,
+rhizoxin, rodorubicin, sibanomicin, siwenmycin, Sumitomo
+SM5887, Snow Brand SN-706, Snow Brand SN-O7, soran-
+gicin-A, sparsomycin, SS Pharmaceutical 88-21020, SS
+Pharmaceutical SS-7313B, SS Pharmaceutical SS-9818B,
+stefﬁmycif B, Taiho 4181-2, talisomycin, Takeda TAN-
+868A, terpentecin, thrazine, tricrozarin A, Upjohn U-73975,
+Kyowa Hakko UCN-10028A, Fujisawa WF-3405, Yoshi-
+tomi Y—25024 and zorubicin.
+
+[0185] A fourth family of antineoplastic agents which may
+be used in combination with compounds of the present
+invention consists of a miscellaneous family of antineoplas-
+tic agents, including tubulin interacting agents, topoi-
+somerase II inhibitors, topoisomerase I inhibitors and hor-
+monal agents, selected from but not limited to the group
+consisting of (xcarotene, (X-diﬂuoromethyl-arginine, acit-
+retin, Biotec AD—S, Kyorin AHC-52, alstonine, amonaﬁde,
+amphethinile, amsacrine, Angiostat, ankinomycin, anti-neo-
+plaston A10, antineoplaston A2, antineoplaston A3, antine-
+oplaston A5, antineoplaston AS2-lF Henkel APD, aphidi-
+colin glycinate, asparaginase, Avarol, baccharin, batracylin,
+benﬂuron, benzotript, Ipsen-Beaufour BlM-23015, bisant-
+rene, BristoMyers BNY—40481, Vestar boron-10, bromofos-
+famide, Wellcome BW—502, Wellcome BW—773, carace-
+mide, carmethizole hydrochloride, Ajinomoto CDAF,
+chlorsulfaquinoxalone, Chemes CHX-2053, Chemex CHX-
+100, Warner-Lambert CI-921. WarnerLambert CI-937, War-
+ner-Lambert CI-94l, Warner-Lambert C1958, clanfenur, cla-
+viridenone, ICN compound 1259, ICN compound 4711,
+Contracan, Yakult Honsha CPT—11, crisnatol, curaderm,
+cytochalasin B, cytarabine, cytocytin, Merl D-609, DABIS
+maleate, dacarbazine, datelliptiniurn, didemnin-B, dihae-
+matoporphyrin ether, dihydiolenperone, dinaline, distamy-
+cin, Toyo Pharmar DM-34l, Toyo Pharmar DM-75, Dalichi
+Seiyaku DN-9693, docetaxel elliprabin, elliptinium acetate,
+Tsumura EPMTC, the epothilones, ergotamine, etoposide,
+etretinate, fenretinide, Fujisawa FR-57704t gallium nitrate,
+genkwadaphnin, Chugai GLA-43, Glaxo GR-63l78, grifo-
+lan NMFSN, hexadecylphosphocholine, Green Cross
+HO-221, honiohaningtonine, hydroxyurea, BTG ICRF- 187,
+ilmofosine, isoglutamine, isotretinoin, Otsuka Jl-36, Ramot
+K-477, Otsuak K-76CO0Na, Kureha Chemical K-AM,
+US 2019/0031656 A1
+
+added and the layers separated The combined organic layers
+were concentrated to dryness and used without puriﬁcation
+in next step.
+
+3-(lmidazo[1,2-a]pyridin-3-ylethynyl)-4-methyl-N-
+(3 -(4-methyl- 1 H-imidazol-l -yl)-5-(triﬂuoromethyl)
+phenyl)benzamide
+
+[0220] To a solution of 3-iodo-4-methy1-N-(3-(4-methy1-
+1H-imidazol-1-y1)-5-(triﬂuoromethy1)phenyl)benzamide
+(0.11 g, 0.22 mmol) in DMF (1 mL) in a sealed tube was
+added Pd[(PPh3)4j (0.013 g, (1011 mmol)i Cul (3 mg, 001:;
+mmol), diethylisopropylamine ((1057 mL, 033 mrnol.),
+followed by 3-ethynylimidazo[1,2-ajpyridine (0.040 g, 0.28
+mmol). The mixture was purged with argon for 15 minutes,
+seated and stirred at rt for 28 h. The solvent was concen-
+trated and the residue was taken up in methylene chloride
+(50 mL). The organic layer was washed with water, dried
+(NaZSO4) and evaporated to lave a brown residue which
+was puriﬁed by combiﬂash (hexane/ethyl acetate/methanol)
+to yield the desired material: MS (M+H)+ 500.
+
+Alternative Synthesis of 3-(Imidazo[1,2-a]pyridin-
+3 -ylethynyl)-4-methyl-N— (3 -(4 -methyl-1H-imidazol-
+1-yl)-5 -(triﬂuoromethy1)phenyl)benzamide
+
+[0221] 3-(Imidazo[1,2-a]pyridin—3-y1ethynyl)-4-methy1—
+N-(3-(4-methyl-l H-imidazol- l -yl)-5-(triﬂuoromethyl)phe-
+nyl)benzamide and its mono hydrochloride salt can be
+prepared in an altemative synthesis similar to that described
+in Example 1 from 3-(imidazo[1,2-a]pyridin-3-ylethynyl)-
+4-methylbenzoic acid and 3-(4-Methyl-1H-imidazol-1-yl)-
+5-(triﬂuoromethyl)ani1ine (as prepared above) The 3-(imi-
+dazo[1,2-a]pyridin-3-ylethyny1)-4-met.hy1benzoic acid is
+prepared in a manner similar to that described in Example 1
+using 3-Ethynylimidazo[l,2-a]pyridine and 3-iodo-4-meth-
+ylbenzoic acid as Sonogashira coupling partners.
+
+Example 5
+
+N- (3 -(1H-imidazol-1-yl)- 5 -(tri ﬂuoromethyl)phenyl)-
+3 -(imidazo[ l ,2-a]pyridin-3 -ylethynyl)-4-me1hylben-
+zamide
+
+[0222]
+
+21:3:
+0
+J?
+
+Jan. 3], 2019
+
+[0223] The titled compound was made as for example 1
+using N-(3-(1H-imidazol-1-yl)—5-(triﬂuoromethyl)phenyl)-
+3-iodo-4-methylbenzamide and 3-ethynylimidazo[1,2-a]
+pyridine: MS (M+H)+ 486‘ The titled compound can also be
+prepared according to the alternative synthesis described in
+example 1 from 3-(imidazo[l,2-a]pyridin-3-ylethynyl)-4-
+methylbenzoic acid and 3-(1H-imidazol-l-yl)-5-(triﬂuo-
+mmethyl)aniline (as prepared in Example 1). The 3-(imi-
+dazo[1,2-a]pyridin-3-ylethynyl)-4-methylbenzoic acid is
+prepared in a manner similar to that described in Example 1
+using 3-Ethyny1imidazo[1,2-a]pyridine and 3-i0do-4—meth-
+ylbenzoic acid as Sonogashira coupling partners.
+
+Example 6
+
+3-(Imidazo[l ,2-a]pyridin-3-ylethynyl)-4-methyl-N-
+(4-(triﬂuoromethyl)pyridin-2-yl)benzamide
+
+[0224]
+/ /N
+\ N /
+H
+N \ CF;
+0 N' /
+[0225] The titled compound was made as for example 1
+
+using 3-iodo-4-methyl-N-(4-(triﬂuoromethyl)pyridin-Z-yl)
+benzamide and 3-ethynylimidazo[l,2-a]pyridine: MS
+(M+H)+ 42139,
+
+Examp1e7
+N-(5-tert-butylisoxazol-3-yl)-3-(imidazo[1,2-a]pyri-
+din-3-ylethynyl)-4-methylbenzamide
+
+[0226]
+US 2019/0031656 A1
+
+g, 29.6 mrnol) were dissolved in anhydrous DMSO (25 mL)
+To this was added CuI (0.95 g, 7.5 mmol), 8-hydr0xy
+quinoline (0.72 g, 7.5 mmol) and K2C03 (6.9 g, 50 mmol)
+The mixture was stirred vigorously and degassed with N2 for
+15 minutes. The ﬂask was then equipped with a condenser
+and heated at 120° C. for 18 h. The resultant heterogeneous
+mixture was cooled to rt, pourec into 14% aq. N'H4OH (100
+mL) and extracted with EtOAc (3x300 ml). The combined
+extracts were dried over NaSO4 and concentrated in vacuo.
+The residue was chromatograpied over silica gel eluting
+with MeOH/DCM (5195) to furnish 3.5 g of the desired
+product as a tan colored material: 285 m/z (M+H).
+
+N-(3-(2-((dimethylamino)methyl)- 1 H-imidazol-l -
+yl)-5-(triﬂuoromethyl)pheny )-3-iodo—4-methylbenz-
+amide
+
+[0214] 3-lodo-4-methylbenzoyl chloride (2.2 g, 7.88
+mmol)7 dissolved in anhydrous THF (13 mL), was added
+dropwise to a solution of 3-(2-((c imethylamino)methyl)—1H-
+imidazol-l-yl)-5-(triﬂuoromethyl)aniline (1.5 g, 5.5 mmol),
+DIPEA (2.1 mL, 11.8 mmol) in THF (30 mL) at ~5° C. The
+resultant solution was stirred at ambient temperature over-
+night. The solvent was removed in vacuo and the crude
+residue was redissolved in C} 2Cl2 and washed with 1N
+NaOH. The organic layer was then washed with water, and
+brine then dried over NaSO4 before being concentrated in
+vacuo. The brown colored resicue was then triturated in a
+mixture of hexanes/DCM to precipitate 114 g of the desired
+product as an otf—white powder: 529 m/z (M+H).
+
+Alternative Synthesis of N-(3-(2-((dimethylamino)
+methyl)-1H-imidazol-l-yl)-5-(triﬂuoromethyl)phe-
+nyl)-3-(imidazo[l ,2-a]pyrazin-3-ylethynyl)-4 -meth-
+ylbenzamide
+[0215] N-(3-(2-((dimethylamino)methyl)—1H-imidazol-l-
+
+yl)-5-(triﬂuoromethyl)phenyl)—3-(imidazo[1,2-a]pyrazin-3-
+ylethynyl)—4-methylbenzamide and its mono hydrochloride
+salt can be prepared in an alternative synthesis similar to that
+described in Example 1 from 3-(imidazo[l,2-a]pyrazin-3-
+ylethynyl)—4-methylbenzoic acid and 3-(2-((Dimethyl-
+amino)methyl)-l H-imidazol- l -yl)-5-(triﬂuoromethyl)ani-
+line (as prepared above).
+
+ 
+
+Example 4
+
+3-(lmidazo[1 ,2-a]pyridin—3-ylethynyl)—4-methyl-N—
+(3-(4-methyl-1H-imidazol-1-yl)-5-(triﬂuoromethyl)
+
+phenyl)benzamide
+[0216]
+/ /N
+\ N /
+H
+N CF3
+0
+N
+\ 7
+N
+
+Jan. 31, 2019
+
+3—Ethynylimidazo[ l ,2-a]pyridine
+
+[0217] To 3-bromoimidazo[l,2-a]pyridine (5 g, 0.0254
+mol) in acetonitrile (50 mL) in a sealed tube was added
+bis(triphenylphosphine) palladium(II) dichloride (0.445 g,
+0.634 mmol). CuI (0.17 g, 0.89 mmol), dicyclohexylamine
+(5.6 mL, 0.028 mol) and ethynyltrimethylsilane (7.2 mL,
+0.051 mol). The solution was purged with argon for 15
+minutes, sealed and heated at 80° C. for 3h. At this point the
+HPLC did not show any starting bromide The solvents were
+concentrated and to the residue was added water and dichlo-
+romethane (25 mL each). The organic layer was separated
+and the aqueous layer was repeatedly extracted with dichlo-
+romethane (3x20 mL). The combined extracts were dried
+(NaZSO4), and concentrated (Rf, 0.47 in 1/1 hexanes/ethyl
+acetate). The resulting residue was dissolved in THF (100
+mL) and treated with tetrabutyl ammonium ﬂuoride mono-
+hydrate (8.3 g. 0.032 mol) in water (5 mL) and the mixture
+was stirred at rt for 2h. The solvents were concentrated and
+the resulting residue was partitioned between water (25 mL)
+and dichloromethane (150 mL). The aqueous layer was
+extracted with dichloromethane (2x30 mL). The combined
+extracts were dried (NaZSO4), and Concentrated. The result-
+ing residue was puriﬁed by combiﬂash on silica gel using
+hexanes/ethyl acetate. The desired product was eluted with
+50/50 hexane/ethyl acetate and isolated as an otT—white solid:
+MS (M+H)+ 200.
+
+3-(4-Methyl-1H-imidazol-1-yl)—5-(triﬂuoromethyl)
+aniline
+
+[0218] A suspension of 3-bromo-5-(triﬂuoromethyl)ani-
+line (418 g, 20 m.mol), 4-methylimidazole (1.97 g, 24 mmol),
+potassium carbonate (3.04 g, 22 m.mol), Cu] (0.57 g, 3
+mmol), and 8-hydroxyquinoline (0.44 g, 3 m.mol,) in dry
+DMSO (20 mL) in a pressure tube was degassed by bubbling
+N2 into the suspension for 10 minutes while stirring. The
+tube was sealed tightly. The mixture was heated at 120° C.
+(oil bath temperature) for 15 h. The mixture was cooled
+down to 45-50° C. and 14% aq. NH40H (20 mL) was added.
+The mixture was maintained at this temperature for l h.
+Aﬁer cooling to rt, water and ethyl acetate were added The
+aqueous layer was extracted with ethyl acetate and the
+combined organic layers were passed through a short silica
+gel column to remove most of green/blue Cu salts. The
+ﬁltrate was dried over sodium sulfate and concentrated on a
+rotavap. The crude product was recrystallized from EtOAc/
+hexanes, giving pure pale yellow needles. The mother liquor
+was concentrated and the residue was puriﬁed on silica gel
+column (5% methanol/methylene chloride), yielding a sec-
+ond crop as pale yellow needles.
+
+3-Iodo-4-methyl-N-(3-(4-methyl-l H-Imidazol-l -yl)-
+5-(triﬂuoromethyl)phenyl) Benzamide
+
+[0219] 3-Iodo-4-methylbenzoic acid (2.62 g, 10 mrnol)
+was reﬂuxed in SOCl2 (10 mL) for 1 h. The volatile
+components were removed on a rotavap and the residue was
+dissolved in benzene (10 mL), concentrated to dryness on a
+rotavap and further dried under vacuum. The resulting acyl
+chloride was added to a solution 3-(4-methyl-lH-imidazol-
+l-yl)-5-(triﬂuoromethyl)benzenamine (2.46 g, 10.2 mmol),
+N,N-diisopropylethylamine (1.56 g, 12 m.mol), and a cata-
+lytic amount of DMAP in THF (20 mL). After stirring at rt
+for 2 h, the reaction was quenched with water. EtOAc was
+US 2019/0031656 A1
+
+[0167] Suppositories for rectal administration of the drug
+can be prepared by mixing the drug with a suitable nonir-
+ritating excipient such as cocoa butter and polyethylene
+glycols that are solid at ordinary temperatures but liquid at
+the rectal temperature and will therefore melt in the rectum
+and release the drug.
+
+[0168] The pharmaceutical compositions may be sub-
+jected to conventional pharmaceutical operations such as
+sterilization and/or may contain conventional adjuvants,
+such as preservatives, stabilizers, wetting agents, emulsiﬁ-
+ers, buffers etc. Tablets and pills can additionally be pre-
+pared with enteric coatings. Such compositions may also
+comprise adjuvants, such as wetting, sweetening, ﬂavoring,
+and perfuming agents Pharmaceutical compositions of this
+invention comprise a compound of the formulas described
+herein or a pharmaceutically acceptable salt thereof; an
+additional agent selected from a kinase inhibitory agent
+(small molecule, polypeptide, antibody, etc,), an immuno-
+suppressant, an anticancer agent, an anti-viral agent, antiin-
+ﬂammatory agent, antifungal agent, antibiotic, or an anti-
+vascular hyperproliferation compound; and any
+pharmaceutically acceptable canier, adjuvant or vehicle.
+
+[0169] Alternate compositions of this invention comprise
+a compound of the formulae described herein or a pharma-
+ceutically acceptable salt thereof: and a pharrnaceutically
+acceptable carrier, adjuvant or vehicle. Such compositions
+may optionally comprise one or more additional therapeutic
+agents, including, for example, kinase inhibitory agents
+(small molecule, polypeptide, antibody, etc), immunosup-
+pressants, anti-cancer agents, anti-viral agents, antiinﬂam-
+matory agents, antifungal agents, antibiotics, or anti-vascu-
+lar hyperproliferation compounds.
+
+[0170] The term “pharmaceutically acceptable carrier or
+adjuvant” refers to a carrier or adjuth that may be admin-
+istered to a patient, together with a compound of this
+invention, and which does not destroy the pharmacological
+activity thereof and is nontoxic when administered in doses
+suﬂicient to deliver a therapeutic amount of the compound.
+Pharmaceutically acceptable carriers, adjuvants and vehicles
+that may be used in the pharmaceutical compositions of this
+invention include, but are not limited to, ion exchangers,
+alumina, aluminum stearate, lecithin, selfemulsifying drug
+delivery systems (SEDDS) such as d-atocopherol polyeth-
+yleneglycol 1000 succinate, surfactants used in pharmaceu-
+tical dosage forms such as Tweens or other similar poly-
+meric delivery matrices, serum proteins, such as human
+serum albumin, buffer substances such as phosphates, gly-
+cine, sorbic acid, potassium sorbate, partial glyceride mix-
+tures of saturated vegetable fatty acids, water, salts or
+electrolytes, such as protamine sulfate, disodium hydrogen
+phosphate, potassium hydrogen phosphate, sodium chloride,
+Zinc salts, colloidal silica, magnesium trisilicate, polyvinyl
+pyrrolidone, cellulose-based substances, polyethylene gly-
+col, sodium carboxymethylcellulose, polyacrylates, waxes,
+polyethylene-polyoxypropylene-block polymers, polyethyl-
+ene glycol and wool fat. Cyclodextrins such as u-, P-, and
+y»cyclodextrin, or chemically modiﬁed derivatives such as
+hydroxyalkylcyclodextrins, including 2 and 3-hydroxypro-
+pyl-cyclodextrins, or other solubilized derivatives may also
+be advantageously used to enhance delivery of compounds
+of the formulae described herein.
+
+[0171] The pharmaceutical compositions may be orally
+
+administered in any orally acceptable dosage form includ-
+ing, but not limited to, capsules, tablets, emulsions and
+
+Jan. 31, 2019
+
+aqueous suspensions, dispersions and solutions. In the case
+of tablets for oral use, carriers which are connnonly used
+include lactose and corn starch. Lubricating agents, such as
+magnesium stearate, are also typically added. For oral
+administration in a capsule form, useful diluents include
+lactose and dried corn starch. When aqueous suspensions
+and/or emulsions are administered orally, the active Ingre-
+dient may be suspended or dissolved in an oily phase is
+combined with emulsifying and/or suspending agents.
+[0172] If desired, certain sweetening, ﬂavoring and/or
+coloring agents may be added. The pharmaceutical compo-
+sitions may comprise formulations utilizing liposome or
+microencapsulation techniques, various examples of which
+are known in the art.
+
+[0173] The pharmaceutical compositions may be admin-
+istered by nasal aerosol or inhalation. Such compositions are
+prepared according to techniques well known in the art of
+pharmaceutical formulation and may be prepared as solu-
+tions in saline, employing benzyl alcohol or other suitable
+preservatives, absorption promoters to enhance bioavailabil-
+ity, ﬂuorocarbons, and/or other solubilizing or dispersing
+agents, examples of which are also well known in the art.
+[0174] Combinations
+
+[0175] While the compounds of the invention can be
+administered as the sole active pharmaceutical agent, they
+can also be used in combination with one or more other
+compounds of the invention or with one or more other
+agents, When administered as a combination. the therapeutic
+agents can be formulated as separate compositions that are
+administered at the same time or sequentially at different
+times, or the therapeutic agents can be given as a single
+composition.
+
+[0176] The phrase “combination therapy”, in referring to
+the use of a compound of this invention together with
+another pharmaceutical agent, means the coadministration
+of each agent in a substantially simultaneous manner as well
+as the administration of each agent in a sequential manner,
+in either case, in a regimen that will provide beneﬁcial
+effects of the drug combination. Coadministration includes
+inter alia the simultaneous delivery, e.g., in a single tablet,
+capsule, injection or other dosage form having a ﬁxed ratio
+of these active agents, as well as the simultaneous delivery
+in multiple, separate dosage fomis for each agent respec-
+tively.
+
+[0177] Thus, the administration of compounds of the
+present invention may be in conjunction with additional
+therapies known to those skilled in the art in the prevention
+or treatment of cancer, such as radiation therapy or cytostatic
+agents, cytotoxic agents, other anti-cancer agents and other
+drugs to ameliorate symptoms of the cancer or side eifects
+of any of the drugs.
+
+[0178] If formulated as a ﬁxed dose, such combination
+products employ the compounds of this invention within the
+accepted dosage ranges. Compounds of this invention may
+also be administered sequentially with other anticancer or
+cytotoxic agents when a combination formulation is inap-
+propriate, The invention is not limited in the sequence of
+administration; compounds of this invention may be admin-
+istered prior to, simultaneously with, or after administration
+of the other anticancer or cytotoxic agent.
+
+[0179] Currently, standard treatment of primary tumors
+consists of surgical excision, when appropriate, followed by
+either radiation or chemotherapy, and typically administered
+intravenously (IV). The typical chemotherapy regime con-
+US 2019/0031656 A1
+
+ﬁltrate following concentration and puriﬁcation by silica gel
+ﬂash chromatography in EtOAc/hexanes.
+
+N- (3 -( l H-imidazol- l -yl )- 5 -(tri ﬂuoromethyl)phenyl)-
+3-(imidazo[1,2-a]pyrazin-3
+
+[0197] ylethynyl)-4-methylbenzamide: A mixture of
+3-Ethynylimidazo[1,2-a]pyrazine (0.075 g, 0.52 mmol),
+0.245 g (0.52 mmol) ofN—(3-(1H-imidazol-l-yl)-5-(triﬂuo-
+romethyl)phenyl)-3-iodo-4-methylbenzamide, 0.030 g
+(0.026 rnmol) of Pd(PPh3)4, 0.007 g (0.039 rnmol) of Cut,
+and 0.14 mL (0.78 mmol) of diisopropylethylamine in 3.0
+mL of DMF was stirred at ambient temperature overnight
+under an atmosphere of N2. The reaction mixture was
+concentrated and the crude product was puriﬁed by silica gel
+ﬂash chromatography (eluted with 10% EtOAc/hexanes,
+then 100% EtOAc, then 10% MeOH/EtOAc) to provide
+0.090 g of product as a solid: 487 m/z (M+H).
+
+Alternative Synthesis of N-(3-(1H-imidazol-1-yl)—5-
+(triﬂuoromethyl)phenyl)—3—(imidazo[1 ,Z-a]pyrazin-
+3-ylethynyl)-4-methylbenzamide
+
+[0198] 3-((Trimethylsilyl)ethynyl)imidazo[1,2-a]pyrazine
+can be prepared as described previously. In one variation, the
+reaction can also be carried out in THF instead of DMF. The
+crude product can also be puriﬁed by silica gel pad chro-
+matography (eluted with ethyl acetate/hexane) and a brief
+treatment with activated charcoal (Darco) can be carried out
+to help further reduce contamination with the homo coupling
+product.
+
+3-Ethynylimidazo[1,2-a]pyrazine
+
+[0199] To a solution of 3-((trimethylsilyl)ethynyl) imidazo
+[1,2-a]pyrazine (1.39 mol) in 10x volume of Ethyl acetate
+and 1.5x volume of Methanol is added two and a half
+equivalents of potassium carbonate at ambient temperature
+and the solution stirred for 1 hour. Potassium carbonate is
+ﬁltered OE and the organic stream is washed with water and
+with saturated sodium chloride solution (two or more times).
+Aqueous phases can be combined and re-extracted with
+ethyl acetate Organic streams can then be combined and
+concentrated under vacuum to about 0.5 L. Solids can be
+allowed to precipitate out upon concentration Slurry is
+cooled, e.g. to about —5" C., stored overnight, ﬁltered. and
+washed with about 0.3 L of cold ethyl acetate. The solids can
+then be dried under vacuum.
+
+[0200] 3-(imidazo[l,2-a]pyrazin-3-ylethynyl)-4-methyl-
+benzoic acid can be prepared in a manner similar to that
+described above for the Sonogashira reaction. 3-Ethyny1imi-
+dazo[1,2-a]pyrazine and 3-iodo-4-methylbenzoic acid are
+used as coupling partners. Alternatively, the solvent (DMF)
+can be replaced by ethyl acetate and the base (Hunig base)
+can be replaced by triethylamine. The product can be
+isolated by ﬁltration of the crude reaction mixture The ﬁlter
+cake is washed sequentially with a solvent such as ethyl
+acetate and then water, then dried in a vacuum oven. Further
+puriﬁcation can be achieved by slurrying the solids in water
+adjusted to pH 3 with the addition of concentrated HCl.
+After ﬁltration and water wash, the product can be dried in
+a vacuum oven.
+
+N— (3 -( 1 H-imidazol- 1 -y1)-5-(triﬂuoromethyl)phenyl)-
+3-(imidazo[1,2-a]pyrazin-3 ylethynyl)—4-methylben-
+zamide
+
+[0201] 3-(imidazo[1,2-a]pyrazin-3-y1ethynyl)-4-methyl-
+benzoic acid (18 nunol) is dissolved in methylene chloride
+
+Jan. 31, 2019
+
+(100 mL). To this solution is added 3 equivalents of 4-meth-
+ylmorpholine (N MM) followed by 1.05 equivalents of
+oxalyl chloride. After stirring at ambient temperature for 30
+minutes, 0.8 equivalents of 3-(lH-imidazol-l-yl)—5-(triﬂuo-
+romethyl)aniline (prepared as above) is added along with 5
+mole % of DMAR After initially stirring at ambient tem-
+perature, the mixture is brought to reﬂux and stirred over-
+night After 16 h an additional 012 equivalents of the aniline
+is added, bringing the total charge to 1 equivalent. The
+mixture can then be stirred for an additional 2 h, quenched
+with water, and the layers separated. The aqueous layer can
+be extracted with methylene chloride (2x50 mL) and the
+combined extracts can be washed with wateri The combined
+methylene chloride layers can then be evaporated and the
+residue dissolved in 100 mL of ethyl acetate (20 mL). After
+standing for l h, the product is allowed to crystallize. The
+mixture is cooled, e.g. to 0° C. ﬁltered, and the solid product
+is washed with cold ethyl acetate.
+
+N-(3-(1H-imidazol-1-yl)-5-(triﬂuoromethyl)phenyl)-
+3-(imidazo[1 ,2-a]pyrazin-3-y1ethyny1)—4-methylben-
+zamide mono hydrochloride salt
+
+[0202] N-(3-(1H-imidazol-1-yl)-5-(triﬂuoromethyl)phe-
+
+ny1)-3-(imidazo[ 1 ,2-a]pyrazin-3-y1ethyny1)—4—methylbenz-
+
+amide (0.94 mmol) can be suspended in MeCN (10 ml) and
+heated with stirring to a temperature of 45 to 55° C. (hot
+plate temperature). Hydrochloric acid (1.1 eq 1M solution in
+EtOH) is added to obtain dissolution. Within a few minutes,
+a precipitate is allowed to form. The suspension can be
+cooled to ambient temperature and then ﬁltered and washed
+with MeCN (1x15 ml 1iquors+1x1.5 m1 fresh). The solid
+can be dried at 50° C. under vacuum to constant weight.
+
+Example 2
+3-(lmidazo[l ,2-a]pyrazin—3—ylethynyl)-4-methyl-N—
+
+(4-((4-methylpiperazin-1-yl)methyl)-3-(triﬁuorom-
+ethyl)phenyl)benzamide
+
+[0203]
+
+Oi
+\\
+
+CF3
+
+0
+
+N
+
+\
+
+21m
+
+[0204] The title compound was synthesized from 3-ethy-
+nylimidazo[l,2-a]pyrazine and 3-iodo-4-methyl-N-(4-((4-
+methylpiperazin-1-yl)methyl)-3 -(triﬂuoromethyl)phenyl)
+US 2019/0031656 A1
+
+in the human body to leave the parent compound or a salt
+thereof. Suitable ester groups include, for example, those
+derived from pharmaceutically acceptable aliphatic carbox-
+ylic acids, particularly alkanoic, alkenoic, cycloalkanoic and
+alkanedioic acids, in which each alkyl or alkenyl moiety
+advantageously has not more than 6 carbon atoms.
+Examples of particular esters include formates, acetates,
+propionates, butyrates, acrylates and ethylsuccinates. Obvi-
+ously, esters can be formed with a hydroxyl or carboxylic
+acid group of the compound of the invention.
+
+[0146] Furthermore, the term “pharmaceutically accept-
+able prodrugs” as used herein refers to those prodrugs of the
+compounds of the present invention which are, within the
+scope of sound medical judgment, suitable for use in contact
+with the tissues of humans and lower animals with undue
+toxicity, imitation, allergic response, and the like, commen-
+surate with a reasonable beneﬁt/risk ratio, and effective for
+their intended use, as well as the zwitterionic forms. where
+possible, of the compounds of the invention. The term
+“prodrug” refers to compounds that are transformed in vivo
+to yield the parent compound of the above formula, for
+example by hydrolysis in blood See, e.g., T. Higuchi and V.
+Stella, Pro-dmgs as Novel Delivery Systems, Vol. 14 of the
+A.C.S, Symposium Series, and Edward B. Roche, ed,
+Bioreversible Carriers in Drug Design, American Pharma-
+ceutical Assocn. and Pergamon Press, 1987, both of which
+are incorporated herein by reference.
+
+[0147] Compositions
+
+[0148] Compositions are provided which comprise any
+one of the compounds described herein (or a prodrug,
+pharmaceutically acceptable salt or other pharmaceutically
+acceptable derivative thereof), and one or more pharmaceu-
+tically acceptable carriers or excipients. These compositions
+optionally further comprise one or more additional thera-
+peutic agents. Alternatively, a compound of this invention
+may be administered to a patient in need thereof in combi-
+nation with the administration of one or more other thera-
+peutic regimens (e.g. Gleevec or other kinase inhibitors,
+interferon, bone marrow transplant, farnesyl transferase
+inhibitors, bisphosphonates, thalidomide, cancer vaccines,
+hormonal therapy, antibodies, radiation, etc). For example,
+additional therapeutic agents for conjoint administration or
+Inclusion in a pharmaceutical composition with a compound
+of this invention may be another one or more anticancer
+agents.
+
+[0149] As described herein, the compositions of the pres-
+ent invention comprise a compound of the invention
+together with a pharmaceutically acceptable carrier, which,
+as used herein, includes any and all solvents, diluents, or
+other vehicle, dispersion or suspension aids, surface active
+agents, isotonic agents, thickening or emulsifying agents,
+preservatives, solid binders, lubricants and the like, as suited
+to the particular dosage form desired Remington’s Pharma-
+ceutical Sciences. Fifteenth Edition, E W. Martin (Mack
+Publishing Co, Easton, Pa., 1975) discloses various carriers
+used in formulating pharmaceutical compositions and
+known techniques for the preparation thereof. Except insofar
+as any conventional carrier medium is incompatible with the
+compounds of the invention, such as by producing any
+undesirable biological effect or otherwise Interacting in a
+deleterious manner with any other component(s) of the
+pharmaceutical composition, its use is contemplated to be
+within the scope of this invention. Some examples of
+materials which can serve as pharmaceutically acceptable
+
+Jan. 31, 2019
+
+carriers include, but are not limited to, sugars such as
+lactose, glucose and sucrose; starches such as corn starch
+and potato starch; cellulose and its derivatives such as
+sodium carboxymethyl cellulose, ethyl cellulose and cellu-
+lose acetate; powdered tragacanth; malt; gelatin; talc; excipi-
+ents such as cocoa butter and suppository waxes; oils such
+as peanut oil, cottonseed oil; saﬁlower oil; sesame oil; olive
+oil; corn oil and soybean oil, glycols; such a propylene
+glycol; esters such as ethyl oleate and ethyl laurate; agar;
+buifering agents such as magnesium hydroxide and alumi-
+num hydroxide; alginic acid, pyrogen—free water; isotonic
+saline; Ringer’s solution; ethyl alcohol, and phosphate buf-
+fer solutions, as well as other non-toxic compatible lubri-
+cants such as sodium lauryl sulfate and magnesium stearate,
+as well as coloring agents, releasing agents, coating agents,
+sweetening, ﬂavoring and perfuming agents, preservatives
+and antioxidants can also be present in the composition.
+[0150] Formulations
+
+[0151] This invention also encompasses a class of com-
+positions comprising the active compounds of this invention
+in association with one or more pharmaceutically-acceptable
+carriers and/or diluents and/or adjuvants (collectively
+referred to herein as “carrier” materials) and, if desired,
+other active ingredients. The active compounds of the pres-
+ent invention may be administered by any suitable route,
+preferably in the form of a pharmaceutical composition
+adapted to such a route, and in a dose effective for the
+treatment intended. The compounds and compositions of the
+present invention may, for example, be administered orally,
+mucosally, topically, rectally, pulmonarily such as by inha-
+lation spray, or parentally including intravascularly, intra-
+venously, intraperitoneally, subcutaneously, intramuscularly,
+intrasternally and infusion techniques, in dosage unit for-
+mulations containing conventional pharmaceutically accept-
+able carriers, adjuvants, and vehicles.
+
+[0152] The pharmaceutically active compounds of this
+invention can be processed in accordance with conventional
+methods of pharmacy to produce medicinal agents for
+administration to patients, including humans and other
+mammals
+
+[0153] For oral administration, the pharmaceutical com-
+position may be in the form of, for example, a tablet,
+capsule, suspension or liquid. The pharmaceutical compo-
+sition is preferably made in the form of a dosage unit
+containing a particular amount of the active ingredient.
+[0154] Examples of such dosage units are tablets or cap-
+sules. For example, these may contain an amount of active
+ingredient from about 1 to 2000 mg, preferably from about
+1 to 500 mg, more commonly from about 5 to 200 mg. A
+suitable daily dose for a human or other mammal may vary
+depending on the condition of the patient and other factors,
+but, once again, can be determined using routine methods.
+[0155] The amount of compounds which are administered
+and the dosage regimen for treating a disease condition with
+the compounds and/or compositions of this invention
+depends on a variety of factors, including the age, weight,
+sex and medical condition of the subject, the type of disease,
+the severity of the disease, the route and frequency of
+administration, and the particular compound employed,
+Thus, the dosage regimen may vary widely, but can be
+determined routinely using standard methods. A typical
+daily dose is in the range of0.01 to 500 mg ofcompound per
+kg body weight, preferably between 0.1 and 125 mg/kg body
+weight and in some cases between 1 and 25 mg/kg body
+US 2019/0031656 A1
+
+with the various permitted substituents are useful for pre-
+paring the corresponding compounds of the invention as are
+deﬁned in the various formulae, classes and subclasses
+disclosed herein.
+
+[0110] Some illustrative synthetic routes for the prepara-
+
+tion of reagents and representative intermediates are pre-
+sented below:
+
+[0111] Scheme IX describes an illustrative synthesis of
+W—[Ring A]-[Ll]-[Ring B] in which Rings A and B are
+phenyl and L1 is NHC(O).
+
+Scheme [X
+
+Ra
+—>
+
+EDCI/HOBT
+
+NH;
+
+HZN
+
+HZN R" DMso
+
+3-hydroxyquinoline
+imidazole
+
+—.
+CuI, K2C03, 120” C.
+
+Br
+
+R” socrZ R“
+
+c0211
+
+-continued
+
+Rn
+
+I
+O
+k©/Rb
+N
+H
+[0112] Scheme X depicts the synthesis of a variant of the
+
+foregoing in which Ring B is a 2-pyridine and L1 is C(O)NH
+(i.e., in the other orientation).
+
+Jan. 3 1 , 2019
+Scheme X
+1
+R“ HZN CF;
++ I \ DCM
+c1 N /
+
+I
+g CF3
+\
+
+[0113] Schemes XI and XI], below, illustrate the synthesis
+of W—[Ring A]-[L1]-[Ring B] in which Rings A and B are
+phenyl and Ring C is a heteroaryl ring. These intermediates
+are useful for making compounds of formula II.
+
+[0114] More speciﬁcally, Scheme XI describes the prepa-
+ration of intermediates in which Ring C is an imidazole ring.
+
+Scheme XI
+
+Rb
+
+C2 11mg ; R”
+
+Q
+
+COCl
+
+[0115] Scheme XII describes the preparation of interme-
+diates in which Ring C is a pyrrole or an oxazole ring.
+
+SchemeXII
+HZN R" H
+rN S-IIydroxyqumolme
+imidazole
++ x' / —»
+CELCuI
+K2C03
+Br R‘
+x=o,
+CH
+US 2019/0031656 A1
+-continued
+1
+HZN R"
+R“
+
+COCl
+
+x:o,c1—i
+
+[0116] Scheme XIII illustrates the synthesis of W-[Ring
+A]-[L1]-[Ring B] in which Rings A and B are phenyl and an
+R2 substituent is -LZ-[R_ing B] These intermediates are
+useful for making compounds of formula III in which Ring
+D is a 5 or 6-membered heterocycle, containing one or two
+heteroatomsi
+
+Scheme XIII
+
+OZN
+NBS, AIBN
+—.
+
+CClt, reﬂux, 16 11
+
+ON Rb
+\©:/ BI
+
+CCC
+CCC
+
+sodium hydmsulﬂte
+—
+
+Acetone/Water
+reflux, 3 h
+
+DCM
+
+“1
+
+R11
+
+COCI
+
+19
+
+Jan. 3], 2019
+
+-continued
+
+Ra
+
+2:3:
+
+0
+
+X : OV CH2N(CH3)2, NCH; NCII2CH20H, n : l or 2
+
+[0117] In this scheme, non limiting examples of substitu-
+ents Rb on Ring B are halo, egi, Cl; lower alkyl groups, eg.,
+isopropyl; and substituted lower alkyl groups, eg ACFs,
+and non limiting examples of Ring D are N,N-dimethylpyr—
+rolidine. N-(2-hydroxyethyl)piperazine, and N-methylpip-
+erazine,
+
+[0118] Intermediates W—[Ring A]-[L‘]-[Ring B], such as
+those presented in the various synthetic schemes above, can
+be reacted with an acetylenic Ring T using the Sonogashira
+coupling conditions described in the general Scheme It
+
+[0119] An example is depicted below in Scheme XIV, in
+which Ring T moiety can be further derivatized after the
+Sonogashira coupling step, to generate various interesting
+substituted analogs of this invention,
+
+ 
+
+Scheme XIV
+I
+H CPS Sonogashu‘a
+N Coupling
+0 J/ﬂj“
+(\rN
+\N/N /
+\ (\N
+H J
+N N
+0
+
+on
+
+[0120] Alternatively, the W-[Ring A]-[L1] -[Ring B] can be
+reacted under Sonogashira conditions with trimethylsily-
+lacetylene, prior to the coupling with an iodo- or a bromo-
+activated Ring T as otherwise described in the general
+Scheme 11,
+US 2019/0031656 A1
+25
+
+weight. As mentioned previously, the daily dose can be
+given in one administration or may be divided between 2, 3,
+4 or more administrations.
+
+[0156] For therapeutic purposes, the active compounds of
+this invention are ordinarily combined with one or more
+adjuvants, excipients or carriers appropriate to the indicated
+route of administration If administered per os, the com-
+pounds may be admixed with lactose, sucrose, starch pow-
+der, cellulose esters of alkanoic acids, cellulose alkyl esters,
+talc, stearic acid, magnesium stearate, magnesium oxide,
+sodium and calcium salts of phosphoric and sulfuric acids,
+gelatin, acacia gum, sodium alginate, polyvinylpyrrolidone,
+and/or polyvinyl alcohol, and then tableted or encapsulated
+for convenient administration. Such capsules or tablets may
+contain a controlled-release formulation as may be provided
+in a dispersion of active compound in hydroxypropylmethyl
+cellulose. In the case of skin conditions, it may be preferable
+to apply a topical preparation of compounds of this inven-
+tion to the affected area two to four times a day Formulations
+suitable for topical administration include liquid or semi-
+liquid preparations suitable for penetration through the skin
+(e.g., liniments, lotions, ointments, creams, or pastes) and
+drops suitable for administration to the eye, ear, or nose, A
+suitable topical dose of active ingredient of a compound of
+the invention is 0.1 mg to 150 mg administered one to four,
+preferably one or two times daily. For topical administration,
+the active ingredient may comprise from 0.001% to 10%
+w/w, e.g., from 1% to 2% by weight of the formulation,
+although it may comprise as much as 10% w/w, but pref-
+erably not more than 5% W/w, and more preferably from
+0.1% to 1% of the formulation.
+
+[0157] When formulated in an ointment, the active ingre-
+dients may be employed with either parafﬁnic or a water-
+miscible ointment base. Alternatively, the active ingredients
+may be formulated in a cream with an oil-in-water cream
+base. If desired, the aqueous phase of the cream base may
+include, for example at Least 30% w/w of a polyhydric
+alcohol such as propylene glycol, butane-1,3-diol, mannitol,
+sorbitol, glycerol, polyethylene glycol and mixtures thereof
+The topical formulation may desirably include a compound
+which enhances absorption or penetration of the active
+ingredient through the skin or other affected areas. Examples
+of such dermal penetration enhancers include dimethylsul-
+foxide and related analogs.
+
+[0158] The compounds of this invention can also be
+administered by a transdermal device. Preferably transder-
+mal administration will be accomplished using a patch either
+of the reservoir and porous membrane type or of a solid
+matrix variety. In either case, the active agent is delivered-
+continuously from the reservoir or microcapsules through a
+membrane into the active agent permeable adhesive, which
+is in contact with the skin or mucosa of the recipient. If the
+active agent is absorbed through the skin, a controlled and
+predetermined ﬂow of the active agent is administered to the
+recipient. In the case of microcapsules, the encapsulating
+agent may also function as the membrane. The oily phase of
+the emulsions of this invention may be constituted from
+known Ingredients in a known manner.
+
+[0159] While the phase may comprise merely an emulsi-
+ﬁer, it may comprise a mixture of at least one emulsiﬁer with
+a fat or an oil or with both a fat and an oil. Preferably, a
+hydrophilic emulsiﬁer is included together with a lipophilic
+emulsiﬁer which acts as a stabilizer. It is also preferred to
+include both an oil and a fat. Together, the emulsifier(s) with
+
+Jan. 31, 2019
+
+or without stabilizer(s) make-up the so-called emulsifying
+wax, and the wax together with the oil and fat make up the
+so-called emulsifying ointment base which forms the oily
+dispersed phase of the cream formulations. Emulsiﬁers and
+emulsion stabilizers suitable for use in the formulation of the
+present invention include Tween 60. Span 80, cetostearyl
+alcohol, myristyl alcohol, glyceryl monostearate, sodium
+lauryl sulfate, glyceryl distearate alone or with a wax, or
+other materials well known in tie art.
+
+[0160] The choice of suitable oils or fats for the formu-
+lation is based on achieving the desired cosmetic properties,
+since the solubility of the active compound in most oils
+likely to be used in pharmaceutical emulsion formulations is
+very low Thus, the cream shoul preferably be a non-greasy,
+non-staining and washable product with suitable consistency
+to avoid leakage from tubes or other containers. Straight or
+branched chain, mono- or di asic alkyl esters such as
+di-isoadipate, isocetyl stearate, propylene glycol diester of
+coconut fatty acids, isopropyl myristate, decyl oleate, iso-
+propyl palmitate. butyl stearate, 2-ethylhexyl palmitate or a
+blend of branched chain esters may be used. These may be
+used alone or in combination cepending on the properties
+required.
+[0161] Alternatively. high melting point lipids such as
+white soft paraﬂin and/or liquid araﬂin or other mineral oils
+can be used.
+[0162] Formulations suitable or topical administration to
+the eye also include eye drops w 1erein the active ingredients
+are dissolved or suspended in suitable carrier, especially an
+aqueous solvent for the active ingredients.
+
+[0163] The active ingredients are preferably present in
+such formulations in a concentration of 0.5 to 20%, advan-
+tageously 0.5 to 10% and particularly about 1.5% w/w.
+
+[0164] Formulations for parenteral administration may be
+in the form of aqueous or non-aqueous isotonic sterile
+injection solutions or suspensions. These solutions and sus-
+pensions may be prepared from sterile powders or granules
+using one or more of the carriers or diluents mentioned for
+use in the formulations for oral administration or by using
+other suitable dispersing or wetting agents and suspending
+agents, The compounds may be dissolved in water, polyeth-
+ylene glycol, propylene glycol, ethanol, corn oil, cottonseed
+oil, peanut oil, sesame oil, benzyl alcohol, sodium chloride,
+tragacanth gum, and/or various buffers. Other adjuvants and
+modes of administration are well and widely known in the
+pharmaceutical art, The active ingredient may also be
+administered by injection as a composition with suitable
+carriers including saline, dextrose, or water, or with cyclo-
+dextrin (i .e. Captisol), cosolvent solubilization (i.e. propyl-
+ene glycol) or micellar solubilization (i.e. Tween 80).
+[0165] The sterile injectable preparation may also be a
+sterile injectable solution or suspension in a non-toxic
+parenterally acceptable diluent or solvent, for example as a
+solution in 1,3-butanediol. Among the acceptable vehicles
+and solvents that may be employed are water, Ringer’s
+solution, and isotonic sodium chloride solution, In addition,
+sterile, ﬁxed oils are conventionally employed as a solvent
+or suspending medium. For this purpose any bland ﬁxed oil
+may be employed, including synthetic mono- or diglycer-
+ides. In addition, fatty acids such as oleic acid find use in the
+preparation of injectables.
+
+[0166] For pulmonary administration, the pharmaceutical
+composition may be administered in the form of an aerosol
+or with an inhaler including dry powder aerosol.
+US 2019/0031656 A1
+
+benzamide in a manner similar to that described for Example
+1. The product was obtained as a solid: 533 m/z (M+H).
+
+l-(Bromomethyl)-4-nitro -2-(trl ﬂuoromethyl)benzene
+
+[0205] A suspension of 2-methyl-5-nitrobenzotriﬂuoride
+(3.90 g, 19 mmol), N-bromosuccinimide (NBS, 3.56 g, 20
+mmol), 2,2'-azobis(2-methylpropionitri1e) (AIBN, 94 mg.
+0.6 mmol) in CCl4 (40 mL) was reﬂuxed under N2 for 16 h.
+HPLC indicated ca. 50% conversion. More NBS (10 mmol)
+and AIBN (0.6 mmol) was added, and the mixture was
+reﬂuxed for another 14 h. HPLC indicated ca. 80% conver-
+sion. The reaction mixture was cooled down, and the solid
+was ﬁltered oﬂ and washed with EtOAc. The combined
+ﬁltrate was washed with aq. NaHCO3, dried over NaZSO4,
+ﬁltered, concentrated on rotovap and further dried under
+Vacuum. 1H NMR shows the ratio of desired product to
+unreacted 2-methyl-5-nitrobenzotriﬂuoride is 75:25. This
+material was not puriﬁed but used directly in the next step.
+
+l-Methyl-4-(4-nitro -2-(triﬂuoromethyl)benzyl)pip-
+
+erazine
+
+[0206] To a solution of crude l-(bromomethyl)—4-nitro-2-
+(triﬂuoromethyl)benzene (13.33 mmol, 75% pure) in DCM
+(10 mL) was added Et3N (1.4 mL, 10 mmol) and 1-meth-
+ylpiperazine (1.1 mL, 10 mmol). After stirring for 3 h at rt.
+aq. NaHCO3 was added, and the mixture was extracted with
+DCM. The combined organic layer was dried over NaZSO4,
+ﬁltered, concentrated, and the resulting residue was puriﬁed
+by silica gel chromatography (eluted with 10% MeOH/
+DCM) to provide 2.21 g of product as a pale yellow oil.
+
+4-((4-Methylpiperazin-l -yl)methyl)-3-(triﬂuorom-
+ethyl)aniline
+
+[0207] A suspension of 1-methyl-4—(4-nitro-2-(triﬂuorom-
+ethyl)benzyl)piperazine (1.23 g, 4 mmol) and sodium hydro-
+sulﬁte (7,0 g, 85% pure from Aldrich, 40 mmol) in acetone
+and water (1:1, 20 mL) was reﬂuxed for 3 h. Upon cooling,
+the volatile components (mainly acetone) were removed on
+rotavap, and the resulting mixture was subjected to ﬁltration.
+The solid was thoroughly washed with EtOAc. The com-
+bined ﬁltrate was extracted with n—BuOH (4x), and the
+combined organic layer was washed with saturated aq.
+NaHCOS, dried (NaZSO4), ﬁltered, concentrated, and the
+resulting residue was puriﬁed by silica gel chromatography
+(eluted with 5% MeOH/DCM, MeOH was pre-saturated
+with ammonia gas) to provide 0.71 g of product as a pale
+yellow solid.
+
+3-lodo-4-methy1-N-(4-((4-methylpiperazin-1 -y1)
+methyl)—3-(triﬂuoromethyl)phenyl) Benzamide
+
+[0208] 3-Iodo-4-n1ethylbenzoyl chloride (0.48 g, 1.7
+mrnol), prepared from the reaction of 3-iodo-4-methylben-
+zoic acid and SOC]2 (as previously described), was added to
+a solution of 4-((4-methylpiperazin-l-yl)methyl)-3-(trlﬂuo-
+romethyl)aniline (0.47 g, 1.7 mmol), N,N-diisopropylethyl-
+amine (0.26 g, 2.0 mmol), and a catalytic amount of DMAP
+in THF (10 mL). Aﬂer stirring at rt for 2 h, the reaction was
+quenched with water, EtOAc was added and the layers
+separated. The combined organic layers were concentrated
+to dryness and puriﬁed by silica gel chromatography (eluted
+with 5% MeOH/DCM, MeOH was pre-saturated with
+ammonia gas), to provide 0.51 g of product as an oﬂ-white
+solid.
+
+Jan. 31, 2019
+
+Alternative synthesis of 3-(lmidazo[l,2-a]pyrazin-3-
+ylethynyl)—4-methyl-N-(4-((4 methylpiperazin-l-yl)
+methyl)—3-(triﬂuoromethyl)phenyl)benzarnide
+
+[0209] 3-(lmidazo[1,2-a]pyrazin-3-ylethynyl)—4-methyl-
+N-(4-((4 -methylpiperazin-1-yl)n1ethyl)—3 -(triﬂuoromethyl)
+phenyl)benzamide and its mono hydrochloride salt can be
+prepared in an alternative synthesis similar to that described
+in Example 1 from 3-(imidazo[l,2-a]pyrazin-3-ylethynyl)-
+4-methylbenzoic acid and 4-((4—methylpiperazin-1-y1)
+methyl)—3-(triﬂuoromethyl)aniline (as prepared above).
+
+Example 3
+
+N-(3 -(2-((dimethylamino)methyl)- l H-lmidazol-l -
+yl)—5-(triﬂuoromethyl)phenyl)—3-(imidazo[1 ,2-a]
+pyrazin-3 -ylethynyl)—4-methylbenzamide
+
+[0210]
+
+\\
+
+/
+O”?
+
+N
+
+[0211] The title compound was synthesized from 3-ethy-
+nylimidazo[1,2-a]pyrazine and N-(3-(2-((dimethylamino)
+methyl)—1H-irnidazol-1-yl)-5-(triﬂuoromethyl)phenyl)-3-
+iodo-4-methylbenzamide in a manner similar to that
+described for Example 1. The product was obtained as a
+solid: 544 m/z (M+H).
+
+l -(1 H-imidazol-2-yl) -N,N-dimethylmethanamine
+
+[0212] To a two-necked round-bottomed ﬂask equipped
+with a reﬂux condenser and a pressure-equalizing addition
+funnel, was added 2-imidazolecarboxaldehyde (6 g, 62.5
+mmol) in MeOH (60 mL). To this suspension (ambient
+temperature) was added a solution of dimethylamine (40%
+aqueous, 60 mL) at a fast dropping rate (20 min). After the
+addition was complete, solid sodium borohydride (7 g, 186.8
+mmol,) was CAUTIOUSLY added portionwise over 45 min,
+Foaming occurred aﬁer each portion, and the internal tem-
+perature was allowed to maintain -50° C. without external
+cooling. The reaction mixture was then heated to 65° C, for
+3 h and allowed to cool to ambient temperature for over-
+night. The reaction contents were concentrated in vacuo and
+the resultant residue was taken up in EtOAc (2x30 mL)
+washed with brine and with CHCl3 (4x100 mL). The EtOAc
+extract was discarded. The CHCl3 extract was dried over
+(NaSO4), ﬁltered, and concentrated in vacuo to give 3.7 g of
+the desired product as a waxy solid.
+
+3-(2-((Dimethylamino)methyl)— l H-imidazol- l -yl)-5-
+(triﬂuoromethyl)ani line
+
+[0213] 3-Amino—5-bromobenzotriﬂuoride (6 g, 25 mmol)
+and l-(lH-imidazol-2-yl)-N,N-dimethylmethanamine (3.7
+US 2019/0031656 A1
+
+-cominued
+
+Compounds of the Invention
+
+A
+N 0/
+
+O N
+c1
+\
+N_
+\N /
+g /
+
+CF}
+
+56
+
+T3151
+cell
+proliferation
+
+(KIM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+42
+-continued
+T3151
+cell
+pmllferaclon
+Compounds of the Invention (M)
+0 <1000
+HNJI\NHZ
+/ /N
+\ N /
+\\ CF3
+HIV \
+N /
+o
+/ /N 4000
+\ N /
+N/
+,/
+H K
+N
+0
+CF3
+N/YN <1000
+g/N /
+F
+H
+N CF3
+0 a
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+[0048] Compounds of interest include among others, com-
+pounds of Formula 111 in which Ring D is a piperazine ring,
+substituted on nitrogen with Rd, Of particular current inter-
+est, are compounds of this subclass in which Rd is a
+substituted or unsubstituted lower (i.e,, 1-6 carbon) alkyl as
+illustrated by N-methylpiperazine moieties in some of the
+foregoing examples.
+
+[0049] Of special interest are compounds of formula 11 and
+formula III in which Ring T is an optionally substituted
+imidazo[1,2-a]pyridine, imidazo[l,2-b]pyridazine, imidazo
+[1,2-a]pyrazine, pyrazolo[1,5-a]pyrimidine, pyrazolo[l,5-a]
+pyridine, pyrazolo[l,5—c]pyrimidine, and pyrazolo[l,5-a][l,
+3,5]triazinei
+
+[0050] Also of interest are compounds of formula II and
+formula III in which Rings A and B are aryl,
+
+[0051] Another subclass of interest are compounds of
+Formulas II and III, in Which Ring T is any 6/5 fused
+heteroaryl ring system, optionally substituted with up to
+three Re groups. Of particular interest are compounds in
+which s is 0, Also of interest are those in which s is 1-3 and
+at least one R2 is halo, lower alkyl, alkoxy, amino, iN'H-
+alkyl, 4(O)NH-alkyl, 7NHC(O)-alkyl, 7NHC(O)NH-
+alkyl, iNHC(NH)-alkyl, iNHC(NH)NH2, 7NH(CH2)X-
+heteroaryl, 7NH(CH2)x-heterocycle, 7NH(CH2)X-aryl or
+7(CH2)XC(O)NHZ, in which X is 0, l, 2 or 3 and “alkyl”
+includes straight (i.e,, unbranched and acyclic), branched
+and cyclic alkyl groups and in which aryl, heteroaryl,
+heterocyclyl rings are optionally substituted. Illustrative,
+non limiting, examples of the foregoing Include compounds
+of formulas II and III in which Ring T is one of the
+following:
+
+HN
+
+/ /N NAKN / /N
+
+\ N EN / \ N /
+o NHZ
+
+HZN HNJJ\
+
+Jan. 3], 2019
+
+-continued
+NH; F
+/ /N N/ /N
+\ £1§ K/N /
+N
+
+[0052] Illustrative, non limiting examples of this subclass
+include compounds of formulas IIa, 11b, 11c, IIIa, 1111) and
+IIIc:
+
+(REL
+
+Formula Ha
+
+(Rcb
+
+\\ (“V
+
+J
+/\ if?
+MW 0 \,/
+
+(R5,,
+N/YN
+H
+L/VN /
+
+(R‘):
+
+Fonnula IIb
+
+\\ (N\ (Rm
+
+NJ
+/‘ If?
+WW 0 \,/
+
+(R59
+
+Formulal'lc
+/ /N
+H
+%N/N /
+(Re,
+
+\\ fig/(Rm
+
+NJ
+
+(Rb)?
+US 2019/0031656 A1
+
+ 
+
+-continued
+Formulallla
+H
+Rd
+/
+(Rm N
+/ r + Q
+/ '
+(Rm \ \ /
+O
+Formulalllb
+
+ 
+
+v
+(Re):
+\\ b N/Rd
+(my
+/ § \\/~ k)
+(R“>m/\
+O /
+Formulalllc
+H
+N/Rd
+(Rb)? (\
+/ \ ‘/\ K)
+(R“)m/\ \ / i
+O
+
+in which the previously deﬁned variables, e.g., R“, Rb, R”,
+Rd, Re, hi and p, are as previously deﬁned, e.g., in part 1, and
+a is an integer from 0 to 4.
+
+[0053] One subset of interest includes compounds of For-
+mulas Ila, 11b and Ilc in which sis 0; m, p and v are 1; and,
+R“ is CH3, R” is CF3 and R” is methyl.
+
+[0054] Another includes compounds of Formulas Illa,
+lllb, IIIc in which 5 is 0; m andp are l; and, R” is CH3, Rb
+is CF3 and R'1 is CH3 or CHZCHZOH,
+
+[0055] Compounds of this invention of particular interest
+include those with one or more of the following character-
+istics:
+
+[0056] a molecular weight of less than 1000, preferably
+less than 750 and more preferably less than 600 mass
+units (not including the weight of any solvating or
+co-crystallizing species. of any counter-ion in the case
+of a salt); or
+
+[0057] inhibitory activity against a wild type or mutant
+(especially a clinically relevant mutant) kinase, espe-
+cially a Src family kinase such as Src, Yes, Lyn or Lck,
+a VEGF-R such as VEGF-Rl (Flt-l), VEGF-R2 (kdr),
+or VEGF-R3; a PDGF-R; an Abl kinase or another
+kinase of interest with an IC50 value of 1 uM or less (as
+
+Jan. 31, 2019
+
+determined using any scientiﬁcally acceptable kinase
+inhibition assay), preferably with an IC50 of 500 nM or
+better, and optimally with an lC50 value of 250 nM or
+better; or
+
+[0058] inhibitory activity against a given kinase with an
+IC50 value at least lOO-fold lower than their IC50
+values for other kinases of interest; or
+
+[0059] inhibitory activity against both Src and kdr with
+a 1 [,LM or better lC50 value against each: or
+[0060] a cytotoxic or growth inhibitory elfect on cancer
+cell lines maintained in vitro, or in animal studies using
+a scientiﬁcally acceptable cancer cell xenograft model,
+(especially preferred are compounds of the invention
+which inhibit proliferation of cultured K562 cells with
+a potency at least as great as Gleevec, preferably with
+a potency at least twice that of Gleevec, and more
+preferably with a potency at least 10 times that of
+Gleevec as determined by comparative studies).
+[0061] Also provided is a composition comprising at least
+one compound of the invention or a salt, hydrate or other
+solvate thereof, and at least one pharmaceutically acceptable
+excipient or additive Such compositions can be adminis-
+tered to a subject in need thereof to inhibit the growth,
+development and/or metastasis of cancers, including solid
+tumors (e.g., breast, colon, pancreatic, CNS and head and
+neck cancers, among others) and various forms of leukemia,
+including leukemias and other cancers which are resistant to
+other treatment, including those which are resistant to treat-
+ment with Gleevec or another kinase inhibitor, and generally
+for the treatment and prophylaxis of diseases or undesirable
+conditions mediated by one or more kinases which are
+inhibited by a compound of this invention.
+[0062] The cancer treatment method of this invention
+involves administering (as a monotherapy or in combination
+with one or more other anti-cancer agents, one or more
+agents for ameliorating side effects, radiation, etc) a thera-
+peutically effective amount of a compound of the invention
+to a human or animal in need of it in order to inhibit, slow
+or reverse the growth, development or spread of cancer,
+including solid tumors or other forms of cancer such as
+leukemias, in the recipient. Such administration constitutes
+a method for the treatment or prophylaxis of diseases
+mediated by one or more kinases inhibited by one of the
+disclosed compounds or a pharmaceutically acceptable
+derivative thereof. “Administration” of a compound of this
+invention encompasses the delivery to a recipient of a
+compound of the sort described herein, or a prodrug or other
+pharmaceutically acceptable derivative thereof, using any
+suitable formulation or route of administration, as discussed
+herein, Typically the compound is administered one or more
+times per month, often one or more times per week, eg.
+daily, every other day, 5 days/week, etc. Oral and intrave-
+nous administrations are of particular current interest.
+[0063] The phrase, “phannaceutically acceptable deriva-
+tive”, as used herein, denotes any pliarmaceutically accept-
+able salt, ester, or salt of such ester, of such compound, or
+any other adduct or derivative which, upon administration to
+a patient, is capable of providing (directly or indirectly) a
+compound as otherwise described herein, or a metabolite or
+residue (MW>300) thereof. Phar'maceutically acceptable
+derivatives thus include among others pro-drugs. Apro-drug
+is a derivative of a compound, usually with signiﬁcantly
+reduced pharmacological activity, which contains an addi-
+tional moiety which is susceptible to removal in vivo
+US 2019/0031656A1 Jan. 31,2019
+
+-continued
+T3151
+cell
+pmlifemtlon
+Compounds of me Invention (an,
+/ /N <1000
+\ N /
+N/
+CF3
+H
+N
+0
+N3
+{N
+H
+
+N/YN <1000
+y /
+
+H
+N
+p N /\
+O N\)
+CF3
+NH; <1000
+)\ / N
+N N
+\
+\ \
+N
+7/
+N
+H F
+N
+0
+F
+F
+US 2019/0031656 A1
+
+-continued
+Compounds of the Invcnu'on
+N W1“
+g» /
+
+NJ
+H
+N
+0
+F
+F F
+NH;
+1m
+/ /N O
+\ N
+
+\\ CF3
+
+HN
+O N
+0
+N
+if
+HN
+/ /
+\ N
+H
+\ N\
+N
+\ /
+O
+
+57
+
+T3 1 5 I
+can
+pmlifemtion
+(11M)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+G:
+w;
+
+CF3
+
+CF3
+
+0
+
+Wk
+
+/ /N
+\ N
+\\
+CF3
+O
+
+69
+
+T3 1 5 I
+cell
+proliferation
+
+<uM>
+
+<1000
+
+<1000
+
+<1 000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+41
+
+Example 141 Following deprotection using saturated MeOH/
+HCl (g), the product was obtained as a tris HCl salt: 519 m/z
+(M+H)i
+
+Example 22: Biological Evaluation of Compounds
+
+[0280] Compounds of this invention are evaluated in a
+variety of assays to determine their biological activities. For
+example, the compounds of the invention can be tested for
+their ability to inhibit various protein kinases of interest
+Some of the compounds tested displayed potent nanomolar
+activity against the following kinases: Abl, Ab] T3151, Src
+
+Jan. 31, 2019
+
+and FGFR, Furthermore, several of these compounds were
+screened for antiproliferative activity in BaF3 cells trans-
+fected with either wild-type Bcr-Abl or the Bcr—Abl T3151
+mutant and demonstrated activity in the range of 1-100 nM.
+[0281] The compounds can also be evaluated for their
+cytotoxic or growth inhibitory effects on tumor cells of
+interest, eg, as described in more detail below and as shown
+above for some representative compounds. See eg.7 W0
+03/000188, pages 115-136, the full contents of which are
+incorporated herein by reference,
+
+[0282] Some representative compounds are depicted
+below.
+
+T3151
+
+cell
+
+proliferation
+Compounds of the Invention (nM)
+<1ooo
+CF3
+H
+N
+0
+N3
+1 N
+H
+<1000
+
+CF3
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+3w
+
+0
+
+Wk
+
+/
+\
+
+N/ /
+\\ CF3
+
+O
+\\S/NHZ
+Q \0
+HN
+/ /N
+\ N /
+
+CFS
+
+L\
+
+55
+
+T3151
+cell
+pmlxremnon
+
+mM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of the Invention
+
+,N
+/ N \
+\ \
+
+N
+| |
+CH
+ﬁ
+0
+N
+Q
+/ /\I
+
+H
+N
+O
+CF3
+RAC
+N 6/51
+K/N /
+H
+N CF3
+O
+N
+
+\T
+
+54
+
+T3151
+cell
+
+proliferation
+(HM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+(nitro reduction performed in a manner similar to that
+
+described for Example 17; 0.25M in MeOH/10% AcOH)
+The product was obtained as a solid: 505 m/z (M+H)t
+
+l-(2-Cyclopropyl-4-nitrobenzyl)-4-methylpiperazine
+
+[0273] A mixture of 1 -(2-bromo-4-nitrobenzyl)-4-metl1yl-
+piperazine (094 g, 310 mmol), 0177 g (9.0 mmol) of cyclo-
+propylboronic acid, 01067 g (030 mmol) ode(OAc)2, 2.87
+g (135 mmol) of KSPOA, and 01168 g (060 mmol) of
+tricyclohexylphosphine in 18 mL of toluene/water (5-1) was
+heated at reﬂux under an atmosphere of N2 for 19 h The
+reaction mixture was concentrated and the crude product
+was puriﬁed by silica gel chromatography (eluted with 5%
+MeOH/DCM; MeOH was pre-saturated with ammonia gas)
+to provide 080 g of product.
+
+Example 1 9
+
+3-(Imidazo[l,2-b]pyridazin-3-y1ethyny1)-N-(4-((4-
+methylpiperazin- 1 -yl)methyl)—3— (triﬂuoromethyl)
+
+phenyl)benzamide
+[0274]
+/ / N
+N /
+\N /
+CF;
+H
+N
+O
+
+Q
+
+[0275] The title compound was synthesized from 3-ethy-
+nylimidazo[l,2-b]pyridazine and 3-iodo-N-(4-((4-methyl-
+piperazin— 1 -y1)methyl)-3 -(triﬂuoromethy1)phenyl)benz-
+amide in a manner similar to that described for Example 14‘
+The product was obtained as a solid: 519 m/z (M+H).
+
+The titled compound can also be prepared according to the
+alternative synthesis described in example 1 from 3-(imi-
+dazo[1,2-b]pyridazin-3-y1ethynyl)—4-methylbenzoic acid
+and 4-((4-methylpiperazin-l -y1)methy1)-3-(triﬂuoromethyl)
+aniline (as prepared in example 2). The 3-(imidazo[1,2-b]
+pyridazin-3-y1ethyny1)-4-methylbenzoic acid is prepared in
+a manner similar to that described in Example 1 using
+3-Ethynylimidazo[1,2-b]pyridazine and 3-iodo-4-methy1-
+henzoic acid as Sonogashira coupling partners,
+
+Jan. 31, 2019
+
+Example 20
+
+N-(4-((4-(2-Hydmxyethyl)piperazin-l-y1)methy1)-3-
+(triﬂuoromethyl)pheny1)-3-(imidazo[1 ,2-b]
+pyridazin-3-y1ethynyl)-4-methylbenzamide
+
+[0276]
+/ /N
+N /
+\N /
+CF3
+H
+N
+0
+N3
+ﬁr]
+\\/OH
+[0277] The title compound was synthesized from 3-ethy-
+
+nylimidazo[1,2-b]pyridazine and N—(4-((4-(2-hydroxyethyl)
+piperazin- 1-yl)metl1yl)-3 -(triﬂuoromethyl)phenyl)—3—iodo-
+4-methy1benzamide in a manner similar to that described for
+Example 14 The product was obtained as a solid: 563 m/z
+(M+H).
+
+Example 21
+
+3-(Imidazo[ 1 ,2-b]pyridazin-3 -y1ethyny1)-4 -methy1-
+N—(4 -(piperazin-1-ylmethyl)-3 -(triﬂuoromethyl)phe-
+nyl)benzamide
+
+[0278]
+
+(I?
+\\
+
+CF3
+
+O
+
+H
+
+25:
+
+[0279] The title compound was synthesized from 3-ethy-
+nylimidazo[l,2-b]pyridazine and tert-butyl 4-(4-(3-iodo-4-
+methylbenzamido)-2-(triﬂuoromethyl)benzyl)piperazine-1 -
+carhoxylate in a manner similar to that described for
+US 2019/0031656A1 Jan. 31,2019
+
+68
+-continued
+T3151
+can
+proliferation
+Compounds of me Invention (uM)
+<1000
+NWN
+RN /
+<Nj
+\\ N
+O CF3
+
+N'Hz <1000
+
+A N
+N/ N’ \
+\ \
+N
+CF3
+H
+N \
+N
+
+/ <1000
+_N
+\ N /
+US 2019/0031656 A1
+
+Compounds of me Invention
+
+\
+\2
+
+-continued
+
+T3 1 5 I
+cell
+proliferation
+
+(uM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+T3151
+
+cell
+
+proliferation
+
+Compounds of the Invention (11M)
+
+0 <1000
+/ /N
+\ N /
+
+\\
+
+CF}
+EN
+0
+O
+
+/ :N/ N/
+C \>\ O Q
+/ N 2m
+
+/ <1000
+\ N /
+
+\\
+
+<1000
+
+/
+N
+F H r
+N N
+0
+CF}
+0 <1000
+HNJJ\OCH3
+/ /
+\ N /
+\ CF3
+H'N
+\N /
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+27, The compound of claim 23, having the formula:
+
+on (Rm
+
+(Rd), 6
+L2
+wherein:
+
+Ring D represents a 5- or 6-membered heterocyclyl or
+heteroaryl ring comprising carbon atoms and 1-3
+heteroatoms independently chosen from O, N and
+5(0),;
+
+L2 is chosen from (CH2)Z, 0(CH2)” NR3(CHZ)X,
+S(CHZ)X and (CHZ)XNR3C(O)(CHZ)X in either direc-
+tion;
+
+Rd, at each occurrence, is H, halo, :0, 4N, iNOZ,
+7R4, i018, iN'RZRB, 4C(O)YR2, 43cm)
+YRZ, 7NR2C(O)YR2, iSC(0)YR2, 7NR2C(:S)
+YRZ, iOC(:S)YR2, 7C(:S)YRZ, iYC
+(:NR3)YR2, 7YP(:O)(YR4)(YR4), iSi(R2)3,
+iNRZSOZRZ, ~S(O),R2, 402N1823 or
+iNRZSOZNRZRS, wherein each Y is independently
+a bond, 407, 737 or iNRsi;
+
+R2 and R3 are independently H, alkyl, alkenyl, alkynyl,
+cycloalkyl, cycloalkenyl, cycloalkynyl, aryl, hetero-
+cyclyl, or heteroaryl;
+
+or R2 and R3, taken together with the atom to which
+they are attached, fomi a 5- or 6-membered satu-
+rated, partially saturated or unsaturated ring, which
+contains 0-2 heteroatoms selected from N, O and
+S(O)V;
+
+Jan. 31, 2019
+
+each occurrence of R4 is independently alkyl, alkenyl,
+alkynyl, cycloalkyl, cycloalkenyl, cycloalkynyl,
+aryl, heterocyclyl, or heteroaryl;
+
+each of the alkyl, alkenyl, alkynyl, cycloalkyl,
+cycloalkenyl, cycloalkynyl and heterocyclyl moi-
+eties is optionally substituted with one or more
+groups selected from halo, 4N, 7R4, 40R2,
+78(0),R2, ~S02NR2R3, 7NR2R3, 4(CO)YR2,
+40(CO)YR2, 7NR2(CO)YR2, 78(CO)YR2,
+7NR2C(:S)YR2, 70C(:S)YR2, 4C(:S)YR2,
+7YC(:NR3)Y‘R2, ACOCORZ, ACOMCORZ,
+7YP(:0)<YR“)(YR“), 418% 7N0»
+iNRZSOZRZ, iNRZSOZNRZRi :0, :8, :NH,
+:NNRZRS, :NNHC(O)R2, :NN'HCOZRZ, and
+:NNHSOZRZ, wherein M is a 1-6 carbon alkyl
+group;
+
+each of the aryl and heteroaryl moieties is optionally
+substituted on an unsaturated carbon atom with one
+or more groups selected from halo, 4N, 7R4,
+AORZ, 78(0),R2, iSOZNRZRS, iNRZRB,
+7(CO)YR2, 70(CO)YR2, 7NR2(CO)YRZ,
+iS(CO)YR2, 7NR2C(:S)YR2, 40C(:S)YR2,
+4C(:S)YR2, 7YC(:NR3)Y'R2, 4COCOR2,
+ACOMCORZ, iYP(:O)(YR‘)(YR4), iSi(R2)3,
+7N0” iNRZSOZRZ, and 7NR2802NR2R3;
+
+wis0, 1,2, 3,4or5;
+
+xisO, 1,20r3; and
+
+zis 1, 2, 3or4,
+
+28. The compound of claim 27, wherein Ring A and Ring
+B are each independently a 5- or 6-membered my],
+
+29. The compound of claim 28, wherein Ring D is
+piperazinyl and L2 is CH2.
+
+30, The compound of claim 29, wherein s is 0, in is 1, p
+is 1, R“ is 4H,, Rb is CF,, and R” is iCHB or
+ACHZCHZOH.
+
+31. A composition comprising a compound of claim 23 or
+a pharmaceutically acceptable salt thereof and a pharma-
+ceutically acceptable carrier, diluent or vehicle.
+
+*****
+US 2019/0031656 A1
+
+-continued
+T3 1 5 I
+cell
+proliferation
+Compounds of me Invention (uM)
+
+NAKN <1ooo
+K/ /
+
+CF3
+
+0 k <1000
+mic
+
+CFS
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+O
+H'NJI\NHCH.3
+/ /N
+\ N /
+\\ CF3
+HN
+\N /
+0
+0
+min
+/ /N
+\ N /
+\\
+H
+N—O
+O
+O
+HNJI\NH2
+
+CF3
+W
+
+N
+
+/ /N
+\N /
+\\
+
+Q
+
+45
+
+T3 1 5 I
+cell
+proliferation
+
+(uM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of the anenﬂon
+
+\—N|_|/N
+0/
+
+\N/N
+éma
+
+\N/N
+
+H
+
+53
+
+T3151
+cell
+proliferation
+
+(11M)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of the Invention
+
+//N
+\N/
+
+\\
+
+CF;
+0 N
+Q
+/ _N
+\ N /
+H
+H
+N (\N/
+O Nd
+CF}
+0
+Wk
+/ /N
+\ N /
+\\
+CF3
+g
+0
+
+T3 1 5 I
+cell
+pmlifemtlon
+(11M)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+/\
+Z\
+\2
+
+CF}
+
+5%
+\ N
+
+N’ /
+II
+a
+0 NO“
+CF3
+/ _N
+\ N /
+||
+C]
+g (\N/
+O Nd
+
+CF}
+
+T3 1 5 I
+cell
+proliferation
+(uM)
+<1000
+OH
+<1000
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+ﬂw‘
+\
+
+N/N /
+
+2:3:
+
+CF3
+
+52
+
+T3 1 5 I
+cell
+proliferation
+
+<uM>
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+Note:
+
+-continued
+(1) Ointment ml
+Compound 40 mg
+Ethanol 300 pl
+Water 300 pl
+1»Dodecylazacyclohepmn one 50 pl
+Propylene glycol to 1 m1
+
+These formulations may be prepared using conventional procedures well lmown m the
+pharmaeeuooal an The tablets (a)-(c) may be entenc coaled by conventional means, if
+desired to provide a coating of cellulose acetate pnmalate, for example The aerosol
+formulations (link) may be used In comunction mm standard, metered dose aerosol
+dispensers, and the suspending a gents soroiian molexte and saw leoiuam may be replaced
+by an alternative suspending agenl such as sorbltan monnulexte, sorbltxn sesqumlexte,
+polysorbatc so, polyglycerol cleate or olcic acid.
+
+1,
+
+-22. (canceled)
+
+23, A compound of the formula:
+
+(Rﬁr— \ H
+
+at")?
+
+ 
+
+(R“)m
+
+wherein:
+
+Ring A is a 5- or 6-membered aryl or heteroaryl ring;
+
+Ring B is a 5- or 6-membered aryl or heteroaryl ring;
+
+L1 is chosen from NR1C(O), C(O)NR1, NR1C(O)O,
+NR1C(O)NR’, and 0C(O)N'R1;
+
+each occurrence of R“ and R” is independently halo,
+4N, 7N0” i114, 4R2, 7NR2R3, £(0)
+YR2, 40C(O)YR2, 7NR2C(O)YR2, iSC(O)YR3,
+7NR2C(:S)YRZ, 70C(:S)YR2, 4C(:S)YR2,
+7YC(:NR3)YR2, 7YP(:O)(YR4)(YR4), isi
+(112),, iNRZSOZRZ, 78(0),RZ, iSOZNR2R3 or
+iNRZSOZNRZRS, wherein each Y is independently
+a bond, 407, 787 or iNRSi;
+
+R2, at each occurrence, is independently halo, 4N,
+iNOZ, 7R4, 4R2, 7NR2R3, 4C(O)YR2, 4C
+(O)YR2, 7NR2C(O)YR2, ﬁsqomzz, iNRZC
+(:S)YR2, 40C(:S)YR2, 4C(:S)YR2, iYC
+(:NR3>YR2, *YP(:O)(YR4)(YR4)i *Si(R2)aa
+iNstosz, ~S(O),RZ, 402N181? or
+iNRZSOZNRZRS, wherein each Y is independently
+a bond, 407, 787 or iNRBi;
+
+R‘, R2 and R3 are each independently H, alkyl, alkenyl,
+alkynyl, cycloalkyl, cycloalkenyl, cycloalkynyl,
+aryl, heterocyclyl, or heteroaryl;
+
+or R2 and R3, taken together with the atom to which
+they are attached, form a 5- or 6-membered satu-
+rated, partially saturated or unsaturated ring, which
+contains 0-2 heteroatoms selected from N, O and
+5(0),;
+
+each occurrence of R4 is independently alkyl, alkenyl,
+alkynyl, cycloalkyl, cycloalkenyl, cycloalkynyl,
+aryl, heterocyclyl, or heteroaryl;
+
+each of the alkyl, alkenyl, alkynyl, cycloalkyl,
+cycloalkenyl, cycloalkynyl and heterocyclyl moi-
+
+77
+
+Jan. 3], 2019
+
+eties is optionally substituted with one or more
+groups chosen from halo, %N, 7R4, 40R2,
+73(0),R2, iSOZNRZRS, iNRZRS, 7(C0)YR2,
+40(CO)YR2, 7NR2(CO)YR2, 78(CO)YR2,
+7NR2C(:S)YR2, 70C(:S)YR2. 4C(:S)YR2,
+7YC(:NR3)Y‘R2, ACOCORZ, ACOMCORZ,
+7YP<:0>(YR“)<YR“>, 78mm, iNoz,
+iNRZSOZRz, iNRZSOZNRzRi :0, :s, :NH,
+:N'NRZR3, :NNHC(O)R2, :NNHCOZRE, and
+:N'NHSOZRZ, wherein M is a 1-6 carbon alkyl
+group;
+
+each of the aryl and heteroaryl moieties is optionally
+substituted on an unsaturated carbon atom with one
+or more groups chosen from halo, 4N, iR“,
+4R2, 78(0),R2, iSOZNRZRi 7NR2R3,
+7(CO)YR2, 70(CO)YR2, 7NR2(CO)YR2,
+iS(CO)YR2, 7NR2C(:S)YR2, 40C(:S)YR2,
+4C(iS)YR2, 7YC(:NR3)Y'R2, ACOCORZ,
+ACOMCORZ, 7YP(:O)(YR‘)(YR‘), 7310(2)”
+7N0” iNstosz, and iNRZSOZNRZRz;
+
+mis0,1,2,3or4;
+pisO,1,2,3,4or5;
+ris 0, 1 or2; and
+sis0,1,2,3or4,
+
+or a pharmaceutically acceptable salt thereof
+
+ 
+
+24. The compound of claim 23, of the formula:
+
+/\N,N\
+
+(Re): —
+\ \
+
+H
+
+(Rb)? (Rot
+
+L,“
+
+Ring C is a 5- or 6-membered heterocyclyl, or het-
+eroaryl ring, comprising carbon atoms and 1-3 het-
+eroatoms independently chosen from O, N, and
+S(0),;
+
+RC, at each occurrence, is independently chosen from
+halo, :0, 4N, iNop 7R4, 4R2, 7NR2R3,
+4C(O)YR2, iOC(O)YRZ, 7NR2C(O)YR2, iSi
+(18);, iSC(O)YRZ, 7NR2C(:S)YR2, 40C(:S)
+YRZ, 4C(:S)YR2, 7YC(:NR3)YR2, 7Y1)
+(ﬂXYRAXYRAL *Nstosz. ~S(OLRz,
+iSOZNRzRS and iNRZSOZNRzRa, wherein each
+Y is independently a bond, 70~, 787 or
+iNRsi; and
+
+Vis0,1,2,3,4or5,
+
+01“)”.
+
+wherein:
+
+25. The compound of claim 24, wherein Ring A and Ring
+B are each independently a 5- or 6-melnbered aryll
+
+26. The compound of claim 25, wherein Ring C is
+imidazolyl,
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+ 
+
+CF3
+/
+_N
+\ N /
+O
+H
+N
+HKNH
+0 Nu
+CF3
+/ /N
+\ N / N
+
+//
+\\ K{
+
+2;:
+
+63
+
+T3 1 5 I
+cell
+proliferation
+
+(uM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+SUBSTITUTED ACETYLENIC
+PYRAZOLO[1,5—A]PYRIDINE COMPOUNDS
+AS KINASE INHIBITORS
+
+BACKGROUND OF THE INVENTION
+
+[0001] The protein kinases are a large family of proteins
+which play a central role in the regulation of a wide variety
+of cellular processes, A partial, non limiting, list of such
+kinases includes abl, Akt, bcr—abl, Blk, Brk, c-kit, c-rnet,
+c-src, CDKl, CDK2, CDK3, CDK4, CDKS, CDK6, CDK7,
+CDK8, CDK9, CDKlO, cRafl, CSK, EGFR, ErbB2, ErbB3,
+ErbB4. Erk, Pak, fes, FGFRl, FGFRZ, FGFR3, FGFR4,
+FGFRS, Tgr, ﬂt-l, Fps, Frk, Fyn, Hck, IGF-IR, INS-R, Jak,
+KDR, Lc , Lyn, MEK, p38, PDGFR, PIK, PKC, PYKZ, ros,
+tie, tie2, TRK and Zap70. Abnormal protein kinase activity
+has been related to several disorders, ranging from non-life
+threatening diseases such as psoriasis to extremely serious
+diseases such as cancers.
+
+[0002] n view of the large number of protein kinases and
+associatec diseases, there is an ever-existing need for new
+inhibitors selective for various protein kinases which might
+be useful in the treatment of related diseases
+
+[0003] This invention concerns a new family of acetylenic
+heteroary compounds and their use in treating cancers, bone
+disorders, metabolic disorders, inﬂammatory disorders and
+other diseases.
+
+DESCRIPTION OF THE INVENTION
+
+[0004] , General Description of Compounds of the Inven-
+ﬁon
+[0005] The compounds of this invention have a broad
+
+range of useﬁil biological and pharmacological activities,
+permitting their use in pharmaceutical compositions and
+methods or treating a variety of diseases, including e.g,,
+metabolic disorders, bone diseases (e.g,, osteoporosis, Pag-
+et’s Disease, etc), inﬂammation (including rheumatoid
+arthritis, among other inﬂammatory disorders) and cancer
+(including solid tumors and leukemias, especially those
+mediated 3y one or more kinases such as Src or kdr, or by
+dysregulation of a kinase such as Ab] and mutant variants
+thereof), including, among others, advanced cases and cases
+which are resistant or refractory to one or more other
+treatments.
+
+[0006] Included are compounds of Formula I:
+
+ 
+
+ 
+
+Formula I
+
+(Rm T
+
+(Rb)?
+
+ 
+
+(R")m
+Ll
+
+or a tautomer or an individual isomer or a mixture of isomers
+thereof in which:
+
+[0007] Ring T is a 5-membered heteroaryl ring containing
+1-2 nitrogens with the remaining ring atoms being carbon,
+
+Jan. 3], 2019
+
+substituted on at least two ring atoms (each of which may be
+C or N) with R’ groups, at least two of which being located
+on adjacent ring atoms, and, together with the atoms to
+which they are attached, forming a saturated, partially
+saturated or unsaturated 5- or 6-membered ring (Ring E),
+containing 0-3 heteroatoms selected from O, N, and S and
+being optionally substituted with 1-4 R2 groups;
+
+[0008] Ring A represents a 5- or 6-membered aryl or
+heteroaryl ring and is optionally substituted with 1-4 R“
+grouvs;
+
+[0009] Ring B represents a 5- or 6-membered aryl or
+heteroaryl ring and is optionally substituted with 1-5 Rb
+
+groups;
+
+[0010] L1 is selected from NR C(O), C(O)NR1, NR‘C(O)
+o, NR‘C(O)NR‘. and OC(O)NR‘;
+
+[0011] each occurrence of R“, Rb and R’ is independently
+selected from the group consisting of halo. %N, iNOZ,
+7R4, AORZ, iNRZRS, 4C(O)YR2, 40C(O)YR2,
+7NR2C(O)YR2, iSC(O)YR2, 7NR2C(:S)Y'R2, 43c
+(,S)YR2, C(,S)YR2, YC(,NR3)YR2, YP(,O)
+(YR4)(YR“), isiazl), iNRZSOZRZ, 4(0)}8,
+iSOZNR2R3 and iNRZSOZNRZRa, wherein each Y is
+independently a bond, 707, 787 or 7NR37;
+
+ 
+
+[0012] Re, at each occurrence, is independently selected
+from the group consisting of halo, :0, 4N, 7N0”
+7R4, 40R2, 7NR2R3, 4C(O)YR2, 4C(O)YR2,
+7NR2C(O)YR2, iSC(O)YR2, 7NR2C(:S)YR2, 40C
+( S)YR2, C( S)YR2, YC(7NR3)YR2, YP( O)
+(YR4XYR4), *SKths *NRZSOzRZs 4(0)}12,
+iSOZNRZRz and iNRZSOZNRZRz, wherein each Y is
+independently a bond, 707, 787 or iNRSi;
+
+[0013] R1, R2 and R3 are independently selected from H,
+
+alkyl, alkenyl, alkynyl, cycloalkyl, cycloalkenyl, cycloalky-
+nyl, aryl, heterocyclic and heteroaryl;
+
+[0014] alternatively, R2 and R3, taken together with the
+atom to which they are attached, form a 5- or 6-membered
+saturated, partially saturated or unsaturated ring, which can
+be optionally substituted and which contains 0-2 heteroa-
+toms selected from N. O and 5(0),;
+
+[0015] each occurrence of R4 as independently selected
+from alkyl, alkenyl, alkynyl, cycloalkyl, cycloalkenyl,
+cycloalkynyl, aryl, heterocyclic and heteroaryl;
+
+[0016] each of the alkyl, alkenyl, alkynyl, cycloalkyl,
+cycloalkenyl, cycloalkynyl, aryl, heterocyclic and heteroaryl
+moieties in this Section 1 is optionally substituted;
+
+ 
+
+ 
+
+ 
+
+ 
+
+[0017] m is 01, 2, 3 or 4;
+
+[0018] n is 2 or 3;
+
+[0019] p is 0, 1,2, 3, 4 or 5; and,
+
+[0020] r is 0, l or 2:
+
+[0021] or a pharrnaceutically acceptable salt, solvate or
+
+hydrate thereof.
+
+[0022] The foregoing deﬁnitions are further elaborated
+upon and exempliﬁed below and apply to all subsequent
+occurrences except to the extent otherwise speciﬁed.
+(19) United States
+
+US 20190031656A1
+
+(12) Patent Application Publication (10) Pub. No.: US 2019/0031656 A1
+
+Zou et a1.
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54) SUBSTITUTED ACETYLENIC
+PYRAZOL0[1,S-A]PYRID1NE COMPOUNDS
+AS KINASE INHIBITORS
+
+(71) Applicant: ARIAD Pharmaceuticals, Inc.,
+Cambridge, MA (US)
+
+(72) Inventors: Dong Zou, Concord, MA (US);
+Wei-Sheng Huang, Acton, MA (US);
+R. Mathew Thomas, Sharon, MA
+(US); Jan Antoinette C. Romero,
+Arlington, MA (US); Jiwei Qi, West
+Roxbury, MA (U S); Yihan Wang,
+Newton, MA (US); Xiaotian Zhu,
+Newton, MA (US); William C.
+Shakespeare, Southborougn, MA (US);
+Rajeswari Sundaramoorthi,
+Watertown, MA (US); Chester A.
+Metcalf, III, Needham, MA (US);
+David C. Dalgarno, Brookline, MA
+(US); Tomi K. Sawyer, Southborough,
+MA (US)
+
+(73) Assignee: ARIAD Pharmaceuticals, Inc.
+(21) Appl. No: 16/055,362
+
+(22) Filed: Aug. 6, 2018
+
+Related U.S. Application Data
+
+(60) Continuation of application No 15/003,537, ﬁled on
+Jan, 21, 2016, now abandoned, which is a division of
+application No. 14/296,016, ﬁled on Jun. 4, 2014,
+now Pat. No. 9,278,971, which is a division of
+application No. 13/801,619, ﬁled on Mar. 13, 2013,
+now Pat. No. 8,778,942, which is a division of
+application No. l3/357,745, ﬁled on Jan. 25, 2012,
+
+now Pat. No, 8,470,851, which is a division of
+application No. 11/644,849, ﬁled on Dec, 22, 2006,
+now Pat. No. 8,114,874.
+
+(60) Provisional application No 60/833,191, ﬁled on Jul.
+25, 2006, provisional application No 60/798,472,
+ﬁled on May 8, 2006, provisional application No,
+60/756,089, ﬁled on Jan. 3, 2006, provisional appli-
+cation No. 60/753,962, ﬁled on Dec, 23, 2005, pro-
+visional application No. 60/754,000, ﬁled on Dec, 23,
+2005,
+
+Publication Classiﬁcation
+(51) Int. Cl.
+
+C07D 471/04 (2006.01)
+C07D 473/34 (2006.01)
+C07D 487/04 (2006.01)
+(52) U.S. Cl.
+CPC ......... C07D 471/04 (2013,01); C07D 473/34
+
+(2013.01); 0071) 487/04 (2013.01)
+
+(57) ABSTRACT
+This invention relates to compounds of the general formula:
+
+(R'Jn T
+
+L1
+
+in which the variable groups are as deﬁned herein, and to
+their preparation and user
+US 2019/0031656 A1
+
+-continued
+
+Compounds of the Invention
+
+/ /N
+\ N /
+\\ CF3
+HN
+O N—\\
+K(N
+/ /N
+\ N /
+
+CF3
+
+62
+
+T3151
+cell
+
+proliferation
+(HM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+[0301] Other cellular assays may be used which rely upon
+a reporter gene to detect metabolically active cells. Non-
+limiting examples of reporter gene expression systems
+include green ﬂuorescent protein (GFP), and luciferase. As
+an example of the use of GFP to screen for potential
+antitumor drugs, Sanaman et al. (Chem Biol 62541-51;
+incorporated herein by reference) used HeLa cells contain-
+ing an inducible variant of GFP to detect compounds that
+inhibited expression of the GFP, and thus inhibited cell
+proliferation.
+
+[0302] Compounds identiﬁed by such cellular assays as
+having anti-cell proliferation activity are then tested for
+anti-tumor activity in whole organisms. Preferably, the
+organisms are mammalian Well-characterized mammalians
+systems for studying cancer include rodents such as rats and
+mice. Typically, a tumor of interest is transplanted into a
+mouse having a reduced ability to mount an immune
+response to the tumor to reduce the likelihood of rejection
+Such mice include for example, nude mice (athymic) and
+SCID (severe combined immunodeﬁciency) mice. Other
+transgenic mice such as oncogene containing mice may be
+used in the present assays (see for example US. Pat. No.
+4,736,866 and US. Pat. No. 5,175,383). For a review and
+discussion on the use of rodent models for antitumor drug
+testing see Kerbel (Cancer Metastasis Rev. 17:301-304,
+1998-99),
+
+[0303] In general, the tumors of interest are implanted in
+a test organism preferably subcutaneously. The organism
+containing the tumor is treated with doses of candidate
+anti-tumor compounds. The size of the tumor is periodically
+measured to determine the etfects of the test compound on
+the tumor. Some tumor types are implanted at sites other
+than subcutaneous sites (eg, intraperitoneal sites) and sur-
+vival is measured as the endpoint. Parameters to be assayed
+with routine screening include different tumor models, vari-
+ous tumor and drug routes, and dose amounts and schedule.
+For a review of the use of mice in detecting antitumor
+compounds see Corbett et al. (Invest New Drugs. 15:207-
+218, 1997; incorporated herein by reference).
+
+Example 23: Pharmaceutical Compositions
+
+[0304] Representative pharmaceutical dosage forms of the
+compounds of this invention (the active ingredient being
+referred to as “Compound”), are provided for therapeutic or
+prophylactic use in humans:
+
+ 
+
+(a) Tablet 1 mg/tahlet
+compound 100
+Lactose PhEur 182.75
+Croscmmellose sodium 12.0
+Maize statch paste (5% w/v paste) 2.25
+Magnesium stemte 3.0
+(b) Tablet 11 mg/mblet
+Compound 50
+Lactose PhEur 223.75
+Cioscinmellose sodium 50
+Maize starch 15.0
+Polyvinylpyﬁblidone 2.25
+
+(5% W/v paste)
+Magnesium stemte 3.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jan. 3 l , 20 1 9
+
+-continued
+(c) Tablet 111 mg/tablet
+Compound 1.0
+Lactose Ph.Eur 93.25
+Croscarmcllose sodium 4.0
+Maize starch paste (5% w/v paste) 0.75
+Magnesium steamte 1.0-76
+(d) Capsule mg/capsule
+Compound 10
+Lactose Ph.Eur 488.5
+Magnesium 1.5
+(6) Injection 1 (50 ”lg/ml)
+Compound 5.0% w/v
+1M Sodim‘n hydroxide solution 15.0% v/v
+0.1M Hydrochloric acid
+(to adjust pH to 7.6)
+Polyethylene glycol 400 4.5% w/v
+Water for injection to 100%
+(1) Injection II (10 nigml)
+Compound 1.0% My
+Sodium phosphate BF 3.6% w/v
+0.1M Sodium hydroxide solution 15.0% v/v
+
+Water for injection to 100%
+
+ 
+
+(g) injection in (1 mg/ml, buffered to pH 6)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Compound 0.1% w/v
+Sodium phosphate BP 2.26% W/v
+Citric acid 0.38% w/v
+Polyethylene glycol 400 3.5% w/v
+Water for injection to 100%
+
+(h) Aerosol 1 rug/ml
+Compound 10.0
+Sorbitan tiloleatc 13.5
+Trichloroﬂuoromethane 910.0
+chhloiodinuoiomcnianc 4900
+(i) Aeiosol 11 mg/ml
+Compound 0.2
+Sorbitan tiloleatc 0.27
+Trichloroﬂuoromethane 70.0
+Dichloioditiuoiomcnianc 280.0
+Dichloiotenaﬂuoioethane 1094.0
+(j) Aerosol 111 myml
+Compound 2.5
+Sorbitan tnoleate 3.38
+Trichloroﬂuoromethane 67.5
+Dichlorodiﬂuorornethane 1085.0
+Dichloiotenaﬁuoioethane 191.6
+(k) Aerosol 1v mg/ml
+Compound 2.5
+Soya lecithin 2.7
+Trlchloroﬁuoromethane 57.5
+Dichlorodiﬂuoromethane 1086.0
+Dichloiotenaﬁuoioethane 191.6
+US 2019/0031656 A1
+
+-continued
+
+48
+
+T3151
+cell
+
+proliferation
+
+Compounds of me Invention (uM)
+/ /N <1000
+\ N /
+H W
+N
+0
+CF3
+O <1000
+i /
+H'N N
+\
+/ /N
+\ N /
+\\ CF3
+H'N
+\ /
+N
+O
+RAC <1000
+N/
+K/ —N
+\ N
+/
+H
+N
+O
+CF3
+
+CZ
+\zw‘“
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+T3151
+cell
+proliferation
+Compounds of the Invenu'on (11M)
+
+“yd/N <1ooo
+g /
+
+\N
+K87
+H /
+N N
+O
+CF3
+
+N/ <1000
+L —N
+
+NW N <1000
+g /
+
+H CF3
+
+Jan. 31, 2019
+US 2019/0031656 A1
+-continued
+/ /N
+\N/N /
+
+\\
+
+0 CF;
+N
+H
+/ /N
+N /
+\N/
+CF3
+N
+o
+/ /N
+\N/N /
+
+\\
+/ \ g or,
+
+Kinase Inhibition
+
+[0283] More speciﬁcally, the compounds described herein
+are screened for kinase inhibition activity as follows.
+Kinases suitable for use in the following protocol include,
+but are not limited to: Abl, Lck, Lyn, Src, Fyn, Syk, Zap-70,
+Itk, Tec, Btk, EGFR, ErbB2, Kdr, Fltl, Flt-3, Tek, c-Met,
+InsR, and AKT.
+
+[0284] Kinases are expressed as either kinase domains or
+full length constructs fused to glutathione S-transferase
+(GST) or polyHistidine tagged fusion proteins in either E.
+coli or Baculovirus-High Five expression systems. They are
+puriﬁed to near homogeneity by aﬂinity chromatography as
+previously described (Lehr et al., 1996; Gish et al., 1995). In
+some instances, kinases are co-expressed or mixed with
+puriﬁed or partially puriﬁed regulatory polypeptides prior to
+measurement of activity.
+
+[0285] Kinase activity and inhibition can be measured by
+established protocols (see e.g., Braunwalder et al., 1996). In
+such cases, the transfer of 331’04 from ATP to the synthetic
+substrates poly(Glu, Tyr) 4:1 or poly(Argr Ser) 3:1 attached
+to the bioactive surface of microtiter plates is taken as a
+measure of enzyme activity. After an incubation period, the
+
+74
+
+Jan. 3], 2019
+
+amount of phosphate transferred is measured by ﬁrst wash-
+ing the plate with 0.5% phosphoric acid, adding liquid
+scintillant, and then counting in a liquid scintillation detec-
+tor, The IC50 is determined by the concentration of com-
+pound that causes a 50% reduction in the amount of 33])
+Incorporated onto the substrate bound to the plate
+
+[0286] In one method, the activated kinase is incubated
+with a biotinylated substrate peptide (conmining tyr) with or
+without the presence of a compound of the invention. After
+the kinase assay incubation period, excess kinase inhibitor is
+added to kill the kinase reaction along with Europium
+-labeled anti-phosphotyrosine antibody (Eu-Ab) and A110-
+phycocyanin-Streptavidin (SA-AFC). The biotinylated sub-
+strate peptide (with or without phosphorylated Tyrosine) in
+solution binds to the SA-APC via Biotin-Avidin binding.
+The Eu-Ab binds only to substrate with phosphorylated
+tryrosine. When the solution is excited at 615 um, there is an
+energy transfer from the Europium to the APC when they are
+in close proximity (ie attached to the same molecule of
+biotinylated and phosphorylated substrate peptide). The
+APC then ﬂuoresces at a wavelength of 665 nm. Excitation
+and emission take place in a Wallac Victor2 V plate reader
+where the plate is read ﬂuorometrically and absorbances at
+615 and 665 nm are recorded, These data are then processed
+by an Excel plate processor which calculates ICSOS of test
+compounds by convening the ﬂuorescence into amounts of
+phosphorylated substrate made and determining the concen-
+tration of test compound that would be required to inhibit the
+development of phosphorylated substrate by 50% (IC50).
+[0287] Other methods relying upon the transfer of phos-
+phate to peptide or polypeptide substrate containing tyro-
+sine, serine, threonine or histidine, alone, in combination
+with each other, or in combination with other amino acids,
+in solution or immobilized (i.e., solid phase) are also useful.
+[0288] For example, transfer of phosphate to a peptide or
+polypeptide can also be detected using scintillation proxim-
+ity, Fluorescence Polarization or homogeneous time-re-
+solved ﬂuorescence. Alternatively, kinase activity can be
+measured using antibody-based methods in which an anti-
+body or polypeptide is used as a reagent to detect phospho-
+rylated target polypeptide.
+
+[0289] For additional background information on such
+assay metiodologies, see e.g., Braunwalder et al., 1996,
+Anal. Biochem. 234(1):23; Cleaveland et al., 1990, Anal
+Biochem. 190(2):249 Gish et al (1995). Protein Eng. 8(6):
+609 Kolb et al. (1998). Drug Discov. Toda V. 3:333 Lehr et
+a1 (1996). Gene 169(2):27527-87 Seethala et al. (1998),
+Anal Bioc1em. 255(2):257 Wu et a1, (2000),
+
+[0290] IC50 values in the low nanomolar range have been
+observed or compounds of this invention against various
+kinases, including Src, Ab] and kdr.
+
+Cell-Basec Assays
+
+[0291] Certain compounds of this invention have also
+been demonstrated cytotoxic or growth inhibitory effects on
+tumor and other cancer cell lines and thus may be useful in
+the treatment of cancer and other cell proliferative diseases.
+Compounc s are assayed for anti-tumor activity using in vivo
+and in Vitro assays which are well known to those skilled in
+the art Generally, initial screens of compounds to identify
+candidate anti-cancer drugs are performed in cellular assays.
+Compounc s identiﬁed as having anti-proliferative activity in
+such cell-based assays can then be subsequently assayed in
+whole organisms for anti-tumor activity and toxicity. Gen-
+US 2019/0031656 A1
+
+[0023] 2. Featured Classes of Compounds and their Use,
+Generally
+
+[0024] Compounds of this invention include those in
+which Ring T has the following structure:
+
+(R’):
+
+where Ring E is a 5- or 6-membered unsaturated ring
+(formed by two R' groups together with the Ring T atoms to
+which they are attached, as described above) and s is 0, 1,
+2, 3 or 4. These are illustrated by the compounds of formula
+I in which the fused Ring T ring system is one of the
+following (in which one of the optional Re substituents is
+depicted)
+
+[0025] Other classes of particular interest are compounds
+of Formula I, as described in Part 1, in which Ring E is a
+6-membered ring, otherwise as described above. Illustrative
+examples of such compounds include compounds of For-
+niula I in which Ring T (with its attached Ring E) is a fused
+bicyclic heteroaryl of the following types:
+
+(R2; (Re)\s (R0;
+\‘YN \NrN NVYN
+@N/ E N / g/N /
+OER (R‘);\ (R2),
+NXAN:N\
+
+Jan. 3], 2019
+
+-continued
+(Re\);/\
+
+[0026] For the previously described class and subclasses
+
+of compounds, as in all compounds of this invention. Ring
+A and Ring B are as previously deﬁned in Part 1.
+
+[0027]
+are:
+
+Illustrative examples of substituted Ring A groups
+
+ 
+
+[0028]
+heteroaryl ring as deﬁned above in Part 1‘
+
+Ring B represents a 5 or 6-membered aryl or
+
+[0029]
+include:
+
+7W
+W
+
+Illustrative examples of substituted Ring B groups
+
+W
+W
+US 2019/0031656 A1
+
+-continued
+
+N CF
+
+\ I \ 3
+
+N /
+
+/ \N
+
+F
+F Cl
+WY
+NW N
+
+ 
+
+Jan. 3], 2019
+
+-continued
+
+CF;
+
+{a
+Q
+
+[0030] Of special interest is the class of compounds of
+Formula I as described above in Part I, in which one of the
+Rb substituents is a 5- or 6-membered ring (Ring C), which
+may be heteroaryl or heterocyclic, comprising carbon atoms
+and 1-3 heteroatoms independently selected from O, N and
+8(0),, and Ring C being optionally substituted on carbon of
+heteroatom(s) with l to 5 substituents R9
+
+[0031] This class is represented by Formula II:
+
+II
+
+in which the previously deﬁned variables, egl, n, m, p, A, B,
+T Ll, R‘, R”, R“ and Rb, are as deﬁned above in part I, and
+
+[0032] RC, at each occurrence, is Independently selected
+from halo, :0, ACN. 7N0” 7R4, AORZ, iNRzRS,
+4C(O)YR2, 40C(O)YR2, 7NR2C(O)YR2, iSi(R2)3,
+
+iSC(O)YR2, 7NR2C(:S)YR2, 40C(:S)YR2,
+4C(:S)YR2, 7YC(:NR3)YR2, 7YP(:O)(YR4)(YR‘),
+iNRZSOZRZ, ismuﬁ iSOZNRZRB and
+
+iNRZSOZNRZRi wherein each Y is independently a bond,
+40*. 787 or 7NR37 and r, R2, R3 and R4, are as
+deﬁned previously in Part I; and,
+
+[0033] v is 0, 1, 2, 3, 4 or 5.
+US 2019/0031656 A1
+75
+
+erally speaking, cell-based screens can be performed more
+rapidly and cost-effectively relative to assays that use whole
+organisms For purposes of this invention, the terms “anti-
+tumor” and “anti-cancer" activity are used interchangeably
+[0292] Cell-based methods for measuring antiproliferative
+activity are well known and can be used for comparative
+characterization of compounds of this invention. In general,
+cell proliferation and cell viability assays are designed to
+provide a detectable signal when cells are metabolically
+active. Compounds may be tested for antiproliferative activ-
+ity by measuring any observed decrease in metabolic activ-
+ity of the cells aﬁer exposure of the cells to compound.
+Commonly used methods include, for example, measure-
+ment of membrane integrity (as a measure of cell viability)
+(eg, using trypan blue exclusion) or measurement of DNA
+synthesis (eg. by measuring incorporation of BrdU or
+3H-thymidine).
+
+[0293] Some methods for assaying cell proliferation use a
+reagent that is converted into a detectable compound during
+cell proliferation. Particularly preferred compounds are tet-
+razolium salts and include without limitation MTT (3-(4,
+5-d.imethy1thiazol-2-y1)—2,5-dipheny1tetrazio1ium bromide;
+Sigma-Aldrich, St. Louis, Mo), MTS (3-(4,5-d.imethy1thi-
+azol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfopheny1)-
+2H-tetrazolium), XTT (2,3-bis(2-Methoxy-4-nitro-5-sulfo-
+phenyl)-2H-tetrazolium-5-carboxanilide), INT, NET, and
+NTV (Bemas et al. Biochim Biophys Acta 1451(1):73-81,
+1999), Preferred assays utilizing tetrazolium salts detect cell
+proliferation by detecting the product of the enzymatic
+conversion of the tetrazolium salts into blue formazan
+derivatives, which are readily detected by spectroscopic
+methods (Mosman, J Immunol. Methods. 65 55-63, 1983),
+[0294] Generally, preferred methods for assaying cell pro-
+liferation involve incubating cells in a desired growth
+medium with and Without the compounds to be tested,
+Growth conditions for various prokaryotic and eukaryotic
+cells are well-known to those of ordinary skill in the art
+(Ausubel et a1, Current Protocols in Molecular Biology
+Wiley and Sons 1999; Bonifacino et al, Current Protocols in
+Cell Biology Wiley and Sons, 1999 both incorporated
+herein by reference). To detect cell proliferation, the tetra-
+zolium salts are added to the incubated cultured cells to
+allow enzymatic conversion to the detectable product by
+active cells. Cells are processed, and the optical density of
+the cells is determined to measure the amount of formazan
+derivatives. Furthermore, commercially available kits,
+including reagents and protocols, are available for examples,
+from Promega Corporation (Madison, Wis), Sigma-Aldrich
+(St. Louis, MO), and Trevigen (Gaithersburg, Md.).
+[0295] More specifically, the cell proliferation assay we
+currently perform is using CellTiter 96 AQueous One Solu-
+tion Cell Proliferation assay kit (Promaga, Cat#G3581). This
+assay is a colorimetric method for determining the number
+of alive cells in proliferation or cytotoxicity assays, The
+assay utilizing terazolium salts detect cell proliferation by
+detecting the product of the enzymatic conversion of the
+tetrazolium salts into blue forrnazan derivatives, which can
+
+be measured by the absorbance at 490 nm in a plate reader,
+Wallac VictorJV (PerkinElmer).
+
+[0296] An example of cell-based assay is shown as below,
+The cell lines used in the assay are Ba/F3, a murine pro-B
+cell line, which have been stably transfected with full-length
+wild-type Bcr-Abl or Bcr-Abl with various kinase domain
+point mutations (including T3511, Y253F, E255K, HS96P,
+
+Jan. 31, 2019
+
+M351T etc) constructs. Parental Ba/F3 cell line is used as
+control. These cell lines were obtained from Brian J. Druker
+(Howard Hughes Medical Institute, Oregon Health and
+Science University, Portland, Oreg. USA), Ba/F3 cell
+expressing Bcr—Abl or Bcr—Abl mutants were maintained in
+PRMI 1640 growth medium with 200 pM L-glutamine, 10%
+FCS, penicillin (200U/ml), and streptomycin (200 [Lg/ml).
+Parental Ba/F3 cells were culture in the same medium
+supplemented with 10 ng/ml IL-3.
+
+[0297] Parental Ba/F3 cells (supplemented with IL-3) or
+Ba/F3 cells expressing WT or mutant Bcr-Abl are plated in
+duplicate at l><104 cells/well in 96-well plates with the
+compounds in diﬂerent concentrations in the media. The
+compounds are ﬁrst dissolved and diluted in DMSO by
+preparation of 4-fold dilution; next equal volumes of com-
+pounds with DMSO are transferred to medium and then
+transferred to cell plates. The ﬁnal compound concentrations
+start from 10 [,LM to 6 nM. DMSO at same percentage is used
+as control. After compound was incubated with cells for 3
+days, the numbers of active cells are measured using Cell-
+Titer 96 AQueous One Solution Cell Proliferation assay kit
+following the kit instruction. Basically, the tetrazolium salts
+are added to the incubated cultured cells to allow enzymatic
+conversion to the detectable product by active cells. Cells
+are processed, and the optical density of the cells is deter-
+mined to measure the amount of fonnazan derivatives
+Mean+/—SD are generated from duplicated wells and
+reported as the percentage absorbance of control. IC50s are
+calculated in best-ﬁt curves using Microsoft Excel-ﬁt soft-
+ware,
+
+[0298] In addition, a wide variety of cell types may be
+used to screen compounds for antiproliferative activity,
+including the following cell lines, among others: COLO 205
+(colon cancer), DLD-l (colon cancer), HCT—lS (colon can-
+cer), HT29 (colon cancer), HEP G2 (Hepatoma), K-562
+(Leukemia), A549 (Lung). NCI-H249 (Lung), MCF7 (Mam-
+mary), MDA-MB-23l (Mammary), SAOS—2 (Osteosar-
+coma), OVCAR-3 (Ovarian), PANC-l (Pancreas), DU-145
+(Prostate), PC-3 (Prostate), ACHN (Renal), CAKI-l (Re-
+nal), MG-63 (Sarcoma),
+
+[0299] While the cell line is preferably mammalian, lower
+order eukaryotic cells such as yeast may also be used to
+screen compounds Preferred mammalian cell lines are
+derived from humans, rats, mice, rabbits, monkeys, ham-
+sters, and guinea pigs since cells lines from these organisms
+are well-studied and characterized. However, others may be
+used as well.
+
+[0300] Suitable manunalian cell lines are often derived
+from tumors. For example, the following tumor cell-types
+may be sources of cells for culturing cells: melanoma,
+myeloid leukemia, carcinomas of the lung, breast, ovaries,
+colon, kidney, prostate, pancreas and testes), cardiomyo-
+cy‘tes, endothelial cells, epithelial cells, lymphocytes (T-cell
+and B cell), mast cells, eosinophils, vascular intimal celans,
+hepatocytes, leukocytes including mononuclear leukocytes,
+stem cells such as haemopoetic, neural, skin, lung, kidney,
+liver and myocyte stem cells (for use in screening for
+differentiation and de-differentiation factors), osteoclasts,
+chondrocytes and other connective tissue cells, keratino-
+cy‘tes, melanocytes, liver cells, kidney cells, and adipocytes.
+Non-limiting examples of mammalian cells lines that have
+been widely used by researchers include HeLa, NIH/3T3,
+HT1080, CHO, COS-1, 293T, WI-38 and CVl/EBNA-1.
+US 2019/0031656 A1
+
+61
+-continued
+T3151
+cell
+proliferation
+Compounds of me Invention (nM)
+/ /N <1000
+N /
+\ \ /
+N
+\ N
+/J
+N
+H
+N
+O
+CF3
+/ /N <1000
+
+\\
+
+N/\\
+g \\/N\
+0
+CF3
+
+N/ <1000
+_N
+\ r
+
+2:1:
+
+N1
+0 O
+
+CF3
+
+\\ ?)
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+49
+-continued
+T3 151
+cell
+proliferation
+Compounds of me Invention (uM)
+RAC <1000
+/ /N
+\ N
+H O
+N
+N
+O
+CF3
+/ /N <1000
+\ N
+/
+o (\N
+)\Q\/N\)
+N
+H
+CF3
+/ <1000
+_ N
+\N/N /
+§
+p N /
+0 N\)
+
+CF3
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+7142
+
+CF3
+
+HN
+/N
+1W
+\NN
+H
+N
+O\
+
+65
+
+T3 1 5 I
+cell
+proliferation
+
+(uM)
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+0
+
+WM
+
+/ /N
+
+\ N /
+
+\\ CF3
+HN
+\N /
+
+O
+
+/ /N
+
+\ N /
+
+The compounds listed in the table below also showed
+inhibitory activity against various protein kinase of interesti
+
+\\
+
+71
+
+T3151
+cell
+proliferation
+(HM)
+
+<1000
+
+<1000
+
+-continued
+
+Q
+{H
+
+N
+
+Jan. 31, 2019
+
+CF}
+US 2019/0031656 A1
+
+5 9
+-continued
+T3151
+cell
+proliferation
+Compounds of me Invention (uM)
+/ /N <1000
+\ N /
+N /
+H
+N
+0
+N3
+1 N\
+RAC <1000
+
+:
+| |
+|
+
+CF3
+
+O
+
+\_
+3
+)7
+
+Jan. 31, 2019
+US 2019/0031656A1 Jan. 31,2019
+
+[0047] Non-limiting examples of such compounds include as illustrated by the following examples:
+those having the following structures:
+US 2019/0031656A1 Jan. 31,2019
+
+7NR2802NR2R3, wherein each Y is independently a bond, -continued
+407, 787 or 7NR37 and r, R2, R3 and R4 are as
+previously deﬁned in Part 1;
+
+[0042] w is 0, 1, 2, 3, 4 or 5;
+
+[0043] x is 0, l, 2 or 3; and,
+
+[0044] z is 1, 2, 3 or 4.
+
+[0045] Non-limiting, illustrative examples of {Ring B]-
+
+[L2]-[Ring D] moieties in compounds of Formula 111 include N / N \
+among others: uullN |\
+\ \
+
+CF3 CF3
+
+[0046] Of special interest is the class of compounds of
+formula III in which Ring T has the following structure:
+
+(KL); E
+CF3 T
+/ H
+ﬁ N
+
+Q/OH
+K/N\ in which the previously deﬁned variables, e,g., Re, s, and
+
+Ring E, are as deﬁned previously.
+US 2019/0031656 A1
+
+-cominued
+T3151
+cell
+proliferation
+Compounds of the anenﬂon (11M)
+<1000
+/ /N
+
+\\ f
+
+CF3
+
+<1000
+
+0
+Zn:
+237
+£2
+::
+
+/ /N <1ooo
+
+2m
+
+CF3
+
+Jan. 31, 2019
+US 2019/0031656 A1
+70
+
+-continued
+
+T3 1 5 I
+cell
+
+pmlifemtlon
+Compounds of the Invention (an
+
+N/ﬁéN <1000
+g/N /
+
+O
+\\ (J/F
+
+ll
+N
+0
+CF3
+RAC <1000
+/
+_N
+\ N /
+H
+N
+OH
+O N
+CF3
+0 <1000
+HNJK
+/J\ N
+N/ N/
+\ \
+N
+CF3
+H
+N \
+
+Jan. 31, 2019
+US 2019/0031656 A1
+64
+
+-continued
+
+T3 1 5 I
+cell
+proliferation
+
+Compounds of me Invention (uM)
+
+N/YN <1000
+K/N /
+
+\\ if@
+
+0
+CF3
+/ < 1000
+_ N
+{h
+L
+\
+O N
+CF}
+/N <1000
+an
+\ N /
+g
+f N /
+O Nd
+
+CF3
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+-continued
+
+Jan. 31, 2019
+
+-continued
+
+\\
+
+CF
+US 2019/0031656 A1
+
+-continued
+
+66
+
+T3151
+cell
+
+proliferation
+Compounds of me Invention (nM)
+N / /N <1000
+K/N /
+0
+H
+N N
+O
+CFS
+NH; <1000
+/ /N
+\ N /
+\\ CF3
+HN
+\ /
+N
+0
+1000
+/ /N <
+\ N /
+\\ Q
+H
+N
+0
+CF}
+<1000
+
+G
+
+CF3
+
+Jan. 31, 2019
+US 2019/0031656 A1
+
+[0034] Illustrative examples of Ring C systems include but
+are not limited to the following types:
+
+(NV/\A /\\ (Rm 0
+L/
+ﬁéﬁv MD
+(Rm (RF)
+
+(R")v J\ N/xym \éj
+<\’ s I > < i
+
+o N
+
+N _
+
+S
+N
+Wag» | :06»
+/
+
+—(R‘)v
+
+in which R” and V are as deﬁned above,
+
+[0035] Of special Interest is the class of compounds of
+formula II in which Ring T has the following structure:
+
+(Re); E
+
+in which the indicated variables, egi, Re, s and Ring E, are
+as deﬁned previously,
+
+Jan. 3], 2019
+
+[0036] Illustrative subsets of such compounds include
+those having the following structures:
+
+(Re):
+
+ 
+
+(Re):
+
+ 
+
+NHCH3
+US 2019/0031656 A1
+
+as embodied by the following non-limiting illustrative
+
+examples
+0
+Wk
+/ /N
+\ N\
+\\
+CF3
+O
+N
+/—<\ j
+—N N
+\
+/ /N
+\N/N\
+\\
+CF3
+
+O
+2;:
+
+CF;
+
+N N'HCH;
+
+Jan. 31, 2019
+N' -continued
+(\N"\
+\ \
+N
+g CF3
+O
+
+0
+
+in which several illustrative -[Ring A]-[L‘]-[Ring B]-[Ring
+C]- portions are depicted,
+
+[0037] Compounds of interest include among others, com-
+pounds of Fonnula II in which Ring C is an imidazole ring,
+optionally substituted with one or more RE groups. Of
+particular Interest, are compounds of this subclass in which
+Ring C bears a single lower alkyl (e.g,, methyl) RE group.
+
+[0038] A further feature of the invention relates to com-
+pounds of Formula I as described in Part 1, in which one Rb
+substituent is -[L2]-[Ring D]. This class is represented by
+Formula III:
+
+III
+
+ 
+
+in which the previously deﬁned variables. e.g., n, m, p, Ring
+T, Ring A, Ring B, L1, R1, R”, R“ and Rb, are deﬁned above
+in part 1, and
+
+[0039] L2 is selected from (CHZ)Z, O(CHZ)X, NR3(CHZ)X,
+S(CH2)x, and (CH2)XNR3C(O)(CH2)x, and the linker moiety
+L2 can be included in either direction;
+
+[0040] Ring D represents a 5- or 6-membered heterocyclic
+or heteroaryl ring comprising carbon atoms and 1-3 heteroa-
+toms independently selected from O, N and 5(0),, and Ring
+D is optionally substituted on carbon or heteroatorn(s) with
+1-5 Rr groups;
+
+[0041] R1, at each occurrence, is independently selected
+from halo, :0, £N, iNOZ, iR“. 40R? iNRZRB,
+iSi(R2)3, 4C(O)YR2, 40C(O)YR2, 7NR2C(O)YR2,
+iSC(O)YR2, 7NR2C(:S)YR2, 40C(:S)YR2,
+4C(:S)YR2, 7YC(:NR3)YR2, 7YP(:O)(YR“)(YR4),
+iNRZSOZRZ, iS(O)fRZ, ~SOZNR2R3 and
+US 2019/0031656 A1
+
+-continued
+
+Compounds of me Invention
+
+\\ Q
+
+CF3
+
+CF}
+
+215:
+
+CF3
+
+67
+
+T3151
+cell
+pmlifemtion
+(an,
+
+<1000
+
+<1000
+
+<1000
+
+Jan. 31, 2019
+US 2019/0031656A1 Jan. 31,2019
+73
+
+-continued -continued
+
+: :2 xoiNiox
+
+\\ F F <77;
+ﬂ \\
+CL
+
+0
+
+\N/ i
+
+H‘N NHw
+
+\\ éﬁ‘q .
+N \ N /
+US 2019/0031656 A1
+
+MECT Corp Kl-8110, American Cyanamid L-623, leuko-
+regulin, lonidamine, Lundbeck LU 1121 Lilly LY—186641,
+NC] (US) MAP, marycin, Merrel Dow MDL-27048, Medco
+MEDR-340, merbarone, merocyanine derivatives, methyl-
+anilinoacridine, Molecular Genetics MGI 136, minactivin,
+mitonaﬁde, mitoquidone mopidamol, motretinide, Zenyaku
+Kogyo MST-16, N-(retinoyl)amino acids, Nisshin Flour
+Milling N-021, N-acylated-dehydroalanines, nafazatrom,
+Taisho NCU-190, nocodazole derivative, Norrnosang, NCl
+NSC-145813, NCl NSC-361456, NCI NSC-604782, NCl
+NSC-95580, ocreotide, Ono ONO-112, oquizanocine, Akzo
+Org-10172, paclitaxel, pancratistatin, pazelliptine, Warner-
+Lambert I’D-111707, Warner-Lambert I’D-115934, Warner-
+Lambert I’D-131141, Pierre Fabre PE-1001, ICRT peptide
+D, piroxantrone, polyhaematoporphyrin, polypreic acid,
+Efamol porphyrin, probimane, procarbazine, proglumide,
+lnvitron protease nexin I, Tobishi RA-700, razoxane, Sap-
+poro Breweries RBS, restrictin-P, retelliptine, retinoic acid,
+Rhone-Poulenc RP-49532, Rhone-Poulenc RP-56976,
+SmithKline SK&F-104864, Sumitomo SM-108, Kuraray
+SMANCS, SeaPharm SP10094, spatol, spiroqlclopropane
+derivatives, spirogermanium, Unimed, SS Pharmaceutical
+SS-554, strypoldinone, Stypoldione, Suntory SUN 0237,
+Suntory SUN 2071, superoxide dismutase, Toyama T—506,
+Toyama T—680, taxol, Teijin TEl-0303, teniposlde. thalibi-
+astine, Eastman Kodak TIE-29, tocotrienol, topotecan,
+Topostin, Teijin TT82, Kyowa Hakko UCN-01, Kyowa
+Hakko UCN-1028, ukraine, Eastman Kodak USB-006, vin-
+blastine sulfate. vincristine, vindesine, vinestramide, vinore-
+lbine, vintriptol, vinzolidine, withanolides and Yamanouchi
+YM Alternatively, the present compounds may also be used
+in co-therapies with other anti-neoplastic agents, such as
+acemannan, aclarubicin, aldesleukin, alemtuzumab, alit-
+retinoin, altretamine, amifostine, aminolevulinic acid, amru-
+bicin, amsacrine, anagrelide, anastrozole, ANCER, ances-
+tim, ARGLABIN, arsenic trioxide, BAM 002 (Novelos),
+bexarotene, bicalutamide, broxuridine, capecitabine, celmo-
+leukin, cetrorelix, cladribine, clotrimazole, cytarabine ocfos-
+fate, DA 3030 (Dong-A), daclizumab, denileukin diftitox,
+deslorelin, dexrazoxane, dilazep, docetaxel, docosanol, dox-
+ercalciferol, doxiﬂuridine, doxorubicin, bromocriptine, car-
+mustine, cytarabine, ﬂuorouracil, HIT diclofenac, interferon
+alfa, daunorubicin, doxorubicin, tretinoin, edelfosine,
+edrecolomab eﬂornithine, emitefur, epirubicin, epoetin beta,
+etoposide phosphate, exemestane, exisulind, fadrozole, ﬁl-
+grastim, ﬁnasteride, ﬁudarabine phosphate, formestane,
+fotemustine, gallium nitrate, gemcitabine, gemtuzumab
+zogamicin, gimeracil/oteracil/tegafur combination, glyco-
+pine, goserelin, heptaplatin, human chorionic gonadotropin,
+human fetal alpha fetoprotein, ibandronic acid, idarubicin,
+(imiquimod, interferon alfa, interferon alfa, natural, inter-
+feron alfa-2, interferon alfa-2a. Interferon alfa-2b, Interferon
+alfa-Nl, interferon alfa-n3, interferon alfaconl, interferon
+alpha, natural, interferon beta, interferon beta-la, interferon
+beta-lb, interferon gamma, natural interferon gamma-la,
+interferon gannna-Ib, interleukin-1 beta, iobenguane, irino-
+tecan, irsogladine, lanreotide, LC 9018 (Yakult), leﬂuno-
+mide, lenograstim, lentinan sulfate, letrozole, leukocyte
+alpha interferon, leuprorelin, levamisole+ﬂuorouracil, liaro-
+zole, lobaplatin, lonidamine, lovastatin, masoprocol, melar-
+soprol, metoclopramide, mifepristone, miltefosine, miri-
+mostim, mismatched double stranded RNA, mitoguazone,
+mitolactol, mitoxantrone, molgramostim, nafarelin, nalox-
+one+pentazocine, nartograstim, nedaplatin, nilutamide,
+
+Jan. 31, 2019
+
+noscapine, novel erythropoiesis stimulating protein, NSC
+631570 octreotide, oprelvekin, osaterone, oxaliplatin, pacli-
+taxel, pamidronic acid, pegaspargase, peginterferon alfa-2b,
+pentosan polysulfate sodium, pentostatin, picibanil, piraru-
+bicin, rabbit antithymocyte polyclonal antibody, polyethyl-
+ene glycol interferon alfa-2a, porﬁmer sodium, raloxifene,
+raltitrexed, rasburicase, rhenium Re 186 etidronate, Rll
+retinamide, rituximab, romurtide, samarium (153 Sm) lex-
+idronam, sargramostim, sizoﬁran, sobuzoxane, sonermin,
+strontium-89 chloride, suramin, tasonennin, tazarotene,
+tegafur, temoporﬂn, temozolomide, teniposide, tetrachloro-
+decaoxide, thalidomide, thymalfasin, thyrotropin alfa, topo-
+tecan, toremifene, tositumomab-iodine 131, trastuzumab,
+treosulfan, tretinoin, trilostane, trimetrexate, triptorelin,
+tumor necrosis factor alpha, natural, ubenimex, bladder
+cancer vaccine, Maruyama, vaccine, melanoma lysale vac-
+cine, valrubicin, verteporﬁn, vinorelbine, VIRU'LIZIN,
+zinostatin stimalamer, or zoledronic acid; abarelix; AB 941
+(Aeterna), ambamustine, antisense oligonucleotide, bcl-2
+(Genta), APC 8015 (Dendreon), cetuximab, decitabine, dex-
+aminoglutethimide, diaziquone, EL 532 (Elan), EM 800
+(Endorecherche), eniluracil, etanidazole, fenretinidel ﬂi-
+grastim SD01 (Amgen), fulvestrant, galocitabine, gastrin 17
+immunogen, HLA-B7 gene therapy (Vical), granulocyte
+macrophage colony stimulating factor, histamine dihydro-
+chloride, ibritumomab tiuxetan, ilomastat, 1M 862 (Cytran),
+interleukin iproxifene, LD1 200 (Milkhaus), leridistim, lin-
+tuzumab, CA 125 MAb (Biomira), cancer MAb (Japan
+Pharmaceutical Development), HER-2 and Fc MAb (Me-
+darex), idiotypic 105AD7 MAb (CRC Technology), idio-
+typic CEA MAb (Trilex), LYM iodine 131 MAb (Techni-
+clone), polymorphic epithelial mucin-yttrium 90 MAb
+(Antisoma), marimastat, menogaril, mitumomab, motexaﬁn,
+gadolinium, MK 6 (Galderma), nelarabine, nolatrexed, P 30
+protein, pegvisomant, pemetrexed, por‘liromycin, prinomas-
+tat, RL 0903 (Shire), rubitecan, satraplatin, sodium pheny-
+lacetate, sparfosic acid, SRL 172 (SR Pharma), SU 5416
+(SUGEN)y SU 6668 (SUGEN), TA 077 (Tanabe), tetrathio-
+molybdate, thaliblastine, thrombopoietin, tin ethyl etiopur-
+purin. tirapazamine, cancer vaccine (Biomira), melanoma
+vaccine (New York University), melanoma vaccine (Sloan
+Kettering Institute), melanoma oncolysate vaccine (New
+York Medical College), viral melanoma cell lysates vaccine
+(Royal Newcastle Hospital), or valspodar.
+
+[0186] Treatment Kits
+
+[0187] In other embodiments, the present invention relates
+to a kit for conveniently and effectively carrying out the
+methods in accordance with the present invention In gen-
+eral, the pharmaceutical pack or kit comprises one or more
+containers ﬁlled with one or more of the ingredients of the
+pharmaceutical compositions of the invention, Such kits are
+especially suited for the delivery of solid oral forms such as
+tablets or capsules. Such a kit preferably includes a number
+of unit dosages, and may also include a card having the
+dosages oriented in the order of their intended use If
+desired, a memory aid can be provided, for example in the
+form of numbers, letters, or other markings or with a
+calendar insert, designating the days in the treatment sched-
+ule in which the dosages can be administered. Optionally
+associated with such container(s) can be a notice in the form
+prescribed by a governmental agency regulating the manu-
+facture, use or sale of pharmaceutical products, which notice
+reﬂects approval by the agency of manufacture, use or sale
+for human administration.
+US 2019/0031656 A1
+
+Synthesis, 3rd Ed, John Wiley and Sons (1999); L. Fieser
+and M, Fieser, Fieser and Fieser's Reagents for Organic
+Synthesis, John Wiley and Sons (1994); and L. Paquette, edu,
+Encyclopedia of Reagents for Organic Synthesis, John
+Wiley and Sons (1995), The entire contents of these refer-
+ences are hereby incorporated by reference.
+
+[0098] Also, one may chose reagents enriched for a
+desired isotope, e,g. deuterium in place of hydrogen, to
+create compounds of this invention containing such isotope
+(5). Compounds containing deuterium in place of hydrogen
+in one or more locations, or containing various isotopes of
+C, N, P and O, are encompassed by this invention and may
+be used, for instance, for studying metabolism and/or tissue
+distribution of the compounds or to alter the rate or path of
+metabolism or other aspects of biological functioning.
+
+[0099] The compounds of the this invention can be syn-
+thesized using the methods described below, together with
+swithetic methods known in the art of synthetic organic
+chemistry, or by a variation thereon as appreciated by those
+skilled in the art, Preferred methods include, but are not
+limited to those described below. The reactions are pre-
+formed in a solvent appropriate to the reagents and materials
+employed and suitable for the transformation being eﬁected.
+It will be understood by those skilled in the art of organic
+synthesis that the functionality present on the molecule
+should be consistent the transformations proposed. This will
+sometimes required some judgment to modify the order of
+the synthetic steps or to select one particular process scheme
+over another in order to obtain a desired compound of the
+invention,
+
+[0100] A compound of the present invention could be
+prepared as outlined in Scheme I to Scheme XIX and via
+standard methods known to those skilled in the art.
+
+[0101] A palladium catalyzed Sonogashira coupling reac-
+tion is used to link the ‘top’ Ring T to the ‘bottom’ [Ring
+A]-[L1]-[Ring B] moiety as illustrated in Scheme I and II. In
+Scheme I the Sonogashira coupling reaction is performed
+with an acetylenic ‘top’ Ring T and a [Ring A]-[L1]-[Ring B]
+moiety which has been activated by the presence of a
+reactive group, W, which is an I, a Br or another reactive
+group permitting the desired coupling reaction. The vari-
+ables in the W—[Ring A]-[L1]-[Ring B] are as deﬁned pre-
+viously, Rings A and B being substituted with permitted R“
+and Rb groups, respectively.
+
+Scheme 1: Sonogashira Coupling Reaction
+
+(Rf),
+N
+Pd(PPh3)4
+T H —>
+/ CuI,DMF,
+DIEA,rt
+\\ W
+
+ 
+
+(Rm.
+
+Jan. 31, 2019
+
+-continued
+(Rf).
+
+  
+
+(Rate;
+
+[0102] An alternative coupling reaction is described in
+Scheme II, in which Ring T as “activated” by the presence
+of a reactive group W (such as I or Br) and Is coupled to the
+‘bottom’ acetylenic [RingA]-L‘-[RingB] under similar Pal-
+ladium catalyzed coupling conditions.
+
+Scheme II: Alternative Sonogashira Coupling Reaction
+
+(R91:
+Pd(PPh3)4
+H CuI DMF. (Rb)?
+DIEA,1’[
+
+[0103] The Sonogashira coupling conditions described in
+SchemeI and II are applicable to all bicyclic heteroaryl Ring
+TS and useful to synthesize all compounds of this invention.
+
+[0104] Several illustrative overall synthetic approaches to
+the preparation of the acetylenic Ring T moieties, based on
+known transformations, are illustrated below in Schemes III
+to VIII:
+
+Scheme III: Preparation of37Ethynylimidazol[l,Zra]pyrazine
+
+ 
+
+ 
+
+t PIOH
+Reﬂux
+/
+mil-I NBS
+N CHei3
+\ Reﬂux
+N
+HN \
+N Pd(PPh;)4
+N2W¢N 011 DIEA DMF
+K/NBI / \
+
+\TMS
+US 2019/0031656 A1 Jan. 3], 2019
+
+ 
+
+15
+-continued -continued
+R R
+NAKN N TBAF.TH_F NAKN N // //
+K/N / K/N / I I
+H'N \ 1m \
+\\ \\ N/ /N N/ /N
+
+TMS K/N / N TBAF,THF K/N / N
+\\ \\
+N/ /N TMS
+0/ N
+
+\\ Scheme v; Prepaxauon of3rEﬂ1ynylxmjdazo[1,Zra]pyﬂdme or
+3-Ethynylimidazo[1,2»b]pyridazlne
+
+PdClzﬂ’Phgjz, or
+menu»
+Scheme 1v: Preparation ofCVS Substituted 37ELhynylim1dazol[1,27t1] Cu] CHJCN 80° c.
+
+pyrazines
+
+ 
+
+—TMS
+
+ 
+
+Cl \\ TH'F/water, n N/\\
+
+TMS
+/ N
+N / H NBS x = CH m N
+K/N / CHClg
+Reﬂux
+
+Scheme VI: Prepmuou of as Ammo Substituted 3-ELhyny1im1dazo
+[1 ,2»a]pyr1dines
+
+1. 0
+Cl \ \
+| C1
+OBn H
+/ N /
+N / H NHz NH EtOH
+K/N / 30H \ l Reﬂux
+Reﬂux
+
+ 
+
+ 
+
+ 
+
+2. BIZ, EIOH
+
+B; /N
+
+R
+\
+HN OBn
+
+N Pd<PPh3)4 N momma;
+N \ / Cu], DIEA, DMF / / ACN DIPA
+| N
+
+/N / \ \ N / CuI Reﬂux
+TMS \\
+
+Br TMS
+US 2019/0031656 A1
+
+[0188] The following representative examples contain
+important additional information, exempliﬁcation and guid-
+ance which can be adapted to the practice of this invention
+in its various embodiments and the equivalents thereof
+These examples are intended to help illustrate the invention,
+and are not intended to, nor should they be construed to,
+limit its scope. Indeed, various modiﬁcations of the inven-
+tion, and many further embodiments thereof, in addition to
+those shown and described herein, will become apparent to
+those skilled in the art upon review of this document,
+including the examples which follow and the references to
+the scientiﬁc and patent literature cited herein. The contents
+of those cited references are incorporated herein by refer-
+ence to help illustrate the state of the art. In addition, for
+purposes of this invention, the chemical elements are iden-
+tiﬁed in accordance with the Periodic Table of the Elements,
+CAS version, Handbook of Chemistry and Physics, 75’” Ed.,
+inside cover. Additionally, general principles of organic
+chemistry, as well as speciﬁc functional moieties and reac-
+tivity, are described in “Organic Chemistry”, Thomas Sor-
+rell, University Science Books, Sausalito: 1999, and
+“Organic Chemistry”, Morrison & Boyd (3d Ed), the entire
+contents of both of which are incorporated herein by refer-
+ence.
+
+EXAMPLES
+
+[0189] Some of the compounds described in the following
+examples have been converted into an HCl salt. The general
+procedure for generating HCl salts is described below:
+[0190] To the ﬁnal product was added just enough MeOH
+saturated with HCl (g) to dissolve, cooled to 0“ C. for 0.5-1
+h, ﬁltered, washed solid with ice cold MeOH then Et20, and
+the resulting solid dried in a vacuum desiccator to provide in
+most cases the tris HCl salt.
+
+Example 1
+
+N- (3 -(l H-imidazol-l -yl)-5-(triﬂuoromethyl)phenyl)-
+3-(imidazo[1,2-a]pyrazin-3-ylethynyl)-4-methylben-
+zarnide
+
+[0191]
+
+\\
+
+Ct
+
+1midazo[l ,2-a]pyrazine
+
+[0192] A solution of aminopyrazine (1 g, 10.5 mmol) and
+chloroacetaldehyde (50% wt in [120; 1.98 g, 12.6 mmol) in
+
+Jan. 31, 2019
+
+1.6 mL of EtOH was heated at 90° C. in a sealed tube for 5
+h. Upon cooling to ambient temperature, the reaction mix-
+ture was concentrated and diluted with dichloromethane
+(DCM). The organic layer washed with saturated aqueous
+NaHCO3 then dried over MgSO4 and concentrated. The
+crude product was puriﬁed by silica gel ﬂash chromatogra-
+phy (eluted with 10% MeOH/DCM) to provide 08 g of
+product.
+
+3-((Trimethy1sily1)ethyny1)imidazo[l,2-a]pyrazine
+
+[0193] A mixture of 3-bromoimidazo[l ,2-a]pyrazine (0.15
+g, 0.76 mmol; prepared according to J. Bradac, et a1. J. Org.
+Chem. (1977), 42, 4197-4201), 0.09 g (0.91 mmol) of
+ethynyltrimethylsilane, 0.044 g (0.038 mmol) of Pd(PPh3)A,
+0.014 g (0.076 mmol) of Cul, and 0.26 mL (152 mmol) of
+diisopropylethylamine in 3.8 mL of DMF was heated at 50°
+C. overnight under an atmosphere of N2. Upon cooling to
+ambient temperature, the reaction mixture was concentrated
+and the cmde product was puriﬁed by silica gel ﬂash
+chromatography (eluted with 50% EtOAc/hexanes) to pro-
+vide 0.15 g of product: 216 m/z (M+H).
+
+3-Ethyny1imidazo[1 ,2-a]pyrazine
+
+[0194] To a solution of 3-((Trimethylsilyl)ethynyl)imi-
+dazo [1,2-a]pyrazine (0.15 g, 0.7 mmol) in 3.5 mL of THF
+was added 1.05 mL (1.05 mmol) of tetrabutylanunonium
+ﬂuoride (1 .0M in THF) at ambient temperature. The solution
+was stirred for 15 min, concentrated, and the cmde product
+puriﬁed by silica gel ﬂash chromatography (eluted with 50%
+EtOAc/hexanes) to provide 0.078 g of product.
+
+3-(1H-imidazol-l-yl)-5-(triﬂuoromethyl)aniline
+
+[0195] A mixture of 3-Amino-5-bromobenzotriﬂuoride
+(4.0 g, 0.0167 mol). 8-hydroxy quinoline (0.362 g, 0.0025
+mol), CH] (0476 g, 0.025 mol), imidazole (1.36 g, 0.0199
+mol), and potassium carbonate (2.52 g, 0.0183 mol) in 17
+mL of DMSO (degassed with argon for ~10 min) was heated
+at 120° C. under an atmosphere of argon for 15 h; the HPLC
+indicated no starting material. A 14% aqueous solution of
+ammonium hydroxide was addec to the cooled mixture and
+this was stirred for l h at ambient temperature. Water (50
+mL) and EtOAc (200 mL) were added and the aqueous layer
+was extracted with EtOAc (3x30 mL). The combined
+organic layers were dried over NaZSO4 and concentrated
+The crude product was puriﬁed 3y silica gel ﬂash chroma-
+tography (eluted with EtOAc/hexanes) to provide 251 g of
+product.
+
+N—(3-(lH-Imidazol-l -yl)-5-(triﬂuoromethyl)phenyl)-
+3-iodo-4-methyl 3enzamide
+
+[0196] To 3-Iodo-4-methylbenzoic acid (3.07 g, 0.0117
+mol) was added thionyl chloride (10 mL) and reﬂuxed for 2
+h. The excess thionyl chloride was carefully removed and
+the resulting acid chloride was cried in vacuo for 2 h. The
+residue was then dissolved in DCM (anhydrous. 25 mL) and
+cooled on ice. To the cooled solution was added 3-(1H-
+imidazol-l-yl)-5-(triﬂuoromethy )aniline 5 (3.46 g, 0.0152
+mol) in DCM followed by the dropwise addition of diiso-
+propylethylamine (8.2 mL. 0.047 mol). This was stirred at
+ambient temperature for 21 h. The white solid that separated
+was ﬁltered and washed with water and dried to provide 465
+g of product. Additional product could be obtained from the
+US 2019/0031656 A1
+
+[0106] As one of ordinary skill in the art would recognize,
+these methods for the preparation of various substituted
+acetylenic Ring T groups, are widely applicable to various
+other fused bicyclic ring systems not shown.
+
+[0107] Schemes IX to Xlll below depict the synthesis of
+compounds of the formula W-[Ring A]-[L1]-[Ring B] which
+are useful as intermediates in the coupling reaction
+described in Schemes l and II.
+
+[0108]
+formula:
+
+It should be apparent that intermediates of the
+
+a
+
+are of particular interest as their coupling reaction with the
+‘top’ heteroaryl rings produces compounds of the present
+invention, The variable groups A, L1 and B are as previously
+deﬁned and are optionally substituted as described herein,
+and W is I or an alternative reactive group permitting the
+desired coupling reaction
+
+[0109] Illustrative such intermediates include among oth-
+ers those of those following structures:
+
+Jan. 3], 2019
+
+-continued
+
+0 N /
+w
+Ru
+g R”
+O \Q/
+N
+<1
+N R,
+w
+R" \
+N' / r m, /
+FN
+o Nd
+w
+Ra
+ii Rb
+I \
+O N /
+w
+R“ \N
+/ § Rb
+\
+o 11/
+
+wherein the previously deﬁned variables, eig, R“, Rb, RC and
+Rd, are as previously deﬁned For instance, R“ in some
+embodiments is chosen from F or alkyl, e.g., Me, among
+others, and Rb in some embodiments is chosen from Cl, F,
+Me, t-butyl, 7CF3 or AOCFS among others. Those and
+other compounds of the formula W—[Ring A]—[L1]-[Ring B]
+US 2019/0031656 A1 Jan. 3], 2019
+
+ 
+
+16
+-continued -continued
+OBn o
+N i
+/ / R NH
+\ N / 1.BC13,DCM
+—»
+2. mo, Pyr. / /N
+\\ \ N /
+TMS \\
+OTf \
+_R Scheme VIII: Prepamllon ch-6 and 08 Substltuted 3-Ethynyllmldazo
+. 1 ,Z-a] pyridines.
+N [
+/ / HZN / NH
+2
+\ N / Pd2(dba)3,DME
+KPO 30°C / N BOCZO
+3 4’ ' :> W
+\\ N
+Br \
+TMS PC W02004026867
+y; NHBOC
+‘P' ‘P’ / N 1. Coupling
+—.
+/ 2.TFA
+\ N /
+Br
+
+NH‘
+JP; ‘
+
+/ /N RX/base
+RN \ NJ
+/ \ / \ Nl-LR
+
+\\
+HN R \\ / /N —>NBS
+HN R J CH3CN
+/ /N TEARTHF \ N
+—» / N R6
+/
+\ N / R:alkyl,aryl,acyl
+\ N / cubamyletc.
+\\ N'HR
+TMS
+
+1. 1)“?th
+ACN, DIPA
+
+ 
+
+/ /N CuI, Reﬂux
+\
+\ 91% \\TMS
+R
+5 2. TBAF, THF
+Br
+NHR
+Scheme VII: Prepamtion of ca substituted 3-Ethynyllmldazo
+[1,Zra]pyridlnes
+/ /
+
+O
+
+A \ N /
+1. PdClz(PPh3)2, Rs
+
+ 
+
+ 
+
+R NH Cul, CH3CN, 80" c.
+_ TMS \\
+—>
+/ /N 2. TBAF, THE/water
+l1.
+\ N /
+
+[0105] For Ihe coupling step, see Malleron, J-L., Fiaud,
+Br J-C., Legros. LY. Handbook of Palladium Catalyzed
+Organic Reactions, San Diego: academic Press, 1997.
+US 2019/0031656 A1
+
+“aryl”, as it is used herein, is a group in which an aromatic
+ring is fused to one or more non-aromatic rings, such as in
+a indanyl, phenanthridinyl, or tetrahydronaphthyl, where the
+radical or point of attachment is on the aromatic ring.
+
+[0083] The term “heteroaryl” as used herein refers to
+stable heterocyclic, and polyheterocyclic aromatic moieties
+having 5-14 ring atoms, Heteroaryl groups may be substi-
+tuted or unsubstituted and may comprise one or more ringsi
+Examples of typical heteroaryl rings include 5-membered
+monocyclic ring groups such as thienyl, pyrrolyl, imida-
+zolyl, pyrazolyl, furyl, isothiazolyl, furazanyl, isoxazolyl,
+thiazolyl and the like; 6-membered monocyclic groups such
+as pyridyl, pyrazinyl, pyrimidinyl, pyridazinyl, triazinyl and
+the like; and polycyclic heterocyclic ring groups such as
+benzo[bjthienyl, naphtho[2,3-b]thienyl, thianthrenyl,
+isobenzofuranyl, chromeriyl, xanthenyl, phenoxathienyl,
+indolizinyl, isoindolyl, indolyl, indazolyl, purinyl, isoqui-
+nolyl, quinolyl, phthalazinyl, naphthyridinyl, quinoxalinyl,
+quinazolinyl, benzothiazole, benzimidazole, tetrahydroqui-
+noline cinnolinyl, pteridinyl, carbazolyl, beta-carbolinyl,
+phenanthridinyl, acridinyl, perimidinyl, pienanthrolinyl,
+phenazinyl, isothiazolyl, phenothiazinyl, phenoxazinyl, and
+the like (see e.g. Katritzky, Handbook 0 Heterocyclic
+Chemistry). Further speciﬁc examples of heteroaryl rings
+
+include 2-furanyl. 3-furanyl, N—imidazolyl, 2-imidazolyl,
+4-imidazolyl, 5-imidazolyl, 3-isoxazolyl, 4-isoxazolyl,
+5-isoxazolyl, 2-oxediazolyl, 5-oxadiazoly , 2-oxazolyl,
+
+4-oxazolyl. 5-oxazolyl, l-pyrrolyl, 2-pyrrolyl, 3-pyrrolyl,
+2-pyridyl, 3-pyridyl, 4-pyridyl, 2-pyrimidy, 4-pyrimidyl,
+5-pyrimidyl, 3-pyridazinyl, 2-thiazolyl, 4-thiazolyl, 5-thiaz-
+olyl, 5-tetrazolyl, 2—triazolyl, 5-triazolyl, 2-thienyl, 3-thie-
+nyl, carbazolyl, benzimidazolyl, benzothienyl, benzofura-
+nyl, indolyl, quinolinyl, benzotriazolyl, Jenzothiazolyl,
+benzooxazolyl, benzimidazolyl, isoquinolinyl, indolyl,
+isoindolyl, acridinyl, or benzoisoxazolyli Heteroaryl groups
+further include a group in which a heteroaromatic ring is
+fused to one or more aromatic or nonaromatic rings where
+the radical or point of attachment is on the ieteroaromatic
+ring. Examples include tetrahydroquinoline, tetrahydroiso-
+quinoline. and pyrido[3,4-d]pyrimidinyl, imidazo[l,2-a]py-
+rimidyl, imidazo[l,2-a]pyrazinyl, imidazo[ ,2-a]pyridinyl,
+imidazo[l,2-c]pyrimidyl, pyrazolo[l,5-a][l,3,5]triazinyl,
+pyrazolo[l,5-c]pyrimidyl, imidazo[l,2-b]pyridazinyl, imi-
+dazo[l,5»a]pyrimidyl, pyrazolo[l,5-b][1,2,4]triazine, qui-
+nolyl, lsoquinolyl, quinoxalyl, imidazotriazinyl, pyrrolo[2,
+3-d]pyrimidyl, triazolopyrimidyl, pyridopyrazinylr The term
+“heteroaryl” also refers to rings that are optionally substi-
+tuted. The term “heteroaryl” may be used interchangeably
+with the term “heteroaryl ring” or the term “heteroaromatic”.
+
+[0084] An aryl group (including the aryl portion of an
+aralkyl, aralkoxy, or aryloxyalkyl moiety and the like) or
+heteroaryl group (including the heteroaryl portion of a
+heteroaralkyl or heteroarylalkoxy moiety and the like) may
+contain one or more substituents Examples of suitable
+substituents on the unsaturated carbon atom of an aryl or
+heteroaryl group include halogen (F, Cl, Br or I), %N,
+7R4, 40112, 78(0),,RZ, (wherein r is an integer of 0, l or
+2), iSOZNRZRS, iNRZRS, 7(CO)YR2, 40(C0)YR2,
+7NR2(CO)YR2, iS(CO)YR2, 7NR2C(:S)YR2, 40C
+(:S)YR2, 4C(:S)YR2, wherein each occurrence on is
+independently 407‘ 787, iNRsi, or a chemical
+bond; 4(CO)YR2 thus encompasses 4C(:O)R2,
+4C(:O)OR2 and 7C(:O)NR2R3. Additional substitu-
+ents include 7YC(:NR3)Y'R2, ACOCORZ, ACOM-
+
+ 
+
+Jan. 3], 2019
+
+COR2 (where M is a 1-6 carbon alkyl group) 7YP(:O)
+(YR4)(YR4) (including among others 7P(:0)(R4)2). ~Si
+
+(R2)3. 7N0? iNRZSOZRz
+
+arid iNRZSOZNRZR? To
+
+illustrate further, substituents in which Y is 7NR3 thus
+include among others, 7NR3C(:O)R2, 7NR3C(:O)
+
+NRZRS, 7NR3C(:O)OR2 and
+
+7NR3C(:NH)NR2R3, R2
+
+and R3 substituents at each occurrence are independently
+selected from hydrogen, alkyl, alkenyl, alkynyl, cycloalkyl,
+cycloalkenyl, cycloalkynyl, aryl, heteroaryl, heterocyclyl,
+and R2 and R3 (and R4) substituents may themselves be
+
+substituted or unsubstituted.
+
+Examples of substituents
+
+allowed on R2, R3 and R4 include, among others amino,
+alkylamino, dialkylamino, aminocarbonyl, halogen, alkyl,
+alkenyl, alkynyl, aryl, heteroaryl, carbocycle, heterocycle,
+alkylaminocarbonyl, dialkylaminocarbonyl, alkylaminocar—
+bonyloxy, dialkylaminocarbonyloxy, nitro, cyano, carboxy,
+
+alkoxycarbonyl, alkylcarbonyl,
+
+ydroxy, alkoxy, haloalkoxy
+
+groups. Additional illustrative examples include protected
+
+OH (such as acyloxy), pheny
+
+, substituted phenyl, 40-
+
+phenyl, iO-(substituted) phenyl, -benzyl, substituted ben-
+zyl, 40-phenethyl (ie, iOCHZCHZCSHS) 40-(substi-
+tuted)phenethyli Non-limiting illustrations of a substituted
+
+R2, R3 or R4 moiety include
+alkoxyalkyl, halophenyl, -M-
+
+haloalkyl and trihaloalkyl,
+eteroaryl, -M-heterocycle,
+
+-M-aryl, -M-OR2, -M-SR2. -M-NR2R3, -M-OC(O)NR2R3,
+-M-C(:N'R2)NR2R3, -M-C(:NR2)OR3, -M-P(O)R2R3,
+Si(R2)ss -M-NR2C(O)R3, -M-N'R2C(O)ORZ, -M-C(O)R2,
+-M-C(:S)R2, -M-C(:S)NRZ{3, -M-C(O)NR2R3, -M-C
+(O)NR2-M-NR2R3, -M-NR2C(NR3)NR2R3r -M-NR2C(S)
+NR2R3, -M-S(O)2R3, -M-C(O)R3, -M-OC(O)R3, -MC(O)
+SR2, -M-S(O)2NR2R3, 4C(O)-M-C(O)R2, -MC02R2, -MC
+
+(:O)NR2R3, -M-C(:NH)N
+
+2R3 and -M-OC(:NH)
+
+NRZR3 (wherein M is a 1-6 carbon alkyl group)
+
+[0085] Some more speciﬁc examples include but are not
+
+limited to chloromethyl, trich
+methoxyethyl, alkoxypheriyl,
+
+oromethyl, triﬂuorornethyl,
+halophenyl, %li2-ml,
+
+4H2—hetemcyc1e, 41712C(0)N1712, 4C(O)CH2N(CH3)2,
+
+ 
+
+ACHZCHZOH, ACHZOC(O)NH2. iCHZCHzNHZ.
+ACHZCHZCHZNEIZ, ACJZOCHS, 4C(O)NH2,
+ACHZCHZ-heterocycle, 4C(:S)CH3. 4C(:S)NHZ,
+
+4C(:N'H)NH2, 4C(:NH)OEt, 4C(0)N'H-cyclopropyl,
+
+C(O)NHCH2CH2-hetemcycle,
+
+4C(O)NHCH2CHZOCH3,
+
+4C(O)CHZCHZNHCH3, iCHZCHZF, 4C(O)CH2-hetero-
+
+cycle, 4CH2C(O)NHCH3,
+Si(CH3)3 and the like.
+
+43HzCHzP(O)(CHs)2,
+
+[0086] An aliphaticr ire., alkyl, alkenyl, alkynyl, alkoxy,
+
+haloalkyl, cycloalkyl, cycloalkenyl, cycloalkynyl or non-
+
+aromatic heterocyclic, group may thus also contain one or
+more substituents Examples of suitable substituents on such
+
+groups include, but are not limi
+
+ted to those listed above for
+
+the carbon atoms of an aryl or heteroaryl group and in
+
+addition include the following
+
+substituents for a saturated
+
+carbon atom: :O, :8, :NH, :NNR2R3, :NNHC(O)R2.
+:NNHCOZRZ; or :NNHSOZRZ, wherein R2 at each occur-
+
+rence is independently H, alkyl,
+cycloalkenyl, cycloalkynyl, ary
+
+[0087] Illustrative examples
+
+alkenyl, alkynyl, cycloalkyl,
+l, heteroaryl, heterocyclyl.
+
+of substituents on an ali-
+
+phatic, heteroaliphatic or heterocyclic group include amino,
+alkylamino, dialkylamino, aminocarbonyl, halogen, alkyl,
+alkylarninocarbonyl, dialkylaminocarbonyl, alkylaminocar-
+bonyloxy, dialkylaminocarbonyloxy, alkoxy, nitro. iCN,
+carboxy, alkoxycarbonyl, alkylcarbonyl, 70H, haloalkoxy
+
+or haloalkyl groups.
+US 2019/0031656 A1
+13
+
+[0088] Illustrative substituents on a nitrogen, e.g., in an
+aryl, heteroaryl or non-aromatic heterocyclic ring, include
+R4, iNRZRS, 4C(:O)R2, 7C(:O)OR2, 4C(:O)SR2,
+4C(:0)NRZR3, 7C(:NR)NR2R3, 4C(:NR2)0R2,
+4C(:NRZ)R3, ACOCORZ, iCOMCORZ, 4N,
+iSOZR3, S(O)R3, 7P(:O)(YR2)(YRZ), iNRZSOZRS and
+7NR2802NR2R3, wherein each occurrence of R2 and R3 is
+independently hydrogen, alkyl, alkenyl, alkynyl, cycloalkyl,
+cycloalkenyl, cycloalkynyl, aryl, heteroary, heterocyclyl.
+[0089] This invention encompasses only those combina-
+tions of substituents and variables that result in a stable or
+chemically feasible compound. A stable compound or
+chemically feasible compound is one that has stability
+sufﬁcient to permit its preparation and detection. Preferred
+compounds of this invention are suﬂiciently stable that they
+are not substantially altered when kept at a temperature of
+40° C. or less, in the absence of moisture or other chemically
+reactive conditions, for at least a week.
+
+[0090] Certain compounds of this invention may exist in
+tautomeric forms, and this invention includes all such tau-
+tomeric forms of those compounds unless otherwise speci-
+ﬁed.
+
+[0091] Unless otherwise stated, structures depicted herein
+are also meant to include all stereochemical forms of the
+structure; i.e., the R and S conﬁgurations for each asym-
+metric center. Thus, single stereochemical Isomers as well as
+enantiomeric and diastereomeric mixtures of the present
+compounds are within the scope of the invention. Thus, this
+invention encompasses each diastereomer or enantiomer
+substantially free of other isomers (>90%, and preferably
+>95%, free from other stereoisomers on a molar basis) as
+well as a mixture of such isomers
+
+[0092] Particular optical isomers can be obtained by reso-
+lution of the racemic mixtures according to conventional
+processes, e.g., by formation of diastereoisomeric salts. by
+treatment with an optically active acid or base. Examples of
+appropriate acids are tartaric, diacetyltartaric, dibenzoyltar-
+taric, ditoluoyltartaric, and cam horsulfonic acid and then
+separation of the mixture of diastereoisomers by crystalli-
+zation followed by liberation o the optically active bases
+from these salts. A different process for separation of optical
+isomers involves the use of a chiral chromatography column
+optimally chosen to maximize the separation of the
+enantiomers. Still another metiod involves synthesis of
+covalent diastereoisomeric mo ecules by reacting com-
+pounds of the invention with an optically pure acid in an
+activated form or an optically pure isocyanate. The synthe-
+sized diastereoisomers can be separated by conventional
+means such as chromatography, distillation, crystallization
+or sublimation, and then hydrolyzed to deliver the
+enantiomerically pure compoun .
+[0093] Optically active compounds of the invention can be
+obtained by using active starting materials. These isomers
+may be in the form of a free acic, a free base, an ester or a
+salt.
+[0094] The compounds of this invention can exist in
+radiolabelled form, i.e., said com ounds may contain one or
+more atoms containing an atomic mass or mass number
+different from the atomic mass or mass number: ordinarily
+found in nature. Radioisotopes of hydrogen, carbon, phos-
+phorous, ﬂuorine and chlorine include 3H, 14C, 32P, 35S, 43F
+and 36Cl, respectively. Compounds of this invention which
+contain those radioisotopes and/or other radioisotopes of
+other atoms are within the scope of this invention. Tritiated,
+
+ 
+
+Jan. 31, 2019
+
+i.e., 3H, and carbon-l4, i.e., MC, radioisotopes are particu-
+larly preferred for their ease of preparation and detectability.
+[0095] Radiolabelled compounds of this invention can
+generally be prepared by methods well known to those
+skilled in the art. Conveniently, such radiolabelled com-
+pounds can be prepared by carrying out the procedures
+disclosed herein except substituting a readily available
+radiolabelled reagent for a non-radiolabelled reagent.
+
+4. Synthetic Overview
+
+[0096] The practitioner has a well-established literature of
+heterocyclic and other relevant chemical transformations,
+recovery and puriﬁcation technologies to draw upon, in
+combination with the information contained in the examples
+which follow, for guidance on swithetic strategies, protect-
+ing groups, and other materials and methods useful for the
+synthesis, recovery and characterization of the compounds
+of this invention, including compounds containing the vari-
+ous choices for the R', R“, R”, RC, R“, R5 and Rings T. A. B,
+C and D. The following references, and the references cited
+therein, may be of particular interest: W0 01/27109. W0
+02/066478. W0 02/30428, W0 02/080911. WO 02/080914,
+WO 2004/033453. WO 2004/035578, W0 2004/23972, WO
+2005/105798. US 2003/0119842, US 2004/0023972, US
+2004/0122044, US 2004/0142961, US 2005/0239822, US.
+Pat. No. 6,420,365 and Us. Pat. No. 6,703,404 are referring
+to the preparation of imidazo[1,2-a]pyridines; W0
+05/030218, WO 03/022850 are referring to irnidazo[1,2-a]
+pyrimidines; W0 05/047290, WO 03/089434, US. Pat. No.
+6,589,952 are referring to imidazopyrazines, W0 04/011466
+and US. Pat. No. 5,145,850 are referring to the preparation
+of imidazo[1,2-b)pyridazines, and W0 05/070431, WO
+96/35690, WO 04/089471 are referring to pyrazolo(1,5-a]
+pyrimidines.
+
+[0097] Various synthetic approaches may be used to pro-
+duce the compounds described herein, including those
+approaches depicted schematically below. The practitioner
+will appreciate that protecting groups may be used in these
+approaches. “Protecting groups", are moieties that are used
+to temporarily block chemical reaction at a potentially
+reactive site (e.g., an amine, hydroxy, thiol, aldehyde, etc.)
+so that a reaction can be carried out selectively at another
+site in a multifunctional compound. In preferred embodi-
+ments, a protecting group reacts selectively in good yield to
+give a protected substrate that is suitable for the planned
+reactions; the protecting group should be selectively remov-
+able in good yield by readily available, preferably nontoxic
+reagents that do not unduly attack the other functional
+groups present; the protecting group preferably forms an
+readily separable derivative (more preferably without the
+generation of new stereogenic centers); and the protecting
+group preferably has a minimum of additional functionality
+to avoid the complication of further sites of reaction. Awide
+variety of protecting groups and strategies, reagents and
+conditions for deploying and removing them are known in
+the art. See, e.g., “Protective Groups in Organic Synthesis”
+Third Ed. Greene. T. W. and Wuts, P. G., Eds., John Wiley
+& Sons, New York: 1999. For additional background infor-
+mation on protecting group methodologies (materials, meth-
+ods and strategies for protection and deprotection) and other
+synthetic chemistry transformations useful in producing the
+compounds described herein, see in R. Larock. Comprehen-
+sive organic Transformations, VCH Publishers (1989); T. W.
+Greene and P G. M. Wuts, Protective Groups in Organic
+US 2019/0031656 A1
+11
+
+especially but not limited to kdr and Src family kinases, as
+well as for studying the role of such kinases in biological and
+pathological phenomena; for studying intracellular signal
+transduction pathways mediated by such kinases, for the
+comparative evaluation of new kinase inhibitors; and for
+studying various cancers in cell lines and animal models
+
+3. Deﬁnitions
+
+[0072] In reading this document, the following informa-
+tion and deﬁnitions apply unless otherwise indicated. In
+addition, unless otherwise indicated, all occurrences of a
+functional group are independently chosen, as the reader is
+in some cases reminded by the use of a slash mark or prime
+to indicate simply that the two occurrences may be the same
+or diiferent (eg, R. R', R", or Y, Y', Y" etc.).
+
+[0073] The term “Alkyl" is intended to include linear (i.e,,
+unbranched or acyclic), branched, cyclic, or polycyclic non
+aromatic hydrocarbon groups, which are optionally substi-
+tuted with one or more functional groups Unless otherwise
+speciﬁed, “alkyl” groups contain one to eight, and preferably
+one to six carbon atoms. C [,6 alkyl, is intended to include C1,
+C2. C3. C4, C5, and C6 alkyl groups. Lower alkyl refers to
+alkyl groups containing 1 to 6 carbon atoms. Examples of
+Alkyl include, but are not limited to, methyl, ethyl. n-propyl,
+isopropyl, cyclopropyl, butyl, isobutyl, sec-butyl, ter‘t-butyl,
+cyclobutyl, pentyl, isopentyl tert-pentyl, cyclopentyl, hexyl,
+isohexyl, cyclohexyl, etc. Alkyl may be substituted or
+unsubstituted. Illustrative substituted alkyl groups include,
+but are not limited to, ﬂuoromethyl, diﬁuoromethyl, triﬂuo-
+romethyl, Z-ﬂuoroethyl, 3-ﬂuoropropyl, hydroxymethyl,
+2-hydroxyethyl, 3-hydroxypropyl, benzyl, substituted ben-
+zyl, phenethyl, substituted phenethyl, etc,
+
+[0074] The term “Alkoxy” represent a subset of alkyl in
+which an alkyl group as deﬁned above with the indicated
+number of carbons attached through an oxygen bridge. For
+example, “alkoxy” refers to groups 40-a1w1, wherein the
+alkyl group contains 1 to 8 carbons atoms of a linear,
+branched, cyclic conﬁguration, Examples of‘alkoxy”
+include, but are not limited to, methoxy, ethoxy, n-propoxy,
+i-propoxy, t-butoxy, n-butoxy, s—pentoxy and the like.
+
+[0075] “Haloalkyl” is intended to include both branched
+and linear chain saturated hydrocarbon having one or more
+carbon substituted with 3 Halogen. Examples of haloalkyl,
+include, but are not limited to, triﬂuoromethyl, trichlorom-
+ethyl, pentaﬂuoroethyl and the like,
+
+[0076] The term “alkenyl” is intended to include hydro-
+carbon chains of linear, branched, or cyclic conﬁguration
+having one or more unsaturated Carbon-carbon bonds that
+may occur in any stable point along the chain or cycle,
+Unless otherwise speciﬁed, “alkenyl” refers to groups usu-
+ally having two to eight, often two to six carbon atoms. For
+example, “alkenyl” may refer to prop-2-enyl, but-2—enyl,
+but-3-enyl, 2-methylprop-2-enyl, hex-2-enyl, hex-S-enyl,
+2,3-dimethylbut-2-enyl, and the like. Furthermore, alkenyl
+groups may be substituted or unsubstituted.
+
+[0077] The term “alkynyl” is intended to include hydro-
+carbon chains of either linear or branched conﬁguration,
+having one or more carbon-carbon triple bond that may
+occur in any stable point along the chain, Unless otherwise
+speciﬁed, “alkynyl” groups refer refers to groups having two
+to eight, preferably two to six carbons. Examples of “alky-
+nyl” include, but are not limited to prop-2—ynyl, but-2-ynyl,
+
+Jan. 3], 2019
+
+but-3-ynyl, pent-2-ynyl, 3-methylpent-4-ynyl, hex-2-ynyl,
+hex-S-ynyl, etc. Furthennore, alkynyl groups may be sub-
+stituted or unsubstituted.
+
+[0078] Cycloalkyl is a subset of alkyl and includes any
+stable cyclic or polycyclic hydrocarbon groups of from 3 to
+13 carbon atoms, any of which is saturated Examples of such
+cycloalkyl include, but are not limited to cyclopropyl, nor-
+bornyl. [2,2.2]bicyclooctane, [4,4.0]bicyclodecane, and the
+like, which, as in the case of other alkyl moieties, may
+optionally be substituted, The term “cycloalkyl” may be
+used interchangeably with the term “carbocycle”,
+
+[0079] Cycloalkenyl is a subset of alkenyl and includes
+any stable cyclic or polycyclic hydrocarbon groups of from
+3 to 13 carbon atoms, preferably from 5 to 8 carbon atoms,
+which contains one or more unsaturated carbon-carbon
+double bonds that may occur in any point along the cycle.
+Examples of such cycloalkenyl include. but are not limited
+to cyclopentenyl, cyclohexenyl and the like
+
+[0080] Cycloalkynyl is a subset of alkynyl and includes
+any stable cyclic or polycyclic hydrocarbon groups of from
+5 to 13 carbon atoms, which contains one or more unsatu-
+rated carbon-carbon triple bonds that may occur in any point
+along the cycle, As in the case of other alkenyl and alkynyl
+moieties, cycloalkenyl and cycloalkynyl may optionally be
+substituted.
+
+[0081] “Heterocycle”, “heterocyclyl”, or “heterocyclic” as
+used herein refers to non-aromatic ring systems having ﬁve
+to fourteen ring atoms, preferably ﬁve to ten, in which one
+or more ring carbons, preferably one to four, are each
+replaced by a heteroatom such as N. 0, or S. Non-limiting
+examples of heterocyclic rings include 3-lH-benzimidazol-
+2-one, (1-substituted)-2-oxo-benzirnidazol-3-yl, 2-tetrahy-
+drofuranyl, 3-tetrahydroturanyl, 2-teu’ahydrothiophenyl,
+3-tetrahydrothiophenyl, 2-morpholinyl, 3-morpholinyl,
+4-morpholinyl, 2-thiomorpholinyl, 3-thiomorpholinyl,
+4-thiomorpholinyl, l-pyrrolidinyl, 2-pyrrolidinyl, 3-pyrro-
+lidinyl, l-piperazinyl, 2-piperazinyl, l-piperidinyl, Z-piper-
+idinyl, 3-piperidinyl, 4-piperidinyl, 4-thiazolidinyl, diazolo-
+nyl, N—substituted diazolonyl, l -phthalimidinyl,
+benzoxanyl, benzopyrrolidinyl, benzopiperidinyl, benzoxo-
+lanyl, benzothiolanyl, and benzothianyl. Also included
+within the scope of the term “heterocyclyl” or “heterocy-
+clic”, as it is used herein, is a group in which a non-aromatic
+heteroatom-containing ring is fused to one or more aromatic
+or non-aromatic rings, such as in an indolinyl, chromanyl,
+phenanthridinyl, or tetrahydroquinolinyl, where the radical
+or point of attachment is on the non-aromatic heteroatom-
+containing ring. The term “heterocycle”, “heterocyclyl”, or
+“heterocyclic” whether saturated or partially unsaturated,
+also refers to rings that are optionally substituted,
+
+[0082] The term “aryl” used alone or as part of a larger
+moiety as in “aralkyl”, “aralkoxy”, or “aryloxy-alkyl”, refers
+to aromatic ring groups having six to fourteen ring atoms,
+such as phenyl, l-naphthyl, 2-naphthyl, l-anthracyl and
+2-anthracyli An “aryl” ring may contain one or more sub-
+stituents. The term “aryl” may be used interchangeably with
+the term “aryl ring”. “Aryl” also includes fused polycyclic
+aromatic ring systems in which an aromatic ring is fused to
+one or more rings, Non-limiting examples of useful aryl ring
+groups include phenyl, hydroxyphenyl, halophenyl, alkoxy-
+phenyl, dialkoxyphenyl, trialkoxyphenyl, alkylenedioxy-
+phenyl, naphthyl, phenanthryl, anthryl, phenanthro and the
+like, as well as l-naphthyl, 2-naphthyl, l-anthracyl and
+2-anthracyl. Also included within the scope of the term
+US 2019/0031656 A1
+
+Example 1 7
+
+N- (3 -Chloro-4-((4 -methy1piperazin- 1 -y1)methyl)
+pheny1)-3-(imidazo[ 1,2-b]pyridazin—3-y1ethynyl)-4-
+
+methylbenzarnide
+[0265]
+/ / N
+N /
+\N /
+C1
+H
+N
+O
+
+[0266] The title compound was synthesized according to
+Example 14, from 3-ethynylimidazo[l,2-b]pyridazine and
+N-(3-chloro-4-((4-methylpiperazin-1 -y1)methy1)pheny1)-3-
+iodo-4-methylbenzamidei The product was obtained as a
+solid: 499 m/r (M+H),
+
+1 -(Bromomethyl)-2-ch10ro-4—nitro-benzene
+
+[0267] A suspension of 2-chloro-4-nitrotoluene (10.0 g,
+58.3 mmol), N-bromosuccinimide (NBS, 10.9 g, 61.2
+mrnol), and 2,2'-azobis(2-methylpropionitrile) (AIBN, 0.29
+g, 1.75 mmol) in 120 mL of CC]4 was heated at reﬂux under
+an atmosphere of N2 for 12 h. The reaction mixture was
+cooled to ambient temperature, and the solid was ﬁltered and
+washed with EtOAc. The combined ﬁltrate was washed with
+aq. NaHCOs, dried over NaZSO4, ﬁltered, concentrated on
+rotovap, and further dried under vacuum, 1H NMR indicated
+the ratio of desired product to unreacted 2-chloro-4-nitro-
+toluene to be 50:50, This material was used directly in the
+next step.
+
+1 -(2—Chloro-4-nitrobenzyl)—4-methy1piperazine
+
+[0268] To a solution of crude l-(bromomethyl)-2-chloro-
+4-nitro-benzene (29.1 inmol; 50% pure) in 30 mL of DCM
+was added EtzN (4.2 mL, 30 mmol) and 1-methylpiperazine
+(3.4 mL, 30 mmol). After stirring for 3 h at ambient
+temperature, aq NaHCO3 was added and the mixture was
+extracted with DCMi The combined organic layer was dried
+over NaZSOA, ﬁltered, concentrated, and the resulting resi-
+due was puriﬁed by silica gel chromatography (eluted with
+5% MeOH/DCM) to provide 680 g of product as a dark
+yellow oil.
+
+39
+
+Jan. 31, 2019
+
+3-Chloro-4-((4-methylpiperazin-l -yl)methyl)an.iline
+
+[0269] To a solution of 1-(2-ch10ro-4-nitrobenzyl)-4-
+methylpiperazine (0.96 g, 3.6 mmol) in MeOH/water (4:1,
+50 mL) was added 180 g (33.7 mmol) of NH4C1 and 147
+g (26.3 mmol) of Fe dust and the mixture heated at reﬂux
+under an atmosphere of N2 for 2 h (HPLC indicated no
+progress) To this was added 4 mL of glacial acetic acid and
+the mixture heated at reﬂux for an additional 2 h. The
+reaction mixture was cooled to ambient temperature, ﬁl-
+tered, and the ﬁltrate concentrated. The residue was parti-
+tioned between EtOAc and saturated aq. NaHCOz, the
+separated aqueous layer was extracted with EtOAc, and the
+combined organics washed with brine and dried over
+Na2804. Upon concentration, the crude product was puriﬁed
+by silica gel chromatography (eluted with 5-7% MeOH/
+DCM: silica gel deactivated with 1% triethylamine/DCM) to
+provide 053 g of product,
+
+Altemative Synthesis of N—(3-Chloro-4-((4-methy1-
+piperazin-l-y1)methy1)pheny1)-3-(imidazo[1,2-b]
+pyridazin-3-y1ethynyl)-4-methy1benzamide
+
+[0270] N-(3-Chloro-4-((4-methyl piperazin-l-yl)methyl)
+phenyl)-3-(imidazo[l ,2-b]pyridazin-3-y1ethynyl)-4 -methyl-
+benzamide and its mono hydrochloride salt can be prepared
+in an altemative synthesis similar to that described in
+Example 1 from 3-(imidazo[1,2-b]pyridazin-3—y1ethynyl)-4-
+methylbenzoic acid and 3-Chloro»4-((4-methy1piperazin-1-
+y1)methyl)aniline (as prepared above). The 3-(imidazo[1,2-
+b]pyridazin-3-ylethynyl)-4-methylbenzoic acid is prepared
+in a manner similar to that described in Example 1 using
+3-Ethyny1imidazo[1,2—b]pyridazine and 3-iodo-4-methy1-
+benzoic acid as Sonogashira coupling partners.
+
+Example 1 8
+N-(3-Cyclopropyl-4—((4-methy1piperazin-1 -y1)
+
+methyl)phenyl)-3-(imidazo[ l ,2-b]pyridazin-3-yl-
+ethynyl)-4 -methylbenzarnide
+
+[0271]
+/ /
+\N/N /
+
+Q
+
+\
+
+[0272] The title compound was synthesized from 3-ethy-
+nylimidazo[1,2-b]pyridazine and N-(3-cyclopropyl-4-((4-
+methylpiperazin-1-y1)methy1)pheny1)-3 -iodo-4-methy1ben-
+
+zamide in a manner similar to that described for Example 14
+US 2019/0031656 A1
+
+0-10% MeOH/DCM; MeOH was pre-saturated with ammo-
+nia gas) to provide 0.020 g of product as a solid: 547 m/r
+(M+H).
+
+Alternative Synthesis of (R)7N-(4-((3-(Dirnethyl-
+amino)pyrrolidin-l -yl)methyl)—3-(triﬂuoromethyl)
+phenyl)—3-(imidam[l,2-b]pyridazin—3-ylethynyl)-4-
+methylbenzamide
+
+[0258] (R)iN-(4-((3-(Dimethylamino)pyrrolidin—1-y1)
+methy1)-3-(triﬂuor0rnethy1)phenyl)-3-(imidazo[l,2-b]
+pyridazin-3-ylethynyl)-4-methy1benzamide and its mono
+hydrochloride salt can be prepared in an alternative synthe-
+sis similar to that described in Example 1 from 3-(imidazo
+[l,2-h]pyridazin-3-ylethynyl)-4-methylbenzoic acid and
+(R)-1 -(4-Amino-2-(triﬂnoromethyl)benzy1)-N,N-dimethy1-
+pyrmlidin-S-amine (as prepared above) The 3-(imidaz0[l,
+2-b]pyridazin-3-ylethynyl)—4-methylbenzoic acid is pre-
+pared in a manner similar to that described in Example 1
+using 3-Ethynylimidazo[1,2-b]pyridazine and 3-iodo-4-
+methylbenzoic acid as Sonogashira coupling partners
+
+Example 15
+N-(3-(Imidazo[1,2-b]pyridazin-3-ylethynyl)-4-meth-
+
+ylphenyl)-4 -((4-methylpiperazin-l -y1)methy1)-3 -
+(triﬂuorometliyl)benzamide
+
+[0259]
+/ /N
+\N/N /
+
+CF;
+
+2m
+
+[0260] The title compound was synthesized from 3-ethy-
+nylimidazo[l,2-b]pyridazine and N-(3-iodo-4-methylphe-
+nyl)-4-((4-methylpiperazin-1-y1)methyl)»3 -(triﬂuorom-
+ethyl)benzamide in a manner similar to that described for
+Example 14, The product was obtained as a solid: 533 m/z
+(M+H)i
+
+N-(3 -IOdo-4-methylphenyl)-4-((4-rnethylpiperazin-
+l-yl)methy1)-3-(tri ﬂuoromethyl)benzarnide
+
+[0261] To a ﬂask containing 1.0 g (267 mmol) of 4-[(4-
+methyl-1 -piperaziny1)methy1] -3 -(triﬂnoron1ethyl)—benzoic
+
+acid (CAS#859027-02-4; prepared according to Asakii T et
+a1 Bioorg Med Chem Lem (2006), 16, 1421-1425), 062 g
+(267 rnmol) of 3-Iodo-4-methylaniline, 0.77 g (40 mmol)
+of N-(3-dimethylaminopropyl)-N‘-ethylcarbodiimide hydro-
+chloride (EDAC), and 0.43 g (342 mmol) of N-hydroxyben-
+
+Jan. 3], 2019
+
+zotriazole monohydrate (HOBt HZO) was added 5 mL of
+DCM and 5 mL of triethylamine. The solution was stirred at
+ambient temperature under an atmosphere of N2 for 3 days,
+concentrated, and the crude product puriﬁed by silica gel
+chromatography (eluted with 100% EtOAc then 10%
+MeOH/EtOAc), to provide 069 g of product as a white
+solid
+
+Example 1 6
+
+3-(imidazo[1‘2-b]pyridazin-3-ylethynyl)-4-methyl-
+N-(4-((4-methylpiperazin-1-yl)methyl)-3-(triﬂuo-
+
+romethy1)pheny1)benzamide
+[0262]
+/ /N
+N /
+\N/
+
+\\
+
+C173
+
+Q
+
+\
+
+215:
+
+[0263] The title compound was synthesized in a manner
+similar to that described for Example 14, from 3-ethynylimi-
+dazo[1,2-b]pyridazine and 3-iodo-4-melhyl-N-(4-((4-meth-
+ylpiperazin- 1 -yl)methyl)-3-(triﬂuoromethyl)phenyl)benz-
+amide (Prepared as described in Example 2) The product
+was obtained as a solid: 533 m/z (M+H),
+
+Alternative Synthesis of 3-(Imidam[1,2-b]
+pyridazin—3-ylethyny1)-4-methy1-N—(4-((4-methy1-
+piperazin- 1 -yl)methyl) -3 -(triﬂuoromethyl)phenyl)
+
+benzamide
+
+[0264] 3-(lmidazo[1,2-b]pyridazin-3-ylethynyl)-4-
+methyl-N—(4 -((4-methy1piperazin-1-yl)methy1)-3 -(triﬂuo -
+mmethyl)phenyl)benzamide and its mono hydmchloride salt
+can be prepared in an alternative synthesis similar to that
+described in Example 1 from 3-(imidazo[1,2-b]pyridazin-3-
+y1ethyny1)-4-methylbenzoic acid and 4-((4-methylpiper—
+azin—l-y1)methy1)-3-(triﬂuoromethy1) aniline (as prepared in
+example 2). The 3-(imidazo[l ,2-b]pyridazin-3-ylethynyl)—4-
+methylbenzoic acid is prepared in a manner similar to that
+described in Example 1 using 3-Ethynylimidaz0[1,2-b]
+pyridazine and 3-iodo-4—methylbenmic acid as Sonogashira
+coupling partners.
+US 2019/0031656 A1
+
+yielding the parent molecule as the pharrnacologically active
+species. An example of a pro-drug is an ester which is
+cleaved in Vivo to yield a compound of interest. Pro-drugs
+of a variety of compounds, and materials and methods for
+derivatizing the parent compounds to create the pro-drugs,
+are known and may be adapted to the present invention
+
+[0064] Particularly favored derivatives and prodrugs of a
+parent compound are those derivatives and prodrugs that
+increase the bioavailability of the compound when admin-
+istered to a mammal (e,g., by permitting enhanced absorp-
+tion into the blood following oral administration) or which
+enhance delivery to a biological compartment of interest
+(e.g,, the brain or lymphatic system) relative to the parent
+compound. Preferred prodrugs include derivatives of a com-
+pound of this invention with enhanced aqueous solubility or
+active transport through the gut membrane, relative to the
+parent compound.
+
+[0065] One important aspect of this invention is a method
+for treating cancer in a subject in need thereof, which
+comprises administering to the subject a treatment effective
+amount of a composition containing a compound of this
+invention, Various cancers which may be thus treated are
+noted elsewhere herein and include, among others, cancers
+which are or have become resistant to another anticancer
+agent such as Gleevec, lressa, Tarceva or one of the other
+agents noted herein, Treatment may be provided in combi-
+nation with one or more other cancer therapies, include
+surgery, radiotherapy (e.g., gamma-radiation, neutron beam
+radiotherapy, electron beam radiotherapy, proton therapy,
+brachytherapy, and systemic radioactive isotopes, etc.),
+endocrine therapy, biologic response modiﬁers (e.g., inter-
+ferons, interleukins, and tumor necrosis factor (T NF) to
+name a few), hypertherrnia, cryotherapy, agents to attenuate
+any adverse effects (e.g., antiemetics), and other cancer
+chemotherapeutic drugs, The other agent(s) may be admin-
+istered using a formulation, route of administration and
+dosing schedule the same or different from that used with the
+compound of this invention.
+
+[0066] Such other drugs include but not limited to one or
+more of the following: an anti-cancer alkylating or interca-
+lating agent (eg, mechlorethamine, chlorambucil, Cyclo-
+phosphamide, Melphalan, and lfosfamide); antimetabolite
+(e.g,, Methotrexate); purine antagonist or pyrimidine
+antagonist (e.g., 6-Mercaptopurine, S-Fluorouracil, Cytara-
+bile, and Gemcitabine); spindle poison (e.g., Vinblastine,
+Vincristine, Vinorelbine and Paclitaxel); podophyllotoxin
+(e.g,, Etoposide, lrinotecan, Topotecan); antibiotic (e.g,,
+Doxorubicin, Bleomycin and Mitomycin); nitrosourea (e.g,,
+Cannustine, Lomustine); inorganic ion (e.g., Cisplatin, Car-
+boplatin, Oxaliplatin or oxiplatin), enzyme (e.g., Asparagi-
+nase); hormone (e.g., Tamoxifen, Leuprolide, Flutamide and
+Megestrol), mTOR inhibitor (e.g., Sirolimus (rapamycin),
+Temsirolimus (CCl779), Everolimus (RADOOl), AP23573
+or other compounds disclosed in US. Pat, No 7,091,213);
+proteasome inhibitor (such as Velcade, another proteasome
+inhibitor (see e,g., W0 02/096933) or another NF-kB inhibi-
+tor, including, e.g., an IkK inhibitor); other kinase inhibitors
+(e.g,, an inhibitor of Src, BRC/Abl, kdr, ﬂt3, aurora-2,
+glycogen synthase kinase 3 (“GSK-3”), EGF—R kinase (eg,
+lressa, Tarceva, etci), VEGF-R kinase, PDGF-R kinase, etc);
+an antibody, soluble receptor or other receptor antagonist
+against a receptor or hormone implicated in a cancer (includ-
+ing receptors such as EGFR, ErbB2, VEGFR, PDGFR, and
+lGF-R; and agents such as Herceptin, Avastin. Erbitux, etc.);
+
+Jan. 31, 2019
+
+etc For a more comprehensive discussion of updated cancer
+therapies see, http://www.nca.nih.gov/, a list of the FDA
+approved oncology drugs at http://wwwfdagov/cder/can-
+cer/druglistframehtm, and The Merck Manual, Seventeenth
+Ed. 1999, the entire contents of which are hereby lncorpo-
+rated by reference. Examples of other therapeutic agents are
+noted elsewhere herein and include among others, Zyloprim,
+alemtuzmab, altretamine, amifostine, nastrozole, antibodies
+against prostate-specific membrane antigen (such as MLN—
+591, MLN591RL and MLN2704), arsenic trioxide, bexaro-
+tene, bleomycin, busulfan, capecitabine, Gliadel Wafer,
+celecoxib, chlorambucil, clsplatin-epinephrine gel, cladrib-
+ine, cytarabine liposomal, daunorubicin liposomal, dauno-
+rubicin, daunomycin, dexrazoxane, docetaxel, doxorubicin,
+Elliott’s B Solution, epirubicin, estramustine, etoposide
+phosphate, etoposide, exemestane, ﬂudarabine, 5-FU,
+fuivestrant, gemcitabine, gemtuzumab-ozogarnicin, goser—
+elin acetate, hydroxyurea, idar'ubiciri, idarubicin, idamycin,
+ifosfamide, imatinib mesylate, irinotecan (or other topoi-
+somerase inhibitor, including antibodies such as MLN576
+(XR11576)), letrozole, leucovorin, leucovorin levamisole,
+liposomal daunorubicin, melphalan, L-PAM, mesna, metho-
+trexate, methoxsalen, mitomycin C, mitoxantrone, MLNS 18
+or MLN608 (or other inhibitors of the ﬂt-3 receptor tyrosine
+kinase, PDFG-R or c-kit), itoxantrone, paclitaxel, Pegade-
+mase, pentostatin, porﬁmer sodium, Rituximab
+(RlTUXAN®), talc, tamoxifen. temozolamide, teniposide,
+VM-26, topotecan, toremifene, 2C4 (or other antibody
+which interferes with HER2-mediated signaling), tretinoin,
+ATRA, valnibicin, Vinorelbine, or pamidronate, zoledronate
+or another bisphosphonate.
+
+[0067] This invention further comprises the preparation of
+a compound of any of Formulas l, 11, Ill, Ila, llb, llc, Illa,
+lllb, lllc or of any other of the compounds of this invention.
+[0068] The invention also comprises the use of a com-
+pound of the invention, or a pharmaceutically acceptable
+derivative thereof, in the manufacture of a medicament for
+the treatment either acutely or chronically of cancer (includ-
+ing leukemias and solid tumors, primary or metastatic,
+including cancers such as noted elsewhere herein and
+including cancers which are resistant or refractory to one or
+more other therapies). The compounds of this invention are
+useful in the manufacture of an anti-cancer medicament, The
+compounds of the present invention are also useful in the
+manufacture of a medicament to attenuate or prevent disor-
+ders through inhibition of one or more kinases such as Src,
+kdr, abl, etc,
+
+[0069] Other disorders which may be treated with a com-
+pound of this invention include metabolic disorders, inﬂam-
+matory disorders and osteoporosis and other bone disorders.
+In such cases the compound of this invention may be used
+as a rnonotherapy or may be administered in conjunction
+with administration of another drug for the disorder, e.g,, a
+bisphosphonate in the case of osteoporosis or other bone-
+related illnesses.
+
+[0070] This invention further encompasses a composition
+comprising a compound of the invention, including a com-
+pound of any of the described classes or subclasses, includ-
+ing those of any of the formulas noted above, among others,
+preferably in a therapeutically-effective amount, in associa-
+tion with a least one pharmaceutically acceptable carrier,
+adjuvant or diluent,
+
+[0071] Compounds of this invention are also useful as
+standards and reagents for characterizing various kinases,

@@ -1,0 +1,1659 @@
+US 2019/0033290 A1
+
+lacetone, in the breath of patients with IA that were not
+induced by any of our in vitro culture conditions.
+
+[0104] While some of the key VOCs identiﬁed in A
+fumigatus in Vitro were present equally in patients with and
+without IA, a combination of the sesquiterpenes farnesene
+and beta-vatirenene and the oxidized farnesene derivative
+cis-geranylacetone distinguished patients with IA from
+patients without IA correctly in 51/54 (94%) patients (FIG.
+13)727 of 29 patients with 1A (sensitivity:93%) and 24 or
+25 patients who ultimately had other causes of pneumonia
+(sensitivity:96%). These VOCs were absent in ambient air
+control samples collected concurrently with each breath
+sample.
+
+[0105] Breath was collected from a few patients serially
+following initiation of antifungal therapy and these key A.
+ﬁ4migatu: VOCs appeared to decline over 1-2 weeks of
+treatment.
+
+Other Embodiments
+
+[0106] It is to be understood that while the invention has
+been described in conjunction with the detailed description
+thereof, the foregoing description is intended to illustrate
+and not limit the scope of the invention, which is deﬁned by
+the scope of the appended claims. Other aspects, advantages,
+and modiﬁcations are within the scope of the following
+claims.
+
+1-4. (canceled)
+5. A method of detecting the presence of an Aspergillus
+ﬁmigatus. A. terreus, orA. calidoustus infection in a subject,
+the method comprising:
+obtaining a sample comprising breath of a subject, or
+headspace from a culture suspected of comprising
+Asperg'illus isolated from a subject;
+determining the presence of one, two, three, or more
+Volatile Organic Compounds (VOCs) selected from the
+group consisting of camphene, alpha-pinene, beta-
+pinene, limonene, alpha-bergamotene, alpha-santalene,
+beta-elemene, acoradien, chamigrene, 1,5,9-trimethyl
+cyclododecatriene, 9-decene-2—one and beta-ses-
+quiphellandrene in the sample, wherein:
+the presence of one, two, three, or more of camphene,
+alpha-pinene, beta-pinene, limonene, or alpha-ber-
+gamotene indicates the presence of an A. ﬁmigatus
+infection;
+the presence of one, two, three, or more of alpha-
+santalene, beta—elemene, acoradien, chamigrene, and
+1,5,9-trimethyl cyclododecatriene indicates the pres-
+ence of an A. terreus infection; and
+
+Jan. 3], 2019
+
+the presence of one or both of 9-decene-2-one and
+beta-sesquiphellandrene indicates the presence of an
+A. calia'uuslus infection in the subject; and
+administering a therapy comprising an azole to a subject
+who has an A. ﬁtmigatus infection or who has an A.
+term: infection, and administering a therapy compris-
+ing amphotericin B (AMB) to a subject who has an A.
+calidoustu: infection.
+6. The method of claim 5,
+herein the azole is voriconazole
+or the amphotericin B (AMB) is D-AMB or a lipid
+fonnulation of AME
+7-9. (canceled)
+10. A method of detecting the presence of an Aspergillus
+
+ﬁmigams, A. terreus, or A. calidoustu: infection in a culture,
+the method comprising:
+
+obtaining a sample comprising gas from the headspace of
+the culture;
+determining the presence of one, two, three, or more
+VOCs selected from the group consisting of camphene,
+alpha-pinene, beta-pinene, limonene, alpha-bergamo-
+tene, alpha-santalene, beta-elemene, acoradien, chami-
+grene, 1,5,9-trimethyl cyclododecatriene, 9-deccne-2-
+one and beta-sesquiphellandrene in the sample,
+wherein:
+the presence of one, two, three, or more of camphene,
+alpha-pinene, beta-pinene, limonene, or alpha-ber-
+gamotene indicates the presence of A fumigatus in
+the culture;
+the presence of one, two, three, or more of alpha-
+santalene, beta-elemene, acoradien, chamigrene, and
+1,5,9-trimethyl cyclododecatriene indicates the pres-
+ence of A. terreu: in the culture; and
+the presence of one or both of 9-decene-2-one and
+beta-sesquiphellandrene indicates the presence ofA.
+calia'austus infection in the culture.
+11. The method of claim 5, wherein determining the
+
+presence of a VOC comprises assaying the sample to detect
+the presence the VOC.
+
+12. The method of claim 11, wherein assaying the sample
+
+to detect the presence the VOC comprises using a gas
+chromatography (GC) or spectrometry method
+
+13. The method of claim 12, wherein the spectrophotom-
+
+etry method is mobility spectrometry (IMS) or differential
+mobility spectrometry (DMS).
+
+14. The method of claim 5, wherein the subject is a
+
+human.\
+
+15. The method of claim 11, wherein the subject is a
+
+human.
+
+16. (canceled)
+Patent Application Publication
+
+ 
+
+Peak intensity (x123)
+
+Rezemivn ﬁme (sew)
+
+ 
+
+i
+
+2000
+
+1 500
+
+1 000
+
+i
+
+{an
+
+Jan. 31, 2019 Sheet 6 of 10 US 2019/0033290 A1
+
+No Antlfmgai No Antifungai
+
+  
+
+    
+    
+
+ 
+
+ 
+ 
+
+i L
+
+Micaiungin
+
+ 
+
+    
+  
+
+10 so 39
+Yime {mks}
+
+FIG. QB
+
+ 
+
+Time {mm}
+
+FIG. 9A
+
+ 
+
+10
+
+~10 G
+
+Comaehsaﬂbn Vchaga {V}
+
+.10 0 10 «20
+
+Campenwxiah vnkagg iv)
+
+«20
+
+FIG. 10A
+Patent Application Publication Jan. 31, 2019 Sheet 7 0f 10 US 2019/0033290 A1
+
+RamtiwﬁmMSeC)
+
+ 
+
+A 1 C 6 I} 1 A20 A $5 A X 0 A5 0
+Compemarion voimge (VJ Cnmpensaﬂon wage (v:
+
+FIG. 1GB
+Patent Application Publication Jan. 31, 2019 Sheet 5 0f 10 US 2019/0033290 A1
+
+ 
+  
+ 
+   
+    
+   
+
+w CMm‘grcna ;
+
+ 
+ 
+  
+ 
+   
+
+, amiadien
+
+Maw sits-ens
+
+¢ w arsantelena
+
+§
+
+1 -9K-- belat‘lemenc
+
+Integrated Area (x123)
+
+§
+
+Time (hours)
+
+FIG. 7
+
+250 ;
+
+mou cf'Im‘an-ﬁ
+
+my" b-sescsuiphenemuem
+
+integrated Area (K183)
+
+ 
+
+Time (hours)
+
+FIG. 8
+Patent Application Publication Jan. 31, 2019 Sheet 4 0f 10 US 2019/0033290 A1
+
+lntegratedArea £x1c3)
+
+Peak intensity (193)
+
+ 
+
+ 
+  
+   
+    
+ 
+
+300 r:
+Wcamnhcne
+251:
+2:30
+: “X“ ilmonen?
+19'” Wuhergamatene
+>3-famesarxa
+
+  
+
+Time (hours)
+
+FIG‘ 6
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0033290 A1
+
+K00 et a].
+
+US 20190033290Al
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+
+(71)
+
+(72)
+
+(21)
+(22)
+
+(62)
+
+(60)
+
+DIAGNOSIS AND TREATMENT OF
+lNVASIVE ASPERGILLOSIS
+
+ApplicantszThe Brigham and Women‘s Hospital,
+Inc., Boston, MA (US); The Charles
+Stark Draper Laboratory, Inc.,
+Cambridge, MA (US)
+
+Inventors: Sophia Koo, Brookline, MA (US);
+Horatio R. Thomas, Cambridge, MA
+(US); James Constantine Comolli,
+Boxborough, MA (US); Preshious
+Rearden. Melrose. MA (US); Lindsey
+R. Baden, Brookline, MA (US);
+Francisco M. Marty, Chestnut Hill,
+MA (US)
+
+App]. No.: 16/013,863
+
+Filed: Jun. 26, 2018
+
+Related U.S. Application Data
+
+Division ofapplication No. 14/426,678, ﬁled on Mar,
+6, 2015, now Pail Not 10,031,125, ﬁled as application
+No. PCT/US2013/058560 on Sep, 6, 2013.
+
+Provisional application No. 61/698,155, ﬁled on Sep.
+7, 2012.
+
+Publication Classiﬁcation
+
+(51) Int. Cl.
+GolN 33/497 (2006.01)
+C12Q 1/04 (2006.01)
+G01N 33/569 (2006101)
+0129 1/02 (200601)
+A6116 33/12 (2006101)
+A6116 31/7048 (2006.01)
+A61K 31/513 (2006.01)
+A6116 31/496 (2006.01)
+A6116 31/427 (2006.01)
+(52) U.S. Cl.
+CPC ,,,,,,,,,,,,, GolN 33/497 (2013.01); 6129 1/04
+(2013.01); G01N 2800/52 (2013.01); GOIN
+2500/10 (2013.01): 001w 33/56961 (2013.01);
+C12Q 1/025 (2013.01); A6116 31/427
+(2013.01); A61K 31/7043 (2013.01); A6116
+31/513 (2013.01); A6116 31/496 (2013.01);
+GOIN 2333/38 (2013.01); GOIN 2033/4977
+(2013,01); A61K 38/12 (201301)
+(57) ABSTRACT
+
+Methods for diagnosing, treating, and monitoring the treat-
+ment of invasive aspergillosis (1A) are described The meth-
+ods can include detecting the presence of one or more
+volatile organic compounds (VOCs) in the breath of subjects
+suspected of having IA,
+US 2019/0033290 A1
+
+Jan. 31, 2019 Sheet 1 of 10
+
+Patent Application Publication
+
+Ewsazuunm E30: 32:03th
+
+5:238 32,55.
+
+  
+
+_‘ .OE
+
+a“: 38.5» a 2:0 353% Smﬁa
+ncm «unauumm: .0 c0380mu<
+
+an, 52 $638 as,
+US 2019/0033290 A1
+
+Jan. 31, 2019 Sheet 3 of 10
+
+6 5 O
+3 2
+
+  
+
+:54
+
+.ﬁ
+
+$3 $235 Va?»
+
+Patent Application Publication
+3
+
+ 
+
+ 
+
+'Eime {min}
+
+A & 3W CWDﬁT’ E WK? F
+
+/"\
+
+FIG. 3
+
+ 
+
+5
+2
+
+3% £935 *3»
+
+Tame {min}
+
+ 
+
+FIG. 4
+Patent Application Publication Jan. 31, 2019 Sheet 2 0f 10 US 2019/0033290 A1
+
+      
+  
+ 
+   
+
+Af293
+
+I
+
+LMM ......... «MWwMﬁzE-rmwjuwmu
+
+A1183
+ELMJWMEMWEJWMWEW
+
+E E
+
+a w m is :9 25
+“me {min}
+
+FIG. 2A
+
+30,
+
+ 
+
+m ...... mm.
+(3413
+
+Paak intensﬁzy mes}
+
+ 
+
+   
+
+5 Mmeiutinasus
+2
+
+  
+ 
+ 
+
+.«gS-qscse
+
+f’eak summit}; ixieﬁ}
+
+mm, intensizy {x
+
+ 
+ 
+
+”ﬁlmy {win} “mu {mm}
+Patent Application Publication Jan. 31, 2019 Sheet 9 0f 10 US 2019/0033290 A1
+
+3 any patient Smash {90229602}
+m inﬁrm; Realism
+
+2'2
+
+w :3 (a g,» a»
+
+{W 3:2:
+
+A: wpinemz
+
+8: camykena
+
+C: ﬁmaneae
+
+Z}: bergamot‘eae
+E: famesene
+
+ 
+
+Key vwatzws
+Farmens
+Cisvgemnwaceione
+gavaﬁtenene
+ammemene
+L'smmana
+Camphene
+ax‘piaam
+
+Magnet
+
+Patients with M
+an mm .o .m 3,
+
+ 
+
+Patienta without 1A
+
+raiaﬂve abundance
+Patent Application Publication Jan. 31, 2019 Sheet 8 of 10 US 2019/0033290 A1
+
+A ~ A. Fumlgatus
+8 ~ A. Tarreus 8
+
+  
+   
+
+0.01
+B M
+B
+a
+s
+g A
+N
+EH:
+g 8 AA
+3 A A
+
+    
+
+                   
+
+0.025 ~0.02 0.015 ~ 01 @1305 0 04005 0.01 0.015 0‘02
+
+ 
+
+PC #1 (53%, 5.63E-05)
+
+ 
+
+'» A .A. Fams‘galvs yaw; cnnmanscme) c at Terms: (Ach ”IVA-3633)
+0 m :94. Fumtgznm (Lama ctim‘cmgacme) ma rs,
+. : m
+I c “3
+»
+» ‘5
+A o 005:»
+3i > c
+»
+% , A
+5" >
+«5 »
+.\“ °i
+:1 ,
+v »
+»
+g ; 9 AA
+., a
+42.005 :' a
+»
+»
+* a
+»
+»
+«um »,
+»
+»
+»
+»
+»
+»
+
+ 
+
+ 
+
+0.01 oft-H's
+
+ 
+
+«D 01 4,305) 0
+
+ 
+
+PC #1 (46%, 2.153(2—(35)
+
+FIG. 11
+US 2019/0033290 A1
+
+DIAGNOSIS AND TREATMENT OF
+INVASIVE ASPERGILLOSIS
+
+CLAIM OF PRIORITY
+
+[0001] This application is a divisional of US. patent
+application Sen No, 14/426,678, ﬁled Mar, 6, 2015, which is
+a US. National Phase Application under 35 U.S.Ci § 371 of
+International Patent Application No. PCT/US2013/058560,
+ﬁled on Sep. 6, 2013, which claims the beneﬁt of US.
+Provisional Application Ser No. 61/698,155, ﬁled on Sep. 7,
+2012, The entire contents of the foregoing are incorporated
+herein by reference.
+
+FEDERALLY SPONSORED RESEARCH OR
+DEVELOPMENT
+
+[0002] This invention was made with Government support
+under Grants No, R21A1085454, K23A1097225 and
+8UL1TR000170 awarded by the National Institutes of
+Health The Government has certain rights in the invention
+
+TECHNICAL FIELD
+
+[0003] Provided herein are methods for diagnosing, treat-
+ing, and monitoring the treatment of invasive aspergillosis
+(IA), The methods can include detecting the presence of one
+or more volatile organic compounds (V OCs) in the breath of
+subjects suspected of having IA.
+
+BACKGROUND
+
+[0004] IA is a common, rapidly progressive, highly mor-
+bid, and frequently fatal infection in irnmunocompromised
+patients, especially in patients with chemotherapy-induced
+neutropenia or who are innnunosuppressed as a result of
+receiving glucocorticoid treatment for graﬁ-versus-host dis-
+ease (GVHD). Timely diagnosis with prompt initiation of
+appropriate antifungal therapy improves clinical outcomes,
+Unfortunately, clinical and radiographic manifestations are
+nonspeciﬁc, and standard culture and antigen diagnostic
+approaches lack sensitivity and speciﬁcity for IA, Deﬁnitive
+diagnosis still relies on biopsy, which is often unacceptably
+morbid and frequently uninformative in these debilitated
+patients,
+
+SUMMARY
+
+[0005] As described herein, the present inventors have (1)
+identiﬁed a unique, species-speciﬁc proﬁle of volatile
+organic compounds (VOCs) produced by Aspergillus
+ﬁrmigatus, A. terreus, A, calia'oustus, and other pathogenic
+fungi in vitro that can be used to distinguish pathogenic
+fungal species from each other, (2) demonstrated that dif-
+ferential mobility spectrometry (DMS) can be used for the
+rapid discrimination between fungal species using pattem-
+based detection of these species-speciﬁc VOC proﬁles, and
+(3) accurately identiﬁed patients with invasive aspergillosis
+(IA) via direct detection of a pattern of A, fumigatus VOCs
+in their breath, including a combination of farnesene, beta-
+vatirenene, and cis-geranylacetone.
+
+[0006] Thus in a ﬁrst aspect, the invention provides meth-
+ods for diagnosing a subject with invasive aspergillosis (IA),
+The methods include obtaining a sample comprising breath
+of a subject or headspace from a culture suspected of
+comprising Aspergillus isolated from a subject; detecting the
+presence in the sample of one, two, three, or more volatile
+
+Jan. 31, 2019
+
+organic compounds (VOCs) produced by the Aspergillus
+species in a sample comprising breath from the subject or
+headspace from a culture suspected of comprising Aspergil-
+[us isolated from the subject, wherein the VOCs are selected
+from the group consisting of farnesene, beta-vatirenene,
+cis-geranylacetone, camphene, alpha-pinene, beta-pinene,
+limonene, alpha-bergarnotene, farnesene, elixene, alpha-
+santalene, beta-elemene, acoradien, chamigrene, 1,5,9-t1im-
+ethyl cyclododecatriene, 9-decene-2-one and beta-ses-
+quiphellandrene; and diagnosing a subject as having IA
+based on the presence of (i,e,, when there are) one, two, three
+or more of the VOCs in the sample.
+
+[0007] In some embodiments, the methods include detect-
+ing the presence in the sample of one, two or three VOCs
+selected from the group consisting of faniesene, beta-vat-
+irenene and cis-geranylacetone; and diagnosing a subject
+who has one, two or all three of farnesene, beta-vatirenene
+and cis-geranylacetone in the sample as having IA, In
+Jreferred embodiments, a diagnosis of IA is based on the
+aresence of all three of the VOCs farnesene, beta-vatirenene
+and cis-geranylacetone in the sample,
+
+[0008] In another aspect, the invention provides methods
+or treating a subject who has invasive aspergillosis (IA).
+The methods include obtaining a sample comprising breath
+of a subject or headspace from a culture suspected of
+comprising Aspergillus isolated from a subject; detecting the
+aresence in the sample of one, two or three VOCs selected
+from the group consisting of farnesene, bem-vatirenene and
+cis-geranylacetone, and administering an antifungal treat-
+ment to a subject who has one, two or all three of farnesene,
+eta-vatirenene and cis-geranylacetone in their breath.
+
+[0009] In some embodiments, the treatment includes
+administration of one or more doses of one or more anti-
+ungal compounds, e,g., an amphotericin B formulation; an
+azole compound; and an echinocandin,
+
+[0010] In another aspect, the invention provides methods
+or detecting the presence of an Aspergillus fumigatus, A.
+lerreus, orA. calidoustu: infection in a subject. The methods
+include obtaining a sample comprising breath of a subject,
+or headspace from a culture suspected of comprising Asper—
+gillus isolated from a subject; determining the presence of
+one, two, three, or more, e.g., all, of the VOCs selected from
+the group consisting of camphene, alpha-pinene, beta-
+pinene, limonene, alpha-bergamotene, farnesene, elixene,
+alpha-santalene, beta-elemene, acoradien, chamigrene, 1,5,
+9-trimethyl cyclododecatriene, 9-decene-2-one and beta-
+sesquiphellandrene in the sample. The presence of one, two,
+three, or more, eg, all, of camphene, alpha-pinene, beta-
+pinene, limonene, alpha-bergamotene, or farnesene indicates
+the presence of an A. fumigatus infection; the presence of
+one, two, three, or more, e,g,, all, of elixene, alpha-santal-
+ene, beta-elemene, acoradien, chamigrene, and 1,5,9-trim-
+ethyl cyclododecatriene indicates the presence of an A,
+Ierreur infection; and the presence of one or both of 9-de-
+cene-2-one and beta-sesquiphellandrene indicates the pres-
+ence of an A. calia'oustus infection in the subject.
+
+ 
+
+[0011] In some embodiments, the methods include select-
+ing, and optionally administering, a therapy comprising an
+azole, eg, voriconazole, for a subject who has an A,
+ﬁimigatus orA, terreus infection; or selecting, and optionally
+administering, a therapy comprising aniphotericin B
+(AMB), e.g., D-AMB or a lipid formulation of AME, for a
+subject who has an A. calidoustus infection.
+Patent Application Publication Jan. 31, 2019 Sheet 10 of 10 US 2019/0033290 A1
+
+   
+ 
+    
+ 
+
+W Qamgzbem
+23" Waiafmpémné
+bewpma n9
+-w§é~w aiph aﬂgrgamaiem
+mm NM NV“ betwvatire new
+§ “WNW” W3 cis~Geraa§s§acetcm
+3.5 ‘ W Fameserse
+g ”$59
+«I
+'3
+i we
+3
+.‘E
+
+8
+
+ 
+
+0 £3 2 4 ‘ a a 10
+Tune (day)
+? Y E‘ Y’ T’
+8.88 £3935 $33 $3? {mg
+
+3:22am} (Saéazmmaman {BA unitsa}
+
+FIG. 14
+US 2019/0033290 A1
+
+[0012] In another aspect, the invention provides methods
+for monitoring efﬁcacy of a treatment for invasive aspergil-
+losis (IA) in a subject. The methods include determining a
+ﬁrst level of one, two, three, or more volatile organic
+compounds (VOCs) produced by the Aspergillus species in
+a sample comprising breath from the subject or headspace
+from a culture suspected of comprising Aspergillus isolated
+from the subject, wherein the VOCs are selected from the
+group consisting of famesene, beta-vatirenene, cis-gerany-
+lacetone, camphene, alpha-pinene, beta-pinene, limonene,
+alpha-bergamotene, famesene, elixene, alpha-santalene,
+beta-elemene, acoradien, chamigrene, 1,5,9-trimethyl
+cyclododecatriene, 9-decene-2-one and beta-sesquiphellan-
+drene, in the subject; administering a treatment for IA to the
+subject; determining a second level of the VOCs in a sample
+obtained aﬁer administration of the treatment to the subject;
+and comparing the ﬁrst and second levels of VOCs. A
+decrease in the VOCs indicates that the treatment has been
+effective in treating the IA in the subject, and an increase or
+no change indicates that the treatment has not been effective
+in treating the IA in the subject.
+
+[0013] In some embodiments, the treatment includes
+administration of one or more doses of one or more anti-
+fungal compounds, e.g., an amphotericin B formulation; an
+azole compound; and an echinocandin.
+
+[0014] In yet another aspect, the invention provides meth-
+ods for identifying a candidate compound for the treatment
+of [At The methods include providing a test culture com-
+prising one or more Aspergillus species; detecting a baseline
+level of fungal VOCs in the headspace of the culture in the
+absence of the test compound, wherein the VOCs are
+selected from the group consisting of famesene, beta-vat-
+irenene, cis-geranylacetone, camphene, alpha-pinene, beta-
+pinene, limonene, alpha-bergamotene, famesene, elixene,
+alpha-santalene, beta-elemene, acoradien, chamigrene, 1,5,
+9-trimethyl cyclododecatriene, 9-decene-2-one and beta-
+sesquiphellandrene, in the subject; contacting the test culture
+with a test compound; determining a second level of the
+VOCs in a the test culture; comparing the second level of
+VOCs to the baseline level; and identifying a test compound
+that decreases levels of fungal VOCs in the test culture as a
+candidate compound for the treatment of IA.
+
+[0015] In another aspect, the invention provides methods
+for detecting the presence of an Aspergillus fumigatus, A.
+terreus. or A. calidouslus infection in a culture. The methods
+include obtaining a sample from the culture, e.g., gas from
+the headspace of the culture; determining the presence of
+one, two, three, or more, e.g., all, of the VOCs selected from
+the group consisting of camphene, alpha-pinene, beta-
+pinene, limonene, alpha-bergamotene, farnesene, elixene,
+alpha-santalene, beta-elemene, acoradien, chamigrene, 1,5,
+9-trimethyl cyclododecatriene, 9-decene-2-one and beta-
+sesquiphellandrene in the sample. The presence of one, two,
+three, or more, eg, all, of camphene, alpha-pinene, beta-
+pinene, limonene, alpha-bergamotene, or famesene indicates
+the presence of A. fumigatus in the culture; the presence of
+one, two, three, or more, e,g., all, of elixene, alpha-santal-
+ene, beta-elemene, acoradien, chamigrene, and 1,5,9-trim-
+ethyl cyclododecatriene indicates the presence of A. terreus
+in the culture; and the presence of one or both of 9-decene-
+2-one and beta-sesquiphellandrene indicates the presence of
+A. calidoustus infection in the culture.
+
+[0016] In some embodiments of the various methods
+described herein, determining the presence of a VOC com-
+
+Jan. 3], 2019
+
+prises assaying the sample to detect the presence the VOC.
+In some embodiments, assaying the sample to detect the
+presence the VOC comprises using a gas chromatography
+(GC) or spectrometry method. In some embodiments, the
+spectrophotometry method is mobility spectrometry (IMS)
+or diﬁerential mobility spectrometry (DMS).
+
+[0017] In some embodiments of the various methods
+described herein, the subject is a human,
+
+[0018] Unless otherwise deﬁned, all technical and scien-
+tiﬁc terms used herein have the same meaning as commonly
+understood by one of ordinary skill in the art to which this
+invention belongs. Methods and materials are described
+herein for use in the present invention; other, suitable
+methods and materials known in the art can also be used.
+The materials, methods, and examples are illustrative only
+and not intended to be limiting All publications, patent
+applications, patents, sequences, database entries, and other
+references mentioned herein are incorporated by reference in
+their entirety In case of conﬂict, the present speciﬁcation,
+including deﬁnitions, will control.
+
+[0019] Other features and advantages of the invention will
+be apparent from the following detailed description and
+ﬁgures, and from the claims.
+
+DESCRIPTION OF DRAWINGS
+
+[0020] 21G. 1. Collection of VOCs from headspace gas of
+in Vitro cultures or patient breath, with concentration of
+VOCs on a thermal desorption trap, thermal desorption onto
+the GC, and parallel data acquisition on a dual mass spec-
+trometry/differential mobility spectrometry system.
+
+[0021] IIGS. 2A-ZB. A) Total ion chromatograms (TIC)
+generatec by GC-MS of reference and clinical strains of A.
+ﬁmzigatus at 96 hrs in YPD media, showing the reproduc-
+ibility of the VOC proﬁle within species. B) GC-MS TIC of
+common pathogenic fungal species, showing interspecies
+VOC proﬁle heterogeneity.
+
+[0022] 31G. 3. Key features of the A. fumigatus VOC
+proﬁle: A. camphene, B. a-pinene, C. ﬁ-pinene, D. limo-
+nene, E. a-bergamotene, and F. famesene.
+
+[0023] 21G. 4. Key features of the A. terreus VOC proﬁle:
+A, elixene, B, ot-santalene, C. B-elemene, D. acoradien, E,
+chamigrene, and F. 1,5,9-trimethyl cyclododecatriene.
+[0024] 31G. 5. Key features of the A. calidoustus VOC
+proﬁle: A. 9-decene-2-one, B. B-sesquiphellandrene.
+[0025] 31G. 6. Kinetics of A. fumigatus VOC emission
+with hyp Jal growth.
+
+[0026] 31G. 7, Kinetics of A. terreu: VOC emission with
+hyphal growth.
+[0027] 31G. 8. Kinetics of A. calidaustus VOC emission
+
+with hyp Jal growth.
+
+[0028] JIGSI 9A-9B. Modulation of key A. fumigatus
+VOCs with antifungal therapy A) GC-MS TIC of A. fumiga-
+tux with the addition of micafungin, showing initial increase
+in key VOCs at 24 hours. B) GC-MS TIC of A. fumigatus
+with the addition of voriconazole, showing near-complete
+attenuation in key VOCs at 24 hours.
+
+[0029] FIGSI 10A-10B. Positive ion DMS spectra of
+Aspergillus species, showing A) Conservation of the DMS
+pattern between two members of A. fumigatus, and B)
+Conservation of the DMS pattern between two members of
+A, terreus. The DMS pattern is clearly diﬂerent between A.
+fumigatus and A. terreus.
+
+[0030] FIG. 11. Principal component analysis (PCA) score
+plots for A. fumigatus and A. terreus. Top) Each letter
+US 2019/0033290 A1
+
+represents an experimental replicate of type strains of A.
+fhmigatus (A) and A. terreus (B). Percentage of total vari-
+ance and absolute Eigenvalue are outlined in parentheses on
+each axis. There is clear clustering of A. fumigatus and A.
+terreus DMS features and separation between these species.
+Bottom) Each letter represents an experimental replicate of
+clinical and culture collection strains of A. ﬁrmigatus (A, B)
+and A. Ierreur (C, D), with clear clustering within species
+and distinct separation between species.
+
+[0031] FIG. 12. Overlay of the GC-MS total ion chro-
+matograph of a representative breath sample of a patient
+with invasive aspergillosis (black chromatogram) and an in
+vitro culture of A, fumigatus Af293 (inverted grayshromato-
+gram).
+
+[0032] FIG. 13. Heatmap of the relative abundance of each
+key A. ﬂmigatus VOC in the breath of patients with IA and
+patients without IA, Each row represents an individual
+
+patient’s breath and each column represents one of the key
+A. fumigalus VOCs.
+
+[0033] FIG. 14. Attenuation of breath A. fumigatus com-
+pounds with antifungal therapy.
+
+DETAILED DESCRIPTION
+
+[0034] Pathogenic molds produce VOCs as part of their
+normal metabolism. Agricultural and environmental health
+industries have previously investigated the detection of
+microbial VOCs to identify spoiled grain and mold-infested
+‘sick buildings,’ respectively, and investigators in these
+areas have noticed species-speciﬁc differences in the com-
+position of VOCs emitted by molds in these settings.
+
+[0035] As described herein, the present inventors have
+identiﬁed unique, species-speciﬁc VOC proﬁles of A.
+ﬁimigatus, A, terreus, and A. calidoustu: in vitro, including
+several volatile terpene and sesquiterpene compounds that
+can be used to discriminate these species from each other
+and from other molds, and demonstrated that dilferential
+mobility spectrometry (DMS) can be used for the rapid
+discrimination of fungal species using pattem-based identi-
+ﬁcation of these species-speciﬁc VOC proﬁles. The key
+terpene and sesquiterpene compounds identiﬁed in in vitro
+cultures of A. fumigatus were also present in the breath of
+patients with IA, in addition to novel Aspergillus VOCs
+induced in vivo, namely, the sesquiterpene beta-vatirenene
+and the oxidized famesene derivative cis-geranylacetone. A
+combination of farnesene, beta-vatirenene, and cis-gerany-
+lacetone accurately distinguished patients with IA from
+patients with other causes of pneumonia with 93% sensitiv-
+ity and 96% speciﬁcity.
+
+[0036] Detection of these unique VOC proﬁles can be
+harnessed for species-level identiﬁcation of Aspergillus and
+other mold species in the laboratory, and direct detection of
+these fungal volatile proﬁles in the breath of patients with
+suspected IA can be used for the rapid, noninvasive, highly
+accurate, and species-speciﬁc diagnosis of IA and other
+fungal pneumonias. The methods and devices described
+herein, e.g., the DMS-based detection methods, can be
+adapted to a small, portable bedside breath gas detection
+system for real-time patient breath surveillance for this
+pattern of fungal metabolites, to allow for earlier IA diag-
+nosis than currently possible, more rational test-based pre-
+scribing of antifungal medications, monitoring of clinical
+response to antifungal therapy, and ultimately, better patient
+outcomes.
+
+Jan. 3], 2019
+
+[0037] As described herein, among other uses, these VOC
+
+proﬁles can be used for:
+
+[0038] a. rapid, noninvasive, sensitive, and species-spe-
+ciﬁc breath tests for the diagnosis of invasive aspergillosis
+and the discrimination of aspergillosis from other causes
+of pneumonia in the growing population of immunocom-
+promised patients at risk for invasive fungal infections;
+
+[0039] b, surrogate marker demonstrating successful anti-
+fungal treatment of IA, and
+
+[0040] c. rapid identiﬁcation and antifungal susceptibility
+testing of Aspergillus species, e.g., in the microbiology
+laboratory, based on their VOC proﬁle (i.e,, the VOCs
+present in the sample).
+
+[004]] Invasive Aspergillosis
+
+[0042] The methods described herein can be used to detect
+
+or diagnose invasive aspergillosis (IA) in a subject, to select
+
+treatment and to treat IA, and to monitor treatment of IA,
+
+The methods can be used in the different forms of invasive
+
+aspergillosis, including invasive pulmonary aspergillosis,
+
+sinus or nasal aspergillosis, disseminated aspergillosis, and
+single-organ invasive aspergillosis, e.g., of an organ in the
+sino/nasal/respiratory tract (see, e.g., Walsh et al., Clinical
+
+Infectious Diseases 2008; 46:327-60; Milroy et al., J Clin
+
+Pathol, 1989 Febnrary; 42(2): 123-127). In preferred
+
+embodiments, the methods described herein can be used for
+
+subjects with invasive pulmonary aspergillosis.
+
+[0043] Samples
+
+[0044] The methods described herein can be performed on
+a gas or liquid sample. In some embodiments, the sample is
+exhaled breath directly from an individual or from a breath-
+ing machine such as a ventilator, Alternatively, the methods
+can be performed using headspace from a culture known or
+suspected to include Arpergillur species, e.g., commercially-
+available or lab-cultured species or species obtained from a
+primary sample from a subject, e.g., a clinical sample
+obtained by biopsy of the affected area (e.g., nasal biopsy,
+transthoracic percutaneous needle aspiration, or video
+assisted thoracoscopic biopsy) or bronchoalveolar lavage,
+The sample is maintained in a suitable growth medium to
+allow growth and metabolism of any Aspergillur species in
+the sample. In certain embodiments, the invention involves
+taking a clinical sample from a subject and placing it in
+media, for example, with microﬂuidics, or in culture, for
+example, with conventional culturing methods. The Aspar-
+gillur species, if present, are stimulated to metabolize. The
+headspace (gaseous phase) generated as a result of this
+metabolism can be collected and analyzed using a method
+described herein or known in the art, see, e.g.,
+US20100291617. In some embodiments, the methods are
+performed directly on bronchoalveolar washings, obtained
+by bronchoscopy/bronchoalveolar lavage. In some embodi-
+ments, the sample is a gas, e.g., patient breath or gas from
+the headspace of an in vitro culture sample. Where head-
+space gas is used, the gas should be collected after the
+headspace has been in contact with the culture for a sufﬁ-
+cient amount of time for the compounds to be present,
+preferably in an air-tight, sealed environment.
+
+[0045] The VOCs can also be detected in a liquid sample,
+since they are expected to be there in equilibrium with the
+gaseous phase. Thus, in addition to or as an alternative, the
+samples assayed using the methods described herein can
+include a liquid, e.g., blood (e.g., plasma or serum), lymph,
+urine, tears, saliva, sputum, nasal mucus, phlegm (e.g.,
+expectorate), or CSF from a subject (e.g., from a biological
+US 2019/0033290 A1
+
+crimp top incorporating a rubber septum. Cultures were
+incubated for 24-144 hours at 200 rpm and 37° C. and
+headspace gas was dynamically adsorbed, using argon car-
+rier gas and an air sampling pump calibrated to 20 mL/min-
+ute, onto Markes thermal desorption traps containing tan-
+dem beds of Tenax TA (200 mg), Carbograph 1 TD (100
+mg). and Carboxen 1003 (100 mg), optimized to retain
+VOCs of diverse size and polarity,
+
+[0083] Headspace VOCs were also collected after expo-
+sure of a subset of fungal isolates to the antifungal drugs
+voriconazole, liposomal amphotericin B, and micafungin,
+each at a concentration of 1.0 mg/mL.
+
+[0084] VOCs were desorbed onto a dual GC-MS/DMS
+system (FIG. 1)ithe eluent from the gas chromatograph
+was split between the MS, to allow identiﬁcation of each
+compound, and the DMS, an extremely sensitive and selec-
+tive gas detector that can be easily used as a point-of-care
+gas detection device, to determine the mobility pattern for
+each compound, The NIST MS Search 2.0 Library was used
+to identify VOCs in the total ion chromatogram (TIC) of the
+GC-MS data. Differences in spectral features of DMS output
+were visually distinguished between the positive ion spectra
+of A. fumigatus and A. terreu: and principal component
+analysis (PCA) was used to evaluate the degree of class
+discrimination between these fungal species using algo-
+rithms in MATLAB (Version R2012a).
+
+[0085] Collection of VOCs in Patient Breath
+
+[0086] Breath was collected from patients with suspected
+IA using a Loccioni Breath Analysis sampler. For each
+patient. up to 4 minutes of tidal breath was adsorbed using
+an an air sampling pump calibrated to 900 mL/minute onto
+two parallel thermal desorption traps containing tandem
+beds of Tenax TA (200 mg), Carbograph 1 TD (100 mg), and
+Carboxen 1003 (100 mg). Ambient air was sampled con-
+currently with each breath sample at a ﬂow rate of 900 mL
+per minute to control for any environmental VOCs in patient
+breath samples, These samples were analyzed using the
+same thermal desorption GC-MS method outlined above for
+the in vitro ﬁingal cultures.
+
+[0087] Results
+
+[0088] lntraspecies homogeneity, interspecies heterogene-
+ity of VOC proﬁles:
+
+[0089] Each mold species tested in vitro produced a dis-
+tinctive VOC proﬁle that was conserved within each species
+(FIG. 2A) and distinct between species (FIG. ZB). Terpene
+and sesquiterpene compounds were particularly distinct
+between diﬁerent fungal species.
+
+[0090] Comparison of the VOC proﬁle of A. fumigatus
+with other fungal species showed that camphene, alpha-
+pinene, beta-pinene, limonene, alpha-bergamotene, and
+famesene were characteristic of A. ﬁmiigatus (FIG. 3).
+Comparison of the VOC proﬁle of A. :erreus with other
+fungal species showed that elixene, alpha-santalene, beta-
+elemene, acoradien, chamigrene, and 1,5,9-trimethyl
+cyclododecatriene were key features characteristic of A.
+terreus (FIG. 4). Comparison of the VOC proﬁle of A.
+calia'oustus with other fungal species showed that 9-decene-
+2-one and beta-sesquiphellandrene were key VOC features
+characteristic of A. calidoustu: (FIG. 5).
+
+[0091] Kinetics of VOC Production In Vitro:
+
+[0092] The kinetics of VOC release were assessed in vitro
+over lag, log, stationary, and death phases of each mold
+species, over 24-144 hours of incubation at 37° C. The key
+VOC features of A. fumigatus were ﬁrst clearly discernible
+
+Jan. 31, 2019
+
+at 24 hours of incubation and all volatiles reached their peak
+concentration at 96 hours of incubation (FIG. 6).
+
+[0093] The key VOC features of A. terreus were ﬁrst
+clearly discernible at 48 hours of incubation and reached
+peak levels at 96-120 hours of incubation (FIG. 7).
+
+[0094] The key VOC features of A. calia'oustus were ﬁrst
+clearly discernible at 24-48 hours of incubation and reached
+their peak at 96 hours of incubation (FIG. 8).
+
+[0095] Antifungal Exposure Modulates the Release of
+VOCs in A.fumigatus:
+
+[0096] Whether exposure to antifungal drugs might modu-
+late VOC release in Aspergillus fumigatus was assessed in
+vitro. When micafungin was added to 48-hour hyphal c111-
+tures ofAfumigatus, up to a 17-fold increase in some of the
+key A. fumigatus VOC features was observed after 24 hours,
+compared to matched control samples without micafungin
+(F 1G. 9A); attenuation of these VOC features was observed
+with a longer duration of incubation and hyphal death. A
+similar initial increase then attenuation in key A. ﬁJmigatus
+VOCs was observed in response to liposomal amphotericin
+B. When voriconazole was added to 48-hour hyphal cultures
+of A, ﬂmigatus, near-complete attenuation of the key VOC
+features of this species was observed after 24 hours, com-
+pared to matched control samples without voriconazole
+(FIG. 9B).
+
+[0097] Deﬁnition of GC-Diiferential Mobility Spectrom-
+eter Patterns of A. fumigatus and A. terreus:
+
+[0098] As a step towards utilizing portable GC-differential
+mobility spectrometry (DMS) technology as a point-of-care
+gas detector torAspergillus, the eluent from the GC was split
+between a MS and a DMS device. DMS is an extremely
+sensitive and selective chemical detector that operates at
+atmospheric pressure with a small power source, allowing it
+to be used outside the laboratory for the detection of speciﬁc
+VOC patterns. DMS positive ion spectral features of head-
+space gas fromA, ﬁtmigatus and A. terreus were examined,
+The DMS pattern was clearly conserved Within members of
+each species and clearly distinct between A.fumigatur and
+A. terreu: (FIG. 10A, 10B).
+
+[0099] Using principal component analysis (PCA), the
+degree of class separation between A. fumigatus and A.
+terreu: was evaluated. There was clustering of samples from
+the same species, and clear separation between A.ﬁ4migatus
+and A. terreu: clusters (FIG. 11A, 11B).
+
+[0100] Detection of A. ﬁxmigatus VOCs in Patient Breath:
+[0101] Tidal breath was collected from 54 immunocom-
+promised patients with suspected invasive aspergillosis to
+assess whether patients with IA could be distinguished from
+patients without IA by detecting fungal VOCs in their
+breath,
+
+[0102] Of 54 patients, 23 (43%) were female, 46 (85%)
+had a hematologic malignancy, 22 (41%) allogeneic stem
+cell transplants, 6 (11%) solid organ transplants, 46 (85%)
+exposure to T—cell immunosuppressants, and 24 (44%) pro-
+longed neutropenia. These characteristics were comparable
+in 29 patients with EORTC/MSG proven (3) or probable
+(26) IA and 25 patients with nodular pneumonia caused by
+other fungal infections or other infectious processes.
+[0103] There was substantial overlap between the key A.
+ﬁxmigatus VOCs we identiﬁed in vitro and in the breath of
+patients with invasive aspergillosis (FIG. 12), although we
+also identiﬁed a new sesquiterpene compound, beta-vat-
+irenene, and an oxidized famesene derivative, cis—gerany-
+US 2019/0033290 A1
+
+unrelated test compounds. In some embodiments, the test
+compounds are peptide or peptidomimetic molecules. In
+some embodiments, the test compounds are nucleic acids.
+
+[0072] In some embodiments, the test compounds and
+libraries thereof can be obtained by systematically altering
+the structure of a ﬁrst test compound, e.g., a ﬁrst test
+compound that is structurally similar to a known natural
+binding partner of the target polypeptide, or a ﬁrst small
+molecule identiﬁed as capable of binding the target poly-
+peptide, eg., using methods known in the art or the methods
+described herein, and correlating that structure to a resulting
+biological activity, e.g., a structure-activity relationship
+study. As one of skill in the art will appreciate, there are a
+variety of standard methods for creating such a structure-
+activity relationship. Thus. in some instances, the work may
+be largely empirical, and in others, the three-dimensional
+structure of an endogenous polypeptide or portion thereof
+can be used as a starting point for the rational design of a
+small molecule compound or compounds. For example, in
+one embodiment, a general library of small molecules is
+screened, erg, using the methods described herein.
+
+[0073] In some embodiments, a test compound is applied
+to a test sample comprising one or more Aspergillus species,
+and the ability of the test compound to decrease levels of a
+VOC as described herein in the headspace of the culture is
+determined.
+
+[0074] In some embodiments, the test sample is, or is
+derived from (e.g., a sample taken from) an in vivo model
+of a disorder as described herein. For example, an animal
+model, e.g., a rodent (such as a rat or mouse) that has been
+infected with one or more Aspergillus species can be used.
+[0075] A test compound that has been screened by a
+method described herein and determined to decrease VOCs,
+can be considered a candidate compound, A candidate
+compound that has been screened, e.g., in an in vivo model
+of a disorder, e.g., a rodent infected with one or more
+Aspergillu: species, and determined to decrease VOCs in a
+sample comprising breath from the infected animal model or
+headspace from a culture of a sample from the infected
+animal model, can be considered a candidate therapeutic
+agent. Candidate therapeutic agents, once screened in a
+clinical setting, are therapeutic agents. Candidate com-
+pounds, candidate therapeutic agents, and therapeutic agents
+can be optionally optimized and/or derivatized, and fonnu-
+lated with physiologically acceptable excipients to form
+pharmaceutical compositions,
+
+[007 6] Thus, test compounds identiﬁed as “hits” (e.g., test
+compounds that decrease fungal VOCs in an animal model)
+in a ﬁrst screen can be selected and systematically altered,
+e.g., using rational design, to optimize binding afﬁnity,
+avidity, speciﬁcity, or other parameter. Such optimization
+can also be screened for using the methods described herein.
+Thus, in one embodiment, the invention includes screening
+a ﬁrst library of compounds using a method known in the art
+and/or described herein, identifying one or more hits in that
+library, subjecting those hits to systematic structural altera-
+tion to create a second library of compounds structurally
+related to the hit, and screening the second library using the
+methods described herein
+
+[0077] Test compounds identiﬁed as hits can be consid-
+ered candidate therapeutic compounds, useful in treating IA.
+A variety of techniques useful for determining the structures
+of “hits” can be used in the methods described herein, e.g.,
+NMR, mass spectrometry, gas chromatography equipped
+
+Jan. 3], 2019
+
+with electron capture detectors, ﬂuorescence and absorption
+spectroscopy. Thus, the invention also includes compounds
+identiﬁed as “hits” by the methods described herein, and
+methods for their administration and use in the treatment,
+prevention, or delay of development or progression of a
+disorder described herein.
+
+[0078] Test compounds identiﬁed as candidate therapeutic
+compounds can be further screened by administration to an
+animal model of IA, as described herein. The animal can be
+monitored for a change in the disorder, e.g., for an improve-
+ment in a parameter of the disorder, eg, a parameter related
+to clinical outcome. In some embodiments, the parameter is
+VOCs or survival, and an improvement would be a reduction
+in VOCs or an increase in survival. In some embodiments,
+the subject is a human, e.g., a human with [A and the
+parameter is levels of fungal VOCs or survival
+
+EXAMPLES
+
+[0079] The invention is further described in the following
+examples, which do not limit the scope of the invention
+described in the claims
+
+Example 1
+
+Deﬁnition of Aspergillus VOC Proﬁles In Vitro
+
+[0080] Using gas chromatography interfaced to mass
+spectrometry and differential mobility spectrometry (GC-
+MS/DMS), VOC proﬁles were characterized in the head-
+space gas of in vitro cultures of Aspergillus species patho-
+genic to humans, most notably Ar jitmigatus, Ar terreus, and
+A. calidourtus, under incubation conditions designed to
+mimic the milieu of the human lung and promote hyphal
+growth (as Aspergillus spreads through hyphal growth and
+invasion of human tissue blood vessels and tissues in vivo),
+[0081] Mold strains (Table 1) were incubated at 25° C. on
+Sabouraud dextrose agar slants. Conidia were harvested and
+conidial suspensions were prepared in sterile water Conidia
+were quantiﬁed with a hemocytometer
+
+TABLE 1
+
+Fungal species used for in vitro voc proﬁle
+determination
+
+Strains
+
+Genus Species (N) Source“
+Aspergilliu ﬂtmz’galm 9 ATCC, CDC,
+
+BWH
+Aspergillus 2mm 7 ATCC, BWH
+Aspergillxu calidousms 3 ATCC
+Aspergillus niger 6 CDC, BW'H
+Aspergillus tubingensis 2 CDC
+Aspergillus ﬂaws 5 CDC, BWH
+Rhizapus oryzae 3 ATCC, BWH
+Fusmium solam 2 ATCC, BWH
+Mucar velulinasus 1 BWH
+
+’ATCC American Type Culture Collection, CDC: Centers for Disease Control; BWI-l:
+Brigham and Women‘s Hospital
+
+[0082] For each experiment, 104 conidia were inoculated
+into 5 mL of microbial media (either nutrient Yeast Extract
+Peptone Dextrose (YPD) broth, nutrient poor Aspergillus
+minimal media (Pontecorvo et al., Advan Genet 1953;
+51141-238), or under iron-starved, alkaline stress, or nitro-
+gen-depleted conditions (McDonagh et al., PLoS Pathog
+2008; 4:e1000154)) in 20 mL glass vials with an airtight
+US 2019/0033290 A1
+
+ﬂuid that comes near or preferably into contact with the
+tissue or organ that is known or suspected to be infected with
+an Aspergillus species), or the liquid phase (e.g., superna-
+tant) of an in vitro culture. In some embodiments, the sample
+comprises saliva from the subject.
+
+[004 6] Detection Methods
+
+[0047] A number of methods known in the art can be used
+to detect the presence of the VOCs described herein in a
+sample. Exemplary methods (particularly for use with a gas
+sample) include gas chromatography (GC); spectrometry,
+for example mass spectrometry (including quadrapole, time
+of ﬂight, tandem mass spectrometry, ion cyclotron reso-
+nance, and/or sector (magnetic and/or electrostatic», ion
+mobility spectrometry, ﬁeld asymmetric ion mobility spec-
+trometry, and/or DMS; fuel cell electrodes; light absorption
+spectroscopy; nanoparticle technology; ﬂexural plate wave
+(FPW) sensors; electrochemical sensors; photoacoustic
+equipment; laser-based equipment; electronic noses (bio-
+derived, surface coated); and various ionization techniques.
+See, e.g., US20100291617 and U820070003996. Preferred
+methods include ion mobility spectrometry (IMS) or itfer-
+ential mobility spectrometry (DMS).
+
+[0048] In some embodiments, the methods described
+herein include the use of differential mobility spectrometry
+to detect VOCs in a sample. An exemplary micro-mac iined
+differential mobility spectrometer (DMS), developed for
+chemical and biological sensing applications, is currently
+available from Sionex Corporation. DMS has severa fea-
+tures that make it an excellent platform for VOC analysis: it
+is quantitative, selective, and exquisitely sensitive, with a
+volatile detection limit in the parts-per-tr‘illion range (Davis
+et al., In: 12th International Conference on Transducers,
+Solid-State Sensors, Actuators and Microsystems; 2003; p.
+1233-8 vol. 2; Miller et al., In: Solid-State Sensors and
+Actuators Workshop; 2000; Hilton Head, SC; 2000; (rebs
+et al., Sensors Journal, IEEE 2005; 5(4):696-703). Unlike
+mass spectrometry, which separates particles based on mass/
+charge ratios, DMS harnesses differences in ion mobi ity in
+low and high electric ﬁelds to achieve a gas-phase separation
+of ions at atmospheric pressure. DMS rapidly detects com-
+pounds that are diﬂicult to resolve by other ana ytical
+techniques such as mass spectrometry in challenging matri-
+ces such as human breath (Kanu et al., J Mass Spectrom
+2008; 43:1-22; Kanu et al., J ChromatogrA 2008; 1177:12-
+27; Luong J et al., J Chromatogr Sci 2006; 44:276-286;
+Nazarov et al., Anal Chem 2006; 7697-706; Kolakowski et
+al., Analyst 2007; 132:842-64).
+
+[0049] DMS can be tuned to monitor speciﬁc ion masses,
+thus tailoring response characteristics to focus on various
+compounds of interest. It requires no reagents, generates the
+high ﬁelds required by the sensor using a small power
+supply, and has already been microfabricated, resulting in a
+small, portable machine that can be used at the bedside, with
+a turnaround time of several minutes. DMS has been used
+successfully in several commercial settings, including a
+hand-held, portable detector of trace levels of chemical
+warfare agents from General Dynamics (JUNOTM) and
+airport explosives detectors from Thermo (see, e.g., US
+Pat. No. 7,605,367). DMS technology has also been suc-
+cessfully applied to the characterization of unique VOCs
+produced by Mycobacterium tuberculosis and other bacteria
+(Fong et al., Anal Chem 2011; 83:1537-46; Shnayderman et
+al., Anal Chem 2005;77:5930-7).
+
+ 
+
+Jan. 3], 2019
+
+[0050] To perform a measurement using a DMS, a gas
+sample is introduced into the spectrometer, where it is
+ionized, and the ions are transported through an ion ﬁlter
+towards the detecting electrodes (Faraday plates) by a carrier
+gas. The DMS device can separate chemical components of
+a substance based on differing ion mobilities. For other
+devices, measurements are performed using methods known
+in the art.
+
+[0051] Additional non-limiting examples of systems that
+can be used in the present methods include those described
+in U820090078865; U820130168548; U820100291617 and
+USZOO70003996.
+
+[0052] In some embodiments, the methods include obtain-
+ing a sample of ambient air and detecting the presence
+and/or levels of VOCs in the air, to provide a reference for
+subtraction of ambient VOCs.
+
+[0053] A number of methods are known in the art for
+detecting the presence and/or levels of the VOCs in a liquid
+sample, including but not limited to chromatography (eg,
+HPLC) and spectrophotometry (e.g., MS, LC-MS, MALDI-
+TOF, and other of the methods described above for gas-
+phase samples).
+
+[0054] Combination Diagnostics
+
+[0055] In some embodiments, the methods include per-
+forming an additional diagnostic test for IA. A number of
+such tests are known in the art and include galactomanrian
+enzyme imrnurioassays; radiology imaging studies (e.g., CT
+imaging); bronchoalveolar lavage, transthoracic percutarie-
+ous needle aspiration, or video assisted thoracoscopic
+biopsy. A positive result on one of these tests can provide
+further evidence supporting a diagnosis of IA; see, e.g.,
+Walsh et al., Clinical Infectious Diseases 2008; 46:327-60.
+
+[0056] Aspergillus Species Identiﬁcation and Diagnosis
+[0057] As described herein, A. fumigatus, A. terreus, A.
+calidoustu: each produce VOCs that can be used to identify
+them in a sample, e.g., in a sample comprising breath of a
+subject, or headspace from a culture suspected of comprising
+Aspergillus; the culture can be, e.g., a culture of a biopsy
+from a subject, or a culture in a microbiology laboratory,
+e.g., a culture known or suspected of containing or being
+contaminated with an Aspergillu: species. This identiﬁcation
+can be used to diagnose a subject with the speciﬁc species
+of Aspergillus, allowing for the administration of species-
+speciﬁc treatments, e.g., as described below.
+
+[0058] Thus, the methods described herein can include
+obtaining a sample comprising breath of a subject, or
+headspace from a culture suspected ofcomprising Aspergil-
+11.43, and detecting and identifying the VOCs in the sample.
+For example, the methods can include detecting the presence
+of one, two, three, or more, e.g., all, of camphene, alpha-
+pinene, beta-pinene, limonene, alpha-bergamotene,
+famesene, elixene, alpha-santalene, beta-elemene, acora-
+dien, chamigrene, 1,5,9-trimethyl cyclododecatriene, 9-de-
+cene-2-one and beta-sesquiphellandrene in the sample. The
+presence of one, two, three, or more, e.g., all, of camphene,
+alpha-pinene, beta-pinene, limonene, alpha-bergamotene, or
+famesene indicates the presence of A. fumigatus in the
+sample (and thus an A. ﬁmigarus infection in cases where
+the sample is from a subject); the presence of one, two, three,
+or more, e.g., all, of elixene, alpha-santalene, beta-elemene,
+acoradien, chamigrene, and 1,5,9-trimethyl cyclododeca-
+triene indicates the presence of A. terreus in the sample (and
+thus an A. terreus infection in cases where the sample is
+from a subject); and the presence of one or both of 9-decene-
+US 2019/0033290 A1
+
+2-one and beta-sesquiphellandrene indicates the presence of
+A. calidoustus in the sample (and thus an A. calidoustus
+infection in cases where the sample is from a subject). In
+some embodiments, where limonene or alpha-pinene is
+present, at least one or two other VOCs must also be present
+for a positive species identiﬁcation, and a species-speciﬁc
+diagnosis, to be made,
+
+[0059] Methods of Treatment
+
+[0060] The methods described herein can be used to select
+a treatment for a subject, and can optionally include admin-
+istering the treatment to a subject, When a subject has been
+diagnosed by a method described herein as having IA, then
+a treatment comprising administration of a therapeutically
+effective amount of an antifungal compound can be admin-
+istered.
+
+[0061] A number of antifungal compounds are known in
+the art and under development, At present, deoxycholate
+amphotericin B (D-AMB) and its lipid formulations (AMB
+lipid complex (ABLC), liposomal amphotericin B (LAMB),
+and Amphotericin B cholesteryl sulfate complex (AMB
+colloidal dispersion, ABCD)); azole compounds (itracon-
+azole, voriconazole, posaconazole); and echinocandins
+(caspofungin, micafungirt anidulafungin) are in clinical use,
+though voriconazole and D-AMB are the only compounds
+approved for primary treatment of invasive aspergillosis in
+the United States, For detailed information on treatment of
+IA, see, eg, Walsh et al., Clinical Infectious Diseases 2008;
+46:327-60; and Marr et al,, Treatment and prevention of
+invasive aspergillasis, Up-To-Date (topic updated on Oct.
+18, 2012; literature review August 2013; available at upto-
+date,com/contents/treatment-and-prevention-of-invasive-
+aspergillosis?topicKey:ID%2F2459&elapsedTimeMs:
+7&view:print&displayedView:full).
+
+[0062] In some embodiments, the methods include select-
+ing and optionally administering an azole antifungal, e,g.,
+itraconazole (ITR), voriconazole (VOR), posaconazole
+(POS), ravuconazole (RAV), or isavuconazole (ISA), or an
+amphotericin B (AMB) formulation as described above, to
+a subject identiﬁed by a method described herein as having
+IA. In some embodiments, the methods include administer-
+ing an echinocandin, e.g,, caspofungin, micafungin or anidu-
+lafungin, cg, alone or in combination with an azole (e.g.,
+voriconazole) or AMB.
+
+[0063] It is known that triazoles are not active against
+some isolates of Ar calidaustus, and some A, terreu: isolates
+are resistant to AME. See, e.g., Baddley et al., J. Clin.
+Microbiol. 2009, 47(10):3271. Thus, in some embodiments,
+where the species of Aspergillus is determined, an azole
+compound (e.g., ITR, VOR, POS, RAV, or ISA) is selected
+for (and optionally administered to) a subject who has A.
+fumigatus or A. terreus, but not At mlidoustus, In some
+embodiments, an AMB (elgi, D-AMB, ABLC, LAMB, or
+ABCD) is selected for (and optionally administered to) a
+subject who has A. calia'oustus. In some embodiments, an
+AMB is selected for (and optionally administered to) a
+subject who has A, fitmigatus, but not a subject who has A.
+terreus.
+
+[0064] In some embodiments, the methods described
+herein can be used to determine susceptibility of Aspergillus
+species, eg, to treatment with a known or suspected anti-
+fungal, eg, in the microbiology laboratory, A sample sus-
+pected or known to include Aspergillus from a subject is
+obtained and cultured as described above, e.g., under con-
+ditions mimicking the in vivo environment, and then
+
+Jan. 31, 2019
+
+exposed to a potential treatment (e.g,, a known or experi-
+mental treatment), Aﬁer exposure to the treatment, the
+VOCs present in the headspace of the culture are sampled,
+If the treatment decreases VOCs as compared to a reference
+level (e.g., a level of VOCs in the headspace before expo sure
+to the treatment), then the Aspergillu: in the sample is
+considered susceptible to the treatment In this case, the
+treatment is likely to be effective in treating IA in the
+subject; the treatment can be selected and optionally admin-
+istered to subject
+
+[0065] Monitoring Treatment Efﬁcacy
+
+[0066] As described herein, successful treatment of an
+Aspergillus infection results in a decrease in fungal VOCs.
+Thus, the methods can include repeated assays of VOC
+levels in a subject, e.g., before, during, and alter adminis-
+tration of a treatment for IA, A decrease in VOC levels
+would indicate that the treatment has been successful. In
+some embodiments, levels of one, two, or all three of
+famesene, beta-vatirenene, and/or cis-geranylacetone are
+determined, In some embodiments, levels of one, two, three,
+or more of famesene, beta-vatirenene, cis-geranylacetone,
+camphene, alpha-pinene, beta-pinene, limonene, alpha-ber-
+garnotene, famesene, elixene, alpha-santalene, beta-el-
+emene, acoradien, chamigrene, 1,5,9-trimethyl cyclodode-
+catriene, 9-decene-2-one and beta-sesquiphellandrene are
+determined,
+
+[0067] Methods of Identifying Novel Antifungal Agents
+[0068] Included herein are methods for screening test
+compounds, erg, polypeptides, polynucleotides, inorganic
+or organic large or small molecule test compounds, to
+identify agents useful in the treatment of IA.
+
+[0069] As used herein, “small molecules” refers to small
+organic or inorganic molecules of molecular weight below
+about 3,000 Daltons. In general, small molecules useful for
+the invention have a molecular weight of less than 3,000
+Daltons (Da), The small molecules can be, eg,, from at least
+about 100 Da to about 3,000 Da (eg, between about 100 to
+about 3,000 Da, about 100 to about 2500 Da, about 100 to
+about 2,000 Da, about 100 to about 1,750 Da, about 100 to
+about 1,500 Da, about 100 to about 1,250 Da, about 100 to
+about 1,000 Da, about 100 to about 750 Da. about 100 to
+about 500 Da, about 200 to about 1500, about 500 to about
+1000, about 300 to about 1000 Da, or about 100 to about 250
+Da).
+
+[0070] The test compounds can be, e,g,, natural products
+or members of a combinatorial chemistry library. A set of
+diverse molecules should be used to cover a variety of
+functions such as charge, aromaticity, hydrogen bonding,
+ﬂexibility, size, length of side chain, hydrophobicity, and
+rigidity. Combinatorial techniques suitable for synthesizing
+small molecules are known in the art, e.g., as exempliﬁed by
+Obrecht and Villalgordo, Solid-Supported Combinatorial
+and Parallel Synthesis of Small-Molecular-l/Veight Come
+pound Libraries, Pergamon-Elsevier Science Limited
+(1998), and include those such as the “split and pool” or
+“parallel” synthesis techniques, solid-phase and solution-
+phase techniques, and encoding techniques (see, for
+example, Czamik, Curr. Opin. Chem. Bio. 1260-6 (1997)). In
+addition, a number of small molecule libraries are commer-
+cially available. A number of suitable small molecule test
+compounds are listed in US. Pat, No, 6,503,713, incorpo-
+rated herein by reference in its entirety
+
+[0071] Libraries screened using the methods of the present
+invention can comprise a variety of types of test compounds.
+A given library can comprise a set of structurally related or

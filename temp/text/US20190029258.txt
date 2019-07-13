@@ -1,0 +1,851 @@
+US 2019/0029258 A1
+
+EXAMPLES
+
+Film Formation Method
+
+[0036] Into a mixing tank with agitating blades operating
+at 60 Hertz, an adhesive precursor, commercially available
+from entrochem, inc. (Columbus, Ohio) under the trade
+designation, 320650, was pumped using a diaphragm pump.
+To the adhesive precursor and via a port in the top of the
+mixing tank, chlorhexidine was added in powder form to the
+desired total weight percentage at a rate of from 1 to 50,000
+grams/hour During addition of the chlorhexidine, the con-
+tents of the mixing tank were recirculated from bottom to
+top, passing through a static mixer along the way. Upon
+addition ofchlorhexidine to the desired amount, a degas/mix
+cycle was run for one hour and pulling a vacuum on the
+mixing tank to a minimum of about 66 kPa absolute pressure
+(i.e., about 10 inches of mercury below atmospheric pres-
+sure), after which time period the contents of the mixing
+tank were immediately dispensed for coating. The contents
+were coated on—web at a coating line speed of 38 m/min (125
+ft/min) under ultraviolet lights operating at a wavelength of
+350-400 nm (typically peaking at 369 nm) and having an
+irradiance of 20 mW/cmz. Temperature during all of the
+above processing steps was maintained at room temperature.
+
+Extraction and Assay Method for Film
+
+[0037] A 10-cm- by 10-cm-square sample of the ﬁlm was
+placed in a glass vial, which was certiﬁed to meet or exceed
+EPA standards for volatiles. To the vial, 15 mL of tetrahy-
+drofuran (THF) was added. The vial was then placed on a
+wrist-action shaker for at least sixteen hours. Then, 5 mL of
+the vial contents was diluted to a volume of 10 mL with a
+solution of 2716 grams monobasic sodium phosphate (0136
+weight % monobasic sodium phosphate based on total
+weight of the diluent such that its molarity was 0.115
+mol/L), 10 milliliters triethylamine (1.36 weight % trieth-
+ylamine based on total weight of the diluent such that its
+molarity was 0.036 mol/L), and 10 milliliters water (98.28
+Weight % water based on total weight of the diluent), with
+the diluent adjusted with phosphoric acid to a pH of 3.0. The
+resulting solution was vortexed for about ﬁfteen seconds,
+aﬁer which time an aliquot thereof was ﬁltered through a
+0145 pm pore size nylon ﬁlter membrane within a syringe-
+tip. The resulting ﬁltrate was then analyzed for PCA analyte
+using high performance liquid chromatographic (HPLC)
+analysis according to U.S. Pharmacopeial Convention stan-
+dards for analysis of chlorhexidine hydrochloride in a HPLC
+system using an LC mode and 239-nanometer ultraviolet
+detector. A 4.6-mmx25-cm column was used with a base-
+deactivated 5-pm USP Code Ll packing (i.e., octadecyl
+silane chemically bonded to porous silica or ceramic micro-
+particles as known to those of ordinary skill in the art). The
+column temperature was maintained at 40° C. and the ﬂow
+rate was maintained within the column at the rate of 1.5
+mL/min using a 50 [LL injection size.
+
+Example 1
+
+[0038] An adhesive ﬁlm prepared according to the Film
+Formation Method and containing 2 weight % chlorhexidine
+based on total weight of the adhesive was evaluated accord-
+ing to the Extraction and Assay Method for Film described
+above. The evaluation was repeated for a total of 12 samples
+of the same ﬁlm. No PCA was detected.
+
+Jan. 31, 2019
+
+Example 2
+
+[0039] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 2 weight % chlo-
+rhexidine based on total weight of the adhesive was evalu-
+ated according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 25 kGy gamma radiation. No PCA was detected.
+
+Example 3
+
+[0040] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 2 weight "/0 chlo-
+rhexidine based on total weight of the adhesive was evalu-
+ated according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 25 kGy gamma radiation and aged at an acceler-
+ated rate for six months according to ASTM Test Method
+F1980. No PCA was detected.
+
+Example 4
+
+[0041] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 2 weight % chlo-
+rhexidine based on total weight of the adhesive was evalu-
+ated according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 25 kGy gamma radiation and aged at an acceler-
+ated rate for twenty-four months according to ASTM Test
+Method F1980. No PCA was detected.
+
+Example 5
+
+[0042] An adhesive ﬁlm prepared according to the Film
+Formation Method and containing 2 weight % chlorhexidine
+based on total weight of the adhesive was evaluated accord-
+ing to the Extraction and Assay Method for Film described
+above The evaluation was repeated for a total of 10 samples
+of the same ﬁlm. No PCA was detected.
+
+Example 6
+
+[0043] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 2 weight “/0 chlo-
+rhexidine based on total weight of the adhesive was evalu-
+ated according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlmi Each sample was sterilized to
+a dose of 42 kGy gamma radiation No PCA was detected.
+
+Example 7
+
+[0044] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 2 weight % chlo-
+rhexidine based on total weight of the adhesive was evalu-
+ated according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 42 kGy gamma radiation. No PCA was detected.
+
+Example 8
+
+[0045] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 2 weight “/0 chlo-
+rhexidine based on total weight of the adhesive was evalu-
+US 2019/0029258 A1
+
+ated according to the Extraction and Assay Method for Fi m
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 42 kGy gamma radiation and aged in real time or
+two months, No PCA was detected,
+
+Example 9
+
+[0046] An adhesive ﬁlm prepared according to the Pi m
+Formation Method and containing 10 weight % chlorhexi-
+dine based on total weight of the adhesive was evaluated
+according to the Extraction and Assay Method for Fim
+described above. The evaluation was repeated for a total of
+8 samples of the same ﬁlm. No PCA was detected.
+
+Example 10
+
+[0047] A sterilized adhesive ﬁlm prepared according to t 1e
+Film Formation Method and containing 10 weight % ch 0-
+rhexidine based on total weight of the adhesive was eva u-
+ated according to the Extraction and Assay Method for Fi m
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 43 kGy gamma radiation. No PCA was detected.
+
+ 
+
+Example 11
+
+[0048] An adhesive ﬁlm prepared according to the Film
+Formation Method and containing 10 weight % chlorhexi-
+dine based on total weight of the adhesive was evaluated
+according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. No PCA was detected.
+
+Example 12
+
+[0049] A sterilized adhesive ﬁlm prepared according to the
+Film Formation Method and containing 10 weight % chlo-
+rhexidine based on total weight of the adhesive was evalu-
+ated according to the Extraction and Assay Method for Film
+described above. The evaluation was repeated for a total of
+12 samples of the same ﬁlm. Each sample was sterilized to
+a dose of 43 kGy gamma radiation and aged at an acceler-
+ated rate for twelve months according to ASTM Test Method
+F1980. No PCA was detected.
+
+Comparative Example C1
+
+[0050] Wound dressing ﬁlm containing chlorhexidine and
+commercially sold by Covalon Technologies Ltd. of Mis-
+sissauga, Ontario, Canada as SURGICLEAR Antimicrobial
+Clear Silicone Surgical Dressing was evaluated about six
+months before its expiration date according to the Extraction
+and Assay Method for Film described above. The evaluation
+was repeated for a total of 4 samples of the same ﬁlm. PCA
+in the amount of 0.0001 mg/mL was detected in each of the
+samples.
+
+[0051] Various modiﬁcations and alterations of the inven-
+tion will become apparent to those skilled in the art without
+departing from the spirit and scope of the invention, which
+is deﬁned by the accompanying claims, It should be noted
+that steps recited in any method claims below do not
+necessarily need to be performed in the order that they are
+recited. Those of ordinary skill in the art will recognize
+variations in performing the steps from the order in which
+they are recited. In addition, the lack of mention or discus-
+sion of a feature, step, or component provides the basis for
+
+Jan. 31, 2019
+
+claims where the absent feature or component is excluded by
+way of a proviso or similar claim language.
+
+[0052] Further, as used throughout, ranges may be used as
+shorthand for describing each and every value that is within
+the range. Any value within the range can be selected as the
+terminus of the range. Similarly, any discrete value within
+the range can be selected as the minimum or maximum value
+recited in describing and claiming features of the invention,
+[0053] In addition, as discussed herein it is again noted
+that compositions described herein may comprise all com-
+ponents in one or multiple parts. Further, while reference
+may be made herein to preparation of the various interme-
+diate components, recognize that some such intermediate
+components may be commercially available and, as such,
+can be used according to the invention as an alternative to
+otherwise preparing the same, Other variations are recog-
+nizable to those of ordinary skill in the art.
+
+1. A method of forming an antimicrobial article, the
+method comprising steps of:
+providing a polymerizable composition comprising at
+least two diﬁerent components, wherein each of the at
+least two diﬁerent components are mutually reactive
+with each other via chemically different reactive moi-
+eties to form a polymeric backbone, and wherein each
+of the at least two different components has an average
+molecular weight that is less than about 10% of the
+weight average molecular weight of the fully polym-
+erized composition;
+incorporating an antimicrobially etfective amount of at
+least one chlorhexidine-containing antimicrobial agent
+into the polymerizable composition; and.
+
+polymerizing the polymerizable composition to form
+chlorhexidine»containing polymer of the antimicrobial
+article, wherein the chlorhexidine-containing polymer
+is polyurethane-based,
+
+wherein processing temperature during the method is less
+
+than about 80° C.
+
+2. The method of claim 1, wherein the processing tem-
+perature during the method is less than about 40° C.
+
+3. The method of claim 1, wherein the processing tem-
+perature during the method is about room temperature.
+
+4. The method of claim 1, wherein the processing tem-
+perature during the method is less than that temperature at
+which chlorhexidine decomposes to para-chloroaniline.
+
+5. The method of claim 1, wherein the antimicrobially
+effective amount of at least one chlorhexidine-containing
+antimicrobial agent in the antimicrobial article consists
+essentially of chlorhexidine free base.
+
+6. The method of claim 1, wherein the antimicrobially
+effective amount of at least one chlorhexidine-containing
+antimicrobial agent comprises chlorhexidine salt.
+
+7. The method of claim 1, wherein the method comprises
+continuously forming the chlorhexidine-containing polymer
+on a web.
+
+8. The method of claim 1, wherein the polymerizable
+composition is essentially free of solvents.
+
+9. The method of claim 1, wherein the chlorhexidine-
+containing polymer is essentially free of unreacted solvent.
+
+10. The method of claim 1, wherein polymerization of the
+polymerizable composition is initiated using at least one
+radiation source selected from ultraviolet radiation and
+electron beam radiation.
+US 2019/0029258 A1
+
+11 The method of claim 1, wherein polymerization of the
+polymerizable composition is initiated without use of an
+external source of thermal radiation,
+
+12‘ The method of claim 1, wherein the chlorhexidine-
+containing polymer is a polymer ﬁlm.
+
+13‘ The method of claim 1, wherein the chlorhexidine-
+containing polymer is an adhesive
+
+14‘ The method of claim 1, wherein the chlorhexidine-
+containing polymer is a backing for an adhesive-coated
+antimicrobial article,
+
+15‘ The method of claim 1, wherein 100% reactive
+chemistry is used to form the chlorhexidine-containing
+polymeri
+
+16-18. (canceled)
+
+19‘ The antimicrobial article prepared according to the
+method of claim 1.
+
+20‘ An antimicrobial article comprising at least one chlo-
+rhexidine-containing polymer, wherein less than about
+00001 mg/mL detectable para-chloroaniline is present in the
+chlorhexidine-containing polymen
+
+214 The antimicrobial article of claim 20, wherein the
+article comprises about 10 weight % chlorhexidine free base
+based on total weight of the chlorhexidine-containing poly-
+mer,
+
+22‘ The antimicrobial article of claim 20, wherein essen-
+tially no detectable para-chloroaniline is present in the
+chlorhexidine-containing polymeri
+
+234 The antimicrobial article prepared according to the
+method of claim 12.
+
+Jan. 3], 2019
+US 2019/0029258 A1
+
+base polymer selected from polycarbonates, polyvinyl ﬂuo-
+rides, poly(meth)acrylates, polyurethanes, and modiﬁed
+polymers thereof. An exemplary chlorhexidine—containing
+polymer is polyurethane-based. Another exemplary chlo-
+rhexidine-containing polymer is (meth)acrylate-based.
+[0013] Advantageously, PCA is minimal in antimicrobial
+articles prepared according to the method of the invention
+In one embodiment, an antimicrobial article prepared
+according to the method of the invention has less than about
+0.0001 mg/mL detectable PCA present in the chlorhexidine-
+containing polymer, In a further embodiment, an antimicro-
+bial article prepared according to the method of the inven-
+tion has essentially no detectable PCA present in the
+chlorhexidine-containing polymer
+
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+[0014] Antimicrobial articles of the invention are chlo-
+rhexidine-containing. Chlorhexidine-containing antimicro-
+bial articles comprise an antimicrobially etfective amount of
+chlorhexidine in its pure form (i.e., as a free base), an
+antimicrobially effective amount of chlorhexidine in the
+form of at least one chlorhexidine salt, or combinations
+thereof. Unlike widespread use of the general term chlo-
+rhexidine by those of ordinary skill in the art in referring
+only to the salt form of chlorhexidine, unless speciﬁcally
+stated herein, reference to the general term chlorhexidine in
+describing the invention herein is meant to include both the
+pure form and salt form of chlorhexidine.
+
+[0015] In one embodiment, chlorhexidine-containing anti-
+microbial articles comprise at least one chlorhexidine salt.
+Suitable counterions for chlorhexidine in salts thereof
+include, but are not limited to, dihydrochloride, methosul-
+fate, diphosphanilate, palmitate, lactate, gluconate, diac-
+etate, and the like. An exemplary chlorhexidine salt is
+chlorhexidine gluconate (CHG), which is sometimes
+referred to by those of ordinary skill in the art as chlorhexi-
+dine digluconate.
+
+[0016] In another embodiment, chlorhexidine is present in
+its substantially pure form (i.e., as a free base). When using
+pure chlorhexidine, antimicrobial activity is typically
+increased as compared to use of chlorhexidine salts. It is
+believed that lack of bonding between chlorhexidine and the
+polymeric composition in which it is dispersed (as compared
+to the at least ionic bonding present when chlorhexidine salts
+are dispersed in a polymeric composition) contributes to
+improved release of chlorhexidine from the polymeric com-
+position and, hence, antimicrobial effect,
+
+[0017] Antimicrobial articles of the invention comprise
+any suitable polymeric materials (also referred to herein
+simply as “polymers”), which can be formed into a wide
+variety of shapes suitable for their intended application.
+Some applications impose more stringent requirements on
+dimensions or other properties of materials used than others,
+For example, optical clarity of polymeric materials is an
+important consideration when selecting polymeric materials
+for use in optical applications. As a further example, many
+applications require that polymeric materials used therein
+consist of single layer ﬁlms having controlled dimensions.
+[0018] A “ﬁlm” is generally understood to be a relatively
+thin, continuous, single layer of solid material. In contrast,
+many conventionally applied “coatings” do not form a
+continuous or uniform layer of material on an underlying
+substrate. As such, once excess solvent (i.e., organic solvent
+
+Jan. 3], 2019
+
+and/or water) is dried, liquid-applied coatings (erg, vapor
+coatings and ink jet-printed coatings) are often not able to be
+physically separated from the supporting substrate on which
+they are formed so that they can be used as a stand-alone
+layer or as one of multiple layers in another application.
+Thus, such coating technology has its limitations and is
+generally deﬁcient for formation of polymeric ﬁlms.
+[0019] In exemplary embodiments, polymer ﬁlms formed
+according to methods of the invention are able to be physi-
+cally separated from the supporting substrate on which they
+are formed so that they can be used as a stand-alone layer or
+as one of multiple layers in antimicrobial articles. Recog-
+nize, however, that polymer ﬁlms may be formed contigu-
+ously with or subsequently laminated to other polymer ﬁlms
+or layers (e,g., adhesive layers or release liners) according to
+further embodiments.
+
+[0020] Antimicrobial articles and chlorhexidine-contain-
+ing polymerizable compositions used to form the same
+according to methods of the invention comprise any suitable
+material. Chemistry of materials used herein is not limited so
+long as processing temperatures associated therewith fall
+within those of the present invention. Suitable chemistries
+may comprise polyoleﬁns (e.g,, low density polyethylene),
+polyurethanes (e.g., polyester polyurethane or polyether
+polyurethane), polyesters (e.g., polyether polyester), and
+polyamides (e.g., polyether polyamide). In an exemplary
+embodiment, antimicrobial articles of the invention com-
+prise at least one base polymer selected from polycarbon-
+ates, polyvinyl ﬂuorides, poly(meth)acrylates (e.g,, a poly-
+acrylate or a polymethacrylate), polyurethanes, and
+modiﬁed polymers thereof (eg, a hybrid).
+
+[0021] By use of the term “polymerizable," it is to be
+understood that such a composition contains components
+that will polymerize upon initiation using any suitable
+method. The polymerizable composition may exist in one or
+multiple parts, depending on the nature of the components
+therein. It is also to be understood that each part of the
+polymerizable composition may itself comprise more than
+one premixed components.
+
+[0022] “Polymerizable compositions" of the invention
+include at least two different components (e.g., monomers,
+which can be mono-, di-, tri-functional, etc.), wherein the
+two components are mutually reactive with each other Via
+chemically diﬁ'erent reactive moieties to form a polymeric
+backbone. The two components may react to form the
+polymeric backbone in linear, branched, and/or networked
+polymers. In preferred embodiments, polymerizable com-
+positions are polymerizable using free radical growth or
+similar polymerization methods capable of being initiated
+using a radiation source. For example, poly(meth)acrylatcs,
+polyurethanes, polyureas, and polyvinyls are capable of
+being formed according to the invention using such polym-
+erization methods.
+
+[0023] Understand that a polymerizable composition may
+be partially polymerized or essentially non-polymerized. In
+an exemplary embodiment, each of the at last two different
+components forming the polymerizable composition has an
+average molecular weight that is less than about 1% of the
+weight average molecular weight of the fully polymerized
+composition. In another exemplary embodiment, each of the
+at least two different components forming the polymerizable
+composition has an average molecular weight that is less
+than about 10% of the weight average molecular weight of
+the fully polymerized composition. In yet another exemplary
+US 2019/0029258 A1
+
+embodiment, each of the at least two different components
+forming the polymerizable composition has an average
+molecular weight that is less than about 50% of the weight
+average molecular weight of the fully polymerized compo-
+sition.
+
+[0024] Exemplary polymers in antimicrobial articles
+formed according to methods of the invention are polyure-
+thane-based. For simplicity, the term “polyurethane” as used
+herein includes polymers containing urethane (also known
+as carbamate) linkages, urea linkages, or combinations
+thereof (i .e., in the case of poly(urethane-urea)s). Thus,
+polyurethane-based compositions contain at least urethane
+linkages, urea linkages, or combinations thereof. Further-
+more, polyurethane-based polymers are based on polymers
+where the polymeric backbone has at least 80% urethane
+and/or urea repeat linkages formed during the polymeriza-
+tion process.
+
+[0025] Polyurethane-based polymers are prepared accord-
+ing to methods of the invention by reacting components,
+which include at least one isocyanate-reactive (e.g.,
+hydroxy-functional, such as polyol) component and at least
+one isocyanate-ﬁinctional (e.g., polyisocyanate) component.
+For example, components of exemplary polymerizable com-
+positions and which are useful in the formation of polyure-
+thane-based polymers according to methods of the invention
+are described in U.S. Patent Publication No. US-2011-
+0241261-A1, entitled “Methods for Polymerizing Films
+In—Situ Using a Radiation Source” and incorporated herein
+by reference in its entirety.
+
+[0026] In order to minimize decomposition of chlorhexi-
+dine to PCA within polymerizable compositions during
+processing thereof to form antimicrobial articles, antimicro-
+bial articles of the invention are formed using relatively low
+temperature processingiiei, processing at temperatures
+less than 80° C., preferably at temperatures less than about
+60° C., more preferably at temperatures less than about 40°
+C., even more preferably less than about 35° C., and even
+more preferably less than about 30° C. In an exemplary
+embodiment, processing occurs at about room tempera-
+ture~iieu about 22° C.-25° Ci Ifelevated temperatures are
+used at any time during processing, their duration is mini-
+mized. Preferably, however, temperatures used during pro-
+cessing never, even brieﬂy, exceed 80° C. or, when used, the
+preferred lower temperature limits.
+
+[0027] In exemplary embodiments, the polymerization of
+the polymerizable composition is initiated using at least one
+radiation source selected from ultraviolet radiation, thermal
+radiation, and electron beam radiation. In one embodiment,
+polymerization of the polymerizable composition is initiated
+without use of an external source of thermal radiation. If
+needed, at least one of ultraviolet radiation and electron
+beam radiation is used in one embodiment of the invention
+in order to initiate polymerization of chlorhexidine-contain-
+ing polymerizable compositions when making chlorhexi-
+dine-containing antimicrobial articles of the invention. Pref-
+erably, use of thermal radiation is minimized or eliminated
+during all processing of materials comprising chlorhexidine
+when forming antimicrobial articles according to methods of
+the invention.
+
+[0028] Methods of the invention can utilize continuous
+processing or batch processing. For example, continuous
+processing, such as web-based polymerization using rela-
+tively low energy ultraviolet radiation, can be used in one
+embodiment of the invention. As another example, batch
+
+Jan. 31, 2019
+
+processing, such as coating ultraviolet-curable composition
+on a discrete substrate and irradiating the same, can be used
+in another embodiment of the invention.
+
+[0029] A wide variety of antimicrobial articles can be
+formed according to the present invention In an exemplary
+embodiment, an antimicrobial article comprises an adhe-
+sive-coated backinggeg, an adhesive laminated to, or
+coated on, a backing. In this embodiment, at least one of the
+backing and the adhesive contains chlorhexidine.
+
+[0030] An exemplary embodiment of forming such a
+backing comprises 100% reactive chemistry, such as ure-
+thane-based chemistry, where no or minimal radiation (egi,
+thermal, electron beam, or ultraviolet radiation) is used to
+form the backing, which can be a continuous web-based
+process or batch process.
+
+[0031] An exemplary embodiment of forming such an
+adhesive comprises 100% reactive chemistry, such as (meth)
+acrylate-based chemistry, where no or minimal radiation
+(e.g., thermal, electron beam, or ultraviolet radiation) is used
+to form the adhesive, which can be a continuous web-based
+process or a batch process.
+
+[0032] Another exemplary method of forming such an
+adhesive comprises using ultraviolet radiation. For example,
+a polymerizable adhesive composition comprising a thixo-
+trope and ultraviolet polymerization initiator can be roll-
+coated onto a substrate and then subjected to ultraviolet
+radiation to polymerize the composition to an adhesive. US
+Patent Publication No. US-2011-0241261-A1 describes
+such a useful polymerization method for the present inven-
+tion. US Patent Publication No. US-2011-0137006-A1,
+entitled “Methods for Polymerizing Films In-Situ” and
+incorporated herein by reference in its entirety, describes
+another useful polymerization method for the present inven-
+tion.
+
+[0033] According to a preferred aspect of methods of the
+invention, the chlorhexidine-containing polymerizable com-
+position is essentially free of solvents. In addition to, for
+example, environmental and safety concerns associated with
+solvent-based processing, solvent-based processing typi-
+cally entails use of elevated temperatures for effective
+removal of excess solvent from the polymerized composi-
+tion. It is preferred that polymers in antimicrobial articles
+formed according to methods of the invention are essentially
+free of unreacted solvent. Thus, it is preferred that the
+polymerizable compositions from which they are formed are
+essentially free of solvents
+
+[0034] The amount of PCA within an antimicrobial article
+formed according to methods of the invention can be quan-
+titatively analyzed using any suitable analytical methodol-
+ogy. PCA’s observed limit of detection (LCD) is 0.2 ng/mL
+and the limit of quantiﬁcation (LOQ) is 0.3 ng/mL according
+to Agilent Technologies (“Analytical Methodology for PCA
+Detection: Quantiﬁcation of 4-Chloroaniline in Chlorhexi-
+dine Using the Agilent 1200 Series Rapid Resolution LC
+System Coupled with the Agilent 64108 Triple Quadrupole
+LC/MS System,” Agilent Technologies, Inc, Mar. 15, 2009,
+Publication Number 5990-3676EN). According to the ana-
+lytical method described therein, PCA present in a sample
+reacts with nitrous acid and ot-naphthol to give a measurable
+red-colored derivative.
+
+[0035] Exemplary embodiments and applications of the
+invention are described in the following non-limiting
+examples.
+US 2019/0029258 A1
+
+METHODS OF PROCESSING
+CHLORHEXIDINE-CONTAINING
+POLYMERIZABLE COMPOSITIONS AND
+AN TINIICROBIAL ARTICLES FORMED
+THEREBY
+
+BACKGROUND OF THE INVENTION
+
+[0001] The present invention relates generally to methods
+of processing chlorhexidine-containing polymerizable com-
+positions and antimicrobial articles formed thereby.
+
+[0002] The United States’ Center for Disease Control
+(CDC) recommends chlorhexidine gluconate as the pre-
+ferred skin antiseptic over tinctures of iodine, iodophors, and
+alcohol. Chlorhexidine, a substituted diguanide, has a high
+degree of antimicrobial activity, low mammalian toxicity,
+and the ability to bind to the stratum corneum layer of skin
+and to mucous membranes The bactericidal activity of
+chlorhexidine is much greater than that of monomeric bigu-
+anides, These unique characteristics make it particularly
+attractive as an active ingredient in antimicrobial skin prepa-
+rations, Besides its use in speciﬁc medical dressings and skin
+antiseptics, the eﬂicacy of chlorhexidine in providing anti-
+microbial protection is known further throughout the medi-
+cal industry. However, when incorporated into polymeriz-
+able compositions, elevated processing temperatures are
+oﬁen used, which can potentially damage the chlorhexidine
+within,
+
+[0003] An example of such elevated temperature process-
+ing is described in US, Pat. No. 5,165,952, Where a tem-
+perature range of 160° C.-250° C. is used, Referencing the
+same, US. Pat. No. 8,383,143 states: “When chlorhexidine
+is bulk distributed it adversely affects certain characteristics
+of the device such as tensile strength, and the high tempera-
+tures needed for extension of plastics such as polyurethane
+may damage the chlorhexidine.” U.S, Patent Publication No.
+2013/0303656 similarly references the negative elfects asso-
+ciated with processing chlorhexidine-containing materials at
+elevated temperatures.
+
+[0004] Not only does processing at elevated temperatures
+potentially decrease eﬂicacy of chlorhexidinecontaining
+articles, but it is also known to create a toxic chemical,
+Hydrolysis of chlorhexidine yields p-chloroaniline (also
+referred to as 4-chloroaniline, but referred to hereinaﬁer as
+PCA). The amount of PCA generated is relatively insigniﬁ-
+cant at room temperature, but becomes more signiﬁcant as
+temperature is increased by heating, especially at alkaline
+pH. At temperatures of about 40° C, or greater, chlorhexi-
+dine is documented as decomposing to PCA, as described in,
+for example, Ranganathan, N S, (1996), “Chlorhexidine,” in
+Ascenzi, Joseph M, (Edi), Handbook of Antiseptic: and
+Disinfectants, Marcel Dekker, Inc. (New York), pp. 235-265,
+Thus, when thermal processing of chlorhexidine-containing
+articles is employed, introduction of PCA therein has been
+unavoidable,
+
+[0005] Many polymer-based materials are processed at
+elevated temperatures. For example, see U.S. Patent Publi-
+cation No. 2011/313048, which describes an antimicrobial
+silicone-based wound dressing formed from a liquid con-
+taining silicone and employing particulates of a chlorhexi-
+dine compound that is not soluble in the liquid, where
+processing temperatures of 100° C,-150° C, are described, In
+general, continuous web-based processing of polymerizable
+compositions oﬁen occurs at temperatures of 80° C,-100° C,
+Thus, decomposition of chlorhexidine incorporated therein
+
+Jan. 3], 2019
+
+to PCA is not only prevalent along the length of a moving
+web when subjected to such continuous processing, but it
+becomes even more so at locations along the web that were
+halted during processing, which often occurs and oﬁen
+involves excess exposure time to heating elements posi-
+tioned along the web,
+
+[0006] In view of the toxic nature of PCA, desired are new
+methods of processing chlorhexidine-containing polymeriz-
+able compositions and antimicrobial articles formed thereby,
+wherein PCA formation is minimized
+
+BRIEF SUMMARY OF THE INVENTION
+
+[0007] A method of forming an antimicrobial article
+according to the invention comprises steps of: providing a
+polymerizable composition; incorporating an antimicrobi-
+ally effective amount of at least one chlorhexidine-contain-
+ing antimicrobial agent into the polymerizable composition;
+and, polymerizing the polymerizable composition to form
+chlorhexidine-containing polymer of the antimicrobial
+article, wherein processing temperature during the method is
+less than about 80° C. In a further embodiment, the pro-
+cessing temperature during the method is less than about 40°
+C,, preferably less than about 35° C. or, more preferably, less
+than about 30° C, In a still further embodiment, the pro-
+cessing temperature during the method is about room tem-
+perature (i,e., 22° C.-25° C.) Preferably, to maximize ben-
+eﬁts of the invention, the processing temperature during the
+method is less than that temperature at which chlorhexidine
+decomposes to PCA,
+
+[0008] The antimicrobially eﬁective amount of at least one
+chlorhexidine-containing antimicrobial agent in the antimi-
+crobial article consists essentially of chlorhexidine free base
+in one embodiment. For example, in one embodiment, an
+antimicrobial article prepared according to the method of the
+invention comprises about 10 weight % chlorhexidine free
+base based on total weight of the chlorhexidine-containing
+polymer. In another embodiment, the antimicrobially eﬁec-
+tive amount of at least one chlorhexidine-containing anti-
+microbial agent comprises chlorhexidine salt.
+
+[0009] An exemplary method comprises continuously
+forming the chlorhexidine-containing polymer on a web.
+According to one aspect of the invention, polymerization of
+the polymerizable composition is initiated using at least one
+radiation source selected from ultraviolet radiation and
+electron beam radiation. According to another aspect of the
+invention, polymerization of the polymerizable composition
+is initiated without use of an external source of thermal
+radiation, For example, 100% reactive chemistry is used to
+form the chlorhexidine-containing polymer in one embodi-
+ment.
+
+[0010] Preferably, the polymerizable composition formed
+according to methods of the invention is essentially free of
+solvents. In one embodiment, the chlorhexidine-containing
+polymer is essentially free of unreacted solvent.
+
+[0011] While it may take many forms, in one embodiment,
+the chlorhexidine—containing polymer is a polymer ﬁlm.
+According to one aspect of the invention, the chlorhexidine-
+containing polymer is an adhesive, According to another
+aspect of the invention, the chlorhexidine-containing poly-
+mer is a backing for an adhesive-coated antimicrobial
+article.
+
+[0012] The chlorhexidine-containing polymer may also
+comprise any suitable chemistry. In one embodiment, the
+chlorhexidine-containing polymer comprises at least one
+(19) United States
+(12) Patent Application Publication (10) Pub. No.: US 2019/0029258 A1
+
+McGuire, JR.
+
+ 
+
+US 20190029258Al
+
+(43) Pub. Date: Jan. 31, 2019
+
+ 
+
+(54)
+
+(71)
+
+(72)
+
+(73)
+
+(21)
+
+(22)
+
+(63)
+
+(60)
+
+METHODS OF PROCESSING
+CHLORHEXIDINE-CONTAINING
+POLYMERIZABLE COMPOSITIONS AND
+ANTIMICROBIAL ARTICLES FORMED
+THEREBY
+
+Applicant: entrotech life sciences, inc., San
+Francisco, CA (US)
+
+Inventor: James E. McGuire, JR., Palm Beach,
+
+FL (US)
+
+Assignee: entrotech life sciences, inc., San
+Francisco, CA (US)
+
+Applt No; 16/147,756
+
+Filed: Sep. 30, 2018
+
+Related US Application Data
+
+Continuation of application No 14/888,673, ﬁled on
+Nov. 2, 2015, ﬁled as application No PCT/USZOIS/
+026547 on Aprt 17, 2015,
+
+Provisional application No. 61/981,710, ﬁled on Apr,
+18, 2014.
+
+Publication Classiﬁcation
+
+(51) Int. Cl.
+A01N 47/44 (2006101)
+A6116 0/70 (2006.01)
+A01N 25/10 (2006.01)
+A6116 31/155 (2006.01)
+A61L 15/46 (2006.01)
+A61L 15/50 (2006101)
+A01N 25/34 (2006101)
+(52) US. Cl.
+CPC A01N 47/44 (2013.01); A61L 2300/206
+(2013,01); A61K 9/7069 (2013101); A6116
+9/7061 (2013.01); A01N 25/34 (2013.01);
+A01N 25/10 (2013.01); A6116 31/155
+(2013.01); A61L 15/46 (2013.01); A61L 15/58
+(2013.01); A61L 2300/404 (2013.01)
+(57) ABSTRACT
+
+Advantageously, para-chloroaniline (PCA) is minimal in
+antimicrobial articles prepared according to the method of
+the invention, A method of forming an antimicrobial article
+according to the invention comprises steps of: providing a
+polymerizable composition; incorporating an antimicrobi-
+ally effective amount of at least one chlorhexidine-contain-
+ing antimicrobial agent into the polymerizable composition;
+and, polymerizing the polymerizable composition to fomi
+chlorhexidine-containing polymer of the antimicrobial
+article. wherein processing temperature during the method is
+less than about 80° C,

@@ -1,5 +1,6 @@
 import glob
 import os
+import multiprocessing
 from PIL import Image
 from pdf2image import convert_from_path
 from pdf2image.exceptions import (
@@ -8,6 +9,8 @@ from pdf2image.exceptions import (
     PDFSyntaxError
 )
 
+# Get the number of the machine's cores
+cores = multiprocessing.cpu_count()
 
 def main():
     """
@@ -28,7 +31,7 @@ def main():
         # make the conversion
         print('Converting document', doc[7:-4], '...')
         images = convert_from_path(
-            doc, single_file=True, dpi=600, fmt='tiff', thread_count=6, output_folder='./temp/images/' + doc[7:-4])
+            doc, dpi=600, fmt='tiff', output_folder='./temp/images/' + doc[7:-4])
 
 
 if __name__ == '__main__':

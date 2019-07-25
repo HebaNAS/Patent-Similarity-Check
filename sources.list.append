@@ -1,0 +1,7 @@
+deb http://ftp.de.debian.org/debian stretch-backports main
+# deb http://snapshot.debian.org/archive/debian/20190506T000000Z stretch main
+# deb http://deb.debian.org/debian stretch main universe
+# deb http://snapshot.debian.org/archive/debian-security/20190506T000000Z stretch/updates main
+# deb http://security.debian.org/debian-security stretch/updates main
+# deb http://snapshot.debian.org/archive/debian/20190506T000000Z stretch-updates main
+# deb http://deb.debian.org/debian stretch-updates main

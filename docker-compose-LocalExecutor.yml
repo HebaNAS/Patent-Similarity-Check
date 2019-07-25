@@ -26,6 +26,7 @@ services:
             - ./PDFs:/usr/local/airflow/PDFs
             - ./temp:/usr/local/airflow/temp
             - ./Dataset:/usr/local/airflow/Dataset
+            - ./models:/usr/local/airflow/models
             - ./notebooks:/usr/local/airflow/notebooks
             - ./postgres-data:/var/lib/postgresql/data
         ports:

@@ -1,5 +1,10 @@
 version: '2.1'
 services:
+<<<<<<< HEAD
+    postgres:
+        image: postgres:9.6
+        restart: always
+=======
     # First service containing postgres database
     postgres:
         # Build from official image
@@ -7,10 +12,26 @@ services:
         # Restart if crashed
         restart: always
         # Set environment variables
+>>>>>>> master
         environment:
             - POSTGRES_USER=airflow
             - POSTGRES_PASSWORD=airflow
             - POSTGRES_DB=airflow
+<<<<<<< HEAD
+        volumes:
+            - ./postgres-data:/var/lib/postgresql/data
+    webserver:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        # image: puckel/docker-airflow:1.10.2
+        restart: always
+        depends_on:
+            - postgres
+        environment:
+            - LOAD_EX=n
+            - EXECUTOR=Local
+=======
         # Attached volumes for persisting data
         volumes:
             - ./postgres-data:/var/lib/postgresql/data
@@ -30,6 +51,7 @@ services:
             - LOAD_EX=n
             - EXECUTOR=Local
         # Attached volumes for persisting data and sharing it with host machine
+>>>>>>> master
         volumes:
             - ./dags:/usr/local/airflow/dags
             - ./config:/usr/local/airflow/config
@@ -40,6 +62,12 @@ services:
             - ./models:/usr/local/airflow/models
             - ./notebooks:/usr/local/airflow/notebooks
             - ./postgres-data:/var/lib/postgresql/data
+<<<<<<< HEAD
+        ports:
+            - "8080:8080"
+            - "8888:8888"
+        command: webserver
+=======
         # Map open ports between container and host machine
         ports:
             - "8080:8080"
@@ -47,6 +75,7 @@ services:
         # Entrypoint, run airflow server
         command: webserver
         # Run container health checks periodically
+>>>>>>> master
         healthcheck:
             test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
             interval: 30s

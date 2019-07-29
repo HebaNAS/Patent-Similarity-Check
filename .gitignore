@@ -104,6 +104,7 @@ venv.bak/
 .mypy_cache/
 
 # don't commit large files
+.DS_Store
 temp/
 Dataset/
 airflow_files/

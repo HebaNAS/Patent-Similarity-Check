@@ -228,6 +228,7 @@ RUN python -m nltk.downloader -d /usr/local/share/nltk_data popular
 # Open ports on container to be accessible (airflow 8080, jupyter 8888)
 EXPOSE 8080 8888 5555 8793
 
-# Revert user to airflow and drop privileges
-USER airflow
+# Revert user to airflow and drop privileges (better for security for containers running in clusters)
+# Commented out due to permission problems when running airflow scripts
+# USER airflow
 

@@ -10,7 +10,7 @@ def main():
     a dataframe using pandas
     """
 
-    # Define the pandas dataframe
+    # Define the pandas dataframe with features needed
     cols = ['id', 'invention_title', 'abstract', 'claims', 'description', 'drawings_description', 'drawings_file_paths']
     patents_df = pd.DataFrame(columns=cols)
     

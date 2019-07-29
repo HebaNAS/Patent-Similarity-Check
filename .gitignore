@@ -104,6 +104,12 @@ venv.bak/
 .mypy_cache/
 
 # big files
+.DS_Store
 temp/
-notebook/sandbox/
+Dataset/
+airflow_files/
+Dockerfile.original
+notebooks/sandbox/images/
+notebooks/sandbox/text/
 postgres-data/
+scripts/

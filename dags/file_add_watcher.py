@@ -6,7 +6,11 @@ from datetime import date, timedelta
 from datetime import datetime as dt
 
 # Import script files which are going be executed as Tasks by the DAG
+<<<<<<< HEAD
 import scripts.folder_watch
+=======
+import folder_watch
+>>>>>>> master
 
 # DAG unique identifier
 DAG_ID = 'file_add_watcher'

@@ -7,9 +7,15 @@ from datetime import date, timedelta
 from datetime import datetime as dt
 
 # Import script files which are going be executed as Tasks by the DAG
+<<<<<<< HEAD
 import scripts.images_to_text
 import scripts.text_preprocessing
 import scripts.document_embeddings
+=======
+import images_to_text
+import text_preprocessing
+import document_embeddings
+>>>>>>> master
 
 # DAG unique identifier
 DAG_ID = 'core_pipeline'

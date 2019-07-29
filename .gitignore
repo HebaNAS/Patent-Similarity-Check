@@ -103,7 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# big files
+# don't commit large files
 .DS_Store
 temp/
 Dataset/

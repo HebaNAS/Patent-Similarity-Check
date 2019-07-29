@@ -8,9 +8,15 @@ from datetime import date, timedelta
 from datetime import datetime as dt
 
 # Import script files which are going be executed as Tasks by the DAG
+<<<<<<< HEAD
 import scripts.pdfs_to_images
 import scripts.figure_extraction
 import scripts.image_preprocessing
+=======
+import pdfs_to_images
+import figure_extraction
+import image_preprocessing
+>>>>>>> master
 import core_pipeline
 
 # DAG unique identifier
@@ -54,9 +60,15 @@ with DAG(
     image_preprocessing_task = PythonOperator(
         task_id='image_preprocessing_task', python_callable=image_preprocessing.main, dag=dag)
 
+<<<<<<< HEAD
     # Define pipeline sequence
     pdfs_to_images_task >> figure_extraction_task >> image_preprocessing_task
 
     # Start parallel pipelines
     image_preprocessing_task >> core_pipeline
     image_preprocessing_task >> dynamic_dag
+=======
+    # Define pipeline sequence, allow for parallel tasks
+    pdfs_to_images_task >> figure_extraction_task
+    pdfs_to_images_task >> image_preprocessing_task
+>>>>>>> master

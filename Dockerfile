@@ -19,15 +19,15 @@ COPY requirements.txt /requirements.txt
 
 # Copy needed scripts inside the container
 COPY ./sources.list.append .
-COPY ./chemspot-script .
-COPY ./opsin-script .
+COPY ./chemspot-script.sh .
+COPY ./opsin-script.sh .
 
 # Append a new debian packages repository to current sources list and delete the old file
 RUN cat ./sources.list.append >> /etc/apt/sources.list && rm -f ./sources.list.append
 
 # Move needed scripts to where the system in the container expects them
-RUN mv ./chemspot-script /usr/local/bin
-RUN mv ./opsin-script /usr/local/bin
+RUN mv ./chemspot-script.sh /usr/local/bin/
+RUN mv ./opsin-script.sh /usr/local/bin/
 
 # Create folder for library manuals
 RUN mkdir -p /usr/share/man/man1
@@ -96,7 +96,12 @@ RUN apt-get clean \
 	libopenjp2-7-dev \
 	openbabel \
 	libopenbabel4v5 \
-	libopenbabel-dev
+	libopenbabel-dev \
+	libboost-dev \
+	libboost-all-dev \
+	python-rdkit \
+	librdkit1 \
+	rdkit-data
 
 # Install python dependencies
 RUN pip install Cython setuptools
@@ -221,6 +226,14 @@ RUN sudo ldconfig
 RUN pip install --upgrade pip
 RUN pip install --default-timeout=1000 -r /requirements.txt
 
+# Install MolMiner chemical structure and NER tool for python
+RUN wget https://github.com/gorgitko/molminer/archive/master.zip \
+	&& unzip ./master.zip \
+	&& cd ./molminer-master \
+	&& python setup.py install \
+	&& cd ../ \
+	&& rm -r ./molminer-master master.zip
+
 # Save nltk data
 CMD mkdir /usr/local/share/nltk_data
 RUN python -m nltk.downloader -d /usr/local/share/nltk_data popular
@@ -230,5 +243,5 @@ EXPOSE 8080 8888 5555 8793
 
 # Revert user to airflow and drop privileges (better for security for containers running in clusters)
 # Commented out due to permission problems when running airflow scripts
-# USER airflow
+USER airflow
 

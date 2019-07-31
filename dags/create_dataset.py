@@ -5,11 +5,12 @@ import glob
 import re
 import subprocess
 import os
+import numpy as np
 
 def extract_from_text(text, start_term, end_term, end_term_num=False):
     """
     This function accepts a piece of text and extracts what's
-    between any two given strings after finding their positions
+    between any two given strings that match a certain pattern
     """
     
     # Get positions for the two strings
@@ -30,6 +31,21 @@ def extract_from_text(text, start_term, end_term, end_term_num=False):
     else:
         return ' '
 
+def find_text_by_position(text, sub1, sub2):
+    """
+    This function accepts a piece of text and extracts what's
+    between any two given strings after finding their positions
+    """
+    
+    # Get positions for the two strings
+    pos1 = sub1
+    pos2 = sub2
+    
+    if pos1 > pos2 and pos2 >= 0:
+        return text[pos2:pos1]
+    elif pos2 > pos1 and pos1 >= 0:
+        return text[pos1:pos2]
+
 def main():
     """
     This script reads an xml file into a tree structure and then traverse it
@@ -38,7 +54,7 @@ def main():
     """
 
     # Define the pandas dataframe with features needed
-    cols = ['id', 'invention_title', 'abstract', 'claims', 'description', 'drawings_description', 'drawings_file_paths', 'invention_background', 'cross_reference', 'summary', 'detailed_description']
+    cols = ['id', 'invention_title', 'abstract', 'claims', 'description', 'drawings_description', 'drawings_file_paths']
     patents_df = pd.DataFrame(columns=cols)
     i = 0
     # Loop through all folders and grab xml files
@@ -47,7 +63,7 @@ def main():
         # Select only main xml file (folder[11:35]) and ignore supplementary ones
         # that have different name pattern
         for _file in glob.glob(folder + '/' + folder[10:34] + '.XML'):
-            if i <= 4:
+            if i <= 2:
                 print('Processing document', folder[10:34])
 
                 # Parse xml tree
@@ -110,45 +126,49 @@ def main():
                     for child in drawings:
                         drawings_file_paths.append(child[0].get('file'))
 
-                ###############################
-                ## Further text segmentation ##
-                ###############################
-                
-                # Extract Background section
-                invention_col = []
-                for index, row in patents_df.iterrows():
-                    invention_col.append(extract_from_text(row['description'], \
-                    '([A-Z])*BACKGROUND(([A-Z])*(\s))*', \
-                    '([A-Z])*SUMMARY(([A-Z])*(\s))*'))
-
-                # Extract cross reference section
-                ref_col = []
-                for index, row in patents_df.iterrows():
-                    invention_col.append(extract_from_text(row['description'], \
-                    'CROSS-REFERENCE(([A-Z])*(\s))*', \
-                    'in their entirety'))
-
-                # Extract summary section
-                summary_col = []
-                for index, row in patents_df.iterrows():
-                    summary_col.append(extract_from_text(row['description'], \
-                    '([A-Z])*SUMMARY(([A-Z])*(\s))*', \
-                    '([A-Z])*DESCRIPTION(([A-Z])*(\s))*'))
-
-                # Extract detailed description section
-                ddesc_col = []
-                for index, row in patents_df.iterrows():
-                    ddesc_col.append(extract_from_text(row['description'], \
-                    '([A-Z])*DETAILED DESCRIPTION(([A-Z])*(\s))*', \
-                    len(str(row['description'])), True))
-
                 # Write extracted content to dataframe
                 patents_df = patents_df.append(pd.Series([_id, invention_title, abstract_text, claims_text, \
                                                             description_text, drawings_description_text, \
-                                                            drawings_file_paths, invention_col, \
-                                                            ref_col, summary_col, \
-                                                            ddesc_col], index=cols), ignore_index=True) 
+                                                            drawings_file_paths], index=cols), ignore_index=True) 
         i += 1
+    ###############################
+    ## Further text segmentation ##
+    ###############################
+    
+    # Extract Background section
+    invention_col = []
+    for index, row in patents_df.iterrows():
+        invention_col.append(extract_from_text(row['description'], \
+        '([A-Z])*BACKGROUND(([A-Z])*(\s))*', \
+        '([A-Z])*SUMMARY(([A-Z])*(\s))*'))
+    invention_df = pd.DataFrame({'invention_background': invention_col})
+
+    # Extract cross reference section
+    ref_col = []
+    for index, row in patents_df.iterrows():
+        invention_col.append(extract_from_text(row['description'], \
+        'CROSS-REFERENCE(([A-Z])*(\s))*', \
+        'in their entirety'))
+    ref_df = pd.DataFrame({'cross_references': ref_col})
+
+    # Extract summary section
+    summary_col = []
+    for index, row in patents_df.iterrows():
+        summary_col.append(extract_from_text(row['description'], \
+        '([A-Z])*SUMMARY(([A-Z])*(\s))*', \
+        '([A-Z])*DESCRIPTION(([A-Z])*(\s))*'))
+    summary_df = pd.DataFrame({'summary': summary_col})
+
+    # Extract detailed description section
+    ddesc_col = []
+    for index, row in patents_df.iterrows():
+        ddesc_col.append(extract_from_text(row['description'], \
+        '([A-Z])*DETAILED DESCRIPTION(([A-Z])*(\s))*', \
+        len(str(row['description'])), True))   
+    ddesc_df = pd.DataFrame({'detailed_description': ddesc_col})
+
+    patents_df = pd.concat([patents_df, invention_df, ref_df, summary_df, \
+    ddesc_df], axis=1)
 
     ###################################
     ## Extract chemical compounds as ##
@@ -178,29 +198,36 @@ def main():
     #     m += 1
 
     # Loop through all folders and grab generated text files
+    patents_df['chemical_compound_smiles'] = np.nan
     smiles_col = []
 
     for folder in glob.glob('./temp/chemical-names-smiles/*'):
     
-        print('Reading SMILES in file', folder[29:])
-        smiles_for_one = []
-    
-        # Select only main tiff file (folder[11:]) and ignore supplementary ones
-        for _file in glob.glob(folder + '/*.txt'):
+        # Checking integrity, writing to same document
+        if ([folder[29:41] == item for item in patents_df['id']]):
 
-            # Read each file and append each line that represents a compound
-            # to an array
-            one = ''
+            print('Reading SMILES in file', folder[29:])
+            smiles_for_one = []
+        
+            # Select all text files
+            for _file in glob.glob(folder + '/*.txt'):
 
-            with open(_file, 'r') as smiles_file:
-                one = smiles_file.readline()
+                # Read each file and append each line that represents a compound
+                # to an array
+                one = ''
 
-            if one != '':
-                smiles_for_one.append(one.replace('\n', ''))
-    
-    if len(smiles_for_one) != 0:
-        smiles_col.append(smiles_for_one)    
-    
+                with open(_file, 'r') as smiles_file:
+                    one = smiles_file.readline()
+
+                if one != '':
+                    smiles_for_one.append(one.replace('\n', ''))
+            
+            if len(smiles_for_one) != 0:
+                smiles_col.append(smiles_for_one)
+            else:
+                smiles_col.append('')
+
+    patents_df['chemical_compound_smiles'] = pd.Series([smiles_col])
 
     ###################################
     ## Extract chemical compounds as ##
@@ -209,8 +236,6 @@ def main():
     ###################################
 
     # Get full description section
-    inchi = []
-
     for index, row in patents_df.iterrows():
         # Check if folder with the current document name exists
         if not os.path.exists('./temp/patent_text'):
@@ -223,34 +248,47 @@ def main():
             patent_text.write(row['description'])
 
     # Loop through all files and grab text files
-
     for _file in glob.glob('./temp/patent_text/*.txt'):
-        print(_file[19:])
-        # Check if folder with the current document name exists
-        if not os.path.exists('./temp/chemical-names-inchi/'):
+        
+        # Checking integrity, writing to same document
+        if ([_file[19:31] == item for item in patents_df['id']]):
 
-            # If folder does not exist, create it
-            os.makedirs('./temp/chemical-names-inchi/')
-    
-        print('Extracting chemical names from document', _file[19:])
+            # Check if folder with the current document name exists
+            if not os.path.exists('./temp/chemical-names-inchi/'):
 
-        # Run ChemSpot, the Chemical named entity recognition library (in shell)
-        subprocess.check_call(['java', '-Xmx2G', '-jar', './chemspot-2.0/chemspot.jar', \
-            '-t', _file, '-o', './temp/chemical-names-inchi/' + _file[19:-4] + '.txt'])   
-     
+                # If folder does not exist, create it
+                os.makedirs('./temp/chemical-names-inchi/')
+        
+            print('Extracting chemical names from document', _file[19:])
+
+            # Run ChemSpot, the Chemical named entity recognition library (in shell)
+            subprocess.check_call(['java', '-Xmx2G', '-jar', './chemspot-2.0/chemspot.jar', \
+                '-t', _file, '-o', './temp/chemical-names-inchi/' + _file[19:-4] + '.txt'])  
     
+    # Append results to the dataframe as a column
+    patents_df['chemical_compound_inchi'] = np.nan
+    inchi_col = []
+
     # Loop through all files and grab text files
     for _file in glob.glob('./temp/chemical-names-inchi/*.txt'):
-        
-        inchi_results = []
 
-        # Read each file 
-        with open(_file, 'r') as f:
-            inchi_results.append(str(f.readline()))
+        # Checking integrity, writing to same document
+        if ([_file[28:40] == item for item in patents_df['id']]):
 
-        inchi.append(inchi_results)
+            inchi_for_one = []
 
-    print(inchi)
+            # Read each file 
+            with open(_file, 'r') as f:
+                for line in f:
+                    inchi_for_one.append(line.replace('\t\t\t\t\t\t\t\t\t\t\t', ''))
+            
+            # Add to dataframe
+            if len(inchi_for_one) != 0:
+                inchi_col.append(inchi_for_one)
+            else:
+                inchi_col.append('')
+
+    patents_df['chemical_compound_inchi'] = pd.Series(inchi_col)
     
     # Write dataframe to csv file    
     patents_df.to_csv('./Dataset/patents_training.csv')

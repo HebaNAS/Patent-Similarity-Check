@@ -9,13 +9,13 @@ from datetime import datetime as dt
 import folder_watch
 
 # DAG unique identifier
-DAG_ID = 'file_add_watcher'
+DAG_ID = 'trigger_training'
 
 # Datetime object to indicate at which time the DAG should start
 DAG_START_DATE = airflow.utils.dates.days_ago(1)
 
 # Scheduled interval at which the DAG will run
-# here it will run once every hour
+# here it will run once a day
 DAG_SCHEDULE_INTERVAL = '@daily'
 
 # Default arguments applied to the DAG
@@ -38,8 +38,8 @@ with DAG(
 ) as dag:
 
     # Initialise a TriggerDagRunOperator that waits for a python callable
-    # to return true so it triggers the core_pipeline dag
-    trigger_entry_point = TriggerDagRunOperator(
-        task_id='trigger_entry_point_dag', python_callable=folder_watch.main, op_args='/usr/local/airflow/PDFs', trigger_dag_id='entry_point', dag=dag)
+    # to return true so it triggers the training_pipeline dag
+    trigger_training_dag = TriggerDagRunOperator(
+        task_id='trigger_training_dag', python_callable=folder_watch.main, op_args='/usr/local/airflow/Dataset', trigger_dag_id='training_pipeline', dag=dag)
 
-    trigger_entry_point
+    trigger_training_dag

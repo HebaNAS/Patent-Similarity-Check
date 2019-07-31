@@ -3,6 +3,8 @@ import xmltodict
 import pandas as pd
 import glob
 import re
+import subprocess
+import os
 
 def extract_from_text(text, start_term, end_term, end_term_num=False):
     """
@@ -38,36 +40,36 @@ def main():
     # Define the pandas dataframe with features needed
     cols = ['id', 'invention_title', 'abstract', 'claims', 'description', 'drawings_description', 'drawings_file_paths', 'invention_background', 'cross_reference', 'summary', 'detailed_description']
     patents_df = pd.DataFrame(columns=cols)
-    
+    i = 0
     # Loop through all folders and grab xml files
     for folder in glob.glob('./Dataset/*'):
 
         # Select only main xml file (folder[11:35]) and ignore supplementary ones
         # that have different name pattern
         for _file in glob.glob(folder + '/' + folder[10:34] + '.XML'):
-            
-            print('Processing document', folder[10:35])
+            if i <= 4:
+                print('Processing document', folder[10:34])
 
-            # Parse xml tree
-            tree = ET.parse(_file)
-            root = tree.getroot()
+                # Parse xml tree
+                tree = ET.parse(_file)
+                root = tree.getroot()
 
-            # Placeholder for text content
-            abstract_text = ''
-            claims_text = ''
-            description_text = ''
-            drawings_description_text = ''
-            drawings_file_paths = []
+                # Placeholder for text content
+                abstract_text = ''
+                claims_text = ''
+                description_text = ''
+                drawings_description_text = ''
+                drawings_file_paths = []
 
-            # Traverse XML tree and extract data we need
-            if (root[0].tag == 'us-bibliographic-data-application'):
+                # Traverse XML tree and extract data we need
+                if (root[0].tag == 'us-bibliographic-data-application'):
 
-                # Extract document number as id
-                _id = root[0].find('publication-reference').find('document-id').find('doc-number').text
-                
-                # Extract invention title
-                invention_title = root[0].find('invention-title').text
-                
+                    # Extract document number as id
+                    _id = root[0].find('publication-reference').find('document-id').find('doc-number').text
+                    
+                    # Extract invention title
+                    invention_title = root[0].find('invention-title').text
+                    
                 # Extract abstract
                 abstract = root.find('abstract')
                 
@@ -108,6 +110,10 @@ def main():
                     for child in drawings:
                         drawings_file_paths.append(child[0].get('file'))
 
+                ###############################
+                ## Further text segmentation ##
+                ###############################
+                
                 # Extract Background section
                 invention_col = []
                 for index, row in patents_df.iterrows():
@@ -138,10 +144,113 @@ def main():
 
                 # Write extracted content to dataframe
                 patents_df = patents_df.append(pd.Series([_id, invention_title, abstract_text, claims_text, \
-                                                          description_text, drawings_description_text, \
-                                                        drawings_file_paths, invention_col, \
-                                                        ref_col, summary_col, \
-                                                        ddesc_col], index=cols), ignore_index=True)
+                                                            description_text, drawings_description_text, \
+                                                            drawings_file_paths, invention_col, \
+                                                            ref_col, summary_col, \
+                                                            ddesc_col], index=cols), ignore_index=True) 
+        i += 1
+
+    ###################################
+    ## Extract chemical compounds as ##
+    ##       SMILES notation         ##
+    ##   from the provided images    ##
+    ###################################
+    m = 0
+    # # Loop through all folders and grab .tif image files
+    # for folder in glob.glob('./Dataset/*'):
+
+    #     print('Recognizing structures in file', folder[10:])
+
+    #     if m < 1:
+
+    #         # Select only main tif file (folder[11:]) and ignore supplementary ones
+    #         for _file in glob.glob(folder + '/*.TIF'):
+                
+    #             # Check if folder with the current document name exists
+    #             if not os.path.exists('../temp/chemical-names-smiles/' + folder[10:]):
+
+    #                 # If folder does not exist, create it
+    #                 os.makedirs('../temp/chemical-names-smiles/' + folder[10:])
+        
+    #             # Run OSRA, the chemical structure OCR library (in shell)
+    #             subprocess.check_call(['osra', _file, \
+    #                                 '-w ../temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
+    #     m += 1
+
+    # Loop through all folders and grab generated text files
+    smiles_col = []
+
+    for folder in glob.glob('./temp/chemical-names-smiles/*'):
+    
+        print('Reading SMILES in file', folder[29:])
+        smiles_for_one = []
+    
+        # Select only main tiff file (folder[11:]) and ignore supplementary ones
+        for _file in glob.glob(folder + '/*.txt'):
+
+            # Read each file and append each line that represents a compound
+            # to an array
+            one = ''
+
+            with open(_file, 'r') as smiles_file:
+                one = smiles_file.readline()
+
+            if one != '':
+                smiles_for_one.append(one.replace('\n', ''))
+    
+    if len(smiles_for_one) != 0:
+        smiles_col.append(smiles_for_one)    
+    
+
+    ###################################
+    ## Extract chemical compounds as ##
+    ##         InChI notation        ##
+    ##      from the patent text     ##
+    ###################################
+
+    # Get full description section
+    inchi = []
+
+    for index, row in patents_df.iterrows():
+        # Check if folder with the current document name exists
+        if not os.path.exists('./temp/patent_text'):
+
+            # If folder does not exist, create it
+            os.makedirs('./temp/patent_text')
+        
+        # Write description in a text file
+        with open('./temp/patent_text/US' + row['id'] + '.txt', 'w') as patent_text:
+            patent_text.write(row['description'])
+
+    # Loop through all files and grab text files
+
+    for _file in glob.glob('./temp/patent_text/*.txt'):
+        print(_file[19:])
+        # Check if folder with the current document name exists
+        if not os.path.exists('./temp/chemical-names-inchi/'):
+
+            # If folder does not exist, create it
+            os.makedirs('./temp/chemical-names-inchi/')
+    
+        print('Extracting chemical names from document', _file[19:])
+
+        # Run ChemSpot, the Chemical named entity recognition library (in shell)
+        subprocess.check_call(['java', '-Xmx2G', '-jar', './chemspot-2.0/chemspot.jar', \
+            '-t', _file, '-o', './temp/chemical-names-inchi/' + _file[19:-4] + '.txt'])   
+     
+    
+    # Loop through all files and grab text files
+    for _file in glob.glob('./temp/chemical-names-inchi/*.txt'):
+        
+        inchi_results = []
+
+        # Read each file 
+        with open(_file, 'r') as f:
+            inchi_results.append(str(f.readline()))
+
+        inchi.append(inchi_results)
+
+    print(inchi)
     
     # Write dataframe to csv file    
     patents_df.to_csv('./Dataset/patents_training.csv')

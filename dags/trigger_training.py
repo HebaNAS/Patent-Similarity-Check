@@ -40,6 +40,6 @@ with DAG(
     # Initialise a TriggerDagRunOperator that waits for a python callable
     # to return true so it triggers the training_pipeline dag
     trigger_training_dag = TriggerDagRunOperator(
-        task_id='trigger_training_dag', python_callable=folder_watch.main, op_args='/usr/local/airflow/Dataset', trigger_dag_id='training_pipeline', dag=dag)
+        task_id='trigger_training_dag', python_callable=folder_watch.main, trigger_dag_id='training_pipeline', dag=dag, params={'loc': '/usr/local/airflow/Dataset'})
 
     trigger_training_dag

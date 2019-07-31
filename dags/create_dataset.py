@@ -56,14 +56,17 @@ def main():
     # Define the pandas dataframe with features needed
     cols = ['id', 'invention_title', 'abstract', 'claims', 'description', 'drawings_description', 'drawings_file_paths']
     patents_df = pd.DataFrame(columns=cols)
+
+    # for testing, limit no. of files
     i = 0
+
     # Loop through all folders and grab xml files
     for folder in glob.glob('./Dataset/*'):
 
         # Select only main xml file (folder[11:35]) and ignore supplementary ones
         # that have different name pattern
         for _file in glob.glob(folder + '/' + folder[10:34] + '.XML'):
-            if i <= 2:
+            if i <= 3:
                 print('Processing document', folder[10:34])
 
                 # Parse xml tree
@@ -130,7 +133,9 @@ def main():
                 patents_df = patents_df.append(pd.Series([_id, invention_title, abstract_text, claims_text, \
                                                             description_text, drawings_description_text, \
                                                             drawings_file_paths], index=cols), ignore_index=True) 
+        # for testing, limit no. of files
         i += 1
+
     ###############################
     ## Further text segmentation ##
     ###############################
@@ -175,27 +180,34 @@ def main():
     ##       SMILES notation         ##
     ##   from the provided images    ##
     ###################################
+    
+    # for testing, limit no. of files
     m = 0
-    # # Loop through all folders and grab .tif image files
-    # for folder in glob.glob('./Dataset/*'):
 
-    #     print('Recognizing structures in file', folder[10:])
+    # Loop through all folders and grab .tif image files
+    for folder in glob.glob('./Dataset/*'):
 
-    #     if m < 1:
+        print('Recognizing structures in file', folder[10:])
 
-    #         # Select only main tif file (folder[11:]) and ignore supplementary ones
-    #         for _file in glob.glob(folder + '/*.TIF'):
-                
-    #             # Check if folder with the current document name exists
-    #             if not os.path.exists('../temp/chemical-names-smiles/' + folder[10:]):
+        if m <= 3:
+            # Checking integrity, writing to same document
+            if ([folder[29:41] == item for item in patents_df['id']]):
 
-    #                 # If folder does not exist, create it
-    #                 os.makedirs('../temp/chemical-names-smiles/' + folder[10:])
-        
-    #             # Run OSRA, the chemical structure OCR library (in shell)
-    #             subprocess.check_call(['osra', _file, \
-    #                                 '-w ../temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
-    #     m += 1
+                # Select only main tif file (folder[11:]) and ignore supplementary ones
+                for _file in glob.glob(folder + '/*.TIF'):
+                    
+                    # Check if folder with the current document name exists
+                    if not os.path.exists('../temp/chemical-names-smiles/' + folder[10:]):
+
+                        # If folder does not exist, create it
+                        os.makedirs('../temp/chemical-names-smiles/' + folder[10:])
+            
+                    # Run OSRA, the chemical structure OCR library (in shell)
+                    subprocess.check_call(['osra', _file, \
+                                        '-w ../temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
+
+    # for testing, limit no. of files i    
+    m += 1
 
     # Loop through all folders and grab generated text files
     patents_df['chemical_compound_smiles'] = np.nan

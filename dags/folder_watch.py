@@ -23,13 +23,13 @@ class AddEventHandler(FileSystemEventHandler):
             # Stop the observer if a file is added
             self.observer.stop()
 
-def main(*args, context, dag_run_obj):
+def main(context, dag_run_obj):
     """
     This script watches a folder (and subfolders) for any added files
     """
 
     # Assign the folder to be watched, get from given arguments
-    path = *args[0] # '/usr/local/airflow/PDFs'
+    path = context['params']['loc'] # '/usr/local/airflow/PDFs'
 
     # Create an observer
     observer = Observer()
@@ -47,4 +47,4 @@ def main(*args, context, dag_run_obj):
     return dag_run_obj
 
 if __name__ == "__main__":
-    main(*args, context, dag_run_obj)
+    main(context, dag_run_obj)

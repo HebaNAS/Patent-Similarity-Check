@@ -40,6 +40,6 @@ with DAG(
     # Initialise a TriggerDagRunOperator that waits for a python callable
     # to return true so it triggers the core_pipeline dag
     trigger_entry_point = TriggerDagRunOperator(
-        task_id='trigger_entry_point_dag', python_callable=folder_watch.main, op_args='/usr/local/airflow/PDFs', trigger_dag_id='entry_point', dag=dag)
+        task_id='trigger_entry_point_dag', python_callable=folder_watch.main, trigger_dag_id='entry_point', dag=dag, params={'loc': '/usr/local/airflow/PDFs'})
 
     trigger_entry_point

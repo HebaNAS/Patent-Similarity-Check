@@ -6,6 +6,10 @@ import re
 import subprocess
 import os
 import numpy as np
+import multiprocessing
+from multiprocessing import Pool, Process
+
+cores = multiprocessing.cpu_count()
 
 def extract_from_text(text, start_term, end_term, end_term_num=False):
     """
@@ -197,17 +201,17 @@ def main():
                 for _file in glob.glob(folder + '/*.TIF'):
                     
                     # Check if folder with the current document name exists
-                    if not os.path.exists('../temp/chemical-names-smiles/' + folder[10:]):
+                    if not os.path.exists('./temp/chemical-names-smiles/' + folder[10:]):
 
                         # If folder does not exist, create it
-                        os.makedirs('../temp/chemical-names-smiles/' + folder[10:])
+                        os.makedirs('./temp/chemical-names-smiles/' + folder[10:])
             
                     # Run OSRA, the chemical structure OCR library (in shell)
                     subprocess.check_call(['osra', _file, \
-                                        '-w ../temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
+                                        '-w ./temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
 
-    # for testing, limit no. of files i    
-    m += 1
+        # for testing, limit no. of files i    
+        m += 1
 
     # Loop through all folders and grab generated text files
     patents_df['chemical_compound_smiles'] = np.nan
@@ -239,7 +243,7 @@ def main():
             else:
                 smiles_col.append('')
 
-    patents_df['chemical_compound_smiles'] = pd.Series([smiles_col])
+    patents_df['chemical_compound_smiles'] = pd.Series(smiles_col)
 
     ###################################
     ## Extract chemical compounds as ##
@@ -274,7 +278,7 @@ def main():
             print('Extracting chemical names from document', _file[19:])
 
             # Run ChemSpot, the Chemical named entity recognition library (in shell)
-            subprocess.check_call(['java', '-Xmx2G', '-jar', './chemspot-2.0/chemspot.jar', \
+            subprocess.check_call(['java', '-Xmx24G', '-jar', './chemspot-2.0/chemspot.jar', \
                 '-t', _file, '-o', './temp/chemical-names-inchi/' + _file[19:-4] + '.txt'])  
     
     # Append results to the dataframe as a column
@@ -306,4 +310,10 @@ def main():
     patents_df.to_csv('./Dataset/patents_training.csv')
 
 if __name__ == '__main__':
-    main()
+    processes = [None for i in range(cores)]
+    
+    for i in range(cores):
+        processes[i] = Process(target=main, args=())
+        processes[i].start()
+    for process in processes:
+        process.join()

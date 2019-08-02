@@ -8,6 +8,8 @@
 1. [Description](#description)
 1. [Installation notes](#installation-notes)
 1. [Running the program](#running-the-program)
+1. [Main Dependencies](#main-dependencies)
+1. [References](#references)
 
 <br>
 
@@ -113,3 +115,18 @@ For example to test the text_preprcessing task in the training pipeline, in the 
 `execution_date`: 2019-08-01
 
 The pipeline looks as follows:
+[IMG]
+
+
+**2. New Document Pipeline**
+
+
+
+
+## Main Dependencies
+
+
+
+
+
+## References

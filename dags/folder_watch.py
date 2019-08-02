@@ -11,6 +11,8 @@ logging.basicConfig(level=logging.ERROR)
 
 # Create an event handler to start watchinf for
 # folder changes
+
+
 class AddEventHandler(FileSystemEventHandler):
     def __init__(self, observer):
         self.observer = observer
@@ -23,13 +25,14 @@ class AddEventHandler(FileSystemEventHandler):
             # Stop the observer if a file is added
             self.observer.stop()
 
+
 def main(context, dag_run_obj):
     """
     This script watches a folder (and subfolders) for any added files
     """
 
-    # Assign the folder to be watched
-    path = '/usr/local/airflow/PDFs'
+    # Assign the folder to be watched, get from given arguments
+    path = context['params']['loc']  # '/usr/local/airflow/PDFs'
 
     # Create an observer
     observer = Observer()
@@ -45,6 +48,7 @@ def main(context, dag_run_obj):
     # Return result to airflow DAG
     dag_run_obj.payload = {'message': True}
     return dag_run_obj
+
 
 if __name__ == "__main__":
     main(context, dag_run_obj)

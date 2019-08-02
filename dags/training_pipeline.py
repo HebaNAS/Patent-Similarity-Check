@@ -3,12 +3,11 @@
 import airflow
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
-from airflow.operators.subdag_operator import SubDagOperator
 from datetime import date, timedelta
 from datetime import datetime as dt
 
 # Import script files which are going be executed as Tasks by the DAG
-import create_dataset
+import text_preprocessing
 
 # DAG unique identifier
 DAG_ID = 'training_pipeline'
@@ -40,8 +39,8 @@ with DAG(
 ) as dag:
 
     # Initialise a PythonOperator to execute the pdf_to_images.py script
-    create_dataset_task = PythonOperator(
-        task_id='create_dataset_task', python_callable=create_dataset.main, dag=dag)
+    text_preprocessing_task = PythonOperator(
+        task_id='text_preprocessing_task', python_callable=text_preprocessing.main, dag=dag)
 
     # Define pipeline sequence, allow for parallel tasks
-    create_dataset_task
+    text_preprocessing_task

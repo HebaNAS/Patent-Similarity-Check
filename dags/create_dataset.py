@@ -41,8 +41,7 @@ def find_text_by_position(text, sub1, sub2):
     This function accepts a piece of text and extracts what's
     between any two given strings after finding their positions
     """
-
-    # Get positions for the two strings
+   # Get positions for the two strings
     pos1 = sub1
     pos2 = sub2
 
@@ -65,7 +64,7 @@ def main():
     patents_df = pd.DataFrame(columns=cols)
 
     # for testing, limit no. of files
-    i = 0
+    # i = 0
 
     # Loop through all folders and grab xml files
     for folder in glob.glob('./Dataset/*'):
@@ -73,78 +72,78 @@ def main():
         # Select only main xml file (folder[11:35]) and ignore supplementary ones
         # that have different name pattern
         for _file in glob.glob(folder + '/' + folder[10:34] + '.XML'):
-            if i < 1:
-                print('Processing document', folder[10:34])
+            # if i < 1:
+            print('Processing document', folder[10:34])
 
-                # Parse xml tree
-                tree = ET.parse(_file)
-                root = tree.getroot()
+            # Parse xml tree
+            tree = ET.parse(_file)
+            root = tree.getroot()
 
-                # Placeholder for text content
-                abstract_text = ''
-                claims_text = ''
-                description_text = ''
-                drawings_description_text = ''
-                drawings_file_paths = []
+            # Placeholder for text content
+            abstract_text = ''
+            claims_text = ''
+            description_text = ''
+            drawings_description_text = ''
+            drawings_file_paths = []
 
-                # Traverse XML tree and extract data we need
-                if (root[0].tag == 'us-bibliographic-data-application'):
+            # Traverse XML tree and extract data we need
+            if (root[0].tag == 'us-bibliographic-data-application'):
 
-                    # Extract document number as id
-                    _id = root[0].find(
-                        'publication-reference').find('document-id').find('doc-number').text
+                # Extract document number as id
+                _id = root[0].find(
+                    'publication-reference').find('document-id').find('doc-number').text
 
-                    # Extract invention title
-                    invention_title = root[0].find('invention-title').text
+                # Extract invention title
+                invention_title = root[0].find('invention-title').text
 
-                # Extract abstract
-                abstract = root.find('abstract')
+            # Extract abstract
+            abstract = root.find('abstract')
 
-                # Extract claims
-                claims = root.find('claims')
+            # Extract claims
+            claims = root.find('claims')
 
-                # Extract all description
-                description = root.find('description')
+            # Extract all description
+            description = root.find('description')
 
-                # Extract drawings description (if present)
-                if root.find('drawings') != None:
-                    drawings_description = root.find(
-                        'description').find('description-of-drawings')
+            # Extract drawings description (if present)
+            if root.find('drawings') != None:
+                drawings_description = root.find(
+                    'description').find('description-of-drawings')
 
-                # Extract drawings paths (if present)
-                if root.find('drawings') != None:
-                    drawings = root.find('drawings')
+            # Extract drawings paths (if present)
+            if root.find('drawings') != None:
+                drawings = root.find('drawings')
 
-                # Store all paragraphs in the abstract section
-                for child in abstract:
-                    if (child.text != None):
-                        abstract_text += child.text + '\n'
+            # Store all paragraphs in the abstract section
+            for child in abstract:
+                if (child.text != None):
+                    abstract_text += child.text + '\n'
 
-                # Store all paragraphs in the claims section
-                for child in claims:
-                    claims_text += ''.join(child.itertext()).replace('\n', ' ')
+            # Store all paragraphs in the claims section
+            for child in claims:
+                claims_text += ''.join(child.itertext()).replace('\n', ' ')
 
-                # Store all paragraphs in the description section
-                for child in description:
-                    description_text += ''.join(child.itertext()) + ' '
+            # Store all paragraphs in the description section
+            for child in description:
+                description_text += ''.join(child.itertext()) + ' '
 
-                # Store all paragraphs in the drawings description section
-                if drawings_description:
-                    for child in drawings_description:
-                        drawings_description_text += ''.join(
-                            child.itertext()) + ' '
+            # Store all paragraphs in the drawings description section
+            if drawings_description:
+                for child in drawings_description:
+                    drawings_description_text += ''.join(
+                        child.itertext()) + ' '
 
-                # Store all drawings file paths
-                if drawings:
-                    for child in drawings:
-                        drawings_file_paths.append(child[0].get('file'))
+            # Store all drawings file paths
+            if drawings:
+                for child in drawings:
+                    drawings_file_paths.append(child[0].get('file'))
 
-                # Write extracted content to dataframe
-                patents_df = patents_df.append(pd.Series([_id, invention_title, abstract_text, claims_text,
-                                                          description_text, drawings_description_text,
-                                                          drawings_file_paths], index=cols), ignore_index=True)
+            # Write extracted content to dataframe
+            patents_df = patents_df.append(pd.Series([_id, invention_title, abstract_text, claims_text,
+                                                      description_text, drawings_description_text,
+                                                      drawings_file_paths], index=cols), ignore_index=True)
         # for testing, limit no. of files
-        i += 1
+        # i += 1
 
     ###############################
     ## Further text segmentation ##
@@ -191,37 +190,48 @@ def main():
     ##   from the provided images    ##
     ###################################
 
-    m = 0
+    # for testing, limit no. of files
+    # m = 0
+
     # Loop through all folders and grab .tif image files
-    for index, row in patents_df.iterrows():
+    for folder in glob.glob('./Dataset/*'):
 
-        print('Recognizing structures in file US{}'.format(str(row['id'])))
+        print('Recognizing structures in file', folder[10:])
 
-        # Select only main tiff image file and ignore supplementary ones
-        for _file in glob.glob('./Dataset/US{}*/*.TIF'.format(row['id'])):
-            if m < 1:
+        # if m <= 3:
+        # Checking integrity, writing to same document
+        if ([folder[29:41] == item for item in patents_df['id']]):
+
+            # Select only main tif file (folder[11:]) and ignore supplementary ones
+            for _file in glob.glob(folder + '/*.TIF'):
+
                 # Check if folder with the current document name exists
-                if not os.path.exists('./temp/chemical-names-smiles/' + _file[10:34]):
+                if not os.path.exists('./temp/chemical-names-smiles/' + folder[10:]):
 
                     # If folder does not exist, create it
-                    os.makedirs('./temp/chemical-names-smiles/' + _file[10:34])
+                    os.makedirs('./temp/chemical-names-smiles/' + folder[10:])
 
-                    subprocess.check_call(['osra', '-r', '300', _file,
-                                           '-w', './temp/chemical-names-smiles/{}/{}.txt'.format(str(_file[10:34]),
-                                                                                                 str(_file[10:34]))])
-    m += 1
+                # Run OSRA, the chemical structure OCR library (in shell)
+                subprocess.check_call(['osra', _file,
+                                       '-w ./temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
+
+        # for testing, limit no. of files i
+        # m += 1
+
     # Loop through all folders and grab generated text files
     patents_df['chemical_compound_smiles'] = np.nan
+    smiles_col = []
 
-    for folder in glob.glob('../temp/chemical-names-smiles/*'):
+    for folder in glob.glob('./temp/chemical-names-smiles/*'):
 
-        print('Reading SMILES in file {}'.format(str(folder[29:-11])))
-        smiles_for_one = ''
+        # Checking integrity, writing to same document
+        if ([folder[29:41] == item for item in patents_df['id']]):
 
-        # Checking integrity, writing to same file
-        if ([folder[31:-11] == item[1]['id'] for item in patents_df.iterrows()]):
+            print('Reading SMILES in file', folder[29:])
+            smiles_for_one = []
 
-            for _file in glob.glob('{}/*.txt'.format(folder)):
+            # Select all text files
+            for _file in glob.glob(folder + '/*.txt'):
 
                 # Read each file and append each line that represents a compound
                 # to an array
@@ -255,14 +265,12 @@ def main():
 
             # If folder does not exist, create it
             os.makedirs('./temp/patent_text')
-
         # Write description in a text file
         with open('./temp/patent_text/US' + row['id'] + '.txt', 'w') as patent_text:
             patent_text.write(row['description'])
 
     # Loop through all files and grab text files
     for _file in glob.glob('./temp/patent_text/*.txt'):
-
         # Checking integrity, writing to same document
         if ([_file[19:31] == item for item in patents_df['id']]):
 
@@ -280,37 +288,43 @@ def main():
 
     # Append results to the dataframe as a column
     patents_df['chemical_compounds_inchi'] = np.nan
-    j = 0
+    # j = 0
     # Loop through all files and grab text files
     for _file in glob.glob('./temp/chemical-names-inchi/*.txt'):
-        if j < 1:
-            print('Reading InCHhI structures for file {}'.format(
-                str(_file[28:-4])))
+        # if j < 1:
+        print('Reading InCHhI structures for file {}'.format(
+            str(_file[28:-4])))
 
-            # Checking integrity, writing to same document
-            if ([_file[30:-4] == item for item in patents_df['id']]):
+        # Checking integrity, writing to same document
+        if ([_file[30:-4] == item for item in patents_df['id']]):
 
-                inchi_for_one = ''
+            inchi_for_one = ''
 
-                # Read each file
-                with open(_file, 'r') as f:
-                    for line in f:
-                        inchi_for_one += line.replace(
-                            '\t\t\t\t\t\t\t\t\t\t\t', '')
+            # Read each file
+            with open(_file, 'r') as f:
+                for line in f:
+                    inchi_for_one += line.replace(
+                        '\t\t\t\t\t\t\t\t\t\t\t', '')
 
-                # Append to dataframe row-by-row to ensure alignment
-                patents_df.loc[patents_df['id'] == _file[30:-4], ['chemical_compounds_inchi']] = \
-                    inchi_for_one
+            # Append to dataframe row-by-row to ensure alignment
+            patents_df.loc[patents_df['id'] == _file[30:-4], ['chemical_compounds_inchi']] = \
+                inchi_for_one
 
-            else:
-                print('No structures recognized in this file..')
-                patents_df.loc[patents_df['id'] == folder[30:-4], ['chemical_compounds_inchi']] = \
-                    ' '
-    j += 1
+        else:
+            print('No structures recognized in this file..')
+            patents_df.loc[patents_df['id'] == folder[30:-4], ['chemical_compounds_inchi']] = \
+                ' '
+    # j += 1
 
     # Write dataframe to csv file
     patents_df.to_csv('./Dataset/patents_training.csv')
 
 
 if __name__ == '__main__':
-    main()
+    processes = [None for i in range(cores)]
+
+    for i in range(cores):
+        processes[i] = Process(target=main, args=())
+        processes[i].start()
+    for process in processes:
+        process.join()

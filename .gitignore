@@ -104,12 +104,9 @@ venv.bak/
 .mypy_cache/
 
 # don't commit large files
-.DS_Store
+/**/*/.DS_Store
 temp/
 Dataset/
 airflow_files/
-Dockerfile.original
-notebooks/sandbox/images/
-notebooks/sandbox/text/
+notebooks/sandbox/
 postgres-data/
-scripts/

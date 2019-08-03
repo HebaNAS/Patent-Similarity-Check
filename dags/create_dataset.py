@@ -211,9 +211,9 @@ def main():
                     # If folder does not exist, create it
                     os.makedirs('./temp/chemical-names-smiles/' + folder[10:])
 
-                # Run OSRA, the chemical structure OCR library (in shell)
-                subprocess.check_call(['osra', _file,
-                                       '-w ./temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
+                    # Run OSRA, the chemical structure OCR library (in shell)
+                    subprocess.check_call(['osra', _file,
+                                        '-w ./temp/chemical-names-smiles/' + str(_file[10:-4]) + '.txt'])
 
         # for testing, limit no. of files i
         # m += 1
@@ -321,10 +321,4 @@ def main():
 
 
 if __name__ == '__main__':
-    processes = [None for i in range(cores)]
-
-    for i in range(cores):
-        processes[i] = Process(target=main, args=())
-        processes[i].start()
-    for process in processes:
-        process.join()
+    main()

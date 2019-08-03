@@ -110,3 +110,4 @@ Dataset/
 airflow_files/
 notebooks/sandbox/
 postgres-data/
+models/

@@ -6,6 +6,7 @@
 
 # Base image
 FROM puckel/docker-airflow:1.10.2
+# FROM puckel/docker-airflow@sha256:82654d8b384be9fe79cca5d41a599cf1d2504c7e57b3d97cb577b978dcf84779
 LABEL maintainer="Puckel_"
 
 # Set user as root
@@ -34,33 +35,33 @@ RUN mkdir -p /usr/share/man/man1
 
 # Install linus dependencies
 RUN apt-get clean \
-        && apt-get update -yq \
-        && apt-get dist-upgrade -yq \
-        && apt-get upgrade -yq \
-        && apt-get install -yq \
-        sudo \
-        wget \
+	&& apt-get update -yq \
+	&& apt-get dist-upgrade -yq \
+	&& apt-get upgrade -yq \
+	&& apt-get install -yq \
+	sudo \
+	wget \
 	zip \
 	unzip \
 	git \
-        poppler-utils \
-        tesseract-ocr \
-        libtesseract-dev \
-        imagemagick \
-        libsm6 \
-        libxext6 \
-        libxrender-dev \
-        xz-utils \
-        g++ \
-        autoconf \
-        automake \
-        libtool \
-        pkg-config \
-        libpng-dev \
-        libjpeg62-turbo-dev \
-        libtiff5-dev \
-        zlib1g-dev \
-        libleptonica-dev \
+	poppler-utils \
+	tesseract-ocr \
+	libtesseract-dev \
+	imagemagick \
+	libsm6 \
+	libxext6 \
+	libxrender-dev \
+	xz-utils \
+	g++ \
+	autoconf \
+	automake \
+	libtool \
+	pkg-config \
+	libpng-dev \
+	libjpeg62-turbo-dev \
+	libtiff5-dev \
+	zlib1g-dev \
+	libleptonica-dev \
 	python-numpy \
 	python-scipy \
 	python-opengl \
@@ -180,22 +181,22 @@ RUN wget https://poppler.freedesktop.org/poppler-0.79.0.tar.xz \
 
 # Install Tesseract OCR from source
 RUN wget http://deb.debian.org/debian/pool/main/t/tesseract/tesseract_4.0.0.orig.tar.xz \
-        && tar xf tesseract_4.0.0.orig.tar.xz \
-        && cd tesseract-4.0.0 \
-        && ./autogen.sh \
-        && ./configure \
-        && make \
-        && sudo make install \
+	&& tar xf tesseract_4.0.0.orig.tar.xz \
+	&& cd tesseract-4.0.0 \
+	&& ./autogen.sh \
+	&& ./configure \
+	&& make \
+	&& sudo make install \
 	&& cd ../ \
 	&& rm -r tesseract-4.0.0 \
 	&& rm tesseract_4.0.0.orig.tar.xz
 
 RUN wget http://deb.debian.org/debian/pool/main/t/tesseract-lang/tesseract-lang_4.00~git30-7274cfa.orig.tar.xz \
-        && tar xf tesseract-lang_4.00~git30-7274cfa.orig.tar.xz \
-        && mv tesseract-lang-4.00~git30-7274cfa/* /usr/local/share/tessdata/ \
-        && cd ../ \
+	&& tar xf tesseract-lang_4.00~git30-7274cfa.orig.tar.xz \
+	&& mv tesseract-lang-4.00~git30-7274cfa/* /usr/local/share/tessdata/ \
+	&& cd ../ \
 	&& rm -rf tesseract-lang-4.00~git30-7274cfa \
-        tesseract-lang_4.00~git30-7274cfa.orig.tar.xz \
+	tesseract-lang_4.00~git30-7274cfa.orig.tar.xz \
 	&& sudo ldconfig
 
 # Install OSRA from source (chemical srtucture OCR library)
@@ -226,20 +227,8 @@ RUN sudo ldconfig
 RUN pip install --upgrade pip
 RUN pip install --default-timeout=1000 -r /requirements.txt
 
-# Install MolMiner chemical structure and NER tool for python
-RUN wget https://github.com/gorgitko/molminer/archive/master.zip \
-	&& unzip ./master.zip \
-	&& cd ./molminer-master \
-	&& python setup.py install \
-	&& cd ../ \
-	&& rm -r ./molminer-master master.zip
-
-# Save nltk data
-CMD mkdir /usr/local/share/nltk_data
-RUN python -m nltk.downloader -d /usr/local/share/nltk_data popular
-
 # Open ports on container to be accessible (airflow 8080, jupyter 8888)
-EXPOSE 8080 8888 5555 8793
+EXPOSE 8080 8888
 
 # Revert user to airflow and drop privileges (better for security for containers running in clusters)
 # Commented out due to permission problems when running airflow scripts

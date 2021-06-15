@@ -1,4 +1,4 @@
-cryptography==2.7
+cryptography==3.2
 psycopg2-binary==2.8.3
 pillow==8.2.0
 pdflib==0.2.1

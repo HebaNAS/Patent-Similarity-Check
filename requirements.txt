@@ -16,7 +16,7 @@ watchdog==0.9.0
 pdf2image==1.6.0
 pytesseract==0.2.7
 gensim==3.8.0
-tensorflow==2.5.0rc0
+tensorflow==2.5.1
 tfx==0.13.0
 jupyter==1.0.0
 celery==4.1.1
